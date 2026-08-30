@@ -1,0 +1,60 @@
+# 毎朝5時(日本時間)にクラウド上で収集→原稿→音声→公開まで全自動実行する
+# 有効化にはGitHub上で ANTHROPIC_API_KEY のSecret登録とPages設定が必要(README参照)
+name: daily-radio
+
+on:
+  schedule:
+    - cron: "0 20 * * *" # 20:00 UTC = 翌朝5:00 JST
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: daily-radio
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    env:
+      TZ: Asia/Tokyo
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install dependencies
+        run: |
+          npm ci
+          python3 -m venv .venv-tts
+          .venv-tts/bin/pip install edge-tts
+      - name: Run daily pipeline
+        run: node run-daily.mjs
+      - name: Commit generated content
+        run: |
+          git config user.name "unchi-ai-radio-bot"
+          git config user.email "actions@github.com"
+          git add out scripts site/data site/audio site/podcast.xml || true
+          git commit -m "radio: $(date +%F)" || echo "no changes"
+          git push
+      - name: Upload site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

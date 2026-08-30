@@ -1,0 +1,6 @@
+.env
+node_modules/
+.venv-tts/
+logs/
+opening.*
+voicetest-*

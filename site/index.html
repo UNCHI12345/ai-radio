@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0a0a0f">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icon-192.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<title>UNCHI AI RADIO</title>
+<style>
+  :root {
+    --bg: #0a0a0f;
+    --surface: #14141d;
+    --surface2: #1c1c28;
+    --text: #f2f2f7;
+    --muted: #8e8e9d;
+    --accent: #ff5c38;
+    --accent2: #ffb03a;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans", sans-serif;
+    min-height: 100vh;
+    padding-bottom: 150px;
+    overscroll-behavior-x: none;
+  }
+  header {
+    padding: max(20px, env(safe-area-inset-top)) 20px 4px;
+    display: flex; align-items: center; justify-content: space-between;
+  }
+  .logo { font-size: 21px; font-weight: 800; letter-spacing: .04em; }
+  .logo span { color: var(--accent); }
+  .h-right { display: flex; align-items: center; gap: 12px; }
+  .total { color: var(--muted); font-size: 13px; }
+  .icon-btn {
+    background: var(--surface); border: none; color: var(--text);
+    width: 36px; height: 36px; border-radius: 12px; cursor: pointer;
+    display: flex; align-items: center; justify-content: center; font-size: 16px;
+  }
+  .dates {
+    display: flex; gap: 8px; overflow-x: auto; padding: 14px 20px 6px;
+    scrollbar-width: none;
+  }
+  .dates::-webkit-scrollbar { display: none; }
+  .date-chip {
+    flex: 0 0 auto; padding: 7px 14px; border-radius: 999px;
+    background: var(--surface); color: var(--muted);
+    font-size: 13px; font-weight: 600; border: 1px solid transparent; cursor: pointer;
+  }
+  .date-chip.active { background: var(--surface2); color: var(--text); border-color: var(--accent); }
+
+  .hero {
+    margin: 14px 20px 18px; padding: 22px;
+    border-radius: 20px;
+    background: linear-gradient(135deg, #2a1710, #14141d 60%);
+    border: 1px solid #2c2c3a;
+    position: relative; overflow: hidden;
+  }
+  .hero::after {
+    content: ""; position: absolute; right: -40px; top: -40px;
+    width: 160px; height: 160px; border-radius: 50%;
+    background: radial-gradient(circle, rgba(255,92,56,.35), transparent 70%);
+  }
+  .hero .kicker { color: var(--accent2); font-size: 12px; font-weight: 700; letter-spacing: .12em; }
+  .hero h1 { font-size: 20px; line-height: 1.4; margin-top: 8px; font-weight: 750; }
+  .hero .sub { color: var(--muted); font-size: 13px; margin-top: 10px; }
+
+  .list { margin: 0 20px; display: flex; flex-direction: column; gap: 8px; }
+  .track {
+    display: flex; align-items: center; gap: 12px;
+    background: var(--surface); border-radius: 14px; padding: 14px;
+    cursor: pointer; border: 1px solid transparent;
+    transition: border-color .15s, background .15s;
+  }
+  .track.playing { border-color: var(--accent); background: var(--surface2); }
+  .track.played .t-title { color: var(--muted); }
+  .t-num {
+    flex: 0 0 34px; height: 34px; border-radius: 10px;
+    display: flex; align-items: center; justify-content: center;
+    background: var(--surface2); color: var(--muted);
+    font-size: 13px; font-weight: 700; font-variant-numeric: tabular-nums;
+  }
+  .track.playing .t-num { background: var(--accent); color: #fff; }
+  .t-main { flex: 1; min-width: 0; }
+  .t-title { font-size: 14px; font-weight: 600; line-height: 1.45; }
+  .t-dur { color: var(--muted); font-size: 12px; margin-top: 3px; font-variant-numeric: tabular-nums; }
+  .t-side { display: flex; align-items: center; gap: 6px; }
+  .t-link {
+    color: var(--muted); text-decoration: none; font-size: 15px;
+    padding: 8px; border-radius: 10px; background: var(--surface2);
+    line-height: 1;
+  }
+  .t-check { color: var(--accent2); font-size: 14px; visibility: hidden; }
+  .track.played .t-check { visibility: visible; }
+
+  .player {
+    position: fixed; left: 0; right: 0; bottom: 0;
+    background: rgba(18,18,26,.92);
+    backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px);
+    border-top: 1px solid #26263380;
+    padding: 12px 20px calc(14px + env(safe-area-inset-bottom));
+  }
+  .p-title {
+    font-size: 13px; font-weight: 650; white-space: nowrap;
+    overflow: hidden; text-overflow: ellipsis; margin-bottom: 8px;
+  }
+  .p-bar { height: 4px; background: var(--surface2); border-radius: 2px; cursor: pointer; }
+  .p-fill {
+    height: 100%; width: 0%;
+    background: linear-gradient(90deg, var(--accent), var(--accent2));
+    border-radius: 2px;
+  }
+  .p-row { display: flex; align-items: center; justify-content: space-between; margin-top: 10px; }
+  .p-time { color: var(--muted); font-size: 11px; font-variant-numeric: tabular-nums; width: 76px; }
+  .p-time.right { text-align: right; }
+  .p-controls { display: flex; align-items: center; gap: 22px; }
+  .p-btn {
+    background: none; border: none; color: var(--text);
+    cursor: pointer; padding: 6px; display: flex;
+  }
+  .p-btn svg { width: 26px; height: 26px; fill: currentColor; }
+  .p-play {
+    width: 54px; height: 54px; border-radius: 50%;
+    background: linear-gradient(135deg, var(--accent), #ff7b3a);
+    border: none; color: #fff; cursor: pointer;
+    display: flex; align-items: center; justify-content: center;
+    box-shadow: 0 6px 20px rgba(255,92,56,.35);
+  }
+  .p-play svg { width: 26px; height: 26px; fill: #fff; }
+  .empty { text-align: center; color: var(--muted); padding: 60px 20px; font-size: 14px; }
+
+  .sheet {
+    position: fixed; inset: 0; background: rgba(0,0,0,.6); z-index: 50;
+    display: flex; align-items: flex-end;
+  }
+  .sheet[hidden] { display: none; }
+  .sheet-body {
+    background: var(--surface); width: 100%; max-height: 75vh;
+    border-radius: 20px 20px 0 0; padding: 20px 20px calc(20px + env(safe-area-inset-bottom));
+    overflow-y: auto;
+  }
+  .sheet-head { display: flex; align-items: center; justify-content: space-between; margin-bottom: 14px; }
+  .sheet-head h2 { font-size: 16px; }
+  .log-item {
+    display: flex; align-items: center; gap: 10px;
+    padding: 11px 0; border-bottom: 1px solid #26263360;
+  }
+  .log-time { color: var(--muted); font-size: 11px; flex: 0 0 74px; font-variant-numeric: tabular-nums; }
+  .log-title { font-size: 13px; flex: 1; line-height: 1.4; }
+  .log-title.skipped { color: var(--muted); text-decoration: line-through; }
+  .log-link { color: var(--accent2); text-decoration: none; font-size: 15px; padding: 6px; }
+</style>
+</head>
+<body>
+  <header>
+    <div class="logo">UNCHI <span>AI RADIO</span></div>
+    <div class="h-right">
+      <div class="total" id="total"></div>
+      <button class="icon-btn" id="btnHistory" aria-label="履歴" title="再生履歴">☰</button>
+    </div>
+  </header>
+  <nav class="dates" id="dates"></nav>
+  <section class="hero" id="hero" hidden>
+    <div class="kicker" id="heroKicker"></div>
+    <h1 id="heroTitle"></h1>
+    <div class="sub" id="heroSub"></div>
+  </section>
+  <main class="list" id="list"></main>
+
+  <div class="player" id="player" hidden>
+    <div class="p-title" id="pTitle"></div>
+    <div class="p-bar" id="pBar"><div class="p-fill" id="pFill"></div></div>
+    <div class="p-row">
+      <div class="p-time" id="pCur">0:00</div>
+      <div class="p-controls">
+        <button class="p-btn" id="btnPrev" aria-label="前へ">
+          <svg viewBox="0 0 24 24"><path d="M6 6h2v12H6zm3.5 6 8.5 6V6z"/></svg>
+        </button>
+        <button class="p-play" id="btnPlay" aria-label="再生/停止">
+          <svg id="iconPlay" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+          <svg id="iconPause" viewBox="0 0 24 24" style="display:none"><path d="M6 5h4v14H6zm8 0h4v14h-4z"/></svg>
+        </button>
+        <button class="p-btn" id="btnNext" aria-label="次へ">
+          <svg viewBox="0 0 24 24"><path d="M16 6h2v12h-2zM6 18l8.5-6L6 6z"/></svg>
+        </button>
+      </div>
+      <div class="p-time right" id="pDur">0:00</div>
+    </div>
+  </div>
+
+  <div class="sheet" id="sheet" hidden>
+    <div class="sheet-body">
+      <div class="sheet-head">
+        <h2>再生履歴</h2>
+        <button class="icon-btn" id="btnCloseSheet" aria-label="閉じる">✕</button>
+      </div>
+      <div id="logList"></div>
+    </div>
+  </div>
+
+  <audio id="audio" preload="metadata"></audio>
+
+<script>
+const $ = (id) => document.getElementById(id);
+const audio = $("audio");
+let tracks = [], current = -1, currentDate = null, allDates = [];
+
+const fmt = (s) => {
+  s = Math.max(0, Math.round(s || 0));
+  return Math.floor(s / 60) + ":" + String(s % 60).padStart(2, "0");
+};
+const fmtDate = (d) => {
+  const [y, m, day] = d.split("-").map(Number);
+  const w = "日月火水木金土"[new Date(y, m - 1, day).getDay()];
+  return `${m}月${day}日(${w})`;
+};
+
+function log(type, track) {
+  try {
+    const key = "ai-radio-log";
+    const logs = JSON.parse(localStorage.getItem(key) || "[]");
+    logs.push({ type, date: currentDate, title: track?.title, link: track?.link || null, at: new Date().toISOString() });
+    localStorage.setItem(key, JSON.stringify(logs.slice(-500)));
+  } catch {}
+}
+function playedSet() {
+  try { return new Set(JSON.parse(localStorage.getItem("ai-radio-played-" + currentDate) || "[]")); }
+  catch { return new Set(); }
+}
+function markPlayed(i) {
+  try {
+    const s = playedSet(); s.add(i);
+    localStorage.setItem("ai-radio-played-" + currentDate, JSON.stringify([...s]));
+  } catch {}
+}
+
+async function init() {
+  const manifest = await fetch("data/manifest.json").then((r) => r.json());
+  allDates = manifest.dates;
+  const datesEl = $("dates");
+  datesEl.innerHTML = "";
+  allDates.forEach((d, idx) => {
+    const b = document.createElement("button");
+    b.className = "date-chip";
+    b.textContent = idx === 0 ? "最新 " + fmtDate(d) : fmtDate(d);
+    b.onclick = () => loadDate(d);
+    b.dataset.date = d;
+    datesEl.appendChild(b);
+  });
+  const fromHash = location.hash.replace("#", "");
+  const start = allDates.includes(fromHash) ? fromHash : allDates[0];
+  if (start) loadDate(start);
+  else $("list").innerHTML = '<div class="empty">まだ配信がありません</div>';
+}
+
+async function loadDate(date) {
+  currentDate = date;
+  location.hash = date;
+  document.querySelectorAll(".date-chip").forEach((c) =>
+    c.classList.toggle("active", c.dataset.date === date));
+  const data = await fetch(`data/${date}.json`).then((r) => r.json());
+  tracks = data.tracks;
+  current = -1;
+  audio.pause();
+  $("player").hidden = true;
+
+  const total = tracks.reduce((a, t) => a + (t.duration || 0), 0);
+  $("total").textContent = `${tracks.length}本・${Math.round(total / 60)}分`;
+
+  const main = tracks.find((t) => /^1\./.test(t.title));
+  if (main) {
+    $("hero").hidden = false;
+    $("heroKicker").textContent = "TODAY'S TOP STORY";
+    $("heroTitle").textContent = main.title.replace(/^1\.\s*/, "");
+    $("heroSub").textContent = fmtDate(date) + " の一番のニュース";
+  } else $("hero").hidden = true;
+
+  renderList();
+}
+
+function renderList() {
+  const played = playedSet();
+  const list = $("list");
+  list.innerHTML = "";
+  tracks.forEach((t, i) => {
+    const el = document.createElement("div");
+    el.className = "track" + (i === current ? " playing" : "") + (played.has(i) ? " played" : "");
+    el.innerHTML = `
+      <div class="t-num">${i === current ? "▶" : i + 1}</div>
+      <div class="t-main">
+        <div class="t-title"></div>
+        <div class="t-dur">${fmt(t.duration)}</div>
+      </div>
+      <div class="t-side">
+        <div class="t-check">✓</div>
+      </div>`;
+    el.querySelector(".t-title").textContent = t.title;
+    if (t.link) {
+      const a = document.createElement("a");
+      a.className = "t-link";
+      a.href = t.link;
+      a.target = "_blank";
+      a.rel = "noopener";
+      a.textContent = "↗";
+      a.title = "元記事を開く";
+      a.onclick = (e) => e.stopPropagation();
+      el.querySelector(".t-side").prepend(a);
+    }
+    el.onclick = () => play(i);
+    list.appendChild(el);
+  });
+}
+
+function play(i) {
+  if (i < 0 || i >= tracks.length) return;
+  if (current >= 0 && i !== current && !audio.ended && audio.currentTime > 1 &&
+      audio.currentTime < audio.duration - 2) {
+    log("skip", tracks[current]);
+  }
+  current = i;
+  const t = tracks[i];
+  audio.src = t.file;
+  audio.play();
+  log("play", t);
+  $("player").hidden = false;
+  $("pTitle").textContent = t.title;
+  renderList();
+  updateMediaSession(t);
+}
+
+function updateMediaSession(t) {
+  if (!("mediaSession" in navigator)) return;
+  navigator.mediaSession.metadata = new MediaMetadata({
+    title: t.title,
+    artist: "UNCHI AI RADIO",
+    album: fmtDate(currentDate),
+  });
+  navigator.mediaSession.setActionHandler("previoustrack", () => play(current - 1));
+  navigator.mediaSession.setActionHandler("nexttrack", () => play(current + 1));
+  navigator.mediaSession.setActionHandler("play", () => audio.play());
+  navigator.mediaSession.setActionHandler("pause", () => audio.pause());
+}
+
+$("btnPlay").onclick = () => {
+  if (current < 0) return play(0);
+  audio.paused ? audio.play() : audio.pause();
+};
+$("btnPrev").onclick = () => play(Math.max(0, current - 1));
+$("btnNext").onclick = () => play(current + 1);
+$("pBar").onclick = (e) => {
+  if (!audio.duration) return;
+  const r = e.currentTarget.getBoundingClientRect();
+  audio.currentTime = ((e.clientX - r.left) / r.width) * audio.duration;
+};
+audio.onplay = () => { $("iconPlay").style.display = "none"; $("iconPause").style.display = ""; };
+audio.onpause = () => { $("iconPlay").style.display = ""; $("iconPause").style.display = "none"; };
+audio.ontimeupdate = () => {
+  $("pCur").textContent = fmt(audio.currentTime);
+  $("pDur").textContent = fmt(audio.duration);
+  $("pFill").style.width = audio.duration ? (audio.currentTime / audio.duration) * 100 + "%" : "0%";
+};
+audio.onended = () => {
+  markPlayed(current);
+  if (current + 1 < tracks.length) play(current + 1);
+  else renderList();
+};
+
+// ---- 再生履歴シート ----
+$("btnHistory").onclick = () => {
+  const el = $("logList");
+  el.innerHTML = "";
+  let logs = [];
+  try { logs = JSON.parse(localStorage.getItem("ai-radio-log") || "[]"); } catch {}
+  if (!logs.length) {
+    el.innerHTML = '<div class="empty">まだ履歴がありません</div>';
+  } else {
+    [...logs].reverse().slice(0, 100).forEach((l) => {
+      const row = document.createElement("div");
+      row.className = "log-item";
+      const d = new Date(l.at);
+      const time = `${d.getMonth() + 1}/${d.getDate()} ${String(d.getHours()).padStart(2, "0")}:${String(d.getMinutes()).padStart(2, "0")}`;
+      row.innerHTML = `<div class="log-time">${time}</div><div class="log-title${l.type === "skip" ? " skipped" : ""}"></div>`;
+      row.querySelector(".log-title").textContent = (l.type === "skip" ? "(スキップ) " : "") + (l.title || "");
+      if (l.link) {
+        const a = document.createElement("a");
+        a.className = "log-link"; a.href = l.link; a.target = "_blank"; a.rel = "noopener"; a.textContent = "↗";
+        row.appendChild(a);
+      }
+      el.appendChild(row);
+    });
+  }
+  $("sheet").hidden = false;
+};
+$("btnCloseSheet").onclick = () => { $("sheet").hidden = true; };
+$("sheet").onclick = (e) => { if (e.target === $("sheet")) $("sheet").hidden = true; };
+
+// ---- 横スワイプで前日/翌日 ----
+let touchX = null, touchY = null;
+document.addEventListener("touchstart", (e) => {
+  if (e.target.closest(".dates, .player, .sheet, .p-bar")) return;
+  touchX = e.touches[0].clientX; touchY = e.touches[0].clientY;
+}, { passive: true });
+document.addEventListener("touchend", (e) => {
+  if (touchX === null) return;
+  const dx = e.changedTouches[0].clientX - touchX;
+  const dy = e.changedTouches[0].clientY - touchY;
+  touchX = null;
+  if (Math.abs(dx) < 70 || Math.abs(dy) > Math.abs(dx)) return;
+  const idx = allDates.indexOf(currentDate);
+  if (dx < 0 && idx > 0) loadDate(allDates[idx - 1]);        // 左スワイプ→翌日(新しい方)
+  if (dx > 0 && idx < allDates.length - 1) loadDate(allDates[idx + 1]); // 右スワイプ→前日
+}, { passive: true });
+
+if ("serviceWorker" in navigator && location.protocol === "https:") {
+  navigator.serviceWorker.register("sw.js").catch(() => {});
+}
+
+init();
+</script>
+</body>
+</html>

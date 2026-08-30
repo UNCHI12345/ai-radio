@@ -1,0 +1,99 @@
+{
+  "trustedFeeds": [
+    {
+      "name": "サム・アルトマン (OpenAI CEO)",
+      "url": "https://blog.samaltman.com/posts.atom"
+    },
+    {
+      "name": "OpenAI公式ニュース",
+      "url": "https://openai.com/news/rss.xml"
+    },
+    {
+      "name": "Google DeepMind公式",
+      "url": "https://deepmind.google/blog/rss.xml"
+    },
+    {
+      "name": "Google AIブログ",
+      "url": "https://blog.google/technology/google-deepmind/rss/"
+    },
+    {
+      "name": "アンドレイ・カルパシー",
+      "url": "https://karpathy.bearblog.dev/feed/"
+    },
+    {
+      "name": "サイモン・ウィリソン",
+      "url": "https://simonwillison.net/atom/everything/"
+    },
+    {
+      "name": "swyx (Latent Space)",
+      "url": "https://www.latent.space/feed"
+    },
+    {
+      "name": "ハギングフェイス",
+      "url": "https://huggingface.co/blog/feed.xml"
+    }
+  ],
+  "trustedLane": {
+    "hoursBack": 36,
+    "maxLinksPerEntry": 2
+  },
+  "subreddits": [
+    "LocalLLaMA",
+    "MachineLearning",
+    "OpenAI",
+    "ClaudeAI"
+  ],
+  "aiKeywords": [
+    "ai",
+    "llm",
+    "gpt",
+    "claude",
+    "openai",
+    "anthropic",
+    "gemini",
+    "google deepmind",
+    "mistral",
+    "llama",
+    "qwen",
+    "deepseek",
+    "grok",
+    "copilot",
+    "chatbot",
+    "machine learning",
+    "deep learning",
+    "neural",
+    "transformer",
+    "diffusion",
+    "agent",
+    "rag",
+    "fine-tun",
+    "inference",
+    "open-source model",
+    "foundation model",
+    "text-to-",
+    "image generation",
+    "video generation",
+    "speech",
+    "tts",
+    "hugging face",
+    "nvidia",
+    "cuda",
+    "robotics"
+  ],
+  "hackerNews": {
+    "minPoints": 40,
+    "maxItems": 20
+  },
+  "githubTrending": {
+    "maxItems": 10
+  },
+  "reddit": {
+    "minUpvotes": 100,
+    "maxItemsPerSub": 8
+  },
+  "articleBody": {
+    "maxChars": 4000,
+    "timeoutMs": 15000
+  },
+  "publicBaseUrl": ""
+}
