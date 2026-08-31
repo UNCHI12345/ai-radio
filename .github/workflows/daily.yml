@@ -45,6 +45,16 @@ jobs:
           npm ci
           python3 -m venv .venv-tts
           .venv-tts/bin/pip install edge-tts
+      - name: API key test
+        if: github.event_name != 'schedule'
+        run: |
+          code=$(curl -s -o /tmp/api.json -w "%{http_code}" https://api.anthropic.com/v1/messages/count_tokens \
+            -H "x-api-key: $ANTHROPIC_API_KEY" \
+            -H "anthropic-version: 2023-06-01" \
+            -H "content-type: application/json" \
+            -d '{"model":"claude-sonnet-4-6","messages":[{"role":"user","content":"test"}]}')
+          echo "HTTP $code"; cat /tmp/api.json
+          test "$code" = "200"
       - name: TTS single test
         if: github.event_name == 'workflow_dispatch' && inputs.test_tts
         run: |
