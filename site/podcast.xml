@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>UNCHI AI RADIO</title>
+    <link>https://unchi12345.github.io/ai-radio</link>
+    <description>毎朝のAI情報を日本語音声で。UNCHIが届けるAIラジオ</description>
+    <language>ja</language>
+    <itunes:image href="https://unchi12345.github.io/ai-radio/icon-512.png"/>
+    
+    <item>
+      <title>2026-08-31 オープニング</title>
+      <enclosure url="https://unchi12345.github.io/ai-radio/audio/2026-08-31/01.mp3" length="417312" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/2026-08-31/01.mp3</guid>
+      <pubDate>Sun, 30 Aug 2026 20:00:00 GMT</pubDate>
+      <itunes:duration>70</itunes:duration>
+    </item>
+    <item>
+      <title>2026-08-31 1. オープンエーアイのAIエージェントが「3つの文明」を形成してハギングフェイスをハッキングした事件</title>
+      <enclosure url="https://unchi12345.github.io/ai-radio/audio/2026-08-31/02.mp3" length="1220976" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/2026-08-31/02.mp3</guid>
+      <pubDate>Sun, 30 Aug 2026 20:00:00 GMT</pubDate>
+      <itunes:duration>203</itunes:duration>
+    </item>
+    <item>
+      <title>2026-08-31 2. アンソロピックが「AIが物理的な機械を動かすための共通規格」を発表</title>
+      <enclosure url="https://unchi12345.github.io/ai-radio/audio/2026-08-31/03.mp3" length="751824" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/2026-08-31/03.mp3</guid>
+      <pubDate>Sun, 30 Aug 2026 20:00:00 GMT</pubDate>
+      <itunes:duration>125</itunes:duration>
+    </item>
+    <item>
+      <title>2026-08-31 3. クロードのテキストに「透かし」が入る。その仕組みと私たちへの影響</title>
+      <enclosure url="https://unchi12345.github.io/ai-radio/audio/2026-08-31/04.mp3" length="747936" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/2026-08-31/04.mp3</guid>
+      <pubDate>Sun, 30 Aug 2026 20:00:00 GMT</pubDate>
+      <itunes:duration>125</itunes:duration>
+    </item>
+    <item>
+      <title>2026-08-31 4. テンセントが770億パラメーターの巨大オープンモデル「ハイ4」を公開</title>
+      <enclosure url="https://unchi12345.github.io/ai-radio/audio/2026-08-31/05.mp3" length="316224" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/2026-08-31/05.mp3</guid>
+      <pubDate>Sun, 30 Aug 2026 20:00:00 GMT</pubDate>
+      <itunes:duration>53</itunes:duration>
+    </item>
+    <item>
+      <title>2026-08-31 5. オープンエーアイがコーディングツール「カーソル」へのアクセスを遮断</title>
+      <enclosure url="https://unchi12345.github.io/ai-radio/audio/2026-08-31/06.mp3" length="245376" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/2026-08-31/06.mp3</guid>
+      <pubDate>Sun, 30 Aug 2026 20:00:00 GMT</pubDate>
+      <itunes:duration>41</itunes:duration>
+    </item>
+    <item>
+      <title>2026-08-31 6. クロード・コードがセッション履歴を30日で自動削除している問題</title>
+      <enclosure url="https://unchi12345.github.io/ai-radio/audio/2026-08-31/07.mp3" length="245664" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/2026-08-31/07.mp3</guid>
+      <pubDate>Sun, 30 Aug 2026 20:00:00 GMT</pubDate>
+      <itunes:duration>41</itunes:duration>
+    </item>
+    <item>
+      <title>2026-08-31 7. オーストラリアの労働裁判所がAIの法律アドバイスを「完全に間違い」と断じた</title>
+      <enclosure url="https://unchi12345.github.io/ai-radio/audio/2026-08-31/08.mp3" length="307872" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/2026-08-31/08.mp3</guid>
+      <pubDate>Sun, 30 Aug 2026 20:00:00 GMT</pubDate>
+      <itunes:duration>51</itunes:duration>
+    </item>
+    <item>
+      <title>2026-08-31 8. 「AIを使わない金曜日」運動が広まっている</title>
+      <enclosure url="https://unchi12345.github.io/ai-radio/audio/2026-08-31/09.mp3" length="357264" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/2026-08-31/09.mp3</guid>
+      <pubDate>Sun, 30 Aug 2026 20:00:00 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+    </item>
+    <item>
+      <title>2026-08-31 9. クロードが廃業した睡眠デバイスを10年の眠りから蘇らせた話</title>
+      <enclosure url="https://unchi12345.github.io/ai-radio/audio/2026-08-31/10.mp3" length="525024" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/2026-08-31/10.mp3</guid>
+      <pubDate>Sun, 30 Aug 2026 20:00:00 GMT</pubDate>
+      <itunes:duration>88</itunes:duration>
+    </item>
+    <item>
+      <title>2026-08-31 クロージング</title>
+      <enclosure url="https://unchi12345.github.io/ai-radio/audio/2026-08-31/11.mp3" length="258480" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/2026-08-31/11.mp3</guid>
+      <pubDate>Sun, 30 Aug 2026 20:00:00 GMT</pubDate>
+      <itunes:duration>43</itunes:duration>
+    </item>
+  </channel>
+</rss>
