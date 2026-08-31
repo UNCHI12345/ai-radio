@@ -83,22 +83,31 @@ console.log(`原稿を生成中… (素材: ${date}.md, ${Math.round(source.leng
 
 const client = new Anthropic();
 
-const stream = client.messages.stream({
-  model: "claude-sonnet-4-6",
-  max_tokens: 32000,
-  thinking: { type: "adaptive" },
-  system,
-  messages: [
-    {
-      role: "user",
-      content: `今日(${date})の収集素材です。この中から番組を構成してください。\n\n${source}`,
-    },
-  ],
-});
-
-stream.on("text", () => process.stdout.write("."));
-
-const message = await stream.finalMessage();
+// 一時的なAPIエラー(混雑など)に備えて最大3回挑戦する
+let message;
+for (let attempt = 1; ; attempt++) {
+  try {
+    const stream = client.messages.stream({
+      model: "claude-sonnet-4-6",
+      max_tokens: 32000,
+      thinking: { type: "adaptive" },
+      system,
+      messages: [
+        {
+          role: "user",
+          content: `今日(${date})の収集素材です。この中から番組を構成してください。\n\n${source}`,
+        },
+      ],
+    });
+    stream.on("text", () => process.stdout.write("."));
+    message = await stream.finalMessage();
+    break;
+  } catch (e) {
+    if (e instanceof Anthropic.AuthenticationError || attempt >= 3) throw e;
+    console.warn(`\nAPIエラー(${e.status ?? e.message})。${attempt * 60}秒待って再挑戦 ${attempt}/2…`);
+    await new Promise((r) => setTimeout(r, attempt * 60000));
+  }
+}
 
 if (message.stop_reason === "max_tokens") {
   console.warn("\n注意: 原稿が長すぎて途中で切れました。");
