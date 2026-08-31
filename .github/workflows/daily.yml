@@ -1,11 +1,18 @@
 # 毎朝5時(日本時間)にクラウド上で収集→原稿→音声→公開まで全自動実行する
-# 有効化にはGitHub上で ANTHROPIC_API_KEY のSecret登録とPages設定が必要(README参照)
+# push時はデプロイのみ。手動実行(ワークフローを実行する)は音声テスト付きデプロイ
 name: daily-radio
 
 on:
   schedule:
     - cron: "0 20 * * *" # 20:00 UTC = 翌朝5:00 JST
-  workflow_dispatch: {}
+  push:
+    branches: [main]
+  workflow_dispatch:
+    inputs:
+      test_tts:
+        description: "音声合成の単体テストを行う"
+        type: boolean
+        default: true
 
 permissions:
   contents: write
@@ -29,17 +36,27 @@ jobs:
         with:
           node-version: 24
       - uses: actions/setup-python@v5
+        if: github.event_name != 'push'
         with:
           python-version: "3.12"
       - name: Install dependencies
-        if: github.event_name == 'schedule'
+        if: github.event_name != 'push'
         run: |
           npm ci
           python3 -m venv .venv-tts
           .venv-tts/bin/pip install edge-tts
+      - name: TTS single test
+        if: github.event_name == 'workflow_dispatch' && inputs.test_tts
+        run: |
+          echo "これは音声合成のテストです。クラウドから声が出せるか確認しています。" > /tmp/t.txt
+          .venv-tts/bin/edge-tts --voice ja-JP-NanamiNeural --file /tmp/t.txt --write-media /tmp/t.mp3
+          ls -la /tmp/t.mp3
       - name: Run daily pipeline
         if: github.event_name == 'schedule'
         run: node run-daily.mjs
+      - name: Show logs on failure
+        if: failure()
+        run: cat logs/*.log 2>/dev/null || echo "no logs"
       - name: Commit generated content
         if: github.event_name == 'schedule'
         run: |
