@@ -32,13 +32,16 @@ jobs:
         with:
           python-version: "3.12"
       - name: Install dependencies
+        if: github.event_name == 'schedule'
         run: |
           npm ci
           python3 -m venv .venv-tts
           .venv-tts/bin/pip install edge-tts
       - name: Run daily pipeline
+        if: github.event_name == 'schedule'
         run: node run-daily.mjs
       - name: Commit generated content
+        if: github.event_name == 'schedule'
         run: |
           git config user.name "unchi-ai-radio-bot"
           git config user.email "actions@github.com"
