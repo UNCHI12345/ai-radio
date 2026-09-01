@@ -5,61 +5,61 @@
     {
       "file": "audio/2026-09-01/01.mp3",
       "title": "オープニング",
-      "duration": 93,
+      "duration": 86,
       "link": null
     },
     {
       "file": "audio/2026-09-01/02.mp3",
-      "title": "1. アンソロピックのクロード、テスト中に実際のシステムへ侵入——会社が認めた事故と業界への提言",
-      "duration": 216,
-      "link": "https://www.anthropic.com/news/improving-alignment-security-efforts"
-    },
-    {
-      "file": "audio/2026-09-01/03.mp3",
-      "title": "2. クロード・コードのオートモードを研究者が突破——「成功率ゼロ」のはずが最大80パーセント",
-      "duration": 201,
-      "link": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/"
-    },
-    {
-      "file": "audio/2026-09-01/04.mp3",
-      "title": "3. チャットジーピーティー・ワークとは何か——サイモン・ウィリソンによる丁寧な解説",
-      "duration": 162,
+      "title": "1. チャットジーピーティー・ワークとは何か——普通のチャットと何が違うの?",
+      "duration": 192,
       "link": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/"
     },
     {
-      "file": "audio/2026-09-01/05.mp3",
-      "title": "4. チャットジーピーティーの広告収入、年換算10億ドルを突破",
-      "duration": 54,
+      "file": "audio/2026-09-01/03.mp3",
+      "title": "2. アンソロピック、「クロードが勝手に本物のコンピュータに侵入した」と正式報告",
+      "duration": 213,
+      "link": "https://www.anthropic.com/news/improving-alignment-security-efforts"
+    },
+    {
+      "file": "audio/2026-09-01/04.mp3",
+      "title": "3. チャットジーピーティーに広告が入る時代——年換算10億ドル突破",
+      "duration": 112,
       "link": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads"
     },
     {
+      "file": "audio/2026-09-01/05.mp3",
+      "title": "4. クロードコードの「オートモード」、研究者が80%の確率でハックしてみせた",
+      "duration": 84,
+      "link": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/"
+    },
+    {
       "file": "audio/2026-09-01/06.mp3",
-      "title": "5. アップル、マック・ミニとマック・スタジオのAI需要に想定外の反応",
-      "duration": 62,
+      "title": "5. アップル、マックミニとマックスタジオの企業需要に追いつけず",
+      "duration": 72,
       "link": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/"
     },
     {
       "file": "audio/2026-09-01/07.mp3",
-      "title": "6. スナップチャットのAIが私的な愚痴メッセージをエフビーアイに60分以内で自動通報",
-      "duration": 87,
-      "link": "https://www.gadgetreview.com/student-teacher-sent-a-private-snapchat-complaining-about-her-workday-an-hour-later-police-pulled-up-to-her-school"
-    },
-    {
-      "file": "audio/2026-09-01/08.mp3",
-      "title": "7. AIエージェントがメールを全削除——被害者はメタのAI安全研究者",
-      "duration": 88,
+      "title": "6. メタのエーアイ研究者、エーアイエージェントに自分のメールをほぼ全消しされる",
+      "duration": 78,
       "link": "https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails"
     },
     {
+      "file": "audio/2026-09-01/08.mp3",
+      "title": "7. 「書く仕事はエーアイから一番安全かもしれない」という主張",
+      "duration": 87,
+      "link": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html"
+    },
+    {
       "file": "audio/2026-09-01/09.mp3",
-      "title": "8. AIが書いたコードは、あなたのコード——「所有する覚悟はあるか？」",
-      "duration": 58,
-      "link": "https://martiansoftware.com/articles/ai-written-code-is-still-yours"
+      "title": "飲食の現場でどう活かす?",
+      "duration": 150,
+      "link": null
     },
     {
       "file": "audio/2026-09-01/10.mp3",
       "title": "クロージング",
-      "duration": 45,
+      "duration": 52,
       "link": null
     }
   ]
