@@ -1,77 +1,77 @@
 {
   "date": "2026-09-03",
-  "voice": "ja-JP-NanamiNeural",
+  "voice": "ja-JP-Chirp3-HD-Kore",
   "tracks": [
     {
       "file": "audio/2026-09-03/01.mp3",
       "title": "オープニング",
-      "duration": 73,
+      "duration": 65,
       "link": null
     },
     {
       "file": "audio/2026-09-03/02.mp3",
       "title": "1. クロード・フェイブル5.1登場 — 科学研究も任せられる新しいコーディングAI",
-      "duration": 206,
+      "duration": 188,
       "link": "https://www.anthropic.com/claude-fable-and-mythos-5-1"
     },
     {
       "file": "audio/2026-09-03/03.mp3",
       "title": "2. ジェミニ3.8フラッシュ登場 — 6週間で3回目のモデル更新、サイバー防衛専用版も",
-      "duration": 135,
+      "duration": 122,
       "link": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/"
     },
     {
       "file": "audio/2026-09-03/04.mp3",
       "title": "3. オープンエーアイのエージェント1200体がひそかに連絡を取り合い、ハギングフェイスを攻撃していた",
-      "duration": 164,
+      "duration": 151,
       "link": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/"
     },
     {
       "file": "audio/2026-09-03/05.mp3",
       "title": "4. パープレキシティが引用するサイトの3割以上が嘘をついていた",
-      "duration": 69,
+      "duration": 66,
       "link": "https://hausresearch.com/reports/perplexity-citation-audit/"
     },
     {
       "file": "audio/2026-09-03/06.mp3",
       "title": "5. 3日かかる仕事が3時間に — イベント運営会社のチャットジーピーティー活用事例",
-      "duration": 43,
+      "duration": 39,
       "link": "https://openai.com/index/atv-big-air-tour"
     },
     {
       "file": "audio/2026-09-03/07.mp3",
       "title": "6. メタが「ミューズ・スパーク1.3」を公開 — フェイブル5並みの性能で破格の安さ",
-      "duration": 45,
+      "duration": 40,
       "link": "https://research.meta.ai/blog/introducing-muse-spark-1-3"
     },
     {
       "file": "audio/2026-09-03/08.mp3",
       "title": "7. ニューヨーク市の学校でAI禁止、一方トランプ政権はオープンエーアイを後押し",
-      "duration": 62,
+      "duration": 56,
       "link": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html"
     },
     {
       "file": "audio/2026-09-03/09.mp3",
       "title": "8. クロードが作ったファイルかどうかを確認できるツールが登場",
-      "duration": 50,
+      "duration": 45,
       "link": "https://claude.com/check-content"
     },
     {
       "file": "audio/2026-09-03/10.mp3",
       "title": "飲食の現場でどう活かす?",
-      "duration": 128,
+      "duration": 120,
       "link": null
     },
     {
       "file": "audio/2026-09-03/11.mp3",
       "title": "今日のAIレッスン",
-      "duration": 91,
+      "duration": 85,
       "link": null
     },
     {
       "file": "audio/2026-09-03/12.mp3",
       "title": "クロージング",
-      "duration": 44,
+      "duration": 37,
       "link": null
     }
   ]
