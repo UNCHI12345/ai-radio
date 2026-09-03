@@ -5,6 +5,7 @@ name: daily-radio
 on:
   schedule:
     - cron: "0 20 * * *" # 20:00 UTC = 翌朝5:00 JST
+    - cron: "45 20 * * *" # 5:45 JST 再挑戦(成功済みなら何もしない)
   push:
     branches: [main]
   workflow_dispatch:
@@ -13,6 +14,10 @@ on:
         description: "音声合成の単体テストを行う"
         type: boolean
         default: true
+      full_run:
+        description: "番組生成まで全部実行する"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -62,13 +67,27 @@ jobs:
           .venv-tts/bin/edge-tts --voice ja-JP-NanamiNeural --file /tmp/t.txt --write-media /tmp/t.mp3
           ls -la /tmp/t.mp3
       - name: Run daily pipeline
-        if: github.event_name == 'schedule'
-        run: node run-daily.mjs
+        if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.full_run)
+        run: |
+          today=$(TZ=Asia/Tokyo date +%F)
+          if [ -f "site/data/${today}.json" ]; then
+            echo "本日(${today})の番組は生成済み。スキップします。"
+          else
+            node run-daily.mjs
+          fi
       - name: Show logs on failure
         if: failure()
         run: cat logs/*.log 2>/dev/null || echo "no logs"
+      - name: Save failure log to repo
+        if: failure()
+        run: |
+          git config user.name "unchi-ai-radio-bot"
+          git config user.email "actions@github.com"
+          git add -f logs || true
+          git commit -m "log: 失敗ログ $(TZ=Asia/Tokyo date '+%F %H:%M')" || echo "no log"
+          git push || true
       - name: Commit generated content
-        if: github.event_name == 'schedule'
+        if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.full_run)
         run: |
           git config user.name "unchi-ai-radio-bot"
           git config user.email "actions@github.com"
