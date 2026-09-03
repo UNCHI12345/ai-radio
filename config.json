@@ -95,5 +95,38 @@
     "maxChars": 4000,
     "timeoutMs": 15000
   },
-  "publicBaseUrl": "https://unchi12345.github.io/ai-radio"
+  "publicBaseUrl": "https://unchi12345.github.io/ai-radio",
+  "channels": {
+    "food": {
+      "name": "飲食×AI",
+      "googleNews": [
+        "飲食店 経営",
+        "外食産業",
+        "フードテック",
+        "ラーメン店 開業 OR 閉店 OR 行列"
+      ],
+      "maxPerQuery": 6
+    },
+    "money": {
+      "name": "AIで稼ぐ",
+      "googleNews": [
+        "AI 副業 収益",
+        "AIエージェント ビジネス",
+        "生成AI 稼ぐ 事例"
+      ],
+      "maxPerQuery": 6,
+      "hackerNewsShow": true
+    },
+    "story": {
+      "name": "心に残る接客",
+      "googleNews": [
+        "接客 感動",
+        "飲食店 神対応 OR いい話",
+        "おもてなし 事例",
+        "レストラン 感動 サービス"
+      ],
+      "maxPerQuery": 6,
+      "freshDays": 30
+    }
+  }
 }

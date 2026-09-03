@@ -141,24 +141,33 @@ async function synthEdge(text, mp3Path) {
 }
 
 const date = process.argv[2] || today();
-const text = await readFile(path.join(ROOT, "scripts", `${date}.md`), "utf8");
 
-const sections = [];
-const parts = text.split(/^=== (.+?) ===$/m);
-for (let i = 1; i < parts.length; i += 2) {
-  const title = parts[i].trim();
-  let body = (parts[i + 1] || "").trim();
-  let link = null;
-  const linkMatch = body.match(/^LINK:\s*(\S+)\s*$/m);
-  if (linkMatch) {
-    link = linkMatch[1];
-    body = body.replace(/^LINK:.*$/m, "").trim();
+// チャンネル構成 (原稿ファイルが存在するものだけ音声化する)
+const config = JSON.parse(await readFile(path.join(ROOT, "config.json"), "utf8"));
+const channels = [
+  { id: "ai", name: "AIニュース", script: `${date}.md` },
+  ...Object.entries(config.channels || {}).map(([id, c]) => ({
+    id,
+    name: c.name,
+    script: `${date}-${id}.md`,
+  })),
+];
+
+function parseSections(text) {
+  const sections = [];
+  const parts = text.split(/^=== (.+?) ===$/m);
+  for (let i = 1; i < parts.length; i += 2) {
+    const title = parts[i].trim();
+    let body = (parts[i + 1] || "").trim();
+    let link = null;
+    const linkMatch = body.match(/^LINK:\s*(\S+)\s*$/m);
+    if (linkMatch) {
+      link = linkMatch[1];
+      body = body.replace(/^LINK:.*$/m, "").trim();
+    }
+    if (body) sections.push({ title, body, link });
   }
-  if (body) sections.push({ title, body, link });
-}
-if (!sections.length) {
-  console.error("原稿の区切りが見つかりません。");
-  process.exit(1);
+  return sections;
 }
 
 const voiceName = useGoogle ? GOOGLE_VOICE : EDGE_VOICE;
@@ -170,20 +179,44 @@ await mkdir(audioDir, { recursive: true });
 await mkdir(path.join(ROOT, "site", "data"), { recursive: true });
 
 const meta = [];
-let n = 0;
-for (const sec of sections) {
-  n++;
-  const id = String(n).padStart(2, "0");
-  const mp3 = path.join(audioDir, `${id}.mp3`);
-  process.stdout.write(`${id} ${sec.title} … `);
-  if (useGoogle) await synthGoogle(sec.body, mp3);
-  else await synthEdge(sec.body, mp3);
-  const info = await run("afinfo", [mp3]).catch(() => null);
-  const durMatch = info?.stdout.match(/estimated duration: ([\d.]+)/);
-  const duration = durMatch ? Math.round(parseFloat(durMatch[1])) : Math.round(sec.body.length / 6.5);
-  meta.push({ file: `audio/${date}/${id}.mp3`, title: sec.title, duration, link: sec.link });
-  console.log(`${Math.floor(duration / 60)}分${duration % 60}秒`);
+for (const ch of channels) {
+  let text;
+  try {
+    text = await readFile(path.join(ROOT, "scripts", ch.script), "utf8");
+  } catch {
+    console.log(`(${ch.name}: 原稿なし、スキップ)`);
+    continue;
+  }
+  const sections = parseSections(text);
+  if (!sections.length) continue;
+  console.log(`--- ${ch.name} (${sections.length}本)`);
+  let n = 0;
+  for (const sec of sections) {
+    n++;
+    const id = `${ch.id}-${String(n).padStart(2, "0")}`;
+    const mp3 = path.join(audioDir, `${id}.mp3`);
+    process.stdout.write(`${id} ${sec.title} … `);
+    if (useGoogle) await synthGoogle(sec.body, mp3);
+    else await synthEdge(sec.body, mp3);
+    const info = await run("afinfo", [mp3]).catch(() => null);
+    const durMatch = info?.stdout.match(/estimated duration: ([\d.]+)/);
+    const duration = durMatch ? Math.round(parseFloat(durMatch[1])) : Math.round(sec.body.length / 6.5);
+    meta.push({
+      file: `audio/${date}/${id}.mp3`,
+      title: sec.title,
+      duration,
+      link: sec.link,
+      channel: ch.id,
+      channelName: ch.name,
+    });
+    console.log(`${Math.floor(duration / 60)}分${duration % 60}秒`);
+  }
 }
+if (!meta.length) {
+  console.error("原稿が1つも見つかりません。");
+  process.exit(1);
+}
+const sections = meta; // 下の完了メッセージ用
 
 await writeFile(
   path.join(ROOT, "site", "data", `${date}.json`),

@@ -3,76 +3,244 @@
   "voice": "ja-JP-Chirp3-HD-Kore",
   "tracks": [
     {
-      "file": "audio/2026-09-03/01.mp3",
+      "file": "audio/2026-09-03/ai-01.mp3",
       "title": "オープニング",
       "duration": 65,
-      "link": null
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
     },
     {
-      "file": "audio/2026-09-03/02.mp3",
+      "file": "audio/2026-09-03/ai-02.mp3",
       "title": "1. クロード・フェイブル5.1登場 — 科学研究も任せられる新しいコーディングAI",
-      "duration": 188,
-      "link": "https://www.anthropic.com/claude-fable-and-mythos-5-1"
+      "duration": 189,
+      "link": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "channel": "ai",
+      "channelName": "AIニュース"
     },
     {
-      "file": "audio/2026-09-03/03.mp3",
+      "file": "audio/2026-09-03/ai-03.mp3",
       "title": "2. ジェミニ3.8フラッシュ登場 — 6週間で3回目のモデル更新、サイバー防衛専用版も",
       "duration": 122,
-      "link": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/"
+      "link": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+      "channel": "ai",
+      "channelName": "AIニュース"
     },
     {
-      "file": "audio/2026-09-03/04.mp3",
+      "file": "audio/2026-09-03/ai-04.mp3",
       "title": "3. オープンエーアイのエージェント1200体がひそかに連絡を取り合い、ハギングフェイスを攻撃していた",
-      "duration": 151,
-      "link": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/"
+      "duration": 148,
+      "link": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/",
+      "channel": "ai",
+      "channelName": "AIニュース"
     },
     {
-      "file": "audio/2026-09-03/05.mp3",
+      "file": "audio/2026-09-03/ai-05.mp3",
       "title": "4. パープレキシティが引用するサイトの3割以上が嘘をついていた",
-      "duration": 66,
-      "link": "https://hausresearch.com/reports/perplexity-citation-audit/"
+      "duration": 63,
+      "link": "https://hausresearch.com/reports/perplexity-citation-audit/",
+      "channel": "ai",
+      "channelName": "AIニュース"
     },
     {
-      "file": "audio/2026-09-03/06.mp3",
+      "file": "audio/2026-09-03/ai-06.mp3",
       "title": "5. 3日かかる仕事が3時間に — イベント運営会社のチャットジーピーティー活用事例",
-      "duration": 39,
-      "link": "https://openai.com/index/atv-big-air-tour"
-    },
-    {
-      "file": "audio/2026-09-03/07.mp3",
-      "title": "6. メタが「ミューズ・スパーク1.3」を公開 — フェイブル5並みの性能で破格の安さ",
       "duration": 40,
-      "link": "https://research.meta.ai/blog/introducing-muse-spark-1-3"
+      "link": "https://openai.com/index/atv-big-air-tour",
+      "channel": "ai",
+      "channelName": "AIニュース"
     },
     {
-      "file": "audio/2026-09-03/08.mp3",
+      "file": "audio/2026-09-03/ai-07.mp3",
+      "title": "6. メタが「ミューズ・スパーク1.3」を公開 — フェイブル5並みの性能で破格の安さ",
+      "duration": 41,
+      "link": "https://research.meta.ai/blog/introducing-muse-spark-1-3",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-03/ai-08.mp3",
       "title": "7. ニューヨーク市の学校でAI禁止、一方トランプ政権はオープンエーアイを後押し",
-      "duration": 56,
-      "link": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html"
+      "duration": 58,
+      "link": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
+      "channel": "ai",
+      "channelName": "AIニュース"
     },
     {
-      "file": "audio/2026-09-03/09.mp3",
+      "file": "audio/2026-09-03/ai-09.mp3",
       "title": "8. クロードが作ったファイルかどうかを確認できるツールが登場",
-      "duration": 45,
-      "link": "https://claude.com/check-content"
+      "duration": 44,
+      "link": "https://claude.com/check-content",
+      "channel": "ai",
+      "channelName": "AIニュース"
     },
     {
-      "file": "audio/2026-09-03/10.mp3",
+      "file": "audio/2026-09-03/ai-10.mp3",
       "title": "飲食の現場でどう活かす?",
-      "duration": 120,
-      "link": null
+      "duration": 112,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
     },
     {
-      "file": "audio/2026-09-03/11.mp3",
+      "file": "audio/2026-09-03/ai-11.mp3",
       "title": "今日のAIレッスン",
-      "duration": 85,
-      "link": null
+      "duration": 84,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
     },
     {
-      "file": "audio/2026-09-03/12.mp3",
+      "file": "audio/2026-09-03/ai-12.mp3",
       "title": "クロージング",
       "duration": 37,
-      "link": null
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-03/food-01.mp3",
+      "title": "導入",
+      "duration": 25,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-03/food-02.mp3",
+      "title": "1. 消費税減税が外食に「三重苦」——ゴーストレストランで打開の動きも",
+      "duration": 139,
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9aRkd5MFBHY3dTaWRMVFA1UU91MGNxSG1TelNjX0x5bl92VW9tamlrSWgwVlJNbWNIYTR5S3NMSkNLR1VtZ1BFVjBSeTF4RnNBbVp5WnU0RXFFYmVVQWliS25Dcmt6SFZmUG1VaG5LTUs4SjM0eWc",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-03/food-03.mp3",
+      "title": "2. ダイニーが「外食エーアイサミット」を札幌で初開催",
+      "duration": 129,
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ndGpzMzdiNjNKeFJRbUcydkRfZldRVGlrSkJaMEhLWkdfb1ZwYi16SWNaMjQxalFvWkktODMzek5ydi0wLUVxLS1pYmJaUjNiVlF5WkkxWkhuSjVucmpJdF94aVhRdG9YUUpV",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-03/food-04.mp3",
+      "title": "3. 日清オイリオが「仕込み外注」事業に出資——人手不足対策の新しい選択肢",
+      "duration": 128,
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9pZVpVbjBUNkJ5cWE2Zzg3dGlBNjdOcmswUmZzU2ZOeXNVM0ZYenZQZlAxaHRLWHBBZGtNNHNoSVc3QQ",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-03/food-05.mp3",
+      "title": "締め",
+      "duration": 20,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-03/money-01.mp3",
+      "title": "導入",
+      "duration": 23,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-03/money-02.mp3",
+      "title": "1. エヌイーシーがAIエージェントだけで動く無人部署を新設",
+      "duration": 93,
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5rcXVPVUdyTF85cUxWUWVMWDFwU2tfRk5SQkxEcjVDbEd2Q1RwVHk5N2RLNmplWWhJcTRoeUZrdlV3Z2tCMEVIVlhDd1NVZWpQVi1iSTZHX2lfb1pkVWFQZXNaeE9kQWVETmNsR2FrZUZTbm5L?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-03/money-03.mp3",
+      "title": "2. 中国で始まったAIエージェント経済の衝撃",
+      "duration": 40,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QWWZuSnFoTDVYWUZ5MElBMS1rUGc2NWo2WnZWcXdVR2g0WXh4TFVQalFOaVZqbHoxT0dYTE5VLTFTWE1LcUhCOGtEVHNDTFAwTjdVQXhSZERmNkE4a3dSb01KMVFKcjBtbDcwQjZfN05SS2Jrd2xFczdoOVE2Ulk?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-03/money-04.mp3",
+      "title": "3. 104ギガのモデルを48ギガのマックで動かす個人開発ツール「スロットストリーム」",
+      "duration": 114,
+      "link": "https://github.com/carloslfu/slotstream",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-03/money-05.mp3",
+      "title": "4. ユーチューブのAI生成動画を非表示にするサファリ拡張「ウィードアウト」",
+      "duration": 88,
+      "link": "https://masteranza.github.io/weedout/",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-03/money-06.mp3",
+      "title": "5. コーディングエージェントの事故集「アイ・ハブ・ビーン・クロード」",
+      "duration": 98,
+      "link": "https://ihavebeenclawed.com/",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-03/money-07.mp3",
+      "title": "締め",
+      "duration": 16,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-03/story-01.mp3",
+      "title": "導入",
+      "duration": 21,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-09-03/story-02.mp3",
+      "title": "1. 翻訳アプリで外国人客を助けた落語家",
+      "duration": 105,
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM05SUlZXVmdJSzBZMFZwbVlLbnM2LURSSTFHaXNEamxXbkZ4U0FQZklRNlNCUFJJNzQwc2JFaEhUTV9hN1JpZW83Q01pdHJNaDRMMWltd2hHdEVQOF9IdmJnd01vUzh2eTg4VTlmTkRlcUlYajdqdW02d2xqbzc1NnNMZGpQUlE",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-09-03/story-03.mp3",
+      "title": "2. 「お金を貸してもらえませんか？」",
+      "duration": 83,
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxV29zWks4WXUtZkZTaklvNC1GWElHRkhxcVo2eG90VWZOVlJVUWFPenpkN3J6UVFDSHZCQWZjWDBGWlBoakVBUmVObGxybHkzMF9CUmVWM3M",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-09-03/story-04.mp3",
+      "title": "3. 町中華のレジェンド",
+      "duration": 79,
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Nc0FNcC1jaldWcnNFVmRTSzh3TjEtNUw4YnFfUFVsSXdWMEtZUld3MXZyeGItZktMWUlyZUp5dWxhMzM4T2pQN3BGQ0Z2dWdZS1NaOW9CUkNhdEJJNXRkWQ",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-09-03/story-05.mp3",
+      "title": "4. 街ぐるみのおもてなし",
+      "duration": 34,
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XRHpzelRlRk1NcnNJWVFyZEwwQ3NROUhLYld1NXBKQW9iT2l5MWpFT0NnTW9WUGUwNVNfSGx4Y0lxY3dQMjAyUmt6a3NVTUlwZmJjaWE0Nlg1SDd3THhOUXYzYlhIaGdhU0tGbk5Paw",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-09-03/story-06.mp3",
+      "title": "締め",
+      "duration": 15,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
     }
   ]
 }

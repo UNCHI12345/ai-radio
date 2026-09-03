@@ -315,6 +315,59 @@ async function collectReddit() {
   return all;
 }
 
+// ---------------------------------------------------------------- 収集: Google News (日本語ニュース検索)
+
+async function collectGoogleNews(query, maxItems, freshHours = 48) {
+  const url = `https://news.google.com/rss/search?q=${encodeURIComponent(query)}&hl=ja&gl=JP&ceid=JP:ja`;
+  try {
+    const res = await fetchWithTimeout(url, 20000);
+    if (!res.ok) {
+      console.warn(`  Google News「${query}」: HTTP ${res.status}`);
+      return [];
+    }
+    const xml = await res.text();
+    const since = Date.now() - freshHours * 3600 * 1000;
+    return parseFeed(xml)
+      .filter((e) => !e.date || e.date.getTime() > since)
+      .slice(0, maxItems)
+      .map((e) => ({
+        source: `Google News検索「${query}」`,
+        title: e.title,
+        url: e.link,
+        score: e.date ? e.date.toISOString().slice(0, 10) : "recent",
+        body: htmlToText(decodeEntities(e.contentHtml)).slice(0, 500) || null,
+      }));
+  } catch (err) {
+    console.warn(`  Google News「${query}」: 失敗 (${err.message})`);
+    return [];
+  }
+}
+
+// Hacker Newsの「Show HN」からAIで作った収益系プロジェクトを拾う
+async function collectShowHn() {
+  const since = Math.floor(Date.now() / 1000) - 48 * 3600;
+  const url =
+    "https://hn.algolia.com/api/v1/search_by_date?tags=show_hn" +
+    `&numericFilters=created_at_i>${since},points>10&hitsPerPage=100`;
+  try {
+    const res = await fetchWithTimeout(url, 20000);
+    const data = await res.json();
+    return (data.hits || [])
+      .filter((h) => isAiRelated(h.title))
+      .sort((a, b) => b.points - a.points)
+      .slice(0, 8)
+      .map((h) => ({
+        source: "Show HN (個人開発の作品発表)",
+        title: h.title,
+        url: h.url || `https://news.ycombinator.com/item?id=${h.objectID}`,
+        score: `${h.points} points`,
+        discussion: `https://news.ycombinator.com/item?id=${h.objectID}`,
+      }));
+  } catch {
+    return [];
+  }
+}
+
 // ---------------------------------------------------------------- 出力
 
 function today() {
@@ -325,29 +378,25 @@ function today() {
 
 async function main() {
   console.log("収集を開始します…");
+  const channelsOnly = process.argv.includes("--channels-only");
 
-  console.log("- 信頼レーン (ブログ・公式ニュース)");
-  const trusted = await collectTrustedFeeds();
-  const anthropic = await collectAnthropicNews();
-  console.log(`  合計 ${trusted.length + anthropic.length}件`);
+  if (channelsOnly) {
+    console.log("(チャンネル素材のみ収集モード)");
+  }
+  const trusted = channelsOnly ? [] : await collectTrustedFeeds();
+  const anthropic = channelsOnly ? [] : await collectAnthropicNews();
+  if (!channelsOnly) console.log(`- 信頼レーン 合計 ${trusted.length + anthropic.length}件`);
 
-  console.log("- Hacker News");
-  const hn = await collectHackerNews().catch((e) => {
-    console.warn(`  失敗: ${e.message}`);
+  const hn = channelsOnly ? [] : await collectHackerNews().catch((e) => {
+    console.warn(`  HN失敗: ${e.message}`);
     return [];
   });
-  console.log(`  ${hn.length}件`);
-
-  console.log("- GitHub Trending");
-  const gh = await collectGitHubTrending().catch((e) => {
-    console.warn(`  失敗: ${e.message}`);
+  const gh = channelsOnly ? [] : await collectGitHubTrending().catch((e) => {
+    console.warn(`  GH失敗: ${e.message}`);
     return [];
   });
-  console.log(`  ${gh.length}件`);
-
-  console.log("- Reddit");
-  const rd = await collectReddit();
-  console.log(`  ${rd.length}件`);
+  const rd = channelsOnly ? [] : await collectReddit();
+  if (!channelsOnly) console.log(`- HN ${hn.length} / GitHub ${gh.length} / Reddit ${rd.length}件`);
 
   let items = [...trusted, ...anthropic, ...hn, ...rd, ...gh];
 
@@ -378,38 +427,69 @@ async function main() {
 
   // Markdownに整形
   const date = today();
-  let md = `# AI情報ダイジェスト素材 — ${date}\n\n`;
-  md += `収集: 信頼レーン ${trusted.length + anthropic.length}件 / Hacker News ${hn.length}件 / Reddit ${rd.length}件 / GitHub Trending ${gh.length}件（既出除外後 ${items.length}件）\n\n---\n\n`;
-  let n = 0;
-  for (const item of items) {
-    n++;
-    md += `## ${n}. ${item.title}\n\n`;
-    md += `- 出どころ: ${item.source}（${item.score}）\n`;
-    md += `- リンク: ${item.url}\n`;
-    if (item.discussion && item.discussion !== item.url) {
-      md += `- 議論: ${item.discussion}\n`;
-    }
-    md += `\n`;
-    if (item.body) {
-      md += `### 本文(抜粋)\n\n${item.body}\n\n`;
-    } else {
-      md += `(本文は取得できず。タイトルとリンクのみ)\n\n`;
-    }
-    if (item.linkedArticles?.length) {
-      for (const la of item.linkedArticles) {
-        md += `### 記事内で紹介されていたリンク先: ${la.url}\n\n${la.body}\n\n`;
+  const formatItems = (title, list) => {
+    let md = `# ${title} — ${date}\n\n計${list.length}件\n\n---\n\n`;
+    let n = 0;
+    for (const item of list) {
+      n++;
+      md += `## ${n}. ${item.title}\n\n`;
+      md += `- 出どころ: ${item.source}（${item.score}）\n`;
+      md += `- リンク: ${item.url}\n`;
+      if (item.discussion && item.discussion !== item.url) {
+        md += `- 議論: ${item.discussion}\n`;
       }
+      md += `\n`;
+      if (item.body) {
+        md += `### 本文(抜粋)\n\n${item.body}\n\n`;
+      } else {
+        md += `(本文は取得できず。タイトルとリンクのみ)\n\n`;
+      }
+      if (item.linkedArticles?.length) {
+        for (const la of item.linkedArticles) {
+          md += `### 記事内で紹介されていたリンク先: ${la.url}\n\n${la.body}\n\n`;
+        }
+      }
+      md += `---\n\n`;
     }
-    md += `---\n\n`;
-  }
+    return md;
+  };
 
   await mkdir(path.join(ROOT, "out"), { recursive: true });
-  const outPath = path.join(ROOT, "out", `${date}.md`);
-  await writeFile(outPath, md, "utf8");
-  for (const i of items) seenSet.add(i.url);
+  if (!channelsOnly) {
+    const outPath = path.join(ROOT, "out", `${date}.md`);
+    await writeFile(outPath, formatItems("AI情報ダイジェスト素材", items), "utf8");
+    for (const i of items) seenSet.add(i.url);
+    console.log(`AIチャンネル: ${items.length}件 → ${outPath}`);
+  }
+
+  // ---- 飲食チャンネル・稼ぐチャンネルの素材 ----
+  for (const [ch, cfg] of Object.entries(config.channels || {})) {
+    console.log(`- チャンネル「${cfg.name}」`);
+    let chItems = [];
+    for (const q of cfg.googleNews || []) {
+      chItems.push(...(await collectGoogleNews(q, cfg.maxPerQuery || 6, (cfg.freshDays || 2) * 24)));
+    }
+    if (cfg.hackerNewsShow) chItems.push(...(await collectShowHn()));
+    // 重複(タイトルが酷似・URL既出)を除く (--ignore-seen で既出フィルタを無効化)
+    const ignoreSeen = process.argv.includes("--ignore-seen");
+    const seenTitles = new Set();
+    chItems = chItems.filter((i) => {
+      const t = i.title.slice(0, 25);
+      if ((!ignoreSeen && seenSet.has(i.url)) || seenTitles.has(t)) return false;
+      seenTitles.add(t);
+      return true;
+    });
+    console.log(`  ${chItems.length}件`);
+    const chPath = path.join(ROOT, "out", `${date}-${ch}.md`);
+    // 0件の日は既存ファイルを上書きしない(再実行への保険)
+    if (chItems.length > 0) {
+      await writeFile(chPath, formatItems(`${cfg.name} 素材`, chItems), "utf8");
+      for (const i of chItems) seenSet.add(i.url);
+    }
+  }
+
   await writeFile(seenPath, JSON.stringify([...seenSet], null, 2), "utf8");
-  console.log(`\n完了: ${outPath}`);
-  console.log(`合計 ${items.length}件`);
+  console.log(`\n完了`);
 }
 
 await main();

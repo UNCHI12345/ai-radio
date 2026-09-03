@@ -96,6 +96,11 @@
   }
   .t-check { color: var(--accent2); font-size: 14px; visibility: hidden; }
   .track.played .t-check { visibility: visible; }
+  .ch-head {
+    margin: 16px 4px 2px; font-size: 12px; font-weight: 800;
+    color: var(--accent2); letter-spacing: .1em;
+  }
+  .ch-chip.now { background: var(--accent); color: #fff; border-color: var(--accent); }
 
   .player {
     position: fixed; left: 0; right: 0; bottom: 0;
@@ -164,6 +169,7 @@
     </div>
   </header>
   <nav class="dates" id="dates"></nav>
+  <nav class="dates" id="channels" hidden></nav>
   <section class="hero" id="hero" hidden>
     <div class="kicker" id="heroKicker"></div>
     <h1 id="heroTitle"></h1>
@@ -271,7 +277,30 @@ async function loadDate(date) {
   const total = tracks.reduce((a, t) => a + (t.duration || 0), 0);
   $("total").textContent = `${tracks.length}本・${Math.round(total / 60)}分`;
 
-  const main = tracks.find((t) => /^1\./.test(t.title));
+  // チャンネルタブ (2チャンネル以上ある日だけ表示)
+  const chList = [];
+  tracks.forEach((t, i) => {
+    if (t.channel && !chList.find((c) => c.id === t.channel)) {
+      chList.push({ id: t.channel, name: t.channelName || t.channel, first: i });
+    }
+  });
+  const chEl = $("channels");
+  chEl.innerHTML = "";
+  if (chList.length > 1) {
+    chEl.hidden = false;
+    chList.forEach((c) => {
+      const b = document.createElement("button");
+      b.className = "date-chip ch-chip";
+      b.textContent = c.name;
+      b.dataset.ch = c.id;
+      b.onclick = () => play(c.first);
+      chEl.appendChild(b);
+    });
+  } else {
+    chEl.hidden = true;
+  }
+
+  const main = tracks.find((t) => /^1\./.test(t.title) && (!t.channel || t.channel === "ai"));
   if (main) {
     $("hero").hidden = false;
     $("heroKicker").textContent = "TODAY'S TOP STORY";
@@ -286,11 +315,22 @@ function renderList() {
   const played = playedSet();
   const list = $("list");
   list.innerHTML = "";
+  let prevCh = null;
+  let chNum = 0;
   tracks.forEach((t, i) => {
+    if (t.channelName && t.channel !== prevCh) {
+      prevCh = t.channel;
+      chNum = 0;
+      const head = document.createElement("div");
+      head.className = "ch-head";
+      head.textContent = "📻 " + t.channelName;
+      list.appendChild(head);
+    }
+    chNum++;
     const el = document.createElement("div");
     el.className = "track" + (i === current ? " playing" : "") + (played.has(i) ? " played" : "");
     el.innerHTML = `
-      <div class="t-num">${i === current ? "▶" : i + 1}</div>
+      <div class="t-num">${i === current ? "▶" : chNum}</div>
       <div class="t-main">
         <div class="t-title"></div>
         <div class="t-dur">${fmt(t.duration)}</div>
@@ -329,6 +369,8 @@ function play(i) {
   $("player").hidden = false;
   $("pTitle").textContent = t.title;
   renderList();
+  document.querySelectorAll(".ch-chip").forEach((c) =>
+    c.classList.toggle("now", c.dataset.ch === t.channel));
   updateMediaSession(t);
 }
 
