@@ -1,0 +1,214 @@
+{
+  "date": "2026-09-04",
+  "voice": "ja-JP-NanamiNeural",
+  "tracks": [
+    {
+      "file": "audio/2026-09-04/ai-01.mp3",
+      "title": "導入",
+      "duration": 40,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-04/ai-02.mp3",
+      "title": "1. エヌビディア、ハギングフェイスを約130億ドルで買収へ",
+      "duration": 223,
+      "link": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-04/ai-03.mp3",
+      "title": "2. オープンエーアイ「アジーの時代へようこそ」――ジーピーティー6 アストラ発表",
+      "duration": 174,
+      "link": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-04/ai-04.mp3",
+      "title": "3. チャットジーピーティー・クロード・グロックが昨夜一斉ダウン",
+      "duration": 104,
+      "link": "https://news.ycombinator.com/item?id=49551096",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-04/ai-05.mp3",
+      "title": "4. グーグルの天気AI「ウェザーネクスト3」――精度5倍、リアルタイム衛星データで毎時更新",
+      "duration": 53,
+      "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-04/ai-06.mp3",
+      "title": "5. アイエフエム「ケーツーホライズン」――腕時計からサーバーまで6サイズのオープンモデル公開",
+      "duration": 52,
+      "link": "https://ifm.ai/blog/k2/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-04/ai-07.mp3",
+      "title": "6. 1993年のイラクのゲームを、AIがアセンブリ言語を読んで現代に復元",
+      "duration": 78,
+      "link": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-04/ai-08.mp3",
+      "title": "今日のAIレッスン",
+      "duration": 160,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-04/ai-09.mp3",
+      "title": "締め",
+      "duration": 4,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-04/food-01.mp3",
+      "title": "導入",
+      "duration": 16,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-04/food-02.mp3",
+      "title": "1. ダイニー「外食AIサミット」、札幌で初開催",
+      "duration": 78,
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OUVpVV1liTWRhRFFuYmtZekpkbjRiRFd2ZFp0T3BzVHZIQXpwcTNyY3JKQlZKUWxob2YzbENrLWpjWEgxbmxFd0pZb21FaWtBV2xBMG1n?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-04/food-03.mp3",
+      "title": "2. 食料品の消費税1パーセント、飲食店には「外食いじめ」になる？",
+      "duration": 84,
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ3pmVVVGek9QamZLbU1iVEMzczY3Sl9SYXdNR1F3UHN0enBVWTkzOXlSMjJ1VGh4T0tnX0pubVlvRS1QbWVpbEVLby0zaG5tRzY3NW5TQTg4cXpEcm1razRIQlpQcEtJc0dETUVUNzZ2ektNOWh1UzhteE9ld2N5akVfSEZqT1JJ?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-04/food-04.mp3",
+      "title": "3. 韓国のしゃぶしゃぶビュッフェに外食専用AI「レストジニ」導入",
+      "duration": 81,
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBTSHc0eTRrOWNOSHZrcW1UR2pKWkZJeTE3SFFraS1fMzV3ZWhIamROeldXd3gtT1h6VmRtY2pkZTYwMXJhQ2twanNYVQ?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-04/food-05.mp3",
+      "title": "4. 53社比較で「外食最強」と言われるサイゼリヤに学ぶこと",
+      "duration": 62,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KQ0VBdjV6ZFJmeWNYUGl5dGozYUFPOHUxQmN4bDJBblZoT0tZQmoyY0lnYldnc3lQdnhvYUlSUDd1Tl80SC1IQjg2TFdUS3BOOXJSMFdBXzhwX3B1SlBSVThQc29iU19xQzlSR0lZb0VfRWNyQlpIcXFkOVY1VXc?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-04/food-06.mp3",
+      "title": "5. 「ダブル看板」で30〜100万円開業、二刀流戦略をデータで磨く",
+      "duration": 77,
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1lREVWWTgzVWpTcm1YaEpUeUpMV0ZxOGdzTGJUNFFlNlNnejF6Y3VTY2xOdk5TVGdSN1VDQXJNVmFNdWxqLWQ3MldaOXVTRWdMSHdrMm8tMzl1TzRBQTg2OTZBWTZmdFZFU3N3SDhueGhGQQ?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-04/food-07.mp3",
+      "title": "締め",
+      "duration": 14,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-04/money-01.mp3",
+      "title": "導入",
+      "duration": 29,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-04/money-02.mp3",
+      "title": "1. 東北の無料エーアイ副業講座、賢い使い方と注意点",
+      "duration": 112,
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBTjRHMnJZUlcteFlQSEVJX3gyWjc2NnFpRnhnd3BpVENFbnk5MF9rMFlIVkNWN0Z2STNUVlBnT2NMeTVkdl9fRzFaSUF0VThNYW1yTVFzTkVKbG9fNDVkQzZlbGxzQmJCTTRuRU1KMDhWTzlic3c?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-04/money-03.mp3",
+      "title": "2. 全社規模でのエーアイエージェント運用開始、個人に何が起きるか",
+      "duration": 89,
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1OYlc1VEdNVHBLNW1fZmp1SkRBam5zZWpLVU9KUWpzUTRkTlFCUDlENnhoTkI0cFR3ckoxU0RlQ2s3QUlqWVdZVC0xSmJpODdoU0xFOHd6cmNNZEZpZVgwWUtyUDc1NDZXX3c0elp0S1pyZG5TbmFFQzhFTQ?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-04/money-04.mp3",
+      "title": "3. エーアイエージェントがアフィリエイトを根本から変える",
+      "duration": 161,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52N01tcFpDYUxYek9ZN2xndGprX1FkWkNnMXMxamhyV1pLOFhod0NvVTk0VEVzOVNjZGJGMUNwQVRXaHVXNFNTUVhXRXVVU29fM3BNR0c1Ry1uYUZOVHk2bVJSdGVmOFJvSkNpRGxiajIzTlVaWU94SHZmMWJUZ1U?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-04/money-05.mp3",
+      "title": "締め",
+      "duration": 21,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-04/story-01.mp3",
+      "title": "導入",
+      "duration": 15,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-09-04/story-02.mp3",
+      "title": "1. 翻訳アプリと外国人と、落語家さんの投稿",
+      "duration": 87,
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5LT1Q3WWVfcjhiOXFiUVY2SS1OSlVmSHl6QjhDaldjTVVGUW13OVBCRnNUc2FGLXMyUkJrUm40bzY0RHJ1N2Z2ejFUQlQxU1pBd0FvU19DdGRwSGh6SDc4MDVrTERFdVl3WG03WDBR?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-09-04/story-03.mp3",
+      "title": "2. 三宅健さんが飲食店で「お金を貸して」と言った話",
+      "duration": 74,
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9odXhsUnJaMTJpeGFNWjVQSkhWeGo0VEhXNmdabzZ0QnRvQ3BDMkJ3Z2JnRFVmSkRHWXUxLW1zZnhiZ2U1SlJHTFlpbURKdVYxWmVweUNR?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-09-04/story-04.mp3",
+      "title": "3. ラーメンのレシートで、先生が泣いた話",
+      "duration": 81,
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM0FPSkJRd2lOY2xWeXdLYVpwQS1RWi1QeTFKVjlmdlpsZk5ZNlp1T3BTb1gyNGx0LVJkRmsydHBtNTVkWnc2ZHVWRkNVV1NQVGdOSTlVN0NWdmxhakZ4U3pZSmhfbGNQZlJNQzNNSmVzWnpHVmktdEpaOUFMVkl5MHo2QnVsam9wM3Z0ZdIBiAFBVV95cUxQM2NsRWlyWHBhd3kxaVdSNE54a0dpMnpOdWhxZmdxQzVYVVlQSHMyTlp2aHZZekJHUDFNSFkteVpwZXJkeFZzcFE3VFdNQnczUDVVbHZvenNTZThMSWpPVGtfZGxVVFBHdWRTRlU1LWZzZzdaeFE2V01tbGJST0p1UzV0ZUxUS0VG?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-09-04/story-05.mp3",
+      "title": "締め",
+      "duration": 12,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
