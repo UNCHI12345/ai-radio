@@ -16,7 +16,11 @@ try {
   process.loadEnvFile(path.join(ROOT, ".env"));
 } catch {}
 
-const GOOGLE_KEY = (process.env.GOOGLE_TTS_API_KEY || "").trim();
+// 「GOOGLE_TTS_API_KEY=AIza…」と行ごと貼られていても鍵部分だけ取り出す
+const GOOGLE_KEY = (process.env.GOOGLE_TTS_API_KEY || "")
+  .trim()
+  .replace(/^GOOGLE_TTS_API_KEY\s*=\s*/, "")
+  .replace(/^["']|["']$/g, "");
 const useGoogle = GOOGLE_KEY.startsWith("AIza");
 const GOOGLE_VOICE = process.env.RADIO_VOICE_GOOGLE || "ja-JP-Chirp3-HD-Kore";
 const GOOGLE_RATE = Number(process.env.RADIO_RATE_GOOGLE || "1.05");

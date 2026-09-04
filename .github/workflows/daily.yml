@@ -67,9 +67,10 @@ jobs:
           mkdir -p logs
           {
             echo "time: $(date)"
-            echo "len: ${#GOOGLE_TTS_API_KEY}"
-            echo "prefix: $(echo "$GOOGLE_TTS_API_KEY" | cut -c1-4)"
-            code=$(curl -s -o /tmp/g.json -w "%{http_code}" "https://texttospeech.googleapis.com/v1/voices?languageCode=ja-JP&key=$GOOGLE_TTS_API_KEY")
+            KEY=$(echo "$GOOGLE_TTS_API_KEY" | sed 's/^GOOGLE_TTS_API_KEY=//')
+            echo "len: ${#KEY}"
+            echo "prefix: $(echo "$KEY" | cut -c1-4)"
+            code=$(curl -s -o /tmp/g.json -w "%{http_code}" "https://texttospeech.googleapis.com/v1/voices?languageCode=ja-JP&key=$KEY")
             echo "http: $code"
             if [ "$code" != "200" ]; then head -c 300 /tmp/g.json; echo; fi
           } > logs/google-key-test.txt 2>&1 || true
