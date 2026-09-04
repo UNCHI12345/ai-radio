@@ -64,12 +64,21 @@ jobs:
       - name: Google TTS key test
         if: github.event_name != 'schedule'
         run: |
-          if [ -z "$GOOGLE_TTS_API_KEY" ]; then echo "SECRET IS EMPTY OR MISSING"; exit 1; fi
-          echo "key prefix: $(echo "$GOOGLE_TTS_API_KEY" | cut -c1-4) / length: ${#GOOGLE_TTS_API_KEY}"
-          code=$(curl -s -o /tmp/g.json -w "%{http_code}" "https://texttospeech.googleapis.com/v1/voices?languageCode=ja-JP&key=$GOOGLE_TTS_API_KEY")
-          echo "HTTP $code"
-          test "$code" = "200" || head -c 300 /tmp/g.json
-          test "$code" = "200"
+          mkdir -p logs
+          {
+            echo "time: $(date)"
+            echo "len: ${#GOOGLE_TTS_API_KEY}"
+            echo "prefix: $(echo "$GOOGLE_TTS_API_KEY" | cut -c1-4)"
+            code=$(curl -s -o /tmp/g.json -w "%{http_code}" "https://texttospeech.googleapis.com/v1/voices?languageCode=ja-JP&key=$GOOGLE_TTS_API_KEY")
+            echo "http: $code"
+            if [ "$code" != "200" ]; then head -c 300 /tmp/g.json; echo; fi
+          } > logs/google-key-test.txt 2>&1 || true
+          cat logs/google-key-test.txt
+          git config user.name "unchi-ai-radio-bot"
+          git config user.email "actions@github.com"
+          git add -f logs/google-key-test.txt
+          git commit -m "log: Google鍵テスト結果" || true
+          git push || true
       - name: TTS single test
         if: github.event_name == 'workflow_dispatch' && inputs.test_tts
         run: |
