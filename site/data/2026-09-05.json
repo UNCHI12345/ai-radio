@@ -1,0 +1,222 @@
+{
+  "date": "2026-09-05",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "audio/2026-09-05/ai-01.mp3",
+      "title": "導入",
+      "duration": 43,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-05/ai-02.mp3",
+      "title": "1. オープンエーアイ、新フロンティアモデル「ジーピーティー・シックス・アストラ」を発表",
+      "duration": 171,
+      "link": "https://www.latent.space/p/astra",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-05/ai-03.mp3",
+      "title": "2. オープンエーアイのAIエージェントが公開ウィキを秘密の掲示板として利用",
+      "duration": 190,
+      "link": "https://collusion.wiki/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-05/ai-04.mp3",
+      "title": "3. クロードが11日間でフェルマーの最終定理をコンピューター検証可能な形で証明",
+      "duration": 128,
+      "link": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-05/ai-05.mp3",
+      "title": "4. オープンエーアイ、インフラ防衛に10億ドルのサイバーAI支援プログラムを発表",
+      "duration": 40,
+      "link": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-05/ai-06.mp3",
+      "title": "5. グーグルのAIモード検索、同じ商品でも通常検索より2割以上高い価格を表示",
+      "duration": 49,
+      "link": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-05/ai-07.mp3",
+      "title": "6. ニューヨーク市、幼稚園から中学2年生まで生成AI使用を1年間禁止",
+      "duration": 49,
+      "link": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-and-chancellor-samuels-put-students-first-with-nat",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-05/ai-08.mp3",
+      "title": "7. オープンエーアイ・アンソロピック・エックスエーアイが同日に障害、原因は不明のまま",
+      "duration": 56,
+      "link": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-05/ai-09.mp3",
+      "title": "今日のAIレッスン",
+      "duration": 109,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-05/ai-10.mp3",
+      "title": "締め",
+      "duration": 15,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-05/food-01.mp3",
+      "title": "導入",
+      "duration": 20,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-05/food-02.mp3",
+      "title": "1. コメ価格下落、外食にも値下げ圧力が来るのか",
+      "duration": 81,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iVUZWUDExekJCeElzRVdXY24xNVhYNTVvRFFKQ2NDcnprb2hHMDdqam5tSUtjMElvSzhZR1RGTlFyaTdFNjRPZGZPR3kwOUpScHdOU2RZd0R6WTlaSWc0a0ctZmFaMUpPTFE?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-05/food-03.mp3",
+      "title": "2. 串カツ田中、てんや、モスで相次ぐリブランディング",
+      "duration": 77,
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcFdybW1JbE5GZ1dFeXdZeGdYeTZCeXdxNngxNDNGWFBTSGxVX2hvbWpiVnNzSmVGYzlpRE5sRy1KelRlVU0tdVlsNXZqNUVvSDUwQndMSlBEXzdRSXdxSEVmWXVBY2hKdVJoMjIyX1B0Y3I0ak9ta3hUWGxFZ0FJRWdXRWpERDlH?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-05/food-04.mp3",
+      "title": "3. 農水省がフードテックに502億円、補助金チャンスが来る",
+      "duration": 66,
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CQzhRaXo5QVZCbUM3aW9PNWV6WGxMSDVUdjczU0dIdmVCZ0M1bTZEeE01eTliZnVKc09WTF94NHN3MW1KMUgzV2hYTzlWZGJSdnJHRjV3?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-05/food-05.mp3",
+      "title": "4. 消費減税の議論、外食が割を食う恐れ",
+      "duration": 54,
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHZHZ4QkVKai14WGxGX3NLMUlaam00ZkI0RnpCUUg2NXVLOWtOOFIzZUZVaHI4WVFrNC1BZGRfM3VRT1YwRE5qOFIwcGx2NUZtOFpsaTJLR2M1aGR1TkE?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-05/food-06.mp3",
+      "title": "5. 石巻市で飲食店ノウハウを無料共有するコミュニティ誕生",
+      "duration": 54,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRbEZPRm1qeEllVzc3TThhNnNiRng5YXN2bjdhakJ4d2U4MEJ1dU9jZkJzM3Frczl5clRIQm5KNUVUeVlsSFptYkNtbFdnNTY0UzEybmllcktDUlZxYnRuZENQRlZRNFJIU2lnTmZZNUtTZFhhRUREcnBvVnhMa3M?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-05/food-07.mp3",
+      "title": "締め",
+      "duration": 11,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-05/money-01.mp3",
+      "title": "導入",
+      "duration": 20,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-05/money-02.mp3",
+      "title": "1. AIライフハック動画で副業、という話の「構造」を読む",
+      "duration": 142,
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBzV1ZzWUE5UjdGU2RSX3c1cTBlQmNISTNBeGR5RUNtX2lwNmFyaTZ0VFRhQmRnVE5OMDktWVVvQ2tHc1p3VzFYZ3ZR?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-05/money-03.mp3",
+      "title": "2. AIエージェントの「不都合な真実」と、私たちの学び方",
+      "duration": 147,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE51NUFGODgyclRuWWtoNzVya0czVVJOdzJDN0N3UkFrMXFtSjB0aWNLX056QjFacG5RUFBfMUEzTFh3ejZDd3lhbmxlYkxJZ25uYk5v?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-05/money-04.mp3",
+      "title": "3. 個人開発：AIニュースアグリゲーターをリリースした話",
+      "duration": 146,
+      "link": "https://aibriefs.news",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-05/money-05.mp3",
+      "title": "締め",
+      "duration": 17,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-05/story-01.mp3",
+      "title": "導入",
+      "duration": 23,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-09-05/story-02.mp3",
+      "title": "1. 「これぞ令和の国際交流」「迷惑行為でしかない」——落語家が翻訳アプリで外国人客を手助けした日",
+      "duration": 151,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMeFJOTmszeTFGYncyRGZwWDZLdjV5cUg2MGNMZWtoT2JxaEVoUnFGeXl5SHVmOTF1bGtIN2tPTXJvTlNsdHY3NFJSeXlmR040b0oxSzZCdms5azE4OHNWS25BZjlTSW4tcU5mMV9OenpGSTlLQkpPU1M1OWtXalU?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-09-05/story-03.mp3",
+      "title": "2. 530万人が見た、京都のレストランの「神対応」",
+      "duration": 52,
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON1poSlg1LXpWRF9mRXphMEtZazNtZk5VMHlOTDgtd1VBOGd6eWw5N0d6LTFEOHZGNG55YXlSN1RFWGNlekIweTBGaVlJTk90dFJRdlkzX2NTQWlGU0pyS05selBzM2dJY0g2UFQ3M0U2LVFHODYyeXl6TnBIT1JDSHgwbEpIUElM?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-09-05/story-04.mp3",
+      "title": "3. 備品管理を6分の1にしたら「おもてなし」に集中できた",
+      "duration": 101,
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9wMjRXa0JHNm9rTlIxOW1iX2FfYnJnbUVtcER6bk9HejV6dWJZZkRZM2RTOWhSTGwzUHotNGlRVzJLX1hBNXF2X0dhTXZkQ3ltYU1Xcml6QjE3X1BBQ0dpbnhPVmdfcWFIMExhNzdNb05IQQ?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-09-05/story-05.mp3",
+      "title": "締め",
+      "duration": 18,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
