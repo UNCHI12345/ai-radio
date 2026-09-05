@@ -1,0 +1,198 @@
+{
+  "date": "2026-09-06",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "audio/2026-09-06/ai-01.mp3",
+      "title": "導入",
+      "duration": 35,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-06/ai-02.mp3",
+      "title": "1. ジーピーティー・シックス・アストラ登場——次世代フラッグシップの実力と課題",
+      "duration": 223,
+      "link": "https://openrouter.ai/openai/gpt-6-astra",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-06/ai-03.mp3",
+      "title": "2. フェルマーの最終定理、アンソロピックのエーアイが11日間で形式証明",
+      "duration": 150,
+      "link": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-06/ai-04.mp3",
+      "title": "3. エーアイがインシデントを解決するほど、エンジニアは現場感覚を失う",
+      "duration": 167,
+      "link": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-06/ai-05.mp3",
+      "title": "4. スポティファイのポータルがクロード・コードのトークン使用量を90パーセント削減",
+      "duration": 61,
+      "link": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-06/ai-06.mp3",
+      "title": "5. ブレンダーで「ペリカンが自転車に乗る」——コーディングエージェントの3Dクリエイティブ",
+      "duration": 58,
+      "link": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-06/ai-07.mp3",
+      "title": "6. ローカルエルエルエムを3Dプリンターのように使う",
+      "duration": 54,
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1w7thwv/ive_found_myself_using_local_llms_like_3d_printers/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-06/ai-08.mp3",
+      "title": "今日のAIレッスン",
+      "duration": 118,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-06/ai-09.mp3",
+      "title": "締め",
+      "duration": 19,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-06/food-01.mp3",
+      "title": "導入",
+      "duration": 18,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-06/food-02.mp3",
+      "title": "1. 食中毒は「１発アウト」——知名度があるほど傷は深い",
+      "duration": 101,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Uem9OaFUxcE9VNVh6R1k2ZDBWZ3ZXRWU1RUxYM2F6RC1PQ3paZkpLMHZ3cEdfcXl0OHBHajhZVU5RZG9xdG1NQkhKOWtFQzFfRUJHeUoxMkd4dW90X3dNR0xQT3F0UmhIX3NzTkZPR2tQZ0NJM2pZQVRQZWVPTzg",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-06/food-03.mp3",
+      "title": "2. 熊本が25%プレミアム付き食事券——補助金情報、乗り遅れていませんか？",
+      "duration": 93,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BTHc2aWZrWjRCc21xVnZibWhaMEdIcmpmMGc0ZmVzdnpwOTJxbVRtTHJneVF3S21YTGdIcERlQkdWNjJVMGpSQkhnZFNNejM5c1VDcGM0b0MzTFEtMWNNSnBOOF9jdWRBV1RPNWluTmtqZ0dVeTR3QWJaNU5DZE0",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-06/food-04.mp3",
+      "title": "3. 自民党が外食産業への支援を大綱に明記——政策の動き、追えていますか？",
+      "duration": 77,
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZlI0VGxDbFY4bk9aMGVsVjRqOWJXN0t4eHFFSk5iVHRONlZBWlBOOWx1U2Z4eGhGTHVYOFdfSnBlSFpKUWUxYmxhZm1WZGtpeXQyOEpYSWNUZVZrTFdLM2N5RGVjM25RamdkM1BCU3VLVDFsb1pEcFkwT1YxZDdqdG1LcV9wRTVBVWg3cFNR0gGTAUFVX3lxTE1ZYnpCX1ZwQ3lVVlh3QVJydHZDZ3NoMGRaOHFjWkpBa0E5UHp2OGptZWRvSDFrV2FHdWNkMVJfQl9PUnF2X0xNMlhRUXdteFZMaGlSWFdHOVhacHBvZDUyYzhxZHZGb1dmUDhiemRnUDBXcXF5Yi1YM0xsTm9RT2VvajRUbmtZRzZPaDBObmFIaDA2MA",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-06/food-05.mp3",
+      "title": "4. 日清オイリオがシコメルフードテックに出資——食品メーカーが外食に直接つながろうとしている",
+      "duration": 87,
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZ1NVbWlMRmhoeUNDRks2bTc1bWpZOXRQR1BWZkJZZXZGZXlNM05vcWN3MEFCek1mbk9yaTdpdGVyM2hCN1hRbVdBdzZRVzJfVTVtWmhKc2YtZGp2cmx3d1FkdVJaMUNTb3h4NkZTdEUzOU1iOXB0djFmMmsyUzd4MFNRb3Z3QTBvRngxdS1n",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-06/food-06.mp3",
+      "title": "締め",
+      "duration": 15,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-06/money-01.mp3",
+      "title": "導入",
+      "duration": 19,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-06/money-02.mp3",
+      "title": "1. エーアイエージェントはボトルネックを解消しない、むしろ露呈させる",
+      "duration": 127,
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1OHRjWnMtZ2NZTnBNNnpiQjdyZlZsR21ZTUR2NkhYYkJmb0FEWUVJXzhrejlWRzB2UVdfcjkxNExlZGlFS1NVTmhhUHlGUXRPeHYzbVpFTUxKUQ?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-06/money-03.mp3",
+      "title": "2. メタが企業向けエーアイエージェントをワッツアップで業務代行開始",
+      "duration": 107,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQcGVFVVFhM2hfbnRsc3VJRzNsREFRRkcyWjRkZEJGVVBGeDFLVTBaVEN4VVI4azJGbEo1dW96UVZUR2l4eTc5Vk1BZnRqNDNYYTV6bkdOMkFVNVg2QzB2cWpnd3BKTThfcFE?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-06/money-04.mp3",
+      "title": "3. 個人開発：エージェントのスケジューラー「モアディム」",
+      "duration": 140,
+      "link": "https://moadim.io/",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-06/money-05.mp3",
+      "title": "締め",
+      "duration": 10,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-06/story-01.mp3",
+      "title": "導入",
+      "duration": 15,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-09-06/story-02.mp3",
+      "title": "1. 落語家が翻訳アプリで外国人観光客を手助け、賛否を呼んだ話",
+      "duration": 164,
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZERveWhDOGVXWjh3UkF2c3NXVkh3ZnI2WEFVcG5BNm1Dbm5ES3RRNFltUnNodmROeXZiQzJHemxuS0JEQWtvbjVPaHNoRDFqN3luNUVzMTlTaTRScWtaX0pyOEY2RUM1dVBfdlI0SGVtTXZjd0Q4MXJYRE9lM1lxOVFDTkRNREZlcUJhRzJ3?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-09-06/story-03.mp3",
+      "title": "2. 山梨の秘湯で「お世辞抜きで凄すぎる」極上ステイ",
+      "duration": 99,
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBodTRVRnRUNWdUS1Q2U0RLM3hPT2syQ3JQSWhianFnMGhxQ1Ntd2FRTGdhRlBtRXIwel8ydDBjNjljZXRfM05QYnY5bGc2Y201Y0p0cWFITGxTbDJqUmd3?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-09-06/story-04.mp3",
+      "title": "締め",
+      "duration": 12,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
