@@ -53,6 +53,7 @@ if (!(await step("原稿生成(AI)", "generate.mjs", [date, "ai"]))) process.exi
 await step("原稿生成(飲食×AI)", "generate.mjs", [date, "food"]);
 await step("原稿生成(AIで稼ぐ)", "generate.mjs", [date, "money"]);
 await step("原稿生成(心に残る接客)", "generate.mjs", [date, "story"]);
+await step("記事生成(読むうんちラジオ)", "article.mjs", [date]);
 if (!(await step("音声化", "tts.mjs", [date]))) process.exit(1);
 await step("ポッドキャストRSS", "rss.mjs");
 await log("===== すべて完了 =====");
