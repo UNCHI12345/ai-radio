@@ -46,7 +46,7 @@ async function step(name, file, args = []) {
   }
 }
 
-await log(`===== UNCHI AI RADIO 自動実行 (${date}) =====`);
+await log(`===== うんちラジオ 自動実行 (${date}) =====`);
 if (!(await step("収集", "collect.mjs"))) process.exit(1);
 if (!(await step("原稿生成(AI)", "generate.mjs", [date, "ai"]))) process.exit(1);
 // サブチャンネルは失敗しても放送自体は止めない

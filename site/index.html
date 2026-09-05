@@ -8,7 +8,7 @@
 <link rel="apple-touch-icon" href="icon-192.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<title>UNCHI AI RADIO</title>
+<title>うんちラジオ</title>
 <style>
   :root {
     --bg: #0a0a0f;
@@ -162,7 +162,7 @@
 </head>
 <body>
   <header>
-    <div class="logo">UNCHI <span>AI RADIO</span></div>
+    <div class="logo">UNCHI <span>RADIO</span></div>
     <div class="h-right">
       <div class="total" id="total"></div>
       <button class="icon-btn" id="btnHistory" aria-label="履歴" title="再生履歴">☰</button>
@@ -378,7 +378,7 @@ function updateMediaSession(t) {
   if (!("mediaSession" in navigator)) return;
   navigator.mediaSession.metadata = new MediaMetadata({
     title: t.title,
-    artist: "UNCHI AI RADIO",
+    artist: "うんちラジオ",
     album: fmtDate(currentDate),
   });
   navigator.mediaSession.setActionHandler("previoustrack", () => play(current - 1));

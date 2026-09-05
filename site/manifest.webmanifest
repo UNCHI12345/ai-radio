@@ -1,7 +1,7 @@
 {
-  "name": "UNCHI AI RADIO",
-  "short_name": "UNCHI RADIO",
-  "description": "毎朝のAI情報を日本語音声で。UNCHIが届けるAIラジオ",
+  "name": "うんちラジオ",
+  "short_name": "うんちラジオ",
+  "description": "毎朝のAI情報を日本語音声で。UNCHIが届ける毎朝のラジオ局",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#0a0a0f",

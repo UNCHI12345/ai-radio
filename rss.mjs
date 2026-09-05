@@ -48,9 +48,9 @@ for (const date of dates) {
 const xml = `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>UNCHI AI RADIO</title>
+    <title>うんちラジオ</title>
     <link>${esc(base)}</link>
-    <description>毎朝のAI情報を日本語音声で。UNCHIが届けるAIラジオ</description>
+    <description>毎朝のAI情報を日本語音声で。UNCHIが届ける毎朝のラジオ局</description>
     <language>ja</language>
     <itunes:image href="${esc(base + "/icon-512.png")}"/>
     ${items}
