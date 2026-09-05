@@ -1,0 +1,88 @@
+[2026-09-05T20:03:37.693Z] ===== うんちラジオ 自動実行 (2026-09-06) =====
+[2026-09-05T20:03:37.695Z] --- 収集 開始
+収集を開始します…
+  サイモン・ウィリソン: 3件
+  swyx (Latent Space): 1件
+- 信頼レーン 合計 9件
+- HN 9 / GitHub 10 / Reddit 0件
+- 既出のため除外: 13件
+- 本文取得 (15件のリンク先)…
+  本文が取れたもの: 7件
+AIチャンネル: 15件 → /home/runner/work/ai-radio/ai-radio/out/2026-09-06.md
+- チャンネル「飲食×AI」
+  8件
+- チャンネル「AIで稼ぐ」
+  6件
+- チャンネル「心に残る接客」
+  2件
+
+完了
+  r/LocalLLaMA: HTTP 403 (スキップ)
+  r/MachineLearning: HTTP 403 (スキップ)
+  r/OpenAI: HTTP 403 (スキップ)
+  r/ClaudeAI: HTTP 403 (スキップ)
+[2026-09-05T20:06:34.416Z] --- 収集 完了
+[2026-09-05T20:06:34.416Z] --- 原稿生成(AI) 開始
+原稿を生成中… (ai: 2026-09-06.md, 40KB)
+....................................................................................................................................................................
+完了: /home/runner/work/ai-radio/ai-radio/scripts/2026-09-06.md
+文字数: 約5737字 / API費用: 約66円
+[2026-09-05T20:15:17.691Z] --- 原稿生成(AI) 完了
+[2026-09-05T20:15:17.691Z] --- 原稿生成(飲食×AI) 開始
+原稿を生成中… (food: 2026-09-06-food.md, 4KB)
+...................................................................................
+完了: /home/runner/work/ai-radio/ai-radio/scripts/2026-09-06-food.md
+文字数: 約4706字 / API費用: 約39円
+[2026-09-05T20:20:27.767Z] --- 原稿生成(飲食×AI) 完了
+[2026-09-05T20:20:27.767Z] --- 原稿生成(AIで稼ぐ) 開始
+原稿を生成中… (money: 2026-09-06-money.md, 2KB)
+..................................................................
+完了: /home/runner/work/ai-radio/ai-radio/scripts/2026-09-06-money.md
+文字数: 約3250字 / API費用: 約23円
+[2026-09-05T20:23:25.544Z] --- 原稿生成(AIで稼ぐ) 完了
+[2026-09-05T20:23:25.545Z] --- 原稿生成(心に残る接客) 開始
+原稿を生成中… (story: 2026-09-06-story.md, 1KB)
+............................................................
+完了: /home/runner/work/ai-radio/ai-radio/scripts/2026-09-06-story.md
+文字数: 約2746字 / API費用: 約13円
+[2026-09-05T20:25:06.868Z] --- 原稿生成(心に残る接客) 完了
+[2026-09-05T20:25:06.868Z] --- 記事生成(読むうんちラジオ) 開始
+記事を生成中… (素材 46KB)
+......................................................................................................................
+完了: 食中毒"1発アウト"をAIで防ぐ衛生管理術 (約5862字)
+記事: site/articles/2026-09-06.html / SNS文: out/2026-09-06-sns.txt / 費用: 約34円
+[2026-09-05T20:28:23.183Z] --- 記事生成(読むうんちラジオ) 完了
+[2026-09-05T20:28:23.183Z] --- 音声化 開始
+[2026-09-05T20:31:23.957Z] !!! 音声化 失敗: Command failed: node /home/runner/work/ai-radio/ai-radio/tts.mjs 2026-09-06
+file:///home/runner/work/ai-radio/ai-radio/tts.mjs:112
+          throw new Error(JSON.stringify(data).slice(0, 200));
+                ^
+
+Error: {"error":{"code":400,"message":"This request contains sentences that are too long. Consider splitting up long sentences with sentence ending punctuation e.g. periods. Sentence starting with: \"⟪LINK\"
+    at synthGoogle (file:///home/runner/work/ai-radio/ai-radio/tts.mjs:112:17)
+    at async file:///home/runner/work/ai-radio/ai-radio/tts.mjs:203:20
+
+Node.js v24.20.0
+
+声: ja-JP-Chirp3-HD-Kore (Google Cloud TTS)
+--- AIニュース (9本)
+ai-01 導入 … 0分35秒
+ai-02 1. オープンエーアイ、新フラッグシップ「ジーピーティー6アストラ」を正式リリース … 2分25秒
+ai-03 2. AIが障害対応すると、エンジニアが腕を失う … 2分50秒
+ai-04 3. スポティファイの「ポータル」でクロードコードのトークン使用量が90%削減 … 2分4秒
+ai-05 4. ブレンダーとAIコーディングエージェントで3Dシーンを自動生成 … 0分59秒
+ai-06 5. AIランキング最新版、1位アンソロピック・2位オープンエーアイ … 0分59秒
+ai-07 6. ギットハブトレンド：図表テンプレート集とクロードコードツールキット … 0分46秒
+ai-08 今日のAIレッスン … 1分52秒
+ai-09 締め … 0分12秒
+--- 飲食×AI (6本)
+food-01 導入 … 0分23秒
+food-02 1. 知名度が高いほど「1発アウト」──こめお食中毒問題に学ぶ食の安全管理 … file:///home/runner/work/ai-radio/ai-radio/tts.mjs:112
+          throw new Error(JSON.stringify(data).slice(0, 200));
+                ^
+
+Error: {"error":{"code":400,"message":"This request contains sentences that are too long. Consider splitting up long sentences with sentence ending punctuation e.g. periods. Sentence starting with: \"⟪LINK\"
+    at synthGoogle (file:///home/runner/work/ai-radio/ai-radio/tts.mjs:112:17)
+    at async file:///home/runner/work/ai-radio/ai-radio/tts.mjs:203:20
+
+Node.js v24.20.0
