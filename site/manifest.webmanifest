@@ -1,7 +1,7 @@
 {
   "name": "うんちラジオ",
   "short_name": "うんちラジオ",
-  "description": "毎朝のAI情報を日本語音声で。UNCHIが届ける毎朝のラジオ局",
+  "description": "AI・飲食・稼ぐ・接客。UNCHIが毎朝届ける4チャンネルのラジオ局",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#0a0a0f",

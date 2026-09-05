@@ -50,7 +50,7 @@ const xml = `<?xml version="1.0" encoding="UTF-8"?>
   <channel>
     <title>うんちラジオ</title>
     <link>${esc(base)}</link>
-    <description>毎朝のAI情報を日本語音声で。UNCHIが届ける毎朝のラジオ局</description>
+    <description>AI・飲食・稼ぐ・接客。UNCHIが毎朝届ける4チャンネルのラジオ局</description>
     <language>ja</language>
     <itunes:image href="${esc(base + "/icon-512.png")}"/>
     ${items}
