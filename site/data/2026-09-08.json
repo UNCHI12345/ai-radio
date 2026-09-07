@@ -1,0 +1,142 @@
+{
+  "date": "2026-09-08",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "audio/2026-09-08/food-01.mp3",
+      "title": "導入",
+      "duration": 22,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-08/food-02.mp3",
+      "title": "1. 7月外食産業指数、2カ月連続マイナス",
+      "duration": 67,
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE55cHA2cWRKNGVvVlFocTE3X3RNNFBDNHZ6MGN2SlJmWHU5RzA4OTA2RktaMC13Q3g0UmxTcUVSMXgteHZKdFE?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-08/food-03.mp3",
+      "title": "2. 飲食店経営者の7割が「災害に備えている」一方で、対応方針を文書化・共有できているのは5%程度",
+      "duration": 95,
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5oVmpMOHNuUjB4V2xMOUE2aW1UZUw5eUw2aGN4djRMUThjcE5Lb1pwVGNrNDY0VndwUmM4aGtOX0JCSW9w?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-08/food-04.mp3",
+      "title": "3. ステークホルダーフーズ、植物性ステーキなど「パーフェクタ」5製品を米国小売で販売開始",
+      "duration": 83,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yTGhvQlRuVW9KMnJwSldZSUVOOFk5ajNtNmRIeTNTdzd6WWx4aWFZZlU1T3dDWHVTRGlqN2poQVdjXzNLNzl4eUlsaWxIR0txY05RLXREc3pDM2lqTTNZQjgyRW5wc09UaVE?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-08/food-05.mp3",
+      "title": "4. アメリカ撤退から10年。スシローが今、ニューヨークへ進出する「3つの商機」",
+      "duration": 73,
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYjVGQXZReDVEby14MGMtMGRRTVNQZ2l1UDlpWGZ4MGZ1QVZUdjNVdjRXSV9XT3FqMlZhWmNmVFJVQXhIYnVRM1AxdlY2ZF9neHlLTTZJV3RlY3J6REVETVZtUXZRV2tzaTNSZUxwYUJidE1oR0lKZDVMU1F0NjVQSGVXUkZ5X0lu?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-08/food-06.mp3",
+      "title": "締め",
+      "duration": 14,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-08/money-01.mp3",
+      "title": "導入",
+      "duration": 28,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-08/money-02.mp3",
+      "title": "1. オープンエーアイが「ウィキ事件」を公式に認める",
+      "duration": 139,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZR3J3ck1VcnVzTEtDcnhoaTBMc2E3ek9BUkIxOXpIcjVjTXo5TlBmazdUTkhaNWtKY2FNQmdrcUhxZDFLdVJpMy1wcjNxZ0xrY3AxQ0dwWEptdnoxYUJqN2VmdGtOSlVyMWpqdVJyZVNfNktMTmM1N2RiM3VQcVU?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-08/money-03.mp3",
+      "title": "2. エーダブリューエスが「野良エーアイエージェント」管理ツールを発表",
+      "duration": 141,
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9vWWRoaUZqQXdjZV9QaVlUWHFuekdweTZsUncwcHYtc1NXOHBLRU1ZVk1NcVBQMlloOUV6cnB5bU95SmNtcE1DTVNuOGhqZFFsM0VYN1E5dTZZck5Ld0N6LTNZNVVmbENYMzJta3dtNUdqZGZm?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-08/money-04.mp3",
+      "title": "3. マルチエージェントの可能性と必要なインフラ",
+      "duration": 80,
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9vZkQ0dXdMTUU3MkZGQnBmelN6UVZYQm5pQWVtQUZ4bVhybEN6RjRRV2FBZVBSeGlmLWxiRHFrMFpGdHRJUW5HZWdqT29hYTNxR1NTeU1ORDl0VVdyX2lPcGdVak9QYjV3Nlc0Tm9nalVsZw?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-08/money-05.mp3",
+      "title": "4. 日立製作所のフィジカルエーアイ戦略",
+      "duration": 72,
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zNjdQdUxhZnZ3NktZOGVacGZ5YVF5SWkyZ0tsenFIZ2tOLXlNcmNUaTJDd0JiNFpRX0tqdUhYMjVxTUs5SEJETGJOVmJQSHloMEJMdkpUY3I5TmtnUE84STR0S291dGFweFRSMm82S3B5VlVN?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-08/money-06.mp3",
+      "title": "5. リープエーアイの交流会イベント案内",
+      "duration": 50,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kMnZWaFJZd1VVd1FUTTBwdUFUVjNZajBpZDJTUWp4X2JMTE5YWmZyOU1PLUVaaGdjclNqZ2NSSldTNWxqWEF0TEEtek83ZF8yTHBwSklNQ1AxZEZud3ppZTVjVlAtbmpzVHc?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-08/money-07.mp3",
+      "title": "締め",
+      "duration": 18,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-08/story-01.mp3",
+      "title": "導入",
+      "duration": 18,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-09-08/story-02.mp3",
+      "title": "1. 新井貴浩の直筆メッセージ、関東の聖地で神対応",
+      "duration": 121,
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAzNkV1dktkNDhrRU85SWFPVW9MRUhWZU1qU01UQWs4SklyZHYyWmJQSWNWVEJIM3VUaEFhZWdEYTlEa3N1b1d1c3FzZk9RVVdTbkIxdtIBWkFVX3lxTE1OYkpvcE1sNjBYM1gyREdoV1dieXowV190TFVqbDZOWDlmRnExdTZmREtsZEdYUjdEQkNyUlJSakdGZDhCa0JNZlk4NWZQZTYteUN3RFlhX3hHUQ?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-09-08/story-03.mp3",
+      "title": "2. 車両基地がおもてなしの成功事例に ―― 阿武隈急行から学ぶ",
+      "duration": 131,
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ubkdZUml0N0VwRmF5Nk5DX3hrbkRlZlNQdjF4czd3ME5OYXE2al92bXVDc0lxOHVyVHZmQTQ4RjA0cFMzb0pVX0VzVQ?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-09-08/story-04.mp3",
+      "title": "締め",
+      "duration": 12,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
