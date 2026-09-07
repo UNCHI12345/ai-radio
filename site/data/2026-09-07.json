@@ -1,0 +1,214 @@
+{
+  "date": "2026-09-07",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "audio/2026-09-07/ai-01.mp3",
+      "title": "導入",
+      "duration": 38,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-07/ai-02.mp3",
+      "title": "1. 「エーリアン・マインド」と「研究加速」：オープンエーアイからの二つの重要な文書",
+      "duration": 257,
+      "link": "https://openai.com/index/an-alien-mind",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-07/ai-03.mp3",
+      "title": "2. ジーピーティー6 アストラの実力：ロボットアームと、使ってみた人たちの声",
+      "duration": 153,
+      "link": "https://openai.robocurve.org/gpt-6-astra/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-07/ai-04.mp3",
+      "title": "3. 25年間インターネットの自由を守り続けた団体が終わる",
+      "duration": 85,
+      "link": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-07/ai-05.mp3",
+      "title": "4. ジーピーティー6 アストラ、リリース24時間以内にジェイルブレイク",
+      "duration": 52,
+      "link": "https://www.reddit.com/r/OpenAI/comments/1w8okha/gpt6_reportedly_jailbroken_within_24_hours_using/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-07/ai-06.mp3",
+      "title": "5. エーアイはなぜ会社をなかなか変えられないのか",
+      "duration": 71,
+      "link": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-07/ai-07.mp3",
+      "title": "6. エマド・モスタックの警告「インターネットは数年以内にオフラインになるかもしれない」",
+      "duration": 68,
+      "link": "https://www.trendingtopics.eu/emad-mostaque-ai-internet-outlook-english/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-07/ai-08.mp3",
+      "title": "今日のAIレッスン",
+      "duration": 128,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-07/ai-09.mp3",
+      "title": "締め",
+      "duration": 27,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-07/food-01.mp3",
+      "title": "導入",
+      "duration": 21,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-07/food-02.mp3",
+      "title": "1. 「外食業」で外国人受け入れ停止、激化する引き抜き合戦と地方の人手不足",
+      "duration": 92,
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSjVHdV9lS0dFb1hOWHNZejNITTBlZl8tazFSMHNkUkVXdTJRTnFXeFJxcUxKQ0l2NFdnbmNqU1NzN19DUS1ITXVDWFo4TmxxcDdKX0RTX1ZRUmdJdGItWTJLTXJ3WXVsUW9EU1J4Ml9RWjIwdE52bkkzMklfb2syQlJWVzg2aHRiYWZ5Z3laaHRoVGvSAYwBQVVfeXFMTlZjek9aX3p2WnB1S25WQnJRd2p1VEJzVTZfTDFYbUlGQ2pPQzB0eWc1c0hZUWZPZ213bUZUOEdxWklSRUdiYlVOVEtvdHhKZDJEamZnMFg5Qnk5Sk9fN3h2NHRLQnRXRG10QUF3U3dxcWJIQ3dwVUFsLU9EVkRwSVNrLXlTbElvTHFOQXU",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-07/food-03.mp3",
+      "title": "2. 相次ぐ食中毒事件——麻布十番の集団発生と、こめおの丸刈り謝罪",
+      "duration": 117,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00TGpHNnRqU3E3bTZ1ZnRJclRUUlRhck10NlBIY3Vad3hLZGxNczlZQTN2SWhZZk5JNFBsUlhFT2hQSHo3X0Z4aVljd2k1VmVEeTRrVEE4TS0yMVAwWTYzWVg4QnljcEM0Z29icDcyMDVJd0EyWmsyX3dUNjZFdGc",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-07/food-04.mp3",
+      "title": "3. オランダでプラントベース食品の価格が動物性を逆転——平均18%安く",
+      "duration": 109,
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QVEVEREUzWE5hcWoxUWVUWFBnSEdERUQ0NVJMY1dybVBSNDJIaVVXSFRmMWZxQUlNWHlNeXZVWmgzMmM5WWh3QzdwRjVJU3E3YkVPcy16aFFrdzI2",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-07/food-05.mp3",
+      "title": "4. あさくまが「カンタレス経営」で売上高25%増、3年で200億を目指す",
+      "duration": 93,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mWTRFX0RmRzNJbUhpaFF1RVRSblZrLXpfekIwa2hwTkEtajNsT09UWlh5aHBKS2VnaUxid0tKbXhFX0pIRXVPTUxZelozM1RfalB6ck9nZ2pHRkNrLWhnNnhnY1BXaW1HNHc",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-07/food-06.mp3",
+      "title": "締め",
+      "duration": 12,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-07/money-01.mp3",
+      "title": "導入",
+      "duration": 22,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-07/money-02.mp3",
+      "title": "1. 2万社調査でわかった「8割の企業がまだ動けていない」という現実",
+      "duration": 121,
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sWlhudkdoTjFnQkhJbFdKbEo1ejQzWVdhRnZnc1RCRHBsMlJESzdubkZBYVVKalFIUlpKRV94MGZYcGpxSGxSZVN6R2h5MDQ?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-07/money-03.mp3",
+      "title": "2. ディープシーク離れ？中国エーアイの値下げ合戦が副業コストに与える影響",
+      "duration": 123,
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT3NzY1BDYTB3QkhtU21yd3lvcml0SjZqQ2tyczFGTjlLc25PeDVCWXNySldPWTVDc1hxZDMwZEE1TDBDZkxLWTlIenRxSkRsOGlYLWhkazZDel9ndXphRWFoNHEwdGY5bVctcTBaN1ZEMkpsT1FhNzJ4blZKT21GbUNqX20zMk5q?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-07/money-04.mp3",
+      "title": "3. オープンエーアイが数万台のマックを調達。エーアイがパソコンを操作する時代への布石",
+      "duration": 146,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLaWNQQ3hsb3VKcmFtWlpJY2pjYVJLREQ0Mkt2R0JVVEx2eTRVR1Rvc2hFX0Z0aEEwLUFjRFh3MWJWTVp5aG5wWFA3bUZ1LVRZUi1j?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-07/money-05.mp3",
+      "title": "4. 個人開発：エーアイエージェントに「インターンのレビュー」を挟むという発想",
+      "duration": 118,
+      "link": "https://github.com/alpbahadur/interns-review-plugin",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-07/money-06.mp3",
+      "title": "締め",
+      "duration": 12,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-07/story-01.mp3",
+      "title": "導入",
+      "duration": 12,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-09-07/story-02.mp3",
+      "title": "1. 元パイロット、75歳のスタバスタッフ",
+      "duration": 161,
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE41NVN2Tzg5S0VlRTNEZzVkc1lzZEtzNHFhSU0xV212M285cVd0eldER1E5THpfMnEzMEJiVEFOTXdFOVRnSEtnZkM4Q3BUWDBvUkFYVmtlNjZLbWtn?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-09-07/story-03.mp3",
+      "title": "2. 落語家と翻訳アプリ、令和の国際交流",
+      "duration": 158,
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4tNnBDTVJlUUdBbG1CbnpfaDItQTY0MjNxelpNejFCMlJQanRWa3JpYmJxVlhTZlhQbEhsQUZhTjJWUWttUzZBbE5OZ1lVSHJsWmt6V2NiZm1obnFXMDdRcDFNc3VURU5FUVBEU2dB?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-09-07/story-04.mp3",
+      "title": "3. 鉄道の車両基地が観光スポットに",
+      "duration": 36,
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9NTW9tQkJhYS1YbnVmNU1VaGl2VGJRSVFiSVZTb3dVNjBwSDZoUmN1dUlHeDVkbUpkeGQ0Nk1QUDVoTi04Q3FESVg4TnlRdG8?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-09-07/story-05.mp3",
+      "title": "締め",
+      "duration": 10,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
