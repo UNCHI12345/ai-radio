@@ -41,6 +41,8 @@ function sanitize(text) {
     " "
   );
   s = s.replace(/[ \t]+/g, " ");
+  // URLは読み上げから除去(長すぎる文としてGoogleに拒否されるため)
+  s = s.replace(/https?:\/\/\S+/g, " ");
   // カギ括弧は読まれない上に、句点直後にあると文の切れ目と認識されなくなるため除去
   s = s.replace(/[「」『』]/g, "");
   // 改行はGoogleに文の切れ目として扱われないため、句点に変換する
@@ -165,10 +167,9 @@ function parseSections(text) {
     let body = (parts[i + 1] || "").trim();
     let link = null;
     const linkMatch = body.match(/^LINK:\s*(\S+)\s*$/m);
-    if (linkMatch) {
-      link = linkMatch[1];
-      body = body.replace(/^LINK:.*$/m, "").trim();
-    }
+    if (linkMatch) link = linkMatch[1];
+    // LINK行は何本あっても全部取り除く(残るとURLが読み上げられ音声化が失敗する)
+    body = body.replace(/^LINK:.*$/gm, "").trim();
     if (body) sections.push({ title, body, link });
   }
   return sections;
