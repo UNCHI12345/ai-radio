@@ -1,0 +1,238 @@
+{
+  "date": "2026-09-10",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "audio/2026-09-10/ai-01.mp3",
+      "title": "導入",
+      "duration": 44,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-10/ai-02.mp3",
+      "title": "1. エーアイが88時間でミレニアム賞問題を解いた？",
+      "duration": 194,
+      "link": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-10/ai-03.mp3",
+      "title": "2. テレンス・タオの警告　数学の「未解決問題」が枯渇する",
+      "duration": 87,
+      "link": "https://simonwillison.net/2026/Sep/9/terence-tao/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-10/ai-04.mp3",
+      "title": "3. 「エーアイは人類を滅ぼすかもしれない」アンソロピック研究者が辞表と警告",
+      "duration": 105,
+      "link": "https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-10/ai-05.mp3",
+      "title": "4. アンソロピックが活動家の監視システムを構築との報道",
+      "duration": 57,
+      "link": "https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-10/ai-06.mp3",
+      "title": "5. ポール・クリスティアーノがオープンエーアイの安全委員会に参加",
+      "duration": 26,
+      "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-10/ai-07.mp3",
+      "title": "6. ジーピーティー6アストラ　「隠れた思考」と新アーキテクチャの謎",
+      "duration": 44,
+      "link": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-10/ai-08.mp3",
+      "title": "7. ディープシーク　ブイ4.1フラッシュ本日リリース",
+      "duration": 28,
+      "link": "https://news.ycombinator.com/item?id=49624603",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-10/ai-09.mp3",
+      "title": "8. ジーピーティーイメージ2.5　参照写真の再現精度が向上",
+      "duration": 29,
+      "link": "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-10/ai-10.mp3",
+      "title": "今日のAIレッスン",
+      "duration": 106,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-10/ai-11.mp3",
+      "title": "締め",
+      "duration": 18,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-10/food-01.mp3",
+      "title": "導入",
+      "duration": 16,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-10/food-02.mp3",
+      "title": "1. 外食業の特定技能、受け入れ再開がいつになるか決まらない",
+      "duration": 107,
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQmJuRFJLblh0WWJzam5NZS1vbXd6SGItNEJCRG1JQkUteElqNmxiV2pIQkYzak1Sc0tIemJCTFAtaWUtcGV3NVNZOVY2VktBQUNTOHVDUDJjNEhfdDhwREE3bmpraHVUdzR4ZWVSNlBfTmt3aVByRTVxVENUajdXU1labldGQldsaWVHa1F1VDdJbUhIM3fSAZsBQVVfeXFMTVRkcG5iZjc3SmhJdkdOWjZybjdjd2pDVnJrVmtUV0huVlNEN1owV1hpSnh1YmpWQ3FBcnYyOUhkTmhKaURMM3FMMTBhUG02a1VOM2I4Y05aWlI0YXBSVzc2Rkh5eVhEQUtZcFljZkxGM1VxOXQ2OUU3M05IbHB3dGZOdm14c1NoNUQxVThTSkNrUzctLTV6S0hHRTA?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-10/food-03.mp3",
+      "title": "2. 浜松発のクレープロボットが外食産業から注目、元スズキ技術者が開発",
+      "duration": 101,
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3bzY3Sy13V2pmbkNIVUVQZWZMMEFDcEFsZzNZYUpLbDcxSGM0Y2hZaXQ2X1BUN251NlQxTXc3SzdRNURuX2V3enBmV3pDTnczOWw2WEVnRzRDaW1PY2dr?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-10/food-04.mp3",
+      "title": "3. 農業法人を新設して外食産業にコメを複数年契約で、青森で新しい動き",
+      "duration": 92,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94R19PakI0N1ZvTXpmTWdhMHhUc21HVmxScVhpWXdoWlFOVlF4ZlBjMEFQYU5yQ3FySTZ5bXNXT0JtTFVYUGxSWUpZQ2VpcnoyWlJQNmNKUlE3OW5DZUwtYVVJUFFkeklxNUxxTUpSc0kzZkhvR3YzLURQMk9Lb0E?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-10/food-05.mp3",
+      "title": "4. ベルギーのパレオ社、精密発酵でミオグロビンの商用化へ前進、1万リットル超で実証",
+      "duration": 87,
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NR3EwVE1NRHctX1Axb0RuckpuaGlWZm5ldUVoMDZpOWRsZkVPMGI3T0Y2Rkk2RUNFQTcxaC1wbkJOZ2E3Z2ktRkZVYkJwTGdPSFUyNWZQNDJ5UQ?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-10/food-06.mp3",
+      "title": "締め",
+      "duration": 14,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-10/money-01.mp3",
+      "title": "導入",
+      "duration": 13,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-10/money-02.mp3",
+      "title": "1. ラボロエーアイが本を出す――400プロジェクトの実践知識が一冊に",
+      "duration": 87,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oLXZSdzBtOHVOekk2MnA2a1JOS0Zrc1ZtWXhrczlDcGZNVno2aHVKX294WGtHaTh0SnlNaUUwa3BQdENNYlBZMExpMGE0TEh1bWpNTFRVS1hJMjdhZklIdnRyd1QycE5HbEE?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-10/money-03.mp3",
+      "title": "2. 製造業×エーアイエージェント――ギブリーが愛媛県のプロジェクトに採択",
+      "duration": 63,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPcERCdVJlU3U1dkZnU25yTlZ1UDRFbjZicVZnb0lVOEhzLXFrMnZON0k4bDhPTWlQWFFQR1tVLWtwZnFrb243WEdCOVp3MGwxTmQ3cjg1d2tfUzJkRk5EemYwa1dQZlE?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-10/money-04.mp3",
+      "title": "3. 個人開発：ガイガー――パソコンの中にいるエーアイエージェントを可視化するツール",
+      "duration": 83,
+      "link": "https://github.com/Atomburstofficial/geiger",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-10/money-05.mp3",
+      "title": "4. 個人開発：ゲームボーイアドバンスのゲームを最新エーアイで作る",
+      "duration": 86,
+      "link": "https://www.spritefusion.com/blog/making-a-game-boy-advance-game-with-gpt-6-astra",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-10/money-06.mp3",
+      "title": "5. 個人開発まとめ：セルフホスト型の会社システムと、非エンジニア向けクラウドエーアイ",
+      "duration": 89,
+      "link": "https://github.com/OtoDock/oto-dock",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-10/money-07.mp3",
+      "title": "6. 注意喚起：エーアイエージェント×暗号資産×リアルワールドアセット、この組み合わせは慎重に",
+      "duration": 73,
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JUmhhbkF0c3VodkEwcnU4T3BwNzh2cmVTcjdPZHpmdVBRWEw3YVR2VVl4aGdSLU5KRXdsOW9vQVZwcVZJTmJTUmFGNmhqVUtTeEFRMzRGTFU3dw?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-10/money-08.mp3",
+      "title": "締め",
+      "duration": 16,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-10/story-01.mp3",
+      "title": "導入",
+      "duration": 17,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-09-10/story-02.mp3",
+      "title": "1. 「ミートサンド3000円」速水もこみち、京都のレストランの神対応動画が530万再生",
+      "duration": 134,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNUmNpVUtLSlpXLVlpX2oxWnh6MXRYTEZSdWtSSzFnT1dlM0pYclpXQkVjX1drWkw0MUpSRmFBYXFJV3FZelA0WWxXLVY3MElQZ1lYdThkT21YSGNObEFzcHB5aDRpRHl3UGQ0ZDFYNUNfQnJHZEU1R3BRamdTYTg?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-09-10/story-03.mp3",
+      "title": "2. 超高齢化時代に対応する「シニア接客術講座」",
+      "duration": 95,
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1tOU9PSXk1M29JbWRBVTNWRXI2eU1fMno3ZklNNFZ0Ykd6Uy1FX0hJU2lmUXpxZ0JwSmowMkY4ZlZGRGtkSmx0bFVnWUZQWjd6dWJ6SzRkcENDUzhzaHg1U3pIVkg0dkg3VmtHXzlwbk01Q0c5S3d1N042TQ?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-09-10/story-04.mp3",
+      "title": "締め",
+      "duration": 12,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
