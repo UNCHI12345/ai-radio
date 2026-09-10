@@ -1,0 +1,7 @@
+消費減税で外食離れの懸念が業界から出ています。値下げ競争が始まる前に原価を正確に把握すべき。OpenAIが自然言語でデータ分析できる機能を公開。ExcelもPythonも不要。売上データをAIに渡すだけで原価の穴が見える——具体的なプロンプト付きで解説。
+
+全文はこちら(無料)
+https://unchi12345.github.io/ai-radio/articles/2026-09-11.html
+
+毎朝5時、音声でも配信中
+https://unchi12345.github.io/ai-radio/

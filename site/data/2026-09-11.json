@@ -1,0 +1,102 @@
+{
+  "date": "2026-09-11",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "audio/2026-09-11/food-01.mp3",
+      "title": "導入",
+      "duration": 21,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-11/food-02.mp3",
+      "title": "1. 外食業界団体、消費減税に「待った」——食事券での支援を政府に要請",
+      "duration": 134,
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9menRBdWFud1liLWpfVDBTNnZMQWhTXzNqUnBxMk5yOU10c0JxTHhfaV96eTZndkVla2MzUzQ0d05Zbnc5U0FZVWEwUzBEZU9jN0IxRl95SjRCVUlOeXlnZ2FWMEs2VG8?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-11/food-03.mp3",
+      "title": "2. 農業法人が外食産業にコメを直売——複数年契約で「お米の仕入れ価格」を安定させる新スキーム",
+      "duration": 124,
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTVB1MjczLW9JbmdONzRIUHg4ejMteXB6WDNsUU5TZmZVRno2X0V1dm1rdlMxa05zNDVPR09vRUZyWGFoUl9lWjZTYzRZS0drbUNIUFVBeF8wbjZIN1dYN1J2emxXSUdWNkd1ODRVRTJLVXNfRlFwYWhUaWMyRFlkV2pqQ2xVTlE?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-11/food-04.mp3",
+      "title": "3. フィンランドの昆虫工場が年間5,000トンのタンパク質を量産へ——外食の「タンパク質コスト」はこれから変わるか",
+      "duration": 129,
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xMDJoMnkyblg4RXZrMEhsbVZINjktU3h0MkZETlU2MDFQUlRfRTljUU4tTjhpbXRUdEluZDJLWkRiaFVkdHIwRl9SZVh2d19aN28wb1JZTHlqMkk?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-11/food-05.mp3",
+      "title": "締め",
+      "duration": 17,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-11/money-01.mp3",
+      "title": "導入",
+      "duration": 28,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-11/money-02.mp3",
+      "title": "1. アイビーエムが「エージェントを監視するエージェント」を一般提供",
+      "duration": 95,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HcWRiekNDcEdCajhEdG1WRmRGVVhlNC1ReU1wM1oyMUxJelkxSF9xNnlfWGp6aGFJMXE2X0tZTldMdE1iSTlSMHI0QTFhVFNRZzNVWEJoVXZKajNuR01mNk85UnVyWkxfRG84WC1hSWxaZmxjbjdON1Y3blhqeG8?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-11/money-03.mp3",
+      "title": "2. 韓国エスケースクエア：80人で90個のエージェントを開発",
+      "duration": 96,
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80MjhNVDQ1cmlrTHVGSkdWOXVseldlSVI4SC1SVkhmVnlFSUY1WXVGbEFkR3ZZSlkwdkM2YW9XNVM1SU1WdjBSX1dHdl9CT1N4Y0ZEUzhVNHJkU0pacGhFcVRuc3VFamZ1OWIwWk50bWxEZmc2?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-11/money-04.mp3",
+      "title": "3. 中小企業向けのマルチエージェントツールが出揃いつつある",
+      "duration": 99,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92Qk9SSjlzcFlaMjRyZG1oVlJLbWpLeW82RnFTUEpUaDhkYnhCcXpNXzJ4dVEyUEhDdlBsaFJCLU5EbWZFSDVTOUo1ckRoSkhNaW9wUjdvb3RaTk1fRDd5bTAxQmZFa0dkT2c?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-11/money-05.mp3",
+      "title": "4. 「削るから稼ぐへ」というフレームの転換",
+      "duration": 104,
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSTjlKUTUxWGlFdFNKUk9SZVI4VlY0M0QtR090bTY0YWtnSTV4ajA3ODlKYzUwaC1qeW9pMVZfR3NrcnRBanQyY19VUFU3ZUNtcVhRTmxDdFM?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-11/money-06.mp3",
+      "title": "5. 個人開発：オープンソースのエージェント型ターミナル「ハイドラ」",
+      "duration": 96,
+      "link": "https://github.com/hydraterm/hydra-local",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-11/money-07.mp3",
+      "title": "締め",
+      "duration": 16,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    }
+  ]
+}
