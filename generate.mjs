@@ -154,6 +154,10 @@ for (let attempt = 1; ; attempt++) {
     });
     stream.on("text", () => process.stdout.write("."));
     message = await stream.finalMessage();
+    const draft = message.content.filter((b) => b.type === "text").map((b) => b.text).join("");
+    if (draft.trim().length < 500) {
+      throw Object.assign(new Error(`原稿が短すぎる(${draft.trim().length}字)`), { status: "empty" });
+    }
     break;
   } catch (e) {
     if (e instanceof Anthropic.AuthenticationError || attempt >= 3) throw e;
