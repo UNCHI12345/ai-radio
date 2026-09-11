@@ -1,0 +1,238 @@
+{
+  "date": "2026-09-12",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "audio/2026-09-12/ai-01.mp3",
+      "title": "導入",
+      "duration": 36,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-12/ai-02.mp3",
+      "title": "1. フィールズ賞受賞者25人が怒った日 — AI数学論争",
+      "duration": 212,
+      "link": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-12/ai-03.mp3",
+      "title": "2. オープンエーアイ、開発ペースを落とすことを検討",
+      "duration": 123,
+      "link": "https://www.firstpost.com/tech/openai-wants-to-slow-down-sam-altman-seeks-industry-wide-ai-safety-push-14044848.html/amp",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-12/ai-04.mp3",
+      "title": "3. ショッピファイ、AIのおかげで「一石二鳥」が不要になった",
+      "duration": 111,
+      "link": "https://shopify.engineering/back-to-native",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-12/ai-05.mp3",
+      "title": "4. チャットジーピーティー、10億人の世界",
+      "duration": 24,
+      "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-12/ai-06.mp3",
+      "title": "5. クロード、18歳未満は利用不可に",
+      "duration": 15,
+      "link": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-12/ai-07.mp3",
+      "title": "6. ジェミニ、ウィンドウズ版アプリが登場",
+      "duration": 24,
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-12/ai-08.mp3",
+      "title": "7. クロードに回路基板を設計してもらった話",
+      "duration": 47,
+      "link": "https://www.reddit.com/r/ClaudeAI/comments/1wdgzue/my_first_ever_pcb_entirely_designed_by_claude/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-12/ai-09.mp3",
+      "title": "8. ハギング・フェイスの粋なひとこと",
+      "duration": 41,
+      "link": "https://simonwillison.net/2026/Sep/11/hugging-face-security/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-12/ai-10.mp3",
+      "title": "今日のAIレッスン",
+      "duration": 126,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-12/ai-11.mp3",
+      "title": "締め",
+      "duration": 19,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-12/food-01.mp3",
+      "title": "導入",
+      "duration": 25,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-12/food-02.mp3",
+      "title": "1. 外食10%、食品が大幅減税なら9%差の衝撃——外食業界が国に緊急要請",
+      "duration": 163,
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WbzNpc2FTUFM1NFN5N0YwM1pPQ1JGaEtKcXBPT2FweWY5UnBtel9SVGt1eGtZYkNYckhCaWVQNTEtakhZQ0ZQbUlUUUlHQVFlT1hVNGtCMEFlWXBhTnAwd1NCWWJQcm9vQTZjNnpab0VIZw?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-12/food-03.mp3",
+      "title": "2. 農水省がフードテック専門組織を新設——国が本腰を入れ始めたサイン",
+      "duration": 129,
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1fNTEtOHc1ZTdzZkJPVlZxR1diNGZ4STdiSWlXdUl1N1hsYnVkYmFVNGZOTVpGejFBQWhvY3E1dmVIczZBQnR6aFVXRTNtazl6ZGVfR3RjeGNMeHZTOWVr?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-12/food-04.mp3",
+      "title": "3. 68年の老舗「鶴乃家」が閉店——「お店の知識を残す」というAI活用",
+      "duration": 113,
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54LUgtNmRYYlpGbmlZaFR3WkI2bVBmS3FOSWpLajFlbG9XN0xaWXkzTWlndERjZC1qT0RQT1paM3NvMnlXOWN4eWlsbkozYW0yQUtDWWtDN1lwbXFSN3p4YzJ5TDNyakJmdkE5aTNGTUpJVHpU?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-12/food-05.mp3",
+      "title": "締め",
+      "duration": 13,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-12/money-01.mp3",
+      "title": "導入",
+      "duration": 22,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-12/money-02.mp3",
+      "title": "1. エーアイエージェントがウォレットを持ち始めた",
+      "duration": 132,
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XUXp3RlBkSUUzU1A0ZXpSTkNfSXZ3amtKZjJmX19rQ2owb2U0NjRDdXBBNjhMRVh6dnJHWmZCanM0aXE1dExCcXBOZ0JMVTcyb0hNdTFGSmIxZw?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-12/money-03.mp3",
+      "title": "2. 企業のエーアイエージェント本格導入が一斉に動き出した",
+      "duration": 79,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1JVDZwRS1pUXpTRW8yYW4wS0NxNVA4LWljS2FNdUZuMUV6LWtNSEZmQWJRc3o0RXpnSlZOTjBnd3BWeGNfcUQ5WFZTMElQbTF6dTdtOVVwV0N4LVhvZFJGVmJRTHl5VGd1bUE?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-12/money-04.mp3",
+      "title": "3. ガートナーが示す「エージェントの暴走」対策という視点",
+      "duration": 84,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jVV9YS2xqcFRpZzRyVFZ5N1l6TUFHYjhCMC1EQmxQSFF2b1prOWhibjM3c1BzVGU3Wjgwc0gyQTlwOXNyenRTVm50WUdBTXc2el9PcGUtTzRxTmhhN1NHeXNxTUU5Z0tFUkRnWXN6SWJ5RGstbWhtakdlcE92MjA?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-12/money-05.mp3",
+      "title": "4. クロード・スタッツバー：コンテキスト使用量をメニューバーで見える化",
+      "duration": 101,
+      "link": "https://github.com/Field-Logic-Ltd/ClaudeStatsBar",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-12/money-06.mp3",
+      "title": "5. 音声エージェントのテストを自動化するオープンソースツール",
+      "duration": 80,
+      "link": "https://github.com/egma-ai/egma",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-12/money-07.mp3",
+      "title": "6. エムシーピーでエーアイにゲームをプレイさせる",
+      "duration": 44,
+      "link": "https://clawfight.ai/agents.md",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-12/money-08.mp3",
+      "title": "締め",
+      "duration": 17,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-12/story-01.mp3",
+      "title": "導入",
+      "duration": 25,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-09-12/story-02.mp3",
+      "title": "1. 銭湯の常連さんが帰ったあと",
+      "duration": 156,
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxWktycndGOW1HOTI3S2xUalVhbVc1Nkd6UllkUmsxSElaaGFxMGI5d2hWUkF0ckdXcURHSXV2Z3FJT0lCSm1jRTRjZEl1QWg1WXotdi15eTZ5Uk8zREHSAWNBVV95cUxQU3l3M3ZsOGtwM0pneGQyeEI5SDBpbGIzODRwU1B4c2ZFX25ueVN4cDhVeWNyNmdxc0FyV1VvcGdlZnZ5TzFNZW5ZdDJwZ1plUFlKTlFrb3UxMkZtZE9LVmlVRVk",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-09-12/story-03.mp3",
+      "title": "2. 世界一の朝食を、家まで届ける",
+      "duration": 114,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SMGdTMTBfZGtzM1RjakFZYTVOdUhoQnZFMFVBb3BuWi1DbkllcHM5Nk9pT3IwbXE2QjZPTmVnRENtR3RaTmhhSWVCYktRczdteWdPSE1ITFVzV3V0NGtlOTdEcENpbTdqMEE",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-09-12/story-04.mp3",
+      "title": "3. 背伸びしなくていい",
+      "duration": 95,
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1CNnh2X0tMT19Idl80NktZVnh6QmZhY0pLUFV5TVEyMDdhX2JMVGsyd3Z0X3hOZXRKd1lpNHUySl9ZcmIwU1FnRDhDYmIzTEpqNC04OXNqaG4",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-09-12/story-05.mp3",
+      "title": "締め",
+      "duration": 12,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
