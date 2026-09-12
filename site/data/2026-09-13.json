@@ -1,0 +1,206 @@
+{
+  "date": "2026-09-13",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "audio/2026-09-13/ai-01.mp3",
+      "title": "導入",
+      "duration": 43,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-13/ai-02.mp3",
+      "title": "1. オープンエーアイのエージェントが「ルビージェムズ」に秘密裏にサイバー攻撃を行っていた",
+      "duration": 187,
+      "link": "https://www.rubyhack.ai/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-13/ai-03.mp3",
+      "title": "2. ダリオ・アモデイ「フロンティアのペースを落とさなければならない」",
+      "duration": 171,
+      "link": "https://darioamodei.com/post/we-must-pace-the-frontier",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-13/ai-04.mp3",
+      "title": "3. アンソロピック、エーアイ悪用事例レポートを公開——フーシ派が兵器開発に使用",
+      "duration": 122,
+      "link": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-13/ai-05.mp3",
+      "title": "4. ジーピーティー6アストラ、本番システムの管理を任される",
+      "duration": 43,
+      "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-13/ai-06.mp3",
+      "title": "5. エーアイエージェントがフリーランサーに「仕事を奪います」とスパムメール攻勢",
+      "duration": 70,
+      "link": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-13/ai-07.mp3",
+      "title": "6. 「エーアイに仕事を奪われる」という悲しみをどう乗り越えるか",
+      "duration": 71,
+      "link": "https://simonwillison.net/2026/Sep/12/paul-ford/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-13/ai-08.mp3",
+      "title": "今日のAIレッスン",
+      "duration": 94,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-13/ai-09.mp3",
+      "title": "締め",
+      "duration": 18,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-13/food-01.mp3",
+      "title": "導入",
+      "duration": 15,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-13/food-02.mp3",
+      "title": "1. 外食産業も軽減税率に",
+      "duration": 93,
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tWkp3OW5UMGE4TkhfYzZhV0FSZDZWQWpxVHd3MWdDc3NwdWduTm1oa0Z5aFBjV2g2UnhDZ1NKdEp0enc2YkpEQWNPTHRJYlBXRWlsQ05ReW9vMmF4QWVPYWlsZkk?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-13/food-03.mp3",
+      "title": "2. 老舗食堂ゑびやの生成エーアイ活用、セミナーで公開",
+      "duration": 99,
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9pWjFHdzNPQllJaDVCbkNOZUExMnlRaVlxaHh2eF9OUTBOZFhMOHBjUTNydjFaZGdYU1M3c3p5b0Z1NF9IcG9WTkJmVk13OWZWNVlTOGxOTQ?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-13/food-04.mp3",
+      "title": "3. ステーキのあさくま、「スキマ店長」採用で管理職の長時間労働を是正",
+      "duration": 104,
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uNV9aWW9Mbk5CeEhVZUR0bkV0MllTM1o3ODNRcUVhdV9XempDTmNBVWdyZmpmSmQyb2dzM3hicHVkRHE1TFFjZTMtdzR1dDdidlN1RlFKR0JtUndiazNObU5MWWRUenFsRDFlNg?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-13/food-05.mp3",
+      "title": "4. 農水省、フードテック戦略推進組織を新設",
+      "duration": 94,
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85VFkzWHk1VHZEMFp4b0J5bEJlY1ZQUEhpdllVanBRNHl1WUFJWWVMLWFWMkFhM05fRjlNc0ZobWx4d1lhWEI2blpnZlZleUdiQmxIZmN0VVdaZDV3MlFxenlMWEI4WE1o?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-13/food-06.mp3",
+      "title": "締め",
+      "duration": 16,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-13/money-01.mp3",
+      "title": "導入",
+      "duration": 29,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-13/money-02.mp3",
+      "title": "1. 誰もがエーアイエージェントを持つ時代に何が起きるのか",
+      "duration": 130,
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10V2lfSUliN3ZlMG9Zei1zRUJLeVB3WEx1VjRRYllWZkJfOE9ieWZkbzBBbWJqeUNKbGkxck4zTnpiUGZneE5aZnVMZEhnUTNMUmRiX0tzOXUwZw?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-13/money-03.mp3",
+      "title": "2. エーアイが書いた記事をフィルタリングするブラウザ拡張機能",
+      "duration": 189,
+      "link": "https://hnslop.nilsherzig.com/",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-13/money-04.mp3",
+      "title": "3. エーアイの「わからなさ」を超高速で測るツール",
+      "duration": 139,
+      "link": "https://github.com/Adarshent/Spnda",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-13/money-05.mp3",
+      "title": "締め",
+      "duration": 15,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-13/story-01.mp3",
+      "title": "導入",
+      "duration": 19,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-09-13/story-02.mp3",
+      "title": "1. ゴルフ場のポーター、失望と感動が紙一重という話",
+      "duration": 113,
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE94bHBJTnFNUFVkNHhxTVpjQ3VObFB0aGNWd1Qya2JTLVVrSzJGWFJxMXl2Q1NLOUJJVlNaZjlEZkRMajlU?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-09-13/story-03.mp3",
+      "title": "2. 銭湯の常連さんが帰ったあとに",
+      "duration": 130,
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQX3htWXdmZV9xNmRxTEZWLVJHNU5rZDU2MG9UWVlLblBSdzBFQkZmTVdWblRGbEZPVXFjRjg5bVRrNFg5a2txdXlhcmFIVGplUVNTZG1sLW5oR2NJaTNUXy1WZVFnZ1lH?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-09-13/story-04.mp3",
+      "title": "3. AI時代にこそ、人が宝になるという逆説",
+      "duration": 94,
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5nX0hBc0phWXlZT3RHN1lJX2VaMEttRElYckhEck9WeWp3MHh3WUF5VFVOemdnV242WFhJeWI5Zm96cTIxcGphOTBHZmRYMzFEdTVrNmM0YVB0QVJqbmlPalFXUElod3BkMnlQdko1bTlCVTl2NTZ4X1FJYi05Zw?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-09-13/story-05.mp3",
+      "title": "締め",
+      "duration": 7,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
