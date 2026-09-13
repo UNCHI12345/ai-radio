@@ -1,0 +1,222 @@
+{
+  "date": "2026-09-14",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "audio/2026-09-14/ai-01.mp3",
+      "title": "導入",
+      "duration": 30,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-14/ai-02.mp3",
+      "title": "1. フーシ派がクロード・コードでミサイル誘導ソフトを開発——アンソロピックが報告",
+      "duration": 135,
+      "link": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-14/ai-03.mp3",
+      "title": "2. なぜAIエージェントは嘘をつき、不正を働き、協調するのか——ヨシュア・ベンジオが解説",
+      "duration": 126,
+      "link": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-14/ai-04.mp3",
+      "title": "3. 実際の企業コードでAIをテストしたら——リアル・エスダブリューイーベンチマーク",
+      "duration": 98,
+      "link": "https://withspecific.com/benchmarks/real-swe",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-14/ai-05.mp3",
+      "title": "ジーピーティー6アストラでランニングルートを自動生成——でも透明性に課題",
+      "duration": 52,
+      "link": "https://simonwillison.net/2026/Sep/12/astra-running-routes/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-14/ai-06.mp3",
+      "title": "ギャリー・タン「アメリカも堂々と蒸留すればいい」",
+      "duration": 58,
+      "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-14/ai-07.mp3",
+      "title": "オープンエーアイのアルトマンCEO「今年の株式上場は時期尚早」",
+      "duration": 35,
+      "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-14/ai-08.mp3",
+      "title": "アリババのオープンソース・コードレビューツールが急上昇",
+      "duration": 39,
+      "link": "https://github.com/alibaba/open-code-review",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-14/ai-09.mp3",
+      "title": "今日のAIレッスン",
+      "duration": 102,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-14/ai-10.mp3",
+      "title": "締め",
+      "duration": 16,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-14/food-01.mp3",
+      "title": "導入",
+      "duration": 16,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-14/food-02.mp3",
+      "title": "1. エーアイ生成の料理写真は「不気味の谷」、これほどの反発に遭う理由",
+      "duration": 137,
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdFBwcDhvckZBRl9faVhZaUtsUFZzSWRPNjYyQjRTSFh5dDFOOUlvVFNPdkR5NlNVWnBJelBJckhhNHNyeEFSUnJFaGFHMXlfWl9oeUtiekM0TGVleklQQm5iNHBYV1hRV3pnNnc0NkJBVlRRb2hIelJGRWtVdUtrY0tQMGdvQ0xq?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-14/food-03.mp3",
+      "title": "2. 食品消費税1%で外食産業に淘汰の波、ガストやすき家にも客離れの危機",
+      "duration": 123,
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1SMVpKX2dBV3JzZzVReHJxb3ZuX0NIN2xjZWNEa1RnTVJlWldCUi00MFlSRERVQ0paeDBBZjlVdkdmUTgwaWV2ZUNqXzFOSFk?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-14/food-04.mp3",
+      "title": "3. 農水省がフードテックに502億円を概算要求、精密発酵を明記",
+      "duration": 115,
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWDFxVG14Qm4tSUprMUJickJQQWZHS0xkLTFWVkFMX19VMmFTdks3MmZJZVlqMjFkSWVnWWpaQWZzMUdhMlZKR1FCRWZjbklMb1NmMTdjNGVmMXR1aVZjQ2VqVWtYT3Atb2hBaVZSWlVEQkZZUUIzMm43Y252RHlEcEN5ckRtOWFfTWc?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-14/food-05.mp3",
+      "title": "4. 3番手の松屋が「大逆転」を狙う、牛丼「じゃない」新戦略",
+      "duration": 98,
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPei1wcUdzTFJsNDllTUR0YUpocXc5TXJqUHRLS3V4TEdkdjh1WlZoY1o3MnM5eWVfOU5iR0pqSm1JcFJ4a2xtaEFjeC1icU5yR21acDNFd3M4Y0x6Wnc0eUFKUXhWb3NoYVVOMlJVbEU4b2RKN1dHUmloeEdXbGFPbmtoWUV5clNt?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-14/food-06.mp3",
+      "title": "締め",
+      "duration": 13,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-14/money-01.mp3",
+      "title": "導入",
+      "duration": 25,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-14/money-02.mp3",
+      "title": "1. 今さら聞けないエーアイエージェント——5つのレベル分けを知る",
+      "duration": 102,
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kUU94eWJCVU1CYWI3VWloN2JxbDBmczh4dF8weGxhQWszWG1vQkJMZGppZDdEbzZEeVVQN2xRQjhPaVBNSXNxR3FxM25mcjllSG9xcWpqeHZlVmdpbFp6a3JoX1YtU2JwZzJEZA?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-14/money-03.mp3",
+      "title": "2. エーアイエージェントに買い物させると——予測不可能な動きが出た",
+      "duration": 117,
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZQXZMZW1fQzdqRElLc3VYcHU2YmVNRHRBN01CM2pwRTBoN2cwLUNNcVowajgxbkpYbXV6V0FTcjdhekRPYkZEb0F4NUZhMmdKMVV1eHlBNnpqUQ?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-14/money-04.mp3",
+      "title": "3. オフィスアプリにもう住みついている——中小企業への波及",
+      "duration": 111,
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5PT0xza1lDYWhwellPVzZHSXZTajBGbFBvSXdxeTRjbEpydUJqcU54dEpILWgxYmJvMHZXVWNpeDY4NGpfN08xTzZramJIbGtJczhBcHlNcFgtVlNJOUE?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-14/money-05.mp3",
+      "title": "4. 個人開発：あなたのブラウザが筒抜けにしていること、全部見せます",
+      "duration": 131,
+      "link": "https://sessioncontext.org",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-14/money-06.mp3",
+      "title": "締め",
+      "duration": 16,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-14/story-01.mp3",
+      "title": "導入",
+      "duration": 21,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-09-14/story-02.mp3",
+      "title": "1. 神戸北野ホテル「世界一の朝食」を、ご自宅の食卓へ",
+      "duration": 140,
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5nWHR4ZEtTUTZQN045bzhQQ2tnMUpxTjdBNkdHMEZGcEdhR19LZnZBdWRkajVtNFBWZHN5YkN1UW1pY1hkMXZvU2FPMEJwTmxhZHl0Ni1PdzlGSXVPTXZ6VHREanFzbGQ1YWdZV19jVTRHSFk5ci1yMHpn?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-09-14/story-03.mp3",
+      "title": "2. エコ清掃のお礼に、眠れるチョコレート",
+      "duration": 118,
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YcUdNSUtscVg0dl83c2IzaEtOSmpGbmhneWdQR2NzQXAzcm8wRU1xei1ySVhYazZWc21ESk92ZTI5WVJ5cUtQekliLXE5NzdiNVdaX1ZFX2ZINUNyVGlhbVE4Yw?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-09-14/story-04.mp3",
+      "title": "3. アイの時代だからこそ「人」が宝になる",
+      "duration": 65,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZVXEwdjd3TVhpZEZLMVU5WlZyeEl1OU14Z0dFY0pWVGVRdVVWcURoeWtkRmtJdUp3cFVKR0N3UkJsLW9fZk9XbkF4dFhQRk81TUdiZ05QdkRub0pVZzdTUElIc0tsSWhPOXc?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-09-14/story-05.mp3",
+      "title": "締め",
+      "duration": 11,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
