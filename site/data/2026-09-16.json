@@ -1,0 +1,166 @@
+{
+  "date": "2026-09-16",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "audio/2026-09-16/ai-01.mp3",
+      "title": "導入",
+      "duration": 28,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-16/ai-02.mp3",
+      "title": "1. グーグルの新音声エーアイ「ジェミニ3.8ライブ」——話しながら考えながら動く",
+      "duration": 103,
+      "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-16/ai-03.mp3",
+      "title": "2. エーアイエージェント不正侵入事件——1社がすべての事件の背後に",
+      "duration": 168,
+      "link": "https://www.effort.news/irregular",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-16/ai-04.mp3",
+      "title": "3. 「エーアイは10年で人類を滅ぼす」——専門家の恐怖煽りに注意",
+      "duration": 101,
+      "link": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-16/ai-05.mp3",
+      "title": "4. オープンエーアイ、スマホカメラ会社を3億ドルで買収",
+      "duration": 49,
+      "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-16/ai-06.mp3",
+      "title": "5. 「世界最安」謳ったエーアイサービスが詐欺と発覚——そのまま消滅",
+      "duration": 3,
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wgwe4n/crofai_cheapest_inference_provider_in_the_world/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-16/food-01.mp3",
+      "title": "導入",
+      "duration": 22,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-16/food-02.mp3",
+      "title": "1. 食料品の消費税が8%から1%へ——外食産業が受ける打撃と、今からできる対策",
+      "duration": 156,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxRlNLWmJ3VXlBMjVweE5ZTVRmVzBJU0s2WG5WSHFka3pyYWFuaEFJeDdXdHhFX2xEc3Axd2phVTNmTi0xMmR2NTdybVI4WGNJSFlVclJQT1JnREFTeWlUNmhXZUt5OTJkZzEzQlJXV0loN1lsQWFod0tlMFY0Tms?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-16/food-03.mp3",
+      "title": "2. 鍋振りをロボットが担う——「ロボ町中華」が本格出店、人手不足への答えが見えてきた",
+      "duration": 118,
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1uZGZoRW94SjZmcDhCUTVpSHFQcjQzYXg2Rk1xRGJlZHNSOEh6LVhWc2pUX1hoRkRBVG1zdFpjc2ZRclFtQ2h0cTZDMS1IRjRaTm15SktCVmdwcE5KakR6OWtR?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-16/food-04.mp3",
+      "title": "3. インフォマートが飲食店向け経営管理システム会社を子会社化——データ統合の波が来ている",
+      "duration": 112,
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdDNhd0VrX051Tlp3Nmp4RFZwbHFRUkVyMVkyVHZ1QjhrcU9TQzFJNTBBWWI3Z2tfQ1NZRDhPczdHVVM2d2JKVHFDUFFwaE9pRmhmTkx1MkpScmZNc3lFZVJuVVJROGczWElsVm93Wlt1alJ4ZkRMckYzNWRXS3J4a3R30gGHAUFVX3lxTE8xNHloc2lXVjR4MXRwTVIyQTd4STFJaHhOYkFIYmc0WHZtVE8yRWJENjZaNVJkTG9leXcweUZZejBPZmthRVQ3N29GMDRhZUdGdUwyR2dudUNEYm9kUWhlYlF4MXFKeXNvaThJX01aTk9vd1pXSzJwOXE0Z1NvX25URU1UVHdIOA?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-16/food-05.mp3",
+      "title": "締め",
+      "duration": 17,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-16/money-01.mp3",
+      "title": "導入",
+      "duration": 104,
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IeGpzQ2pfRklIWm9MVWpZWVdtQ3YtMDh4VmwtcFN5dk9SUk9GVTFRZlZObERaMVV5V1RfbzdBRTFUYjAzUDFNc2ROSFVWd1RSZWRvZktjeUFKeVZEZWhuaUxjTDE5bFBVS1BCSg?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-16/money-02.mp3",
+      "title": "2. ソフトバンクが仕掛ける「行政特化AIエージェント」市場",
+      "duration": 81,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6SVdsSVJDb0dMMmhNOWhWVjlReC1mMlk3VnRraTJHTjJubldpOFZWQ1ZlUlVqTHBxQUk5UnBQSW5CS3JwVnlsYlNudUx3dlNHQXN3?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-16/money-03.mp3",
+      "title": "3. AIエージェントの「セキュリティ対策迷子」問題",
+      "duration": 96,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsSERyeVlXalplN3l4VXg3eFNGOU9vNjlNM0E3QVNyT3czZFg5MlpVd0hxbjBmSEo2aFl2S3gyOEZNc19ET3lHU1ZsNFFXRklfc3hz?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-16/money-04.mp3",
+      "title": "4. 西濃運輸のカスタマーセンターがAIボイスボットに刷新",
+      "duration": 86,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWdkVENVNxZ081bmNPVHlEVFd1T2hSRXFIc1lQSEdXbWIwalRjOVk2NVdEd3VTWmNhQW53T1lmSlFaYk9RTXV4Sl9NRHlzcnlOZVlHSWhRWEtzOW84NUpnNDliLURoQzFIaUE?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-16/money-05.mp3",
+      "title": "5. 個人開発：コーディングエージェントを「整列」させるツール",
+      "duration": 100,
+      "link": "https://github.com/ordewell/ordewell",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-16/money-06.mp3",
+      "title": "締め",
+      "duration": 12,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-16/story-01.mp3",
+      "title": "導入",
+      "duration": 15,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-09-16/story-02.mp3",
+      "title": "1. シニア顧客に「選ばれる」店になる",
+      "duration": 310,
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TUFU2dlUtaFJfQUFvREhTSUozQmsyYldWaXFTNUliZm5VZ2Jxb2ZDS1l4UGl3UFNrUkFYV3QyRnJ6czRCSkhtSzRFN1gxWjUxNjExUQ?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-09-16/story-03.mp3",
+      "title": "締め",
+      "duration": 14,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
