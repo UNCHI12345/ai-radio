@@ -3,6 +3,14 @@
   "voice": "ja-JP-Chirp3-HD-Kore",
   "tracks": [
     {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 28,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
       "file": "audio/2026-09-16/ai-01.mp3",
       "title": "導入",
       "duration": 28,

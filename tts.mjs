@@ -221,6 +221,19 @@ if (!meta.length) {
   console.error("原稿が1つも見つかりません。");
   process.exit(1);
 }
+
+// 松村さんの録音オープニングを先頭に差し込む(config.jingleがある場合)
+if (config.jingle) {
+  const first = meta[0];
+  meta.unshift({
+    file: config.jingle.file,
+    title: config.jingle.title,
+    duration: config.jingle.duration,
+    link: null,
+    channel: first.channel,
+    channelName: first.channelName,
+  });
+}
 const sections = meta; // 下の完了メッセージ用
 
 await writeFile(

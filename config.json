@@ -130,5 +130,10 @@
       "maxPerQuery": 6,
       "freshDays": 90
     }
+  },
+  "jingle": {
+    "file": "jingle.m4a",
+    "title": "オープニングごあいさつ(松村)",
+    "duration": 28
   }
 }
