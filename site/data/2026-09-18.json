@@ -1,0 +1,230 @@
+{
+  "date": "2026-09-18",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 28,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-18/ai-01.mp3",
+      "title": "導入",
+      "duration": 38,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-18/ai-02.mp3",
+      "title": "1. オープンAIが公表した「AIが自分自身にルール破りの指令を書いていた」事件",
+      "duration": 227,
+      "link": "https://openai.com/index/model-misalignment-reporting-framework",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-18/ai-03.mp3",
+      "title": "2. アンソロピックが「生命科学者専用の解放版クロード」を始める",
+      "duration": 121,
+      "link": "https://www.anthropic.com/news/life-sciences-verification-program",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-18/ai-04.mp3",
+      "title": "3. ジェイピーモルガンが「サンドボックスの中のクロードコード」を本格導入",
+      "duration": 86,
+      "link": "https://www.reddit.com/r/ClaudeAI/comments/1wit5yg/jpmorgan_is_putting_claude_code_inside_a_sandbox/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-18/ai-05.mp3",
+      "title": "4. 学術論文の著者が自分の論文を説明できない",
+      "duration": 50,
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wid67h/tmlr_reached_out_to_the_authors_of_10_papers/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-18/ai-06.mp3",
+      "title": "5. クウェンが63時間、リーマン予想に挑んだ",
+      "duration": 50,
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wi9fau/qwen_38_27b_running_for_63_hours_on_a_rtx_3090_to/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-18/ai-07.mp3",
+      "title": "6. 「私はエルエルエムが嫌いだ」と著名技術者が書いた",
+      "duration": 60,
+      "link": "https://martinfowler.com/articles/2026-dont-like-llms.html",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-18/ai-08.mp3",
+      "title": "7. シャオミがAIのトレーニング風景をリアルタイム公開",
+      "duration": 27,
+      "link": "https://mimo.xiaomi.com/rl/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-18/ai-09.mp3",
+      "title": "今日のAIレッスン",
+      "duration": 111,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-18/ai-10.mp3",
+      "title": "締め",
+      "duration": 16,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-18/food-01.mp3",
+      "title": "導入",
+      "duration": 22,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-18/food-02.mp3",
+      "title": "1. ミシュラン一つ星フレンチ「リエゾン」の運営会社が破産 近畿最大の負債額",
+      "duration": 97,
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9aV1I0LVF4RE53VnlJMXF5TEpWa2didUlRaUNrV2RpTzZHMlJUaFdzTGNfMFcyNjhQUVZTRkJLamxENkZobGJBZmRFTkZFNmhMdEVmUnZaUkNGMVBsTG9RZ2xDOFpyM0QxSmdTY191bEcwT096dHc",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-18/food-03.mp3",
+      "title": "2. かっぱ寿司が4年ぶりに第1四半期の営業赤字 他社との実力差が悪循環に",
+      "duration": 99,
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1hYnJBMUJ4XzRMYWpzMzV3dWJDMHpmckRiYkd6MWJ1OW93WTZEQkNZZlRORkNtNnVSeURYNXBkOWRtMG9xWHhaX2x3U0bSAU9BVV95cUxNaXlqcFZySjVFR2xJUDRwSXcySVBWWktfR1JUT3RmNWJaRHJjRmNXbWhaMW5McGdicXFETFFsTkIxMlN5Q29MUzYxTEhVTlEw",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-18/food-04.mp3",
+      "title": "3. 利上げが外食チェーンに与える影響",
+      "duration": 60,
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9sdk4zTEJiTGRoY3NqS2p2eElqVmVHN2Fqb01WU2JFQnkzTVlkMGtwMHpkeWhzV3NmQzM5cXNtOUEwS1FoT3lZdl80S293Zw",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-18/food-05.mp3",
+      "title": "4. フードテックの新しい波 人手不足・食品ロスをエーアイで解決へ",
+      "duration": 86,
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBpV2RhZFBPN3ljazBKTFBiZXJERmJGc1BMdFRVWkVBRDJsNW1OQkhueTQ3RkRXak1mZG80SzM4RTY0bkJ3LTJJb2lyTU81SGotczY3QTR6Z3phMW9VS3UyZjRPM3pDUEV3",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-18/food-06.mp3",
+      "title": "締め",
+      "duration": 20,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-18/money-01.mp3",
+      "title": "導入",
+      "duration": 26,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-18/money-02.mp3",
+      "title": "1. ガートナーが警告「今後5年の最大課題はエーアイエージェントの無秩序増殖」",
+      "duration": 120,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TZnFpbmFMX3NkblVPekltZjc0a3ZMU2pKQy1Qb1hoeVpuSXZ2QW9vM2t4bnBsOXlRMkc0bTNCSXROSmRSVHRsdTg0WVdTcEV2ZVNr?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-18/money-03.mp3",
+      "title": "2. スキルベイ — エージェントのスキルを売り買いするマーケットプレイス",
+      "duration": 109,
+      "link": "https://skillbay.sh/",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-18/money-04.mp3",
+      "title": "3. エークリフ — 複数のサービスを一つの文法でつなぐエージェント用フレームワーク",
+      "duration": 87,
+      "link": "https://www.aclif.ai/",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-18/money-05.mp3",
+      "title": "4. オートボット — 長時間エーアイ作業を音声でリアルタイム操作",
+      "duration": 73,
+      "link": "https://github.com/demeyer1/Autobot",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-18/money-06.mp3",
+      "title": "5. 大企業側の動き — エージェントビジネスが本格化している証拠",
+      "duration": 87,
+      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPWWZ6UVRTLUdDYWV0SXNiZHBlUDJlbURhVmF1MlZkNDNwNGhjbzFMMlV3dFMxSVlQZ1pBQXhkaFYxM2RGQzhONzdTSGY3Z0FleTNkWnd2aGlNMWlYcFNGTi1hcnZwV1lMVGVSZ3dmV2N4WnlJTmd0XzVHeFZMZVpTNEllSjU2RGZmUUtIZ2t5amIwWmljYUxsUjBNM1JRbXVIbmpYanhwTnZ1YldDQTYxTzRBMU04aUdCRE5rTndMOUtnUHFyamNYSnNHRHBSc0JhaXJWWUtNMUNfVTJyb3JsbzYzSlJCdmhpR01tOFFuXzJGVEV0a2g4YUx4aVFvZENTbVU2R01QOUg2eVR1YUhGQ3pfYmFDTUxHNmp0R3B5SVhzdFBRXzcxSDc0Nm1QNDZsLWYtai15aFl2elZkVTczYWJ2M3c?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-18/money-07.mp3",
+      "title": "締め",
+      "duration": 11,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-18/story-01.mp3",
+      "title": "導入",
+      "duration": 19,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-09-18/story-02.mp3",
+      "title": "1. 「今まで泊まった旅館・ホテルで一番の感動」 京都・亀岡の温泉宿",
+      "duration": 201,
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE50UVJCLWN1MlAwYjhEOGIwZTd6eXF6d2l6MC0xUzBWZktiZ1J0eVJUd1NFcEhsVk5kS2N1QVJpUEozVUVBOVhBV24zdUllNlNySnZVSHdZOUJxWHBXNkd5UTRlNTItemdHc0ZuMFZBOFpQbGc?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-09-18/story-03.mp3",
+      "title": "2. 世界最大級の水中レストランで感動のランチ体験",
+      "duration": 69,
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNU54RjE4S2kxX1NvbVpnWVA2VllRSU9YQjA3Qkh5SWpXdVVrNVFac1NyY3l4LTdOZ3I3VHQyNUxmYjF6dzd4dG9PQ1NZZ0toclp3bU1FdUVzN2J6WFh2Mm5nTWZZdDd2akJCRkhCTnlPTEh6Q1NtdVhyZFN2MjNYV29fOTh5VTVW?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-09-18/story-04.mp3",
+      "title": "締め",
+      "duration": 17,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
