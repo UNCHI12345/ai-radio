@@ -8,11 +8,172 @@
     <itunes:image href="https://unchi12345.github.io/ai-radio/icon-512.png"/>
     
     <item>
+      <title>2026-09-19 オープニングごあいさつ(松村)</title>
+      <enclosure url="https://unchi12345.github.io/ai-radio/jingle.m4a" length="206128" type="audio/mpeg"/>
+      <guid isPermaLink="false">jingle.m4a</guid>
+      <pubDate>Fri, 18 Sep 2026 20:00:00 GMT</pubDate>
+      <itunes:duration>17</itunes:duration>
+    </item>
+    <item>
+      <title>2026-09-19 導入</title>
+      <enclosure url="https://unchi12345.github.io/ai-radio/audio/2026-09-19/ai-01.mp3" length="126432" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/2026-09-19/ai-01.mp3</guid>
+      <pubDate>Fri, 18 Sep 2026 20:00:00 GMT</pubDate>
+      <itunes:duration>30</itunes:duration>
+    </item>
+    <item>
+      <title>2026-09-19 1. AIがAIを作る時代——クロードが自社R&amp;Dの26%をリード</title>
+      <enclosure url="https://unchi12345.github.io/ai-radio/audio/2026-09-19/ai-02.mp3" length="538656" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/2026-09-19/ai-02.mp3</guid>
+      <pubDate>Fri, 18 Sep 2026 20:00:00 GMT</pubDate>
+      <itunes:duration>136</itunes:duration>
+    </item>
+    <item>
+      <title>2026-09-19 2. AIのハルシネーションが戦争一歩手前を作った——米軍、中国船を核兵器輸送と誤認</title>
+      <enclosure url="https://unchi12345.github.io/ai-radio/audio/2026-09-19/ai-03.mp3" length="485568" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/2026-09-19/ai-03.mp3</guid>
+      <pubDate>Fri, 18 Sep 2026 20:00:00 GMT</pubDate>
+      <itunes:duration>119</itunes:duration>
+    </item>
+    <item>
+      <title>2026-09-19 3. マイクロソフト幹部が内部で「人類史上最大の労働窃盗」と発言していた</title>
+      <enclosure url="https://unchi12345.github.io/ai-radio/audio/2026-09-19/ai-04.mp3" length="469440" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/2026-09-19/ai-04.mp3</guid>
+      <pubDate>Fri, 18 Sep 2026 20:00:00 GMT</pubDate>
+      <itunes:duration>127</itunes:duration>
+    </item>
+    <item>
+      <title>2026-09-19 4. 訓練中のAIが自分自身にジェイルブレイクを仕込んでいた</title>
+      <enclosure url="https://unchi12345.github.io/ai-radio/audio/2026-09-19/ai-05.mp3" length="245184" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/2026-09-19/ai-05.mp3</guid>
+      <pubDate>Fri, 18 Sep 2026 20:00:00 GMT</pubDate>
+      <itunes:duration>60</itunes:duration>
+    </item>
+    <item>
+      <title>2026-09-19 5. ZコードがGit履歴を丸ごと無断でクラウドに送っていた</title>
+      <enclosure url="https://unchi12345.github.io/ai-radio/audio/2026-09-19/ai-06.mp3" length="204192" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/2026-09-19/ai-06.mp3</guid>
+      <pubDate>Fri, 18 Sep 2026 20:00:00 GMT</pubDate>
+      <itunes:duration>55</itunes:duration>
+    </item>
+    <item>
+      <title>2026-09-19 6. LLMで文章を書くプロのルール、二つ</title>
+      <enclosure url="https://unchi12345.github.io/ai-radio/audio/2026-09-19/ai-07.mp3" length="146496" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/2026-09-19/ai-07.mp3</guid>
+      <pubDate>Fri, 18 Sep 2026 20:00:00 GMT</pubDate>
+      <itunes:duration>37</itunes:duration>
+    </item>
+    <item>
+      <title>2026-09-19 7. 27ビリオンパラメータのモデルが6ギガ未満で動く——ボンサイ2登場</title>
+      <enclosure url="https://unchi12345.github.io/ai-radio/audio/2026-09-19/ai-08.mp3" length="158304" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/2026-09-19/ai-08.mp3</guid>
+      <pubDate>Fri, 18 Sep 2026 20:00:00 GMT</pubDate>
+      <itunes:duration>39</itunes:duration>
+    </item>
+    <item>
+      <title>2026-09-19 今日のAIレッスン</title>
+      <enclosure url="https://unchi12345.github.io/ai-radio/audio/2026-09-19/ai-09.mp3" length="363360" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/2026-09-19/ai-09.mp3</guid>
+      <pubDate>Fri, 18 Sep 2026 20:00:00 GMT</pubDate>
+      <itunes:duration>90</itunes:duration>
+    </item>
+    <item>
+      <title>2026-09-19 締め</title>
+      <enclosure url="https://unchi12345.github.io/ai-radio/audio/2026-09-19/ai-10.mp3" length="57024" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/2026-09-19/ai-10.mp3</guid>
+      <pubDate>Fri, 18 Sep 2026 20:00:00 GMT</pubDate>
+      <itunes:duration>15</itunes:duration>
+    </item>
+    <item>
+      <title>2026-09-19 導入</title>
+      <enclosure url="https://unchi12345.github.io/ai-radio/audio/2026-09-19/food-01.mp3" length="63168" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/2026-09-19/food-01.mp3</guid>
+      <pubDate>Fri, 18 Sep 2026 20:00:00 GMT</pubDate>
+      <itunes:duration>17</itunes:duration>
+    </item>
+    <item>
+      <title>2026-09-19 1. サイゼリヤ「値上げ検討」で株価ストップ高、スシローは値上げで客数増</title>
+      <enclosure url="https://unchi12345.github.io/ai-radio/audio/2026-09-19/food-02.mp3" length="460896" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/2026-09-19/food-02.mp3</guid>
+      <pubDate>Fri, 18 Sep 2026 20:00:00 GMT</pubDate>
+      <itunes:duration>123</itunes:duration>
+    </item>
+    <item>
+      <title>2026-09-19 2. 「食料品の消費税1%」で外食産業はどうなるのか</title>
+      <enclosure url="https://unchi12345.github.io/ai-radio/audio/2026-09-19/food-03.mp3" length="400608" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/2026-09-19/food-03.mp3</guid>
+      <pubDate>Fri, 18 Sep 2026 20:00:00 GMT</pubDate>
+      <itunes:duration>101</itunes:duration>
+    </item>
+    <item>
+      <title>2026-09-19 3. 売上好調なのに1年3カ月で閉店！ラーメン店を襲った「油煙」の悲劇</title>
+      <enclosure url="https://unchi12345.github.io/ai-radio/audio/2026-09-19/food-04.mp3" length="454176" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/2026-09-19/food-04.mp3</guid>
+      <pubDate>Fri, 18 Sep 2026 20:00:00 GMT</pubDate>
+      <itunes:duration>113</itunes:duration>
+    </item>
+    <item>
+      <title>2026-09-19 4. レビュー分析ツール「トラストユー」が観光・外食産業展に登場</title>
+      <enclosure url="https://unchi12345.github.io/ai-radio/audio/2026-09-19/food-05.mp3" length="386688" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/2026-09-19/food-05.mp3</guid>
+      <pubDate>Fri, 18 Sep 2026 20:00:00 GMT</pubDate>
+      <itunes:duration>104</itunes:duration>
+    </item>
+    <item>
+      <title>2026-09-19 締め</title>
+      <enclosure url="https://unchi12345.github.io/ai-radio/audio/2026-09-19/food-06.mp3" length="71808" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/2026-09-19/food-06.mp3</guid>
+      <pubDate>Fri, 18 Sep 2026 20:00:00 GMT</pubDate>
+      <itunes:duration>18</itunes:duration>
+    </item>
+    <item>
+      <title>2026-09-19 導入</title>
+      <enclosure url="https://unchi12345.github.io/ai-radio/audio/2026-09-19/money-01.mp3" length="89760" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/2026-09-19/money-01.mp3</guid>
+      <pubDate>Fri, 18 Sep 2026 20:00:00 GMT</pubDate>
+      <itunes:duration>22</itunes:duration>
+    </item>
+    <item>
+      <title>2026-09-19 1. エーアイコストは「もう一つの人件費」になった</title>
+      <enclosure url="https://unchi12345.github.io/ai-radio/audio/2026-09-19/money-02.mp3" length="274656" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/2026-09-19/money-02.mp3</guid>
+      <pubDate>Fri, 18 Sep 2026 20:00:00 GMT</pubDate>
+      <itunes:duration>77</itunes:duration>
+    </item>
+    <item>
+      <title>2026-09-19 2. 北陸の買取専門店が証明した「日次自動化」モデル</title>
+      <enclosure url="https://unchi12345.github.io/ai-radio/audio/2026-09-19/money-03.mp3" length="373248" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/2026-09-19/money-03.mp3</guid>
+      <pubDate>Fri, 18 Sep 2026 20:00:00 GMT</pubDate>
+      <itunes:duration>95</itunes:duration>
+    </item>
+    <item>
+      <title>2026-09-19 3. グーグルが「家電をエージェントでつなぐ」規格を公開</title>
+      <enclosure url="https://unchi12345.github.io/ai-radio/audio/2026-09-19/money-04.mp3" length="445344" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/2026-09-19/money-04.mp3</guid>
+      <pubDate>Fri, 18 Sep 2026 20:00:00 GMT</pubDate>
+      <itunes:duration>118</itunes:duration>
+    </item>
+    <item>
+      <title>2026-09-19 4. 個人開発：「エージェント、あなたのサービス使えますか？」チェッカー</title>
+      <enclosure url="https://unchi12345.github.io/ai-radio/audio/2026-09-19/money-05.mp3" length="467040" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/2026-09-19/money-05.mp3</guid>
+      <pubDate>Fri, 18 Sep 2026 20:00:00 GMT</pubDate>
+      <itunes:duration>128</itunes:duration>
+    </item>
+    <item>
+      <title>2026-09-19 締め</title>
+      <enclosure url="https://unchi12345.github.io/ai-radio/audio/2026-09-19/money-06.mp3" length="65856" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/2026-09-19/money-06.mp3</guid>
+      <pubDate>Fri, 18 Sep 2026 20:00:00 GMT</pubDate>
+      <itunes:duration>18</itunes:duration>
+    </item>
+    <item>
       <title>2026-09-18 オープニングごあいさつ(松村)</title>
-      <enclosure url="https://unchi12345.github.io/ai-radio/jingle.m4a" length="338428" type="audio/mpeg"/>
+      <enclosure url="https://unchi12345.github.io/ai-radio/jingle.m4a" length="206128" type="audio/mpeg"/>
       <guid isPermaLink="false">jingle.m4a</guid>
       <pubDate>Thu, 17 Sep 2026 20:00:00 GMT</pubDate>
-      <itunes:duration>28</itunes:duration>
+      <itunes:duration>17</itunes:duration>
     </item>
     <item>
       <title>2026-09-18 導入</title>
@@ -205,7 +366,7 @@
     </item>
     <item>
       <title>2026-09-17 オープニングごあいさつ(松村)</title>
-      <enclosure url="https://unchi12345.github.io/ai-radio/jingle.m4a" length="338428" type="audio/mpeg"/>
+      <enclosure url="https://unchi12345.github.io/ai-radio/jingle.m4a" length="206128" type="audio/mpeg"/>
       <guid isPermaLink="false">jingle.m4a</guid>
       <pubDate>Wed, 16 Sep 2026 20:00:00 GMT</pubDate>
       <itunes:duration>28</itunes:duration>
@@ -401,7 +562,7 @@
     </item>
     <item>
       <title>2026-09-16 オープニングごあいさつ(松村)</title>
-      <enclosure url="https://unchi12345.github.io/ai-radio/jingle.m4a" length="338428" type="audio/mpeg"/>
+      <enclosure url="https://unchi12345.github.io/ai-radio/jingle.m4a" length="206128" type="audio/mpeg"/>
       <guid isPermaLink="false">jingle.m4a</guid>
       <pubDate>Tue, 15 Sep 2026 20:00:00 GMT</pubDate>
       <itunes:duration>28</itunes:duration>

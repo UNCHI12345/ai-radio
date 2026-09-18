@@ -1,0 +1,190 @@
+{
+  "date": "2026-09-19",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 17,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-19/ai-01.mp3",
+      "title": "導入",
+      "duration": 30,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-19/ai-02.mp3",
+      "title": "1. AIがAIを作る時代——クロードが自社R&Dの26%をリード",
+      "duration": 136,
+      "link": "https://www.business-standard.com/technology/artificial-intelligence/ai-is-now-building-ai-anthropic-says-claude-leads-26-of-its-r-d-work-126091800275_1.html",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-19/ai-03.mp3",
+      "title": "2. AIのハルシネーションが戦争一歩手前を作った——米軍、中国船を核兵器輸送と誤認",
+      "duration": 119,
+      "link": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-19/ai-04.mp3",
+      "title": "3. マイクロソフト幹部が内部で「人類史上最大の労働窃盗」と発言していた",
+      "duration": 127,
+      "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-19/ai-05.mp3",
+      "title": "4. 訓練中のAIが自分自身にジェイルブレイクを仕込んでいた",
+      "duration": 60,
+      "link": "https://simonwillison.net/2026/Sep/17/compaction-summaries/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-19/ai-06.mp3",
+      "title": "5. ZコードがGit履歴を丸ごと無断でクラウドに送っていた",
+      "duration": 55,
+      "link": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-19/ai-07.mp3",
+      "title": "6. LLMで文章を書くプロのルール、二つ",
+      "duration": 37,
+      "link": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-19/ai-08.mp3",
+      "title": "7. 27ビリオンパラメータのモデルが6ギガ未満で動く——ボンサイ2登場",
+      "duration": 39,
+      "link": "https://prismml.com/news/bonsai-2-27b",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-19/ai-09.mp3",
+      "title": "今日のAIレッスン",
+      "duration": 90,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-19/ai-10.mp3",
+      "title": "締め",
+      "duration": 15,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-19/food-01.mp3",
+      "title": "導入",
+      "duration": 17,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-19/food-02.mp3",
+      "title": "1. サイゼリヤ「値上げ検討」で株価ストップ高、スシローは値上げで客数増",
+      "duration": 123,
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTlRER1JlZjVPLWlSaG9qNTBNMUItR19tUGNIZ2szZFRFVFk4QVE0eXdBYjJOaEVXS0o5LXJBR3BmTVIxcEhWb25DSkpXYlRsUzJILWlkN1JnbjhTRFVFWHhUQ01EczlVWTBVczFRMTk2Sk8xSmVPczliTXRwOHkzaE1n0gGCAUFVX3lxTFBNMWMtb2NvSGIzQ2tkMVZBYklUemJUQTJWSzBjZjlwY1J2Yk9CWS1TSUFrZTVnYjJrVlFUaHpzaExmaFNEVzFFbWtiQUlPeTBHQ2JIbTczd21RczBxSzJ2ZHNyUUROcFlfY2E3dUtXQ1d1RndqTzd4blhXWFlKZlpScGc",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-19/food-03.mp3",
+      "title": "2. 「食料品の消費税1%」で外食産業はどうなるのか",
+      "duration": 101,
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrYzBaZnFvZzNRaFhOZWJDNzZGbWNIbWJLbERrOWNmbVFlcFZxcmgzQzBBZjZ6aEhyc2sxODhsczdWUkVfZUVjaWJmWHNjaFFXVEVpS3dtcmVISXUzQ2JZ",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-19/food-04.mp3",
+      "title": "3. 売上好調なのに1年3カ月で閉店！ラーメン店を襲った「油煙」の悲劇",
+      "duration": 113,
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE54Y1FmNHpBVEdtRkRXYi1oTnpfYjdWZjl5eXJHemZIdHlycHZFX0VxcVNINGUwdW5iQVRMcjR6TkY0bWdwMU5PcS0yQVJORzR6aDVYZkpSUEl5SUpsRHlHTmZlRzE4NW53ZnR5TmMtNmNYZw",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-19/food-05.mp3",
+      "title": "4. レビュー分析ツール「トラストユー」が観光・外食産業展に登場",
+      "duration": 104,
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mVlB0UHZFcFVnMl9GNUhxZTcwVmwydS1XOHMyaTI0Mk5kTnpIQnpKbi1Ya3dncUszYld3Sml2YkgwbGNZcnhlYVlaNElVeWxIeWE3aWtLaGlMVVZVS3ZTb3FnSDMzcnlrcnVzWjRmSFVudjMtdXJmRA",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-19/food-06.mp3",
+      "title": "締め",
+      "duration": 18,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-19/money-01.mp3",
+      "title": "導入",
+      "duration": 22,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-19/money-02.mp3",
+      "title": "1. エーアイコストは「もう一つの人件費」になった",
+      "duration": 77,
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBMYUd4MXktTm5jVEdwSFpoOUEybXdIbzl1MjRkRmpDTlBxTmhiclRxeUxmb3B3VHpfTE1uV0pGaU5fU3FpRnprSTRLRXJ4Q3g1QWFwM2NlYjFrZlZOOXllU1EzcVpkUXVRQ3U0MGJ6SktpQlRsRlVV?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-19/money-03.mp3",
+      "title": "2. 北陸の買取専門店が証明した「日次自動化」モデル",
+      "duration": 95,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1LUndiVTE0YkJoNHE4QWxSbmY5OUdPMkZqNGF2TGxNdkhqWHlFcy1EYnpNVXhNc3NuVEJVODE2c0VHck5mNDhIcF9pMXl1YUpTZUVHVTh0UTBQZE5VOGNXcGNYR2JhNTRqQ0E?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-19/money-04.mp3",
+      "title": "3. グーグルが「家電をエージェントでつなぐ」規格を公開",
+      "duration": 118,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55SHo4MlpOZ0pGbW5tdUJnd0YtQ3VvUElwRXpSWEZvazNzdEl5LTRRMnNoWW5laldHNDhEOFNMLVR5Zk9Cc05raFBKLXo4ZjV5MzEw?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-19/money-05.mp3",
+      "title": "4. 個人開発：「エージェント、あなたのサービス使えますか？」チェッカー",
+      "duration": 128,
+      "link": "https://www.ax-check.com/",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-19/money-06.mp3",
+      "title": "締め",
+      "duration": 18,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    }
+  ]
+}
