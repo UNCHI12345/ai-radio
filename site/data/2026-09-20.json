@@ -1,0 +1,190 @@
+{
+  "date": "2026-09-20",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 17,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-20/ai-01.mp3",
+      "title": "導入",
+      "duration": 33,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-20/ai-02.mp3",
+      "title": "1. ジェミニがリアルな企業3社に侵入――テスト中の\"脱走\"事件",
+      "duration": 126,
+      "link": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-20/ai-03.mp3",
+      "title": "2. アリババが医療エーアイをオープンソース公開――放射線科医を超えたシーティースキャン解析モデル",
+      "duration": 97,
+      "link": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-20/ai-04.mp3",
+      "title": "3. アンソロピックとアクセンチュアが「組み込み評価」パートナーシップを発表――合計3000億円規模の安全性への投資",
+      "duration": 114,
+      "link": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-20/ai-05.mp3",
+      "title": "ジーピーティー6アストラ、100年以上未解読だったドイツ軍暗号を解読",
+      "duration": 66,
+      "link": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-20/ai-06.mp3",
+      "title": "ドラフトキングスがエーアイで「負けやすいギャンブラー」をターゲットに",
+      "duration": 52,
+      "link": "https://www.nytimes.com/2026/09/19/business/draftkings-ai.html",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-20/ai-07.mp3",
+      "title": "エーアイポスターはマンネリを脱せる――スタイルを名指しするだけで別物になる",
+      "duration": 65,
+      "link": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-20/ai-08.mp3",
+      "title": "今日のエーアイレッスン",
+      "duration": 109,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-20/ai-09.mp3",
+      "title": "締め",
+      "duration": 20,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-20/food-01.mp3",
+      "title": "導入",
+      "duration": 22,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-20/food-02.mp3",
+      "title": "1. 食品小売は増収、飲食店は減収——業界の明暗がくっきり",
+      "duration": 96,
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8xaGxBZGxZWS1TREs2b3pxamltaFpVSGFCN3N0YWxQbXJCbHYwd1VGakp6dEtKbm1OTE4welRsMERFaHFGTHdlR0FlUUdqdw?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-20/food-03.mp3",
+      "title": "2. ランチ1000円超えが当たり前なのに、1000円以下の店が増えているワケ",
+      "duration": 91,
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM05mX1BhX2N4dXdIeWFTUkF1NDZLMlY0dVpqS1RONXhNYk1KbmI0dWFNOHFvdnpRUkNNLTBwWGo0TjFEa19kbUJCeTdYTlhSemVVaWxuVGQxUC1EZzUzdU80Z21MZXQ5MXIzd1FOSklzZmpPMnBCMk0wT2dtd1NIYmp6Z2ROODRs?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-20/food-04.mp3",
+      "title": "3. 売上好調なのに1年3カ月で閉店——「油煙」が招いた悲劇",
+      "duration": 91,
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbkgzeHlkLWtxZkpmUTVBTEF3LVJqZldmRmlzOUNyNGlHZ1RfUlFES1hKWUM3T3hHeEU1dnJYeUlxRWJLQ0lDSmctaEp3QXc1Smw5R1VBU0dGTU8yZ29pcnNJM1hVUVY1ZV9DMDZGOWxBU3RSYmNuZXNvY3hWM19BNGV1SjA0dlMwRnN1NkhB?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-20/food-05.mp3",
+      "title": "4. モスバーガーが冷凍食品に本格参入——外食チェーンの「物販シフト」が加速",
+      "duration": 106,
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQXzFMbjJHZGNtdUtGOEVyV3pQYnV1LVQ5YkVZbk1rQjFBaHVEWTVRZElFMFh3eW5vWXA0ZnBsMXo3ZkF6R21GbHJPWk5aQUVVa00tTDJIZlNtM1JHaTRJY09YaUYxaWtSajZPYzdyMGhzeDFRRWxESUFhcTg1SDRNRWlTQ0lncE13NmJmRktB0gGKAUFVX3lxTE4tai05ZDdHa0dUbjBJdHdOd0FSdU9yTVJlTzAycGNzRDVIUzR0d1ctMzJVczV5UHJzSE0xVjloOWp5N29DeXNmTkV2MHBqX1pId2Qta3owTjBFYS1DQmlvaE84ZjRiYnlQaHlDUmdpZy1ydV9JM05GaDg1ZnlBYThINXFORldPWWJZdw?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-20/food-06.mp3",
+      "title": "締め",
+      "duration": 15,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-20/money-01.mp3",
+      "title": "導入",
+      "duration": 27,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-20/money-02.mp3",
+      "title": "1. グーグルのAIエージェント「シーシー」が家族6人まで共有できるように",
+      "duration": 180,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PcTZJUzNGZkJpMkxVSWg3ekJHZmpVNi1kRkxscnRVVDdORVpvRDRGRGhaRkFkZXJqYzJOSXZhSk5zYkxmZlBTX3F4aU4zMkYxNnA3VW9oVXpCcnA4WnpiWGhiLW96dDhKaW5hdk9wZ21xTjlGOHNJTUk2NXZ3T0U?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-20/money-03.mp3",
+      "title": "2. 個人開発作品「スネイル ウォーク」 — 歩かないと巨大カタツムリに追いつかれる",
+      "duration": 186,
+      "link": "https://snailwalk.app/",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-20/money-04.mp3",
+      "title": "締め",
+      "duration": 17,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-20/story-01.mp3",
+      "title": "導入",
+      "duration": 12,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-09-20/story-02.mp3",
+      "title": "1. 隣に住む常連客が、即決で店を継いだ話",
+      "duration": 209,
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9iOFdYenJXa2NGUVhFNDh1TGpsTHA3Y2E0VHJ1NVpSNThiekNmMnFVMC1HQjRPOHJGdEZCZzFDZzVILU9uV0VIei1tenVEMVdQM2wtbHo5N0NqWkF1WkRyNTB5V19uM2Y4Xy1PZFJtVzFYbGdrZzdSaUJLWkhUZ9IBgwFBVV95cUxQRUdPaVFxUVVjRXpFVlVPSFd3ekhEYTNqZmJYYmFncUwyZEtReDB0cmp6RXo4cW9GMGdFX3pBMENUM2pwODNHMDd5bVl1U1d2SzVJWnIzLTB2Vkw3QU5vX2UwOGR3S3hhcW9zTkdIZE9leFFaNGdQSnRyeW9LXzBOZnBkSQ?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-09-20/story-03.mp3",
+      "title": "締め",
+      "duration": 5,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
