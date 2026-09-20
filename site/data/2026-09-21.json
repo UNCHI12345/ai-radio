@@ -1,0 +1,190 @@
+{
+  "date": "2026-09-21",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 17,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-21/ai-01.mp3",
+      "title": "導入",
+      "duration": 33,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-21/ai-02.mp3",
+      "title": "1. チャットジーピーティーが、あなたが他のウェブサイトでやっていることを知っている",
+      "duration": 146,
+      "link": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-21/ai-03.mp3",
+      "title": "2. アンソロピック、AI開発に「外の目」を入れる。アクセンチュアとの安全評価の仕組みとは",
+      "duration": 125,
+      "link": "https://www.cnbc.com/amp/2026/09/18/anthropic-accenture-ai-safety.html",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-21/ai-04.mp3",
+      "title": "3. AIがAIを書き換えた。マイクロソフト、コパイロットの心臓部をAIエージェントで丸ごとリライト",
+      "duration": 128,
+      "link": "https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-21/ai-05.mp3",
+      "title": "4. クウェンイメージ2.1、オープン公開。軽量7ビリオンで透明レイヤーも扱える画像生成モデル",
+      "duration": 49,
+      "link": "https://qwen.ai/blog?id=qwen-image-2.1",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-21/ai-06.mp3",
+      "title": "5. 「クロードが考えるのをやめた」。65日間・4万件超のデータが示す推論予算の削減疑惑",
+      "duration": 72,
+      "link": "https://www.reddit.com/r/ClaudeAI/comments/1wl6wyn/its_time_to_cancel_your_subscriptions_anthropic/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-21/ai-07.mp3",
+      "title": "6. 「シェアすることが、リスクになった」。AIとクリエイティブコモンズの破壊",
+      "duration": 74,
+      "link": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-21/ai-08.mp3",
+      "title": "7. AIモデルの「消滅防止」サービス、パイレートフェイスが登場",
+      "duration": 68,
+      "link": "https://pirateface.co/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-21/ai-09.mp3",
+      "title": "今日のAIレッスン",
+      "duration": 100,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-21/ai-10.mp3",
+      "title": "締め",
+      "duration": 14,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-21/food-01.mp3",
+      "title": "導入",
+      "duration": 19,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-21/food-02.mp3",
+      "title": "1. 外食チェーンに四重苦——原価・人件費・エネルギー、そして消費税減税",
+      "duration": 129,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LZjhwUjgwaFhHY25Ja1lxTlVDMUN6dV80eUZDWWRIekd6bHpDWTBvYVl5MjdvX1Jsby1FcGZpZ3hOMjNJMmIwTDhBaDVuUF9iaE1jRlJJSWJSbGtnRXpySlo3cGVXTm95MUpTT3cwUmQtVFlDcXNadkNVUGkxQU0",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-21/food-03.mp3",
+      "title": "2. 消費税減税で外食だけが割を食う？——国会で飲食業界への支援を訴える声",
+      "duration": 120,
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mRkhMRnUwZUxTNDFFOTZNQklnMW95T3RBYVZGTU0tcjFkNWJfRUxFblZseHZWM3hSOFozaUl4cFJlRGRRa0RKcWdMQ2U3UTVtUmNGMm8tWQ",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-21/food-04.mp3",
+      "title": "3. 行列ラーメン店の「お取り寄せ」戦略と、閉店という現実",
+      "duration": 136,
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxNkZSUV9KWGF0ay1HanBjNy05bU9yNmlHZDlWMVpadGZrSFZtX2dMQ3hZRkFpUGVnZU9Fa1h2RmF3MFZXeHN0a3hUM2swRm9nZndQZUtnM1RYRVVBUnc",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-21/food-05.mp3",
+      "title": "締め",
+      "duration": 15,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-21/money-01.mp3",
+      "title": "導入",
+      "duration": 21,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-21/money-02.mp3",
+      "title": "1. 元オープンエーアイ研究者が作った「生成しない」エーアイ「ジェブ」とは",
+      "duration": 63,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kYWNtUW1JM3JlX0RhZUJQc0JQWTJXTGExd3dZcWMtZVpkLXJHelZDc0pFS0VRM2V4RXJ2c0JJem13VFR3eUNRdFJ0RklEMXF5djFj?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-21/money-03.mp3",
+      "title": "2. グーグルのエーアイエージェント「シーシー」が家族向けに拡張",
+      "duration": 48,
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSTQtOVpyRjZDS1pqZHlwUkVMMW9UeEpZdDhrTGdQamMwdE5yVDMyU216RFhyWnNtVXJyeHpKWUU0bm52N3FqSXBtX1phWWVrWFUxRWJQT0hYRVg5alRsM1d5RkFfMlBCUjZlZmk1endSVDB0c3dacFY0NTBpU0lJMVNDc1ZnaFZtaWhWVHlR?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-21/money-04.mp3",
+      "title": "3. 「未経験から月5万〜10万円」のエーアイ副業記事、冷静に読む",
+      "duration": 158,
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5KaEEwWkJiS19lWFpkRV9KMElEZ2wyWXdDZkdIZXdmdnJDMjQ3UjNhTHVIVG15a0FLMjdWMWYxN1Q4aFd6OUg4ZVZYdw?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-21/money-05.mp3",
+      "title": "4. ローカルで動くオープンソースエーアイ基盤「エンゾ」",
+      "duration": 72,
+      "link": "https://github.com/theguysudo/ENZO",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-21/money-06.mp3",
+      "title": "5. 「顔の魅力スコア」エーアイ、これは危ない",
+      "duration": 63,
+      "link": "https://faceanalysisai.com/",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-21/money-07.mp3",
+      "title": "締め",
+      "duration": 9,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    }
+  ]
+}
