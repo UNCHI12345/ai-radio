@@ -1,0 +1,182 @@
+{
+  "date": "2026-09-22",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 17,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-22/ai-01.mp3",
+      "title": "導入",
+      "duration": 35,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-22/ai-02.mp3",
+      "title": "1. 「エンターを押すだけで12時間」― AI全依存の職場で起きていること",
+      "duration": 166,
+      "link": "https://simonwillison.net/2026/Sep/20/voxium/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-22/ai-03.mp3",
+      "title": "2. グロック4.7登場 ― 同じ価格でより賢く、コーディングの最前線へ",
+      "duration": 131,
+      "link": "https://x.ai/news/grok-4-7",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-22/ai-04.mp3",
+      "title": "3. 「AIの反乱」は誇張だったのか？ ― サンドボックス事件の裏側",
+      "duration": 165,
+      "link": "https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-22/ai-05.mp3",
+      "title": "その他のニュース",
+      "duration": 117,
+      "link": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-22/ai-06.mp3",
+      "title": "今日のAIレッスン",
+      "duration": 127,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-22/ai-07.mp3",
+      "title": "締め",
+      "duration": 14,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-22/food-01.mp3",
+      "title": "導入",
+      "duration": 24,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-22/food-02.mp3",
+      "title": "1. ラーメン店の閉店が9月に相次ぐ",
+      "duration": 210,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Kd1NKb2pSXzFuaE5wZ0tNUjVteXlJc3BzZjJxYXgtdmhUcTRaVlFzUWpCWGdCRDB6anAxekJQdC1GeUZRVllqMnRfamtnS0dPWHRZ",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-22/food-03.mp3",
+      "title": "2. 外食支援の食事券、使われたのはたった2割",
+      "duration": 152,
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5aYVhqQmNwWGtmRnBZcnJYak5qd3NHYlJUZ3l3NXk3VktQbVlKaFd4UWcyLXVudGFyR0R5ZVpHbXBMeUVCM1ZiSjVQNHJDSU9MN202LUI5cDJYOGtTblA2eU5hQmMxU3I4cS1fWDVYUdIBdEFVX3lxTE5YUjNSUGszM0hrbXZNVUVRS2Jjdk1OakVkMm1XdWJRUEg0M2xVWkhKbGRvckIyTDBiQW1WckFhUDEyVVZUWG1IV1VYOVNVWF85MHZaMm50LXpoNlI1aWN6dGJfY1EzR1ZmNUFCY19uZE9oVm1R",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-22/food-04.mp3",
+      "title": "3. 外食産業への消費税減税論",
+      "duration": 69,
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oa0I5Q19TSzhqZjREOHBqYTV0YnM4cE9TdXBtOTdIYk9hM3pjbllkSjZuV1QyYkRCVlhObUlmNkJnV1dBV0pzdktrSlp5QUNNYWJmeTdyU09XbjRUZE5iN2x2cTdXYkRyWXFIdXB3",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-22/food-05.mp3",
+      "title": "締め",
+      "duration": 23,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-22/money-01.mp3",
+      "title": "導入",
+      "duration": 22,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-22/money-02.mp3",
+      "title": "1. AI副業「月130万円」の見方",
+      "duration": 114,
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOFpncW05WGV2Q3RkVTFOdkVSaEFfOHVocUNfbU42NVFRaVBpY0lKamtWZTduM0prbVBybnlob0FoczJIVE9BWmVBR25fX3VtZG5HYms2LXhCWFlwSjRhbHFKMmdhSzY4akYwa0g2endaTEpFWHlZRFBWUDI4R0U0c3BfamxZSUJac0R4OXNR?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-22/money-03.mp3",
+      "title": "2. AIエージェントに「任せてはいけない領域」",
+      "duration": 130,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhZ3JMZjg0YVBLQlYtWUNfeXBHX1BHVHlKVFhnVnFZVTcwV3dxRlpPblFSUm40dE9LQWI5ejhTMnJzY3ZJZ20tTFdIVDFOTXRJVVdYZEV6U3hRWTBhWWR0WFhHRURQcWJlX05XVnUwWllhZUgxQTRJY1pHR0ZWd0k?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-22/money-04.mp3",
+      "title": "3. 個人がAIで業界レポートサイトを運営",
+      "duration": 100,
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JN2pKQ2lEdU9WLVNUZS1BQy00V2tTZzh6ZlBzMDhjSldjUXNWYXpfR3lVcUQxNTJXNy1kdW9wN3pTMmIyZ2JKa3VfZVp0U1FhR1VNd0JfUk1TMktud09QVENxUlFYcjFp?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-22/money-05.mp3",
+      "title": "4. 並列エージェント時代の開発ツール",
+      "duration": 104,
+      "link": "https://github.com/openlayer-ai/jevals",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-22/money-06.mp3",
+      "title": "締め",
+      "duration": 11,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-22/story-01.mp3",
+      "title": "導入",
+      "duration": 3,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-09-22/story-02.mp3",
+      "title": "1. 酒場が教えてくれること",
+      "duration": 259,
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5WUV8yWXBxTXRnYVpZa2NiTE82UGU0VlpDLXlGeHJkU2NZNUk0cW1vNWZkb2Z0RmktZ3EzM2RoblExT0Q4dHBNcnRmMXVqcFFra0h6NUVhNDNPRElyMUx6SnBJZlZPUEs1Z3BtVGVRb015ME0?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-09-22/story-03.mp3",
+      "title": "締め",
+      "duration": 9,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
