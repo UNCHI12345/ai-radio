@@ -1,0 +1,190 @@
+{
+  "date": "2026-09-23",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 17,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-23/ai-01.mp3",
+      "title": "導入",
+      "duration": 32,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-23/ai-02.mp3",
+      "title": "1. クロード・オーパス5.5、登場 ───40%安く、30%速く、しかも賢くなった",
+      "duration": 138,
+      "link": "https://www.anthropic.com/claude-opus-5-5",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-23/ai-03.mp3",
+      "title": "2. 「ジェブ」── テキストを一切返さない、全く新しいタイプのAI",
+      "duration": 134,
+      "link": "https://simonwillison.net/2026/Sep/21/jev/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-23/ai-04.mp3",
+      "title": "3. 小米のミモV2.6プロ ── 約5億円で作った世界トップクラスのオープンモデル",
+      "duration": 89,
+      "link": "https://www.latent.space/p/ainews-xiaomi-mimo-v26-pro-1t-a42b",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-23/ai-05.mp3",
+      "title": "4. オープンAI「ジーピーティー6 ソル・アンド・ルナ」登場",
+      "duration": 34,
+      "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-23/ai-06.mp3",
+      "title": "5. ジーピーティー6が80年前のエニグマ暗号を独力で解読",
+      "duration": 50,
+      "link": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-23/ai-07.mp3",
+      "title": "6. メタの「ミューズ」に深刻なゼロデイ脆弱性",
+      "duration": 58,
+      "link": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-23/ai-08.mp3",
+      "title": "7. オープンAIの訓練コントラクター、AIを使って解雇される",
+      "duration": 52,
+      "link": "https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-23/ai-09.mp3",
+      "title": "今日のAIレッスン",
+      "duration": 108,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-23/ai-10.mp3",
+      "title": "締め",
+      "duration": 13,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-23/food-01.mp3",
+      "title": "導入",
+      "duration": 22,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-23/food-02.mp3",
+      "title": "1. 冷凍食品の需要拡大、外食産業も本格参入",
+      "duration": 136,
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBrUjQ5MXBNYkFhdUh1TXNfcE9KNkpVNWdFT0R1cDZVRFVtc3RYdlBVM1lfLUNjRG56LWwwT3Q5bkdmc0RUbkQ2U3hjSGpCX2RodXRBcGZmV0luWjVTZmxER0VLUzFiQmVJYS15c0tXeXc4cXNtYldzSkYzQjE?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-23/food-03.mp3",
+      "title": "2. 鳥貴族は値上げ、安楽亭は値下げ、くら寿司は両方。外食の「値付け」が三極化",
+      "duration": 138,
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSEJiQW1DYjNGUnp3QzhpdWpPYTd4TjBtQ1BMZ28tOVk2dTB6eXZqbGJtR2VfaU5meURkVXBJelROWng0YjhSZGNHSG9PVWZEQXUwZ2haS05Jbm5OWGRuQmRoT2ttcDBkOTZSYTllVExEWGh5TDQtNmF4LXhpbGphRzB3b09rSkdq?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-23/food-04.mp3",
+      "title": "3. 円安・コスト高・消費低迷。外食企業が向かう「3つの選択肢」",
+      "duration": 114,
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOU83WXBwck9ZRTUwdVgyTU1uTGpWX0U1RjNrcUFmWXR2V2pPb1VkZVJ1VExuT2EzRFkzZWt5SG5hb1F1Y085WnFvTWlEcEhBSDFfbmgtcGYzb2tyN2R5MUJFX2xwNUVUYjl1Q1NOb05EbW55LWxSLTUybkFOZ1pIZnhvbWxzSVI?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-23/food-05.mp3",
+      "title": "4. フードテック最前線：植物細胞培養と菌糸体代替肉が合流",
+      "duration": 57,
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1maUJNVFNOM3l4OThzOXBGQzZ1Zlp2ckM1RHR4amNnMDhNNVBDdE5rVW81a1VtdnpjWXlpcVo0d2U4MlBpTEowcVlsUE8wei1STUtPVzJEQlJLT0U1TlM0?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-23/food-06.mp3",
+      "title": "締め",
+      "duration": 15,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-23/money-01.mp3",
+      "title": "導入",
+      "duration": 25,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-23/money-02.mp3",
+      "title": "1. アマゾンがメタの「ミューズ」を締め出した理由――エーアイエージェントが握る主導権争い",
+      "duration": 147,
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBvMUp0ZVZyd2NrZlBzdXlLcGpsZUhDOGRBY1NqSkhoa3pILTZJclJVY1hRUEVUR3hEb0tqaFBMTXRiZw?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-23/money-03.mp3",
+      "title": "2. エーアイの危険は\"間違った答え\"だけではない……エーアイエージェントに「任せてはいけない領域」",
+      "duration": 162,
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOM0Rfd1hMNHhYaWpibk1TSEpRZzd5MUlDRGlmX2NJZjRHYlBhZzFVd1M0Z0JLeTZCdW8tM2dqSVFidTg5eHIzQW1PNThfUjBJbllwXzhZUjdvNGFBTUh0ZGhIZmw0ajhxSkpBVUJ6MkdEU3loaVgxRW1ueUtUR1hPb0otcEh3MzVEU0o4cjZR?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-23/money-04.mp3",
+      "title": "3. 個人開発紹介：エーアイ・レテ・ラグ",
+      "duration": 72,
+      "link": "https://ai-rete-rag.com/",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-23/money-05.mp3",
+      "title": "4. 個人開発紹介：インスティンクトフラッシュ",
+      "duration": 46,
+      "link": "https://github.com/General-Instinct/InstinctFlash",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-23/money-06.mp3",
+      "title": "締め",
+      "duration": 16,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    }
+  ]
+}
