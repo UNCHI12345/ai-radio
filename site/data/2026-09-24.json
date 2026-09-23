@@ -1,0 +1,222 @@
+{
+  "date": "2026-09-24",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 17,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-24/ai-01.mp3",
+      "title": "導入",
+      "duration": 30,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-24/ai-02.mp3",
+      "title": "1. クロード・オーパス5.5登場＆ジーピーティー6ルナ・ソル投入——エーアイモデル「値下げ戦争」本格化",
+      "duration": 155,
+      "link": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-24/ai-03.mp3",
+      "title": "2. クロード950体が21時間かけてクリスパーに似た新酵素を自律発見——生物学の歴史が変わる？",
+      "duration": 142,
+      "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-24/ai-04.mp3",
+      "title": "3. ジーピーティー6アストラがドライビングテストに合格——他のモデルは全滅",
+      "duration": 91,
+      "link": "https://drivingbench.com/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-24/ai-05.mp3",
+      "title": "4. グーグル、文章で注文するだけでリアルな声を作れる音声生成モデルを発表",
+      "duration": 51,
+      "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-24/ai-06.mp3",
+      "title": "5. 中国がディープシークとムーンショットエーアイを調査——ユーザーデータがアンソロピックに流れていた？",
+      "duration": 49,
+      "link": "https://www.thestandard.com.hk/innovation/article/343563/DeepSeek-and-Moonshot-AI-face-Beijings-probe-over-potential-data-leaks-to-Anthropic",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-24/ai-07.mp3",
+      "title": "6. オープンエーアイがウクライナの民間インフラ防衛を支援",
+      "duration": 24,
+      "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-24/ai-08.mp3",
+      "title": "7. クロードのサービスが2週間で3倍速くなった——しかもクロード自身がほぼ全部直した",
+      "duration": 68,
+      "link": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-24/ai-09.mp3",
+      "title": "今日のAIレッスン",
+      "duration": 96,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-24/ai-10.mp3",
+      "title": "締め",
+      "duration": 8,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-24/food-01.mp3",
+      "title": "導入",
+      "duration": 18,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-24/food-02.mp3",
+      "title": "1. ハウスがココイチを売却へ！2000億円のエムアンドエー劇、外食業界の再編が加速",
+      "duration": 131,
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8zMHZGdUllSzZDdHdtRDk5akY2MzNuRVozZnVxdGpfNXBYeWo5R202RzdjN1pjY0NLSkhkY3NEcXRidWxXWDZCN0RXTkE1WnE3?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-24/food-03.mp3",
+      "title": "2. 消費減税で「飲食店」だけ取り残される？小売店との明暗ニュースを読み解く",
+      "duration": 124,
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRy1Pc0pJWVBmb1dYaktjQjBvTlItRUJBMERwV3hONDBJYUlEZXZSYUVZN3gtUkFGX0hzVmtDNWhIWEh4V25Ia2F6Mlh0T2FLSlgzQmxUamhvVFhlQzR2RS0yQ3Bob1EyajJabHctbHgyaW1CcnBBRTRJdlg4czVRRWNoM2Zuc0Fh?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-24/food-04.mp3",
+      "title": "3. 閉店する店・行列ができる店。その差をAIで縮められるか",
+      "duration": 119,
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GMjktSVEyVEhzLV8xbHdIb1l3elV1VE5kRHVIbnAydVMta3dYOFV6a1p2OWdsMVZGZUp0ZkhvNUlmVUpvT3pmb2JXYmUyMDYxRDVhYzdHQ05HRk1US3RPNEdkQ3Juc3BoTjhTNmhB?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-24/food-05.mp3",
+      "title": "締め",
+      "duration": 15,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-24/money-01.mp3",
+      "title": "導入",
+      "duration": 18,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-24/money-02.mp3",
+      "title": "1. エーアイエージェントを「監視する」ビジネスに600億円超が集まった",
+      "duration": 116,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlSGx4SXRXUTh1amhZOTkzdkpRdkg1bzF0MlFOWHBfZmlYdE1iVHIxVWt3Q2g2X3c3dHVTcnJlNHBhWXBMZHRWS3BKQ3pBeXBtX3BzeTJHSEtPYzFKNFVjSjE4NzV2b2VXekF1NDY1M29YX2VFNnhOMm4tTldfeVk?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-24/money-03.mp3",
+      "title": "2. メタが個人向けエーアイエージェントを投入——でも「信頼」の壁が厚い",
+      "duration": 71,
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb2N1X0pxWnRYb2RnbWhBVXhFckUtd1FWUGxac2xQNWxVakFHNm9hM0FLekthVU1NV0ZSOTY0WlF3SXZSMjVRUDlpRUNiNG9qZEFaeU9wRFpGS2UyaFJXcXVqRnVpalhaSUhrTmFsSGNfazBtSkNMNHhhWWlPU2ZTZHVWR1dUOXZUbWtZ?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-24/money-04.mp3",
+      "title": "3. 数年後、イーシーサイトへの注文はエーアイエージェントが送ってくる",
+      "duration": 102,
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdTk2cUcxMEY0dVBRUENOOVUxZXFxTHNINWJ6UHFFSmw2OUo2TzMycnFYcmNTOUk1SW1ENXlOYkRLLVNxWmxFWm9NWVNNTFhwenBkVW5DRHpWdWJ6ek5tUXNMa2Ftak1zNVF2NVBrU19BZlVwdlluNTNuUG5WLXpEU052VHFqUUt1N0VlQ1pZVQ?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-24/money-05.mp3",
+      "title": "4. 学習データ争奪戦——スノーケルエーアイが546億円、評価額2.7倍",
+      "duration": 96,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sbzVyTmpwVFdQdmY3T1VlWTZHczhDZmFhQjB5OXRvRzA4WFZ5a2ZJRGIxWmIwSEkyTFBaUVJ2UmE5UnlROTNWQ2p6VklIeGtQRnJv?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-24/money-06.mp3",
+      "title": "5. エーアイが書いたコンテンツ、構造だけで見抜けるようになってきた",
+      "duration": 80,
+      "link": "https://arxiv.org/abs/2609.15369",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-24/money-07.mp3",
+      "title": "6. 個人開発ツール——商品動画をエーアイエージェントで作る「アールエックスフィルムスタジオ」",
+      "duration": 58,
+      "link": "https://filmstudio.rxlab.app",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-24/money-08.mp3",
+      "title": "締め",
+      "duration": 23,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-24/story-01.mp3",
+      "title": "導入",
+      "duration": 20,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-09-24/story-02.mp3",
+      "title": "1. 今週はお休みです",
+      "duration": 26,
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YdWdvd29RZWx6ZVdxdTBCMW1OTS1IaW9TdzdIZVozelpzbXNPWnkzbjBKTWVtLW56NDI1YnNENGRsUFRqR0x0cXktZUxaR1c5ZndCd0FiYlA?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-09-24/story-03.mp3",
+      "title": "締め",
+      "duration": 28,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
