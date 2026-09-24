@@ -1,0 +1,182 @@
+{
+  "date": "2026-09-25",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 17,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-25/ai-01.mp3",
+      "title": "導入",
+      "duration": 38,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-25/ai-02.mp3",
+      "title": "1. オープンエーアイのエーアイエージェントがオーストラリアのメディケアに侵入——世界初、政府システムへのエーアイ侵害",
+      "duration": 215,
+      "link": "https://www.bbc.com/news/live/cvgl73pxgndwt",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-25/ai-03.mp3",
+      "title": "2. グーグル、喋って・表情を作って・97言語をこなすリアルタイムエーアイアバターを発表",
+      "duration": 126,
+      "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-25/ai-04.mp3",
+      "title": "3. アメリカ政府、エーアイ批判者を「外国のエージェント」として標的に",
+      "duration": 91,
+      "link": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-25/ai-05.mp3",
+      "title": "4. アルファ世代の最大の悪口は「エーアイっぽい」",
+      "duration": 41,
+      "link": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-25/ai-06.mp3",
+      "title": "5. 日本の古本屋、エーアイ学習用の大量買い付けで売り上げ5倍",
+      "duration": 40,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/japanese-used-bookstores-see-5x-sales-surge-as-books-are-being-bought-by-the-ton-one-50-ton-order-sent-to-the-us-for-ai-scanning-and-destruction-multitude-of-suspicious-bulk-buys-thought-to-end-up-in-foreign-ai-scan-and-shred-facilities",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-25/ai-07.mp3",
+      "title": "6. 70歳のお母さんのビジネスを、クロードで立て直した話",
+      "duration": 61,
+      "link": "https://www.reddit.com/r/ClaudeAI/comments/1wohpdm/i_turned_around_my_70_year_old_mothers_business/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-25/ai-08.mp3",
+      "title": "今日のエーアイレッスン",
+      "duration": 98,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-25/ai-09.mp3",
+      "title": "締め",
+      "duration": 15,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-25/food-01.mp3",
+      "title": "導入",
+      "duration": 23,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-25/food-02.mp3",
+      "title": "1. 値上げとセルフオーダー化、お客さんの本音は賛否真っ二つ",
+      "duration": 134,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51UDlmbXlhc1F0U3JLUDFtSXdjcmREbUpoM3RMeTFVeVdIQ1hBNHQ4dklmbERfM2QweVNPLTItdjVNa0xnVXlwQ0VEb3Nwb244Vlg4TzJtX3g0cHNyMVNWalExM2JvbXNXUUZTWHFoNDNURUpBOXp6Z2JFZ21YVmc?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-25/food-03.mp3",
+      "title": "2. 初任給30万円超え、稼げる外食チェーンの構造を中小店舗に活かす",
+      "duration": 132,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLTVlUVjRLWFJvM0ZpdnRfNE5zUzVlUXgyN2xzR0NvUUZOa19lNE81dzd2MERuQ2UxVVBZQmk1TmQ2czlFVFphaWo5bWY1b0NJMUF2Y0x3UkE3MzVqdHFGbTlad0lrcjZCd0FpZElPNWQ0cTJxaGRiTkR1SkYyOFE?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-25/food-04.mp3",
+      "title": "3. 植物性食材ブームに陰り、トレンドをAIで冷静に見極める",
+      "duration": 101,
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBacWRxSEkwSHVkVEdjRklZYjl2TXVtZFEwRXdQMWlfaFJWVDFvUUFRVVRwRkxXWnJCWDJGV0VScmFzd09PenpKSXVJMl9keVlHZWZlWjNTZmFIREpFRFQtSXBMSVg0Zw?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-25/food-05.mp3",
+      "title": "4. アスクルが飲食店に「翌日届く」、在庫管理をAIで賢くする",
+      "duration": 90,
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82Z3dWM3AzYmJTQjhaU3I3bFlKQTFGc3NQdExXRmxXYzVFVXpEbTdDdlZOVW4yZHZhSDZNc1lxVVd6WFlVc1l2ZFBwU3ZjdjFPLXdSRHJxRS1tUGgzMFVqYw?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-25/food-06.mp3",
+      "title": "締め",
+      "duration": 27,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-25/money-01.mp3",
+      "title": "導入",
+      "duration": 16,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-25/money-02.mp3",
+      "title": "1. 日本企業8割がエーアイ活用——でもセキュリティが追いついていない",
+      "duration": 93,
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9oQ0V1aTNINTVoaVBXNVNSSFJ2NDVyRkVuMFRqaml4VjNNd0laRkI0dE16YndWVFZfTGpiektiS3RNYUtL?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-25/money-03.mp3",
+      "title": "2. エーアイエージェント向け通信インフラに4億5000万ドルが集まる",
+      "duration": 89,
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9tcWdVVnRHR2RTX0RueEFBNnVrNWNLOF9EbzhCdzZZYng4VlJfbkMyazZBdGV4cVd6S1pSU2tsQmZiLWVjWWthZ3A5Wm1iOUJYdFpVS1VQRlp1TlNn?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-25/money-04.mp3",
+      "title": "3. エーアイが代わりにお店に電話してくれる——ワイコンビネーター採択のスタートアップ",
+      "duration": 105,
+      "link": "https://news.ycombinator.com/item?id=49831231",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-25/money-05.mp3",
+      "title": "4. 個人開発者がエージェントを「使いやすくする道具」を作り始めた",
+      "duration": 119,
+      "link": "https://github.com/Parcha-ai/agentrun",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-25/money-06.mp3",
+      "title": "締め",
+      "duration": 21,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    }
+  ]
+}
