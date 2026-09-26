@@ -1,0 +1,206 @@
+{
+  "date": "2026-09-27",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 17,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-27/ai-01.mp3",
+      "title": "導入",
+      "duration": 32,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-27/ai-02.mp3",
+      "title": "1. オープンエーアイのエーアイエージェントが「脱走」——止まらない制御の問題",
+      "duration": 213,
+      "link": "https://madrobot.blog/2026/09/26/openai-agent-escaped-sandbox-dns-external-chatbot-models-paused/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-27/ai-03.mp3",
+      "title": "2. 「エーアイを使い続けたら、自分がバカになった」——ある開発者の告白",
+      "duration": 114,
+      "link": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-27/ai-04.mp3",
+      "title": "3. エーアイカメラが「間違えた」——無実の女性が13日間拘置",
+      "duration": 95,
+      "link": "https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-27/ai-05.mp3",
+      "title": "4. マイクロソフト「コパイロット・プラス・ピーシー」ブランドが静かに消えた",
+      "duration": 41,
+      "link": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-27/ai-06.mp3",
+      "title": "5. ミストラルエーアイのCEO「エーアイはソフトウェア。コントロールできる」",
+      "duration": 45,
+      "link": "https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-27/ai-07.mp3",
+      "title": "6. アメリカ連邦取引委員会「エーアイ開発者はエージェントの行動に責任を持つべき」",
+      "duration": 26,
+      "link": "https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-27/ai-08.mp3",
+      "title": "7. 2017年製の古いパソコンでも動く——小型エーアイモデルの進化",
+      "duration": 45,
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wqcrly/ling_tiny_30_is_a_glimpse_of_the_future/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-27/ai-09.mp3",
+      "title": "今日のAIレッスン",
+      "duration": 119,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-27/ai-10.mp3",
+      "title": "締め",
+      "duration": 18,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-27/food-01.mp3",
+      "title": "導入",
+      "duration": 27,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-27/food-02.mp3",
+      "title": "1. 「人が足りない、エーアイは使いたい」――外食・小売のデジタル化実態調査2026",
+      "duration": 114,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0bWtzVnI4S3QxNjdZUUJ3YzBSS0VnVzdEenJjWlFqX2dEcFVDRHBFTi0wUWtWekdTc0ctZU14NGxEYVBZRUQ1RmxWeTlEb2xjMU56ZGhBbmRzNmxTYVh1UUp1Mzh1cXdmQkE?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-27/food-03.mp3",
+      "title": "2. 最低賃金改定で飲食店の半数以上が「経営に影響あり」――値上げか人員削減か、もう一つの選択肢",
+      "duration": 113,
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5BZ0xmOXliOHFqZXZ0cVlKcDB6eF80T0VPWVA0QXM1V19BNEgySlAzTXNkekp2bUxhR3VzTEJwcDFqaVJpeW53c0dnUEZya0lUUlhiYjRlNkdoVkVtWnIzUWRycnFyZw?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-27/food-04.mp3",
+      "title": "3. 「月見バーガー」が秋の外食最強コンテンツになったワケ――季節メニューの仕掛けにエーアイを使う",
+      "duration": 100,
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOGRLQXhCeTdIYVJNb3JBNXZJWXhOdWh4WHM5akMxSE9aR0JPOVVKM012Z0xobkZNM0otWkJ6UTVNQS01bFFXNHNYTlV0SnZsWEJvYnRpZUpoc2JlSkN2TE5WaXZDWXJUNXRQU0R2eG5IZnc1SjhGYi1INVFGbmMxWkh1NzFJc3Vx?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-27/food-05.mp3",
+      "title": "締め",
+      "duration": 16,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-27/money-01.mp3",
+      "title": "導入",
+      "duration": 16,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-27/money-02.mp3",
+      "title": "1. 159ドルのエーアイ音声レコーダーを25ドルで自作した話",
+      "duration": 196,
+      "link": "https://zephclick.com",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-27/money-03.mp3",
+      "title": "2. オープンエーアイ、エージェント暴走の全容解明に数ヶ月",
+      "duration": 130,
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zM1dwMGlOdWcwNUVyZGJQSEtmZ1hyc2pISnF2YkY3eFNtWjNRUlUwOEhIcUItZE1RVnVOTlI5RzExWGxQMWZ4LTVnNXRDUFJCZ1Q1am8yNmpiMUNsVWVaRXNVSGRnMlVtOUY1Zkh5Z21Rc1Z2cW1UNW5lMA?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-27/money-04.mp3",
+      "title": "3. メタ、エーアイエージェント「ミューズ」を端末群へ拡大",
+      "duration": 62,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtVnJNZU13Q3o4cFIyb19ac1R5SGhxbmo4YXZKdGZFN0l4cnE4SWhiT1J2NDRNTkZ3dHRxZjRhVndOb1NLX3Y4eFFWUURscjNyTkM4?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-27/money-05.mp3",
+      "title": "4. グーグル、エーアイエージェント向けポストグレスキューエル基盤",
+      "duration": 71,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yWjlna245SlJpbjQ3MlR1ZmxibnFBbHIwb3VrOWZZSlFEeFdHSUpxUWdiOXZuNEtXNjVkclBTWDZBU2I0aHBkSHBsYVotQmhiaUpkcnFHR3B6QVYzaXBxN2VRa0U3UFJHWDJIczF3SnBqbjdhcGhtTTZpN1h2S0k?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-27/money-06.mp3",
+      "title": "締め",
+      "duration": 16,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-27/story-01.mp3",
+      "title": "導入",
+      "duration": 20,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-09-27/story-02.mp3",
+      "title": "1. 高校卒業祝いのサプライズ、「祝・中学卒業」事件",
+      "duration": 237,
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Vdzl0VWF5NzVMZl9pQ3NGTGRGRlBWei1UaGstQWNndTZwaGNkT1Z0dWU3bDFfeVZ6dE5vZ2dlXzY5T0UtZ0dEWElyZC1rUTdtMTBWcENLWC1xUnNOdEY0WTlYNmp6TThhVE9HWEcyR09BRlFGcjdF?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-09-27/story-03.mp3",
+      "title": "締め",
+      "duration": 9,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
