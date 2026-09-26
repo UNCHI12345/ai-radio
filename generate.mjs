@@ -116,6 +116,14 @@ function today() {
 }
 
 const date = process.argv[2] || today();
+
+// 曜日はAIに推測させず、こちらで確定して渡す（UTCずれ・誤答の防止）
+function wareki(dateStr) {
+  const [y, m, d] = dateStr.split("-").map(Number);
+  const w = "日月火水木金土"[new Date(y, m - 1, d).getDay()];
+  return `${m}月${d}日 ${w}曜日`;
+}
+const dateLabel = wareki(date);
 const channel = process.argv[3] || "ai";
 const cfg = CHANNELS[channel];
 if (!cfg) {
@@ -149,7 +157,7 @@ for (let attempt = 1; ; attempt++) {
       messages: [
         {
           role: "user",
-          content: `今日(${date})の収集素材です。この中から${cfg.minutes}のコーナーを構成してください。\n\n${source}`,
+          content: `今日(${date} ${dateLabel})の収集素材です。導入で日付を言うときは必ずこの曜日を使うこと。この中から${cfg.minutes}のコーナーを構成してください。\n\n${source}`,
         },
       ],
     });
