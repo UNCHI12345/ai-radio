@@ -1,0 +1,182 @@
+{
+  "date": "2026-09-29",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 17,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-29/ai-01.mp3",
+      "title": "導入",
+      "duration": 27,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-29/ai-02.mp3",
+      "title": "1. クロード・ソネット5.5登場——速くて安くて、ポケモンもクリアした",
+      "duration": 126,
+      "link": "https://www.anthropic.com/claude-sonnet-5-5",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-29/ai-03.mp3",
+      "title": "2. オープンエーアイがAIの「やらかし事件簿」を公開——自己複製するプロンプト攻撃まで",
+      "duration": 160,
+      "link": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-29/ai-04.mp3",
+      "title": "3. AIエージェントが勝手に住所を教えて、値引きを承諾した話",
+      "duration": 130,
+      "link": "https://simonwillison.net/2026/Sep/28/muse-ai-agent/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-29/ai-05.mp3",
+      "title": "4. 2026年のAI、ここまでを振り返る",
+      "duration": 70,
+      "link": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-29/ai-06.mp3",
+      "title": "5. 「AIコードが問題なんじゃない、誰も何も知らないのが問題だ」",
+      "duration": 57,
+      "link": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-29/ai-07.mp3",
+      "title": "6. ジェンセン・ファン「AIの蒸留は競争だ」",
+      "duration": 53,
+      "link": "https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-29/ai-08.mp3",
+      "title": "7. ジーピーティー3が今日サービス終了",
+      "duration": 25,
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1ws67x4/gpt3_is_discontinued_today/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-29/ai-09.mp3",
+      "title": "今日のAIレッスン",
+      "duration": 104,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-29/ai-10.mp3",
+      "title": "締め",
+      "duration": 11,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-09-29/food-01.mp3",
+      "title": "導入",
+      "duration": 15,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-29/food-02.mp3",
+      "title": "1. 2026年8月の外食市場 全体4.9パーセント増 アニメコラボと低価格が市場を支える",
+      "duration": 131,
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5jcEJCcW54YUY0ZEE0WUw4RFdnV2dWN2RzX25BaFpDcVJGUVZ6NHpIRUVuU29VOFpha3hwUkNPa3pGMlVoZ25sRG9NR0FDa0x6TjFUVTJJNjZDZDc4emg3djBn?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-29/food-03.mp3",
+      "title": "2. 消費税1パーセントで「飲食店離れ」が加速する可能性 問われる「外食する理由」",
+      "duration": 128,
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWXQtYmE4NVp0Z0cwejlqbzR1UUdqdmNXOVlTX3JQQlhfR084RmcyTU1uVkFlR092d19LVGdRdWtZTU5qWTBjZGRTLUNmZExFRUFEMUp3NDQ3NmE0RFpTakRJbTFqY2FHNVl5bVVNYUpadEJlMUxSckxfRnlHcjllMTRsdjVoeXFP?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-29/food-04.mp3",
+      "title": "3. 肥育農家が2戸まで減った「筑穂牛」 飲食店経営者がブランドを守るため農業に参入",
+      "duration": 104,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xVGVneEJBNDVvWl9hWWJNY0J1bkJuWjFTM24yNGRLS211eEJYUldmc0poN3FIZW1xVFc2NDF1V1NLZFBXQnF4OEFoMFozTUo0QWdnNTgwMzVZSng1dHYxLWIwU3NYWFVBUWxvc1B0d1FSVEVYTndDa2drZUxDYw?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-29/food-05.mp3",
+      "title": "4. 竹製カトラリーに二酸化炭素排出量を算定 外食・ホテル業界の環境訴求が変わる",
+      "duration": 115,
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5TdWthNnZsamdfRWx3WkFrTjFDX08xR0w5SHhtYlhmeWZqNXpTalR3dkpKb2FZVTB0UU1mUVlwWW5BWjZJWklkT3p3RG9aN0dYVWF5VG8tTDQ2SkNxY3gxRUF6eFQya1RBRkdWMnVVMHFkU3pjQ3l3a3poSXA?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-29/food-06.mp3",
+      "title": "締め",
+      "duration": 16,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-09-29/money-01.mp3",
+      "title": "導入",
+      "duration": 19,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-29/money-02.mp3",
+      "title": "1. アマゾンがメタのエージェント「ミューズ」をブロック",
+      "duration": 165,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZRGpSODlNTjZNUjlibC1sc1pCVHJXaWZubUdtdUpHZTBuZnVvQml4ZXlUY3NCWmN2VUt0SHdtNmRTbHNKTEpIckQybmFpbkZPUms1dTZuYU1aX1U2VjRTYndMcmJPTFRwT3c?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-29/money-03.mp3",
+      "title": "2. 「カルチャープレナー」という生き方",
+      "duration": 117,
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zVWJUckJVQk9qbl84UVh1MnFNYktmYzZQTU5ZSXQxLXRrWGUxRUdOYmFLNXpYWk51eG92RkZPOWU1Q2F5SzNRX1J5bHBoWEtnUEwxZ0I2cXlaZw?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-29/money-04.mp3",
+      "title": "3. エージェントが「暴走」したときどうするか",
+      "duration": 115,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93NFEzYnFOSy1nX21ISEpuZTBCRHJqYmloZnRIaG1UemEyUDlHektsS0ZmNi1SalRiV2JSUlcxWmlpcUxhWGhiU3lUSkhCaXB6b2VnWVpFb3h1N0h6eFhYS25QU25meEpzcmZBU2xRQlB6LVlKZDBkTUdmVG5INmc?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-09-29/money-05.mp3",
+      "title": "締め",
+      "duration": 18,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    }
+  ]
+}
