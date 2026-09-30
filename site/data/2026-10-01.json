@@ -1,0 +1,230 @@
+{
+  "date": "2026-10-01",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 17,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-01/ai-01.mp3",
+      "title": "導入",
+      "duration": 30,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-01/ai-02.mp3",
+      "title": "1. ジェミニ4アルゴン — グーグルの新フロンティアモデル",
+      "duration": 146,
+      "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-01/ai-03.mp3",
+      "title": "2. 中国製エーアイが高度なサイバー攻撃を自律実行 — アンソロピックの警告レポート",
+      "duration": 156,
+      "link": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-01/ai-04.mp3",
+      "title": "3. オープンエーアイのデブデイ2026 — ジーピーティー6.1ソルと静かに進む価格競争",
+      "duration": 148,
+      "link": "https://www.latent.space/p/ainews-openai-devday-2026-dots-61",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-01/ai-05.mp3",
+      "title": "4. シンスアイディー・バイオ — エーアイ設計タンパク質への電子透かし",
+      "duration": 47,
+      "link": "https://deepmind.google/blog/introducing-synthid-bio/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-01/ai-06.mp3",
+      "title": "5. 5ドルのマイコンでウィスパーを超える音声認識",
+      "duration": 43,
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wu2jjy/oído_speech_recognition_that_beats_whispertiny/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-01/ai-07.mp3",
+      "title": "6. オープンエーアイが全米中小企業と連携してエーアイ研修を提供",
+      "duration": 29,
+      "link": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-01/ai-08.mp3",
+      "title": "7. 数学者たちからの問い「エーアイが出した証明の責任は誰が持つのか」",
+      "duration": 78,
+      "link": "https://agmai.org/general-sep29/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-01/ai-09.mp3",
+      "title": "今日のエーアイレッスン",
+      "duration": 119,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-01/ai-10.mp3",
+      "title": "締め",
+      "duration": 12,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-01/food-01.mp3",
+      "title": "導入",
+      "duration": 19,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-01/food-02.mp3",
+      "title": "1. 消費税率引き下げ議論、外食産業には懸念も",
+      "duration": 93,
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hMzlWck0yYmU0d0tfRG5YZklxM21nUE1sWjY3YkpKX25paFZSa1pGYU5LRTk3N25jNk5pUkJKbW02LWROdlNuMEJ3aUtWTzFHendGTy1FbF9DUkhHQi1VRDNB?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-01/food-03.mp3",
+      "title": "2. 飲食店プラットフォーム「レスポ」、グルメサイト「レッティ」と連携開始",
+      "duration": 110,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKdUxhaDNGeHduckZ4NXEyUWN3Vkl3cndWVEJ6TUF6aGtDZ0Z5YXRMUDdGOTN0b2I5T2VFbzBwUVZYeERTcDZ1a0U3M1pTZ3dCZ1pST3BxWGthbXBXaHUtZXpfOU5BSHpHNUE?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-01/food-04.mp3",
+      "title": "3. ファストパスが飲食店に広がる、タイパ重視の消費者をどう取り込むか",
+      "duration": 101,
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FeG9Zd0J2NnY2NE84VlMwc1RHdFZGWnI5UmpXVmFwLWpNb1E3SGdkNXA2UW1qRWQ1M3EyM19vZUFjVFF2ckFQNlQ0SkJkTTc0OVhyXzhLa0kyaUNMdUQ1Uml4cw?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-01/food-05.mp3",
+      "title": "4. 天雷軒・一風堂・せい家、有名店の閉店が相次ぐ、数字で黄色信号を早くキャッチする",
+      "duration": 116,
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qOFFsZ2VUVUxOQkFjWktvU1BzNWRWSnB6d1pveFR6MzhtLTFRdEhONnkwdVBtOGxZYWlhNmVIclRqakVLTEZOSlpNVUx5ZjZxVFIxWS1B?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-01/food-06.mp3",
+      "title": "締め",
+      "duration": 18,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-01/money-01.mp3",
+      "title": "導入",
+      "duration": 25,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-01/money-02.mp3",
+      "title": "1. オープンエーアイが「ドッツ」発表 — 24時間自律稼働、4000アプリ連携の衝撃",
+      "duration": 76,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SSFJKenMwcE9oR1l3b1M4VTNNRzJVbU5hRmg2SmZmaF9ZN3owNVNwUFpmSFlpMkpDajJKeFlBLUZOSEV0UnlXTzRpN0hHeFBtcXZjTFJ3dzdJMUltZzQybGNXOXdLNVFqdGVGUEJEWVF6Q3kzcmx6dU9aellMdFE?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-01/money-03.mp3",
+      "title": "2. 営業エーアイが一気に押し寄せる — ズームインフォ、セールスフォース、ゴングの動き",
+      "duration": 124,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tTGFWanpQNDVuNjlSWDFzSzdmQXAzbjd6SFVDNmgyQUpqbEJET01XYVRFUkxnOE5ZWlBlaUhlbEViZV9mTGdmd1c2QW9ZVXRxS3ctNEFCaUtId1R1YkZQUl8xUEVTblgtN3JWRmdmdk5uSnBEdDc5cnNDWmhRdFE?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-01/money-04.mp3",
+      "title": "3. エーアイエージェントを「守る」ビジネスが急成長 — レコが86億円調達",
+      "duration": 115,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhMUUtdnd4aWlVa2hvaTZlQkduUkZrUnZYR2lNQ0hYdDM4VFY4Y1JuN1ZnSTVrOHdacHZCNU5zMjRMRWdSWmc0emFtNUY0WDFJSDdJVkRBaUU4ZktHTlZIRXF1Vm50RUJjeGlpd2ZLVEJyWVVpVklWYlREOENWN00?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-01/money-05.mp3",
+      "title": "4. 「自社の効率化」より「顧客の現場を変える」エーアイ — 製造企業の発想転換",
+      "duration": 75,
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ybXBZdmZ6MGVPMDAxT29lTENjbnd5YTJXQllHMXdydFVtbU91MGNtNkxPQ01lX0hXeFhXMFItQ3E5WU9oald4eXd2RVM1M3lmU1Z5bzZIRUpyc1FYaHk0T2VidDNSY0lDUl83Tmo2VTQ?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-01/money-06.mp3",
+      "title": "5. 個人開発ピックアップ — 22キビバイトのトランスフォーマーを13秒で訓練",
+      "duration": 63,
+      "link": "https://github.com/lostmsu/TurboGPT",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-01/money-07.mp3",
+      "title": "締め",
+      "duration": 24,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-01/story-01.mp3",
+      "title": "導入",
+      "duration": 9,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-01/story-02.mp3",
+      "title": "1. 熊本地震で壊れたメガネを直しに眼鏡市場へ…店員の\"神対応\"に「いい話」「一生この店で買う」",
+      "duration": 190,
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lTDJpYmltTjBtWVhuV2h4aDZTYS1zZXpkMnFTU3dwRXB6RXpJakx5MjlRVzRMWldkeWNLVUFvM0J4aDRoQWtnOHB0ZlpIRlIxRkVXRUZn?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-01/story-03.mp3",
+      "title": "2. 出張先のホテルで遭遇した怪奇現象【ホラー漫画】",
+      "duration": 28,
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE55Yk1rZkV6TmdVOC1DSDFVRmdCQXhGcXVnQ2JoWlhoVmZSTnJpVXA1dGVLdzNRQVBVa3lnai1rVzZXaHZvODlwWXFiMjFjZw?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-01/story-04.mp3",
+      "title": "締め",
+      "duration": 13,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
