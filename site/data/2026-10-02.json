@@ -1,0 +1,222 @@
+{
+  "date": "2026-10-02",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 17,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-02/ai-01.mp3",
+      "title": "導入",
+      "duration": 36,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-02/ai-02.mp3",
+      "title": "1. エーアイエージェント「脱走」事件の全貌と連邦取引委員会の調査開始",
+      "duration": 191,
+      "link": "https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-02/ai-03.mp3",
+      "title": "2. バークレイズ、クロードを全行員に展開へ",
+      "duration": 81,
+      "link": "https://www.anthropic.com/news/barclays-scales-claude",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-02/ai-04.mp3",
+      "title": "3. ルカン「エーアイで人類絶滅？心配ゼロ」vsアモダイ",
+      "duration": 129,
+      "link": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-02/ai-05.mp3",
+      "title": "その他のニュース",
+      "duration": 3,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-02/ai-06.mp3",
+      "title": "4. グーグル、ジェミニ4アルゴンを発表、ただし一般公開はまだ",
+      "duration": 30,
+      "link": "https://www.latent.space/p/ainews-gemini-4-argon-gdms-answer",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-02/ai-07.mp3",
+      "title": "5. ジーピーティー6アストラ、ナポレオン時代の暗号文を217年越しに解読",
+      "duration": 45,
+      "link": "https://runtimewire.com/article/gpt-6-astra-marmont-cipher-carter-church",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-02/ai-08.mp3",
+      "title": "6. オープンエーアイのプロ200プラン、10月30日から実質値上げとの報告",
+      "duration": 41,
+      "link": "https://www.reddit.com/r/OpenAI/comments/1wus2rc/if_youre_on_pro_200_you_need_to_read_this/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-02/ai-09.mp3",
+      "title": "7. エーアイは「権威ある情報源」に弱い",
+      "duration": 51,
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wv1c2e/llms_that_push_back_on_a_wrong_user_still_accept/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-02/ai-10.mp3",
+      "title": "今日のAIレッスン",
+      "duration": 75,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-02/food-01.mp3",
+      "title": "導入",
+      "duration": 22,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-02/food-02.mp3",
+      "title": "1. 食材高騰と飲食店倒産最多、危機はまだ続いている",
+      "duration": 77,
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA2RTBfRTViVnNTTUo4VGRVaGVzdVQyZWtsajBsN1hwM3VEMVVUaW00LWJZSFdXTHVWZXJjc3J0UEZMTEE2dDl2VG9fbw?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-02/food-03.mp3",
+      "title": "2. 食品消費減税、外食には追い風にならない可能性",
+      "duration": 70,
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBxWC1GcV9CU3pWVW1PY2E1MEdpZm1IaEtZcmRWTEhnRXM3aWNDZlBPYWppcXpTcUtWWFk3aWRMVGVPZ2JuSnVtak5kSmhIaENkNWlqbFBwcw?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-02/food-04.mp3",
+      "title": "3. スズモフェア2026東京、注文から配膳まで60台の自動化機器が集結",
+      "duration": 75,
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tRlR1d1VsM2t5MmFCYURjSURra1plYS01MTlIbk1qZ3BFZ1dGc0R3VjFIU2oybFVaS01LMEJQanZodDB6c0dpdWFNVHF2dkN3bUdGRGtja1UweWltb09mMUJYRER0bXdXS3ZYR0tUa3JYRTM2dlJDZg?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-02/food-05.mp3",
+      "title": "4. 政府がフードテックに9.7兆円、飲食店への恩恵はどこにある",
+      "duration": 91,
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xVUVzMHYxMUszS29INm01TlJ1d0ZSQnQxWEhlREpyUUZ0RS1oZ29fQ0F5WVZGQmRVb0VvMzl3ekFxVlg2bWx4Ymc2VTAtTkp1UGItUkd1THgtam5feWVWbmw0eXJRbE5NVF90WQ?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-02/food-06.mp3",
+      "title": "5. こめお「割烹こめを」食中毒で閉店、衛生管理こそAIで守れ",
+      "duration": 92,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QT1hpal8yam9VbnRwZmlvVjJtdWpKYVF3UlMxb2JkcVpZS2FPR1JPRGdQRDlMYmhkSVpLVEtpejQzR19KU3psVDJQMTRTbGhQNXk2Ty1QU2V5MllNT0pJc2VMTG5Zem5TRzU4eTE4RUY5SHhzUVBkaWRWS3hxWk0?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-02/food-07.mp3",
+      "title": "締め",
+      "duration": 19,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-02/money-01.mp3",
+      "title": "導入",
+      "duration": 18,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-02/money-02.mp3",
+      "title": "1. AI副業「数ヶ月で100万円」「1500万円」報告を読み解く",
+      "duration": 151,
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9tWU1NMHFzRWRYV0NLT05yZUJWVklxbGt5Nm9JMGZhMWlHc2JkUng5MWtyM1JuTzNrSmVMelRNSTdmYUk?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-02/money-03.mp3",
+      "title": "2. エーアイエージェントが自分でお金を払う時代 クラウドフレアとエーダブリューエスの動き",
+      "duration": 123,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15ajlkOUlYYVJMLXNFTzRmRTIyREFzM1ZvbTlnRXZxdDVtOFhDZE8zQmxsTVc4dkFVb2RPQ0hlWnJ3bDMxRVUwX3lydWtzby0yTTdZU2RZQXloN2ZXUlQ0Q0hpUXNzbVFNeXg0c2xZN00zNHExSEt1b252b3hBdnc?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-02/money-04.mp3",
+      "title": "3. エーアイがわざと間違える子供向け算数アプリ",
+      "duration": 88,
+      "link": "https://lathoa.ai/en",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-02/money-05.mp3",
+      "title": "4. どのグラフィックスチップでもローカルエーアイを動かせる「ジャナス」",
+      "duration": 86,
+      "link": "https://github.com/Vibra-Ingenn/Janus",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-02/money-06.mp3",
+      "title": "締め",
+      "duration": 16,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-02/story-01.mp3",
+      "title": "導入",
+      "duration": 9,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-02/story-02.mp3",
+      "title": "1. フランス人が感動、「日本のサービスってほんと細やかでびっくり」",
+      "duration": 244,
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9PR1JPclpoVVNPNFVyc2hicTNHYUpTSDZDdVM5RlJoNWMzWmhEMFNjV01la2NFTWpNc2pWeVRaSU42dk5JMXFHMEZ4QThsZw?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-02/story-03.mp3",
+      "title": "締め",
+      "duration": 8,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
