@@ -466,12 +466,21 @@ async function main() {
   for (const [ch, cfg] of Object.entries(config.channels || {})) {
     console.log(`- チャンネル「${cfg.name}」`);
     let chItems = [];
+    // 既出フィルタは「上位N件を切り出す前」に掛ける (--ignore-seen で無効化)
+    // 先に切り出すと毎日同じ上位記事だけを見て全部既出→0件になる
+    const ignoreSeen = process.argv.includes("--ignore-seen");
     for (const q of cfg.googleNews || []) {
-      chItems.push(...(await collectGoogleNews(q, cfg.maxPerQuery || 6, (cfg.freshDays || 2) * 24)));
+      const found = await collectGoogleNews(q, Infinity, (cfg.freshDays || 2) * 24);
+      const picked = [];
+      for (const i of found) {
+        if (picked.length >= (cfg.maxPerQuery || 6)) break;
+        if (!ignoreSeen && seenSet.has(i.url)) continue;
+        picked.push(i);
+      }
+      chItems.push(...picked);
     }
     if (cfg.hackerNewsShow) chItems.push(...(await collectShowHn()));
-    // 重複(タイトルが酷似・URL既出)を除く (--ignore-seen で既出フィルタを無効化)
-    const ignoreSeen = process.argv.includes("--ignore-seen");
+    // 重複(タイトルが酷似・URL既出)を除く
     const seenTitles = new Set();
     chItems = chItems.filter((i) => {
       const t = i.title.slice(0, 25);

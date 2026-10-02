@@ -128,12 +128,12 @@
         "常連 店主 心温まる"
       ],
       "maxPerQuery": 6,
-      "freshDays": 90
+      "freshDays": 1825
     }
   },
   "jingle": {
     "file": "jingle.m4a",
     "title": "オープニングごあいさつ(松村)",
-    "duration": 17
+    "duration": 18
   }
 }
