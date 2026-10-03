@@ -1,0 +1,190 @@
+{
+  "date": "2026-10-03",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 18,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-03/ai-01.mp3",
+      "title": "導入",
+      "duration": 26,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-03/ai-02.mp3",
+      "title": "1. アンソロピック、1億ドルで1万人育成——クロード・フロンティア・アカデミー始動",
+      "duration": 71,
+      "link": "https://www.anthropic.com/news/claude-frontier-academy",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-03/food-01.mp3",
+      "title": "導入",
+      "duration": 19,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-03/food-02.mp3",
+      "title": "1. 飲食店の半数以上が最低賃金改定で「経営に影響あり」―シフトのエーアイ最適化で乗り切る",
+      "duration": 74,
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE16UHVicjk4UUxmNVlPdjBJMXFfSzRmaUpVQ0VvZ25la0FVMHl6dHJ1VGFmcFgyR0F5NzJ1Y3VqRTgtM09fUU16QVlEcUswLUhid0d6SU5lSVltYlFrOGVoWG1LMA?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-03/food-03.mp3",
+      "title": "2. 長雨が外食業界を直撃―天気データで需要予測、エーアイレシピ提案も武器に",
+      "duration": 78,
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU2c2Nk1peDVYandRR1p6dVRVbTc3X0V0bjVPSnhJWGNiMWJfc01SSWdtbkY3UnNZMDdsYkxYUTFXS0dFdjltYVhZWTFrbm5JUGdqOE5PZ2F5T1d3cnZsSlkyZDY1Y3FhREpXUmtYQ0Z2OHNSSzdnNl9EOFRsU0NEOTU0SEt0U29h?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-03/food-04.mp3",
+      "title": "3. 元気寿司と塚田農場、同じ「コメ自社生産」でも狙いが違う―エーアイ原価管理で中小店も実践",
+      "duration": 69,
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDMnJKdl9DZFE2MUsxWlFQUHVrYk1aQ0Q1UFVHcVB3V1hlOWhjUUl0U1Zuc2Mxc0JtUG1wZ2FuSHJCR1FfUmRvMXRMTVVHbVhaTFpKUnlheFNiUTQ?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-03/food-05.mp3",
+      "title": "4. 食品製造のエーアイロボット拠点が北海道に誕生―技術継承の切り札はエーアイ動画マニュアル",
+      "duration": 69,
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPclZTNlJFQVBjNzdWNFc1VnNCNFJKazlSZ1N0RmxaZVQydklOTS1lbnRvY2dqa2xTXzVKeW9TQnlxaHRGejk3R0tIem9RUF9JdjhKZEhxT0RfUVJzTEh6SFFPRVhNY3VSX3VUUmpWY0FmSVFVbVFlUVV6WGpXQzY4WnYxTnhPdTJqazBUbFdqcE5IZ0JYdXhZRzVaVEMzall3Wld3ZDhMZUxTWVVSNm1nRFhFYXVSUlgwdFhlZ2poYmpUdDFEektJRWNmRk1YM2EzY3AwT0xnamxtdDQ2NXlYQmFvS1JPcHlqcGlLY1RsaVFqbWI5cHc?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-03/food-06.mp3",
+      "title": "5. こめお氏の飲食店が食中毒・炎上―危機管理にこそエーアイを",
+      "duration": 77,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFY1o1by1paTVkWC1aWW9naTczU3R1N0pRQ1p4R05Pa1lrZHVrSFR3bG5JZTRCblRYRWNOandoOW1hcVRiZkNJbVA2eWNPLTg0amFicW5EZTFnWUlIaWs4TExKN3R1VFQxT0owbVZGVDZQN2dnb3lFUEhjQjc1ajg?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-03/food-07.mp3",
+      "title": "締め",
+      "duration": 16,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-03/money-01.mp3",
+      "title": "導入",
+      "duration": 28,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-03/money-02.mp3",
+      "title": "1. ユーチューブのエーアイ量産動画、収益化審査で落とされる問題",
+      "duration": 125,
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBSNHVsX2ZiV3hFX2ZDUmRZYTUyUjFtdmtoMVZ4MHd0VVdGWXhmZGpQS0hHZ3hCSlpPWmpjVmdJeF80SnFnRVN3cFZpTUxxbDRCd0NjVExWbl9aMTFkTHlObDVDU1Q1dUNudVp0akFZdVc4OEhnYUtwRGhB?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-03/money-03.mp3",
+      "title": "2. ガートナー調査：大企業のエーアイ活用はまだ「効率化」どまり、個人が先行できる余地がある",
+      "duration": 111,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zb1c2dTEybFpOWVhIMHB2NWRmVkxWRUVwX3VTcXUzN3Q2YlhZM2F2aTBGZVZTeGlYYXBHcU9xR21Kb3dibVB0a2x6Y09rb09JVDl3Unp4MHphYUw2ZWFlV1hodGQ3WVRHQlZEMDZmU2I3SGQ2bkRudG9ERmdKN0k?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-03/money-04.mp3",
+      "title": "3. 従業員ゼロの会社「ヘンジエーアイ」と「エーアイエージェントを企業は運用できるか」問題",
+      "duration": 123,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aa1N1elVPLUtscGtmTTVCVWRZNUxtSnZsa3NxZXFlWXJpMEtsRk1MNHA3a2tlWERNSGNoOXEyZmxIOUF1MUJIUkZTZ0JLRDBpLU4yTFpSLVdXcm1ZblRXS2VDcXotc2lwZlZLMEROaWJwTWRSeVVyY1BSQld4MWM?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-03/money-05.mp3",
+      "title": "4. アップルがマックのエーアイエージェント権限を厳格化、何に気をつけるべきか",
+      "duration": 82,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKc2J4em1CdG5Db25sYUlUVXlkelNCcUV2eS0zTzkzT2NReDJIV3Y4cGFqM2ZMaVpEQ0RSa2xRZTVCWU9DbzZvSUQwSnF6MHBiWThuTUxYdkFCM3FYZ1BiZmNsY2JKVXFMclZROEl3WWRlZzFScFVhMlNDSEw2SDQ?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-03/money-06.mp3",
+      "title": "5. 個人開発紹介：スタートアップアイデアをエーアイが厳しく叩くツール「プレモーテム」",
+      "duration": 73,
+      "link": "https://premortem.site",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-03/money-07.mp3",
+      "title": "締め",
+      "duration": 17,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-03/story-01.mp3",
+      "title": "導入",
+      "duration": 15,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-03/story-02.mp3",
+      "title": "1. 女将が守った、ひとりの食事",
+      "duration": 81,
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE01TW5ZdUU4cnhZaldfakJuTlVZejRjY0JTZEpJSlJoQnNTSDk4dUhadmRWX3JXRDBvallZWUhXRDhVUQ?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-03/story-03.mp3",
+      "title": "2. 10時59分、という優しさ",
+      "duration": 70,
+      "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFBZRTRXaTJJelJSXzVDWnp6WUlhemdyNEVyT3A1VVliSFBYdklqcExqcEVDWEtYcVFDamNjT0t3?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-03/story-04.mp3",
+      "title": "3. 7歳が味わった、夢のごちそう",
+      "duration": 91,
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBpY0loOGdEZFE3ejJyUnpYRXFBdHZfdWJQSGhJeERKRnZpZnNnZ0l5UUUyR0FTa1piZG9YZGNMeF9haTJJaEtReENkTXQ2WnJIbjBXdzdOMDladHYySk9r?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-03/story-05.mp3",
+      "title": "4. 150回目の、手作りTシャツ",
+      "duration": 77,
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DcWVRMkJtclVaS0VlTmRVVjVWZnNSTjhLeGVJNXl3RUh6Z3ExU3ROVFp4Z3BicXZzWFgwLVBKVWlzM1ZTd3BpbkpKaFZvTndCSzZYU1NlTzVrOFE?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-03/story-06.mp3",
+      "title": "締め",
+      "duration": 11,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
