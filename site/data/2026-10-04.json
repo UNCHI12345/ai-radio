@@ -1,0 +1,230 @@
+{
+  "date": "2026-10-04",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 18,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-04/ai-01.mp3",
+      "title": "導入",
+      "duration": 36,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-04/ai-02.mp3",
+      "title": "1. トランプ大統領、グロークとの対話でベネズエラ軍事作戦を決断？",
+      "duration": 104,
+      "link": "https://www.thedailybeast.com/jaw-dropping-way-trump-80-got-talked-into-a-war-is-leaked/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-04/ai-03.mp3",
+      "title": "2. ドイツ発「主権エーアイ」モデル、コリブリ登場",
+      "duration": 110,
+      "link": "https://tej.as/blog/aleph-alpha-kolibri",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-04/ai-04.mp3",
+      "title": "3. 死者のエーアイ映像を法廷で上映 → 控訴審で判決が取り消しに",
+      "duration": 94,
+      "link": "https://www.bbc.com/news/articles/cwgkvygg5nzvo",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-04/ai-05.mp3",
+      "title": "4. アンソロピック共同創業者、教皇にエーアイの意識を説得しようとした",
+      "duration": 58,
+      "link": "https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-04/ai-06.mp3",
+      "title": "5. チャットジーピーティーの会話を外部の人間が読んでいた疑惑——集団訴訟が提起",
+      "duration": 56,
+      "link": "https://openclassaction.com/lawsuits/privacy/openai-chatgpt-human-review-project-lily-class-action-lawsuit.php",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-04/ai-07.mp3",
+      "title": "6. ジェミナイ、フラッシュとプロモデルの無料提供を終了か",
+      "duration": 25,
+      "link": "https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-04/ai-08.mp3",
+      "title": "7. オープンエーアイ安全チームメンバーが「文化が壊れている」と退職",
+      "duration": 22,
+      "link": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-04/ai-09.mp3",
+      "title": "今日のエーアイレッスン",
+      "duration": 110,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-04/ai-10.mp3",
+      "title": "締め",
+      "duration": 13,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-04/food-01.mp3",
+      "title": "導入",
+      "duration": 16,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-04/food-02.mp3",
+      "title": "1. 食品製造のAIロボ拠点が開所──人手不足と技術継承に本腰",
+      "duration": 83,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54dlNoWmpIbGFDcUZlMFJ6T0U5dnVyUFUxaldBWDItV0hvX3NIazhWV245Z2Ixd3pPRVhKdlBLTmphSzVoWkFMT2pka0daVkFoNEtpUnh1My1nMllJQ21KVDJpbFdOOW9fLUtwdVRYYm5EekhDMkRkNjNleURXRTg",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-04/food-03.mp3",
+      "title": "2. はま寿司が王者スシローを猛追──後発チェーンの逆転劇から学ぶ",
+      "duration": 73,
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT2o3VndfQWJHMlM2ZGJSZ0xobm1fajg2VVdjblRVMzZzVlNGbmp5S0FDR0N5amh0MF8tQ093SWo0cHR2ei1OV3BGdjBiQUlRWWEydXFEUmhXM3FsNXM2WWo1eEM0ZV96V2VjTGFUZ0pRai1IVDFqM3dNM1VDQlRiTXc1VUxKZXBR",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-04/food-04.mp3",
+      "title": "3. 中国産冷凍食品の衛生法違反が続発──仕入れリスクをAIで監視する",
+      "duration": 76,
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUUxId3BQbFJ1czFVLXFrWGUwQklrMzI2ZkNhSzhyaF9uVDRoeC1DdTZFTXRTMnM4dklBNEpYMlRMUUdsUmNlbGVTVl9IZGo1b04yRk9yNlN5MlZKZUhlMFd2eDRBeEprYTF2YS1yNHZ6MTlBRkZoVnVmWTB4bjJMa1BBYkNRNnNo",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-04/food-05.mp3",
+      "title": "4. 長嶋一茂×かまいたち山内、新橋にラーメン店開業──話題性をAIで設計する",
+      "duration": 85,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43bnAwWUpaR2N1TGZQQ292aUtESElON1Y2Q1FSOV9wNW1qZ2lSaDltNkJsQWs5QTY4ajkzTU81UEs1QnpFNUo2Q1NobFpkT1ZFVDhDd0ROUjl6NkdLc0FKckwyNFpOdVJseVN2dklCZUhXOGwzN0RPNUxoNEtkT1U",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-04/food-06.mp3",
+      "title": "締め",
+      "duration": 9,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-04/money-01.mp3",
+      "title": "導入",
+      "duration": 16,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-04/money-02.mp3",
+      "title": "1. インスタAI副業3本まとめ——月収100万・キャッシュポイント・340万課金の教訓",
+      "duration": 214,
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9aVXpYMl9mUm9MRjluSjZPejVSa1NEQjVGTFpKcVhaNlN1TnEyMnlWaXF4TFZ2UDJ0SnF2QUNmTFNBRHd1c0RHSFphRkE5Z01SUWV0S0pQU0RkczJBRXVFYXhKWTJzdHBoU1BLSkxaQ3FvTllLWl93Ug?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-04/money-03.mp3",
+      "title": "2. 従業員ゼロの新会社「ヘンジエーアイ」が示すもの",
+      "duration": 69,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxSk00aEJLd0h3aXEwT3dSSmN0ZDBiSW1VS0Raam5BOC1LSDg1SlBIUl9xcnRldFJzV2t5dnA0WFRGMmhhcEp1RFZvVkxxdVJHa1Rv?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-04/money-04.mp3",
+      "title": "3. 個人開発2本——サンドボックスで動くコーディングエージェントと、ローカルで動く求人マッチング",
+      "duration": 105,
+      "link": "https://pipod.dev/",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-04/money-05.mp3",
+      "title": "4. エーアイエージェントが新しい攻撃面になっている——マイクロソフト報告とエヌビディアの安全基盤",
+      "duration": 98,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pRktnMVFIVDZLRUxPSkVXZmtxSGEzN0cxN3V3aFdTSU5lM0RXbUM1QVdIMjBpM0dESF9MaWtCc0tsMjNvcEItZDNOMzQ0X09lZms3WlJIbkFXdkI0WW1jMGpRei1QZng2N29rbGI1ZVU0TmdhNDd0V0s3bllLbUU?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-04/money-06.mp3",
+      "title": "締め",
+      "duration": 14,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-04/story-01.mp3",
+      "title": "導入",
+      "duration": 12,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-04/story-02.mp3",
+      "title": "1. ホテルの部屋に残された手紙",
+      "duration": 119,
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE95enBtdi0wcE9ra1RtRGpNLWtzRXZzWmM2SllIbm1QOTBfWElxYmh2R3RqdDhfY1ktWUxBWWFyMmp6XzBxb3c2bzROVEpXZTB1TS0zN0hVNFpyeFZzR1HSAWNBVV95cUxNdEZyLTlmcmpRQ0xwb1ZKZ24wZEZtWUFzOVllRThiZjBhRURCRHVSc2ZlcFQ0aV85TEdVV0F5dGNDTGFIeXNmcmR5NjZwWnNQX2xRWnh2RWE3SVV0RnNMU3BRVlk?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-04/story-03.mp3",
+      "title": "2. 居酒屋のおじさんの「名言」",
+      "duration": 101,
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDeEtIMWY2ZFBIem9XbW1pbHd1ZzV6TC1pUUU0YWx3UkUwYjlnRE9NUXVCQnoyenFmZ3R3azVGaGhjRmdnNnQxOUx4UC10VG9qVTlLLTlid0lHLVhPRFJCLXJzSFpYWVhEbFY0WVoyRDNHUHll?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-04/story-04.mp3",
+      "title": "3. 70年続いた書店と、集まった常連さんの光景",
+      "duration": 121,
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtWHJsRnJGSTlIMFAwdlhaNVRpa0JGZ2NNSVl5NkhIaXpiUDl5bmlqenZQRDBsRmVBUVFnTEJzem5rd0QxanVZMjNNRk9ST0t1alROVzZUWHdaSHdVZzRZ?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-04/story-05.mp3",
+      "title": "締め",
+      "duration": 8,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
