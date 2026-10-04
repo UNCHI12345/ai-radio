@@ -1,0 +1,214 @@
+{
+  "date": "2026-10-05",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 18,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-05/ai-01.mp3",
+      "title": "導入",
+      "duration": 28,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-05/ai-02.mp3",
+      "title": "1. オープンエーアイ、安全担当リーダーが「文化は壊れている」と退職",
+      "duration": 166,
+      "link": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-05/ai-03.mp3",
+      "title": "2. 「完了しました」と言ったエージェント、データベースには別の記録が残っていた",
+      "duration": 155,
+      "link": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-05/ai-04.mp3",
+      "title": "3. AIの難問ベンチマーク「アーク・エージーアイ・スリー」、1か月でスコアが7%から56%に",
+      "duration": 85,
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wxcd4k/top_arcαgi3_scores_on_kaggle_just_went_from_7_to/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-05/ai-05.mp3",
+      "title": "その他のニュース",
+      "duration": 199,
+      "link": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-05/ai-06.mp3",
+      "title": "今日のAIレッスン",
+      "duration": 123,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-05/ai-07.mp3",
+      "title": "締め",
+      "duration": 7,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-05/food-01.mp3",
+      "title": "導入",
+      "duration": 19,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-05/food-02.mp3",
+      "title": "1. 飲食店の52.4%が最低賃金改定の影響を懸念",
+      "duration": 115,
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52R3JtSW5KNjhxelVRRFRDNXdJcmFYXzVWWkpuZVZzUnFPU3p2aldSVDBmWHlKclM1T3V0VUtKUXk2SlBJOUpGYUVuaUtEWHAyanRsNHNVMnc4TlhHYk9OZg?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-05/food-03.mp3",
+      "title": "2. なぜはま寿司が王者スシローを猛追しているのか",
+      "duration": 91,
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMFVrOW00czFfd09STzdPYmhlaFJIT3VQZlo4Y09nMDM1SGJSSXVjNW5OaG4xT0dWQ1l0NjlIc2ZtcFoyZHRuT3NkTWhmMGhLT3FCa01PVDBDYm9nWDFsbnozbFkzbGpHa1VCdmFDZ09RTmc2WkFBRFpLNGpyWWNNU2ZhTmZBNTA?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-05/food-04.mp3",
+      "title": "3. 食中毒で「閉店しろ」は正しいのか",
+      "duration": 111,
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOelNxclJicFVnRW9wMEtHek9ScUhad2RJTWJOakRFMXE3NlpGM0hPNVplVE5MdUZIeWhOVk1nUWw2aExCSXhiazZZc1VkQ2FENW9nLUg4TFBacG9sT0Q2blk2Wm1USjAwN0VOOVFRTUllOXZ4ZkR5aTR2Z1RSSC1sd2daazFmSnps?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-05/food-05.mp3",
+      "title": "締め",
+      "duration": 14,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-05/money-01.mp3",
+      "title": "導入",
+      "duration": 17,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-05/money-02.mp3",
+      "title": "1. 専業主婦がインスタのAI占いで月収100万円",
+      "duration": 108,
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoRlU4WExpRVFvSFVfS0NneVdHaUtLMk5xc3BDcTRWWjlHU2Zxa052dXhkbnpkRXFHZzZhY3NjNS04aWEzZGhOVFd1NzBtOWlZYy1ldkphVFRNb1JLb0lV?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-05/money-03.mp3",
+      "title": "2. 月収50万円ブイチューバーが語る「稼ぐ」と「ファンをつける」の違い",
+      "duration": 76,
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE10UFJKbXQ0MGloN05WV1JaSUc0bTlqemdKVUlDekhJSEtUMy0xdGxxWldHWmxhVDI2bTNJVEpuMXRDel8tM2lCRTl4aw?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-05/money-04.mp3",
+      "title": "3. 「ツールは買うな、自分で作れ」不労所得が続く条件",
+      "duration": 102,
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0bWRXRWpjQ0pLR2lwRVlRdEpKZV9OMHp2MHlaWC1LU3Q1VmxzS3FxeWlFVTF3dGdwd0x4bDRPbWJBTTNhRVJiMFQ2NWEtVmVBcHVYT2dlS3hUS3ExQ1pV?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-05/money-05.mp3",
+      "title": "4. 要注意：「オープンエーアイがドッツを発表、ジーピーティー6アストラ搭載」という記事",
+      "duration": 105,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NaHJKallOTFpxYXZFd1VQU0RhQVZfbmdGdU1sSmVyR3A2SE5wRmlnSGpqcG95UGgyN0VoaDFjTWN2RnNoczJ4bkhBX2JjMFFnT3pz?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-05/money-06.mp3",
+      "title": "5. AIプラットフォームの競争は「サイト構築」から「事業運営」へ",
+      "duration": 84,
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zUWpaNjdGeUE2RkI0cTRnNmZpc0x3OGZjbGVvMUM3cHZ5LXgxbTY2aVctM1ZCeHFNZ2ljTzR2RGl4NDhMMlZUTzhrXzdRU2NncnBnNko5Z3d4Zw?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-05/money-07.mp3",
+      "title": "締め",
+      "duration": 14,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-05/story-01.mp3",
+      "title": "導入",
+      "duration": 13,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-05/story-02.mp3",
+      "title": "1. 「ファミレスでここまで？」 サイゼリヤ、子連れ接客に7万いいね",
+      "duration": 71,
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52SVljeVIxSmJIVE5odTU0cEd2NEY1Nmd5X2VZOGtRdUhsZ1J4d0ZxYVVrVWw5Tmctd3BfalNWT0Z4enNELU81UzYtWHNNbVVhTTRleldtZ2lMcjRRRDFFcERLcHN1RE93V2k0VVpwMzJJZDBN?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-05/story-03.mp3",
+      "title": "2. はじめての子連れ外食、コメダ珈琲の気遣いに涙",
+      "duration": 64,
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ScWR6Y3Z4YVFjT0Vidk9Zbm1GTlZwZkQzeUtVS3hTM2pwbWY3RGd0N05LWkx0bTc5Q2xLVEppTHY0VDRiTDE2ZDQ?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-05/story-04.mp3",
+      "title": "3. 「君は悪くない」 無口な常連が救ったひと言",
+      "duration": 76,
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE91RURGUmdRVHJycFRLd0NjQUZpM3dVRk03OTc1b2ZpdmNSLTF5dDBfNzdfT19EZTVRa0RZTzZvNV93ajFFTmlTSjU0elhGc2hl?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-05/story-05.mp3",
+      "title": "4. ホテルマンが感じた「違和感」 リッツ・カールトン流のおもてなし",
+      "duration": 65,
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9lQ3k5VDNjdDZNVjFCUjFhbGd2NHNpMmtIYkhUaEF2YmpVajJGdzc5RjE5NWVFeEJkeUxjVzVhV291TFYtNFFrblgtMEPSAU9BVV95cUxNV01XeTJ0Z3YtMXdoX3pDWlBFQXhfNGhoaUNvTnNWYzFIaVFsLWdnalRVWEtneVp0OU1TUWlBUm0tQkZ2ZHVqNWFPNHNkUXBN?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-05/story-06.mp3",
+      "title": "締め",
+      "duration": 11,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
