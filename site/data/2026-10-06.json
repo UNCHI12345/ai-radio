@@ -1,0 +1,270 @@
+{
+  "date": "2026-10-06",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 18,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-06/ai-01.mp3",
+      "title": "導入",
+      "duration": 41,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-06/ai-02.mp3",
+      "title": "1. クロードに書いた「日記」が警察に通報―フロリダ女性、重罪で逮捕",
+      "duration": 131,
+      "link": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-06/ai-03.mp3",
+      "title": "2. ウィキペディアでオープンエーアイの「脱走」エージェントが活動―財団が公式発表",
+      "duration": 103,
+      "link": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-06/ai-04.mp3",
+      "title": "3. サム・アルトマン「エーアイの恩恵のために悪いことも受け入れるべき」",
+      "duration": 105,
+      "link": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-06/ai-05.mp3",
+      "title": "4. オープンエーアイ、ヨーロッパの規制に対応してテキスト透かしを導入へ",
+      "duration": 38,
+      "link": "https://openai.com/index/eu-text-provenance",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-06/ai-06.mp3",
+      "title": "5. チャットジーピーティーに広告が登場",
+      "duration": 28,
+      "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-06/ai-07.mp3",
+      "title": "6. アメリカ発の巨大オープンウェイトモデル「ビーム」が登場",
+      "duration": 42,
+      "link": "https://reflection.ai/blog/introducing-beam",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-06/ai-08.mp3",
+      "title": "7. チャットジーピーティーが偽ニューヨーカー漫画に実在する漫画家の署名を入れてしまう問題",
+      "duration": 32,
+      "link": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-06/ai-09.mp3",
+      "title": "8. 中間選挙の投票先をエーアイに相談するアメリカ人が増加",
+      "duration": 45,
+      "link": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-06/ai-10.mp3",
+      "title": "今日のエーアイレッスン",
+      "duration": 103,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-06/ai-11.mp3",
+      "title": "締め",
+      "duration": 13,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-06/food-01.mp3",
+      "title": "導入",
+      "duration": 17,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-06/food-02.mp3",
+      "title": "1. 8月の外食産業指数、3カ月連続マイナス",
+      "duration": 65,
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5YWmpsMFlUMU5PMlFpVWhPbTBtYnp2M21MV0UzaWRLc1p0QS1sZGRFWXRMV2dwTHZNcXJJejVIcUt6enpySlE?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-06/food-03.mp3",
+      "title": "2. 食品消費減税、「経済活性化」と見るのは2割止まり、外食産業には悪影響",
+      "duration": 79,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rLXc2SVIxbXZ4WE5ZWEg4SjJOQnFHTWJXNGZabW1yT0tQdEhuMWlrTnRUVXJDUEVzVnlFMEhyZG9KU2M2WUlySUxwLVdyb3JQcklaRm1IOEZNZzZYX3VJT0RObm90R0lfQndibGNPZHJscDU4cGJUdWZRb2hkdFE?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-06/food-04.mp3",
+      "title": "3. 配膳ロボット活用に66%が賛成、クレーム対応を任せたい人は9%",
+      "duration": 89,
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2Y0FnUzVHYTVBRVhRTTlLbGpfeVE0LUlGVFFGTnJfa2pFUzljNHdwUFFleEdvVEVkSzEwQkRyb3JNWVpLMGZVUllsMEtINERzQThuSXF5bU1QS1YyVUtsNg?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-06/food-05.mp3",
+      "title": "4. テクノロジー化で高まる「モラル」の価値、飲食店の安さと利便性は誰が支える？",
+      "duration": 80,
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMlhHcTJYQ3VYUmdVUml0MEYwWW5NRDRteldsam1KOWNVN3dVcm04Um1ua1BMSVpIYmRQcS15Yk9jTUI5R1liVmpmUTRvSmVubDZLTXFvLVJUMVZfemk3b0NLTWc3WGl2cmRTdHV5U1A0SlVmcGl6MnpKUFJYMVJfSzVEWldhTGx4?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-06/food-06.mp3",
+      "title": "5. 3度の浸水にも「くじけず」営業再開、ラーメン店「みたけ」にファンが行列",
+      "duration": 63,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55Y1Q0bG91TDFTUXpsUXV5Wm1PTGxDZjVlVWhhZXdLZnFsN2tZQ0FwQUo5UUVib290aVU4dXlBbjRJTmMwNklzWjJGbDJNenl0NHhfMklYdUhsU3hzVlF3TDVjZTZwdy1BYWc3R3BVcVhVenpYRmdTWlRFaXRmMXM?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-06/food-07.mp3",
+      "title": "締め",
+      "duration": 14,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-06/money-01.mp3",
+      "title": "導入",
+      "duration": 16,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-06/money-02.mp3",
+      "title": "1. AIコンサルが語る「副業初心者が0→1を達成しやすい仕事」",
+      "duration": 87,
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1qbzZINjZQNER1dUFfSzlWTWZuN0dvTVdnMnA0UVlPMXE5RHI3VkNWdVhRRW9jclFqZUlqdEd0SS1kdzZpUU9BVFp1MA?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-06/money-03.mp3",
+      "title": "2. メタが企業向けAI事業「メタ エンタープライズ プラットフォーム」を本格始動",
+      "duration": 77,
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tYkNUTkNNYWFFSTJWWEJXaXFrZllpZGZkWk15NDI2Q0pUellqV1Ayd2VHdkdjNXNwNzViZFBJN0tiZnJKTGFfZEVaSnB1Wi0za0VRdU1IWVFtNU8yWVBv?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-06/money-04.mp3",
+      "title": "3. コヒアが企業向けAIエージェント基盤「ノース2」を発表 ───他社モデルも使え閉域網でも動く",
+      "duration": 80,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HV3E1eF90TGQ1TFVBZWQ2OHFFTW5SeXdnNXItdTRvMzlNVXhZNVVaWnNnQUJudUhjXzNpcnpXTFJmVDNWYWlXQnQzTXlmRmxXR0tz?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-06/money-05.mp3",
+      "title": "4. AIショッピングエージェントに決済を直接埋め込む ───コンストラクターとストライプの連携",
+      "duration": 85,
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMWtwS2d3eExta3Y5eGtWdzZrbzdYazl0SFF2VllXQlFzWmU1Qy16R0FTaDFnNl8tR2FzS2RjLWRNTWNmSHEtbGJVcmF6VjZUTUtsa0N1cDRXcXpzMzRGVnNHQ3ZsRjRMamVCYnhUbmpGU0JBZjFKY0NJMXUzdTMwbUdsSkx6QzdpdkdodGUxNzBKQ0RjSVJJ?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-06/money-06.mp3",
+      "title": "5. エージェント開発者向けの仮想会社シミュレーション環境「エラ」",
+      "duration": 69,
+      "link": "https://console.era.eon.io/",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-06/money-07.mp3",
+      "title": "6. ハロウィン直前の個人開発作品──パンプキンズで学ぶ「小さく出す」習慣",
+      "duration": 71,
+      "link": "https://pumpkins.sh/",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-06/money-08.mp3",
+      "title": "締め",
+      "duration": 9,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-06/story-01.mp3",
+      "title": "導入",
+      "duration": 15,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-06/story-02.mp3",
+      "title": "1. 深夜の一蘭で、まさかの替玉",
+      "duration": 83,
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1kaEhPZ0VOQXE0eWhBeDZrZFN4SlFOWVpoYk92Z3M1akZBaHVpQmFDMW40WXVpUFBkWV9kaEFBZ3AtaTNRU1RzMDVuT2ZPREh4?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-06/story-03.mp3",
+      "title": "2. サーティワン、汗だくの配達員への一手間",
+      "duration": 87,
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04OEdTXzBhbjNxbVljU2hHcXJFWmlaaU9fMVNWb2F2amNKSXJlUVZ6YWhyQ19JeE1TcXB0MWgycXNpUG40SE9FTGVXbnU3WG9SaG5aN1JB0gFPQVVfeXFMT3Z3X0lXOUVNd0NxVDJNbktLR24xcnVkN3IyUGI0S1VkZlpzSFpLSlpUaEtjZjdSdVRTZFZvYlV3QjFRM1hGeTA0OHBleVZscw?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-06/story-04.mp3",
+      "title": "3. 北京から来た、和菓子の感動を伝える人",
+      "duration": 78,
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11eU52TGk0U0hiV2s2Z3dNQUo2eFB1UEhtYzBjLW5ydmxGYll3eGlLdGV0Mm8tUFNBX2EteG9vMzR6UEJJejRrdHBRMUd4TWNhT1Utcw?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-06/story-05.mp3",
+      "title": "4. 休みの日でも抜けない、あの癖",
+      "duration": 62,
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KY1FEUWZCc3BvRzJUZE5Vc284a2h0aC11aFdjVWdqbVo3YXp1NE5CUFczM0pYUVM0TGhOd1daV1RWN3dwazd0Z25vaW80WWc?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-06/story-06.mp3",
+      "title": "締め",
+      "duration": 10,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
