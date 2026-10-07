@@ -1,0 +1,206 @@
+{
+  "date": "2026-10-07",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 18,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-07/ai-01.mp3",
+      "title": "導入",
+      "duration": 30,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-07/ai-02.mp3",
+      "title": "1. ミストラル ラージ 4「ル・ションク」——欧州産1兆パラメータ、オープンウェイトの怪物モデル",
+      "duration": 191,
+      "link": "https://mistral.ai/news/mistral-large-4/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-07/ai-03.mp3",
+      "title": "2. グーグルが超軽量マルチモーダル埋め込みモデル「エンベディング ジェンマ 2」をオープンで公開",
+      "duration": 167,
+      "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-07/ai-04.mp3",
+      "title": "3. エーアイ家庭教師「カンミゴ」を2年間18校で使い続けた大規模実験——結果が示すもの",
+      "duration": 161,
+      "link": "https://edworkingpapers.com/ai26-1551",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-07/ai-05.mp3",
+      "title": "その他. アンソロピックがサイバーセキュリティ専門家向けのアクセスプログラムを3段階に拡張",
+      "duration": 62,
+      "link": "https://www.anthropic.com/news/cyber-verification-program",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-07/ai-06.mp3",
+      "title": "その他. ユタ州で世界初、エーアイが患者を診察・処方するプログラムが始まった",
+      "duration": 49,
+      "link": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-07/food-01.mp3",
+      "title": "導入",
+      "duration": 21,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-07/food-02.mp3",
+      "title": "1. 特定技能、外食業もリミット迫る",
+      "duration": 122,
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51UUFncTd3dUhPRkExR1VUbXVveFZfQVNnXzBGa2t0ZW5FRHo4Ul9IcXRhek5HSVROejMzU0U2YVNLU0tPdVRQbjhiUF8xNENQVVhPaTZXMWhWbktjX090Vjk4TGI0Z0FFS2ZqNERmMV9UWVZfelE?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-07/food-03.mp3",
+      "title": "2. 政府がフードテック推進機関を新設",
+      "duration": 77,
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Zc2hZV24ycW9qYWJ3alRaVmt1QVUtQVdGUUQxdVlPZ2ZmdXU1OW1GQUhTOUVVR0d6b1pFOUdMN0hseTlxRDhkM2hSeW5Gd1JBTEIxOXBzQQ?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-07/food-04.mp3",
+      "title": "3. 10月は食品ロス削減月間・ライスの食べ残し調査",
+      "duration": 90,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DeEdLMjFUMU1XZGp6NFdrQk41UHpWWGY4bVk0b3FOMGVmMjYzZWFFNklUVDNfeWwyZFV6QWd6RG9RWHhtVmhvcl9rM25NREQ0YkVpM1RqeFFIM25WejA0TnBPNG51SlZHNnc?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-07/food-05.mp3",
+      "title": "4. 外食産業展でも注目・多言語通訳サービスとインバウンド対応",
+      "duration": 106,
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA0b2xVTWVubFhDSnd5N2tiS0ZSdTY2VEJqSFdjaDd0aXRlZzdQSEhTOWhvWENhcXliNFpJTzhwSnFKSGZDU2d3bU5ZSlhiVERsUHF5cw?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-07/food-06.mp3",
+      "title": "締め",
+      "duration": 13,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-07/money-01.mp3",
+      "title": "導入",
+      "duration": 16,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-07/money-02.mp3",
+      "title": "1. シーイーオーの74パーセントがエーアイ専任ポジションを求め、接続規格も登場——市場が本気になってきた",
+      "duration": 185,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pdkpyNXppTXhhTVpQVUw1SklfdzhCU2RtVi00MjNKOTVkU3dWTHhqRkxuX0VRcWRlYmNiMVFPTXRtYmY3TTAyeTBOaEdMMHVGU2dN?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-07/money-03.mp3",
+      "title": "2. エーアイエージェントを作るときの「指示欄」がすべてを決める",
+      "duration": 105,
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HRkFPQUU3N05hZW9ObHpzUm55eUkwOXBBTndnVzg2ZjZnd2ZpQ1NUYXRWMjktb2h0ejJNZk1NckFZX0NNcnpDNTVXeWRVRWNqX0c1RXdPeWZzZXo3YWROckVJaW5IVGdrNGNKQQ?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-07/money-04.mp3",
+      "title": "3. 6ドルのマイコンでチャットジーピーティーが電話に出る実験",
+      "duration": 140,
+      "link": "https://www.youtube.com/watch?v=zIVXu6g8qdY",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-07/money-05.mp3",
+      "title": "4. オープンソースのチャート分析ツール、エーアイエージェント付きで登場",
+      "duration": 96,
+      "link": "https://github.com/longsurf-ai/openchart",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-07/money-06.mp3",
+      "title": "締め",
+      "duration": 16,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-07/story-01.mp3",
+      "title": "導入",
+      "duration": 20,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-07/story-02.mp3",
+      "title": "1. 行き先を告げたら、まず「時間」を伝えてくれた",
+      "duration": 100,
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpY0ZDQ2cxaGlKbjhBUm1FZmFKSGFnSUM5aGw4OHI2TzkxRGJDbzhQcFdDMXREbEJmQ182TWo4NmRUWklDYWpQcUtESy1DSHJGcFpROVFB?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-07/story-03.mp3",
+      "title": "2. 元エミレーツ航空の客室乗務員が「自分はこんな接客をしたことがあるか」と問うた話",
+      "duration": 69,
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBuTGxuYkVLcnlMZUVaay1lSHI3OEZjNWNBV1dNZTRwLUtqNWZKeEtzejhGYWMxczIzRjYtdDY1QW5QdzMya2JTUW1XSFVNWVk?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-07/story-04.mp3",
+      "title": "3. 「君は悪くない」",
+      "duration": 83,
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DcXhlNk5vQzBvcjZGemlqdWVlaW5SZ2dlRDVEUVdPZWRNMGt5ZXVSNk5kYVFaNTRmNWNxYVM2T2lEVzU3d3lCeXVWU3Q4RUthTHAxV3pn?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-07/story-05.mp3",
+      "title": "4. ユニクロで起きた「神接客」",
+      "duration": 56,
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE81NzNScGQ1NUFOR3h2b2JCZVNSOVowOEl1NG10cHVBblAwTEliQjZ2dTdSOHczRDhpUm1hVTY0cDE4ZkdZSXFTUTdORQ?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-07/story-06.mp3",
+      "title": "締め",
+      "duration": 9,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
