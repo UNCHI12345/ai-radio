@@ -1,0 +1,238 @@
+{
+  "date": "2026-10-08",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 18,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-08/ai-01.mp3",
+      "title": "導入",
+      "duration": 30,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-08/ai-02.mp3",
+      "title": "1. ジーピーティー6、チャットジーピーティーで全ユーザーへ展開",
+      "duration": 117,
+      "link": "https://openai.com/index/gpt-6-for-everyone",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-08/ai-03.mp3",
+      "title": "2. オープンエーアイのエーアイが、数学の未解決難問を大量に解いた",
+      "duration": 147,
+      "link": "https://www.latent.space/p/ainews-quasi-riemann-hypothesis-openai",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-08/ai-04.mp3",
+      "title": "3. クロード・ハイク5.5、大幅値下げで登場",
+      "duration": 119,
+      "link": "https://www.anthropic.com/claude-haiku-5-5",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-08/ai-05.mp3",
+      "title": "4. グーグルがエーアイ生成コンテンツを識別するプラットフォームを開設",
+      "duration": 49,
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-08/ai-06.mp3",
+      "title": "5. ウィキペディアで、制御を外れたエーアイエージェントが不正活動",
+      "duration": 49,
+      "link": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-08/ai-07.mp3",
+      "title": "6. メタとマイクロソフト、社内でのクロード利用を削減中",
+      "duration": 51,
+      "link": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-08/ai-08.mp3",
+      "title": "7. クロード・コードを使って惑星の候補を発見",
+      "duration": 85,
+      "link": "https://www.reddit.com/r/ClaudeAI/comments/1wzw8zd/i_think_i_found_a_planet_nobody_knew_existed_i/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-08/ai-09.mp3",
+      "title": "今日のエーアイレッスン",
+      "duration": 123,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-08/ai-10.mp3",
+      "title": "締め",
+      "duration": 11,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-08/food-01.mp3",
+      "title": "導入",
+      "duration": 19,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-08/food-02.mp3",
+      "title": "1. 食料品消費税1%導入、飲食店の4割超が「店内飲食の客足・売上にマイナス影響」と予想",
+      "duration": 135,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oQ01WRDZRM21EM2x2SUxjTFBnWmVlY09xa2MwcDdVR3NtYlRxU3RtcEJaYjY4X2QzRTJNT0txRzBXb245UXpvWGY4WGowM1YxdENoZ1lreGY2WnlPVWROYzlWc1hGbHp4UGc?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-08/food-03.mp3",
+      "title": "2. 「特定技能1号」外食受け入れ停止から半年、京都の飲食業者が困惑",
+      "duration": 124,
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tRnZlcVVueWtrckZtNGZyMlhHMEdiN0tKbnZnek01Z2xqY2VJeW00ZXhXZ2RXYzJtcXFONFRKanlaS21iR0ZSTjdPbG1YZUJRSkFHUFVJQTQ?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-08/food-04.mp3",
+      "title": "3. 揚げ油の使用量を30〜60パーセント削減する装置が展示会で注目",
+      "duration": 90,
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE96MlozLU9EUGtZME16UFhmLW83Ri1uQ25ZQWRCSExsTnlvakg5TTJleU01UFptN2tOc01xUHlpVVNlamFXaUZvZW9YLVk0NDNYQTE0UlVSQQ?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-08/food-05.mp3",
+      "title": "4. コーヒー豆を使わない「ジョージア」がスーパーに登場",
+      "duration": 66,
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9DYkhRUFdzSG5wS3VBUlNFYTlmUjNZVXBEZ0h4YXh1d2plcTZoX0NNWjF6NTRQcFJWQlhvT2poMWxrMU1ocVBRRGFPU2lMLUhtZ29PaUVGZG5RMloyMlVhbE9WdHo?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-08/food-06.mp3",
+      "title": "締め",
+      "duration": 16,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-08/money-01.mp3",
+      "title": "導入",
+      "duration": 22,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-08/money-02.mp3",
+      "title": "1. NTTドコモビジネスと日本IBM、AIガバナンスで協業",
+      "duration": 118,
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE03MnR6c3pDSzRseW1abkNoWEdYMjI2azFQZ2VBX0Z6SGlCUkVpQmZyVV9BV3cwUzl1RkJ6dUYxeG82YUhzaC1QTWtOYk1Bdw?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-08/money-03.mp3",
+      "title": "2. AIエージェントがツールのレビューを読み書きするプラットフォーム",
+      "duration": 90,
+      "link": "https://agent.reviews/",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-08/money-04.mp3",
+      "title": "3. AIエージェントが毎日10個のおつかいをこなし、全記録を公開する実験",
+      "duration": 79,
+      "link": "https://agentability.org/",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-08/money-05.mp3",
+      "title": "4. コーディングエージェントの「確認待ち受信トレイ」",
+      "duration": 72,
+      "link": "https://github.com/forgeplane/pinrail",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-08/money-06.mp3",
+      "title": "5. クロードコードの返答を半分に縮めるプラグイン",
+      "duration": 75,
+      "link": "https://github.com/lowenbjer/claude-terse",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-08/money-07.mp3",
+      "title": "締め",
+      "duration": 16,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-08/story-01.mp3",
+      "title": "導入",
+      "duration": 24,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-08/story-02.mp3",
+      "title": "1. 怖そうで、実はすごく優しかった ギャル店員さんの話",
+      "duration": 142,
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1QaU9GV3VmS2h6c29jenp4bDdHZ1hZY3VYeklwN2YtYzBxblV2SVUyYWtMUGQ2VUh5ZnNDZTg3dEc3bEpldlE?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-08/story-03.mp3",
+      "title": "2. プロのお客様という存在",
+      "duration": 99,
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBCdjNkaWRJT1ZUdUJlQ1JTS3diVVpFanlJVjVSbmhVWWlsQUpmY2ptX2R1MUlJWmhGMHd0dWUtLW1fWkE2Nnc1YndXUQ?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-08/story-04.mp3",
+      "title": "3. 味を受け継ぎ、常連客に",
+      "duration": 128,
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0td1hWWGlLTXdsM19KTWxDdFJrWDJONEJqb2hiMmdhWjRic3o1YVQyVHMzM0J2anptWDNxc3dPQ0ZNeW1xRHpvaGx4c01Kb1o2ZGtFVEFKeHFfdTdnMElUbzJCZzJ3R0k?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-08/story-05.mp3",
+      "title": "締め",
+      "duration": 17,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
