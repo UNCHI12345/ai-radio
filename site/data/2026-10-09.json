@@ -1,0 +1,238 @@
+{
+  "date": "2026-10-09",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 18,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-09/ai-01.mp3",
+      "title": "導入",
+      "duration": 38,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-09/ai-02.mp3",
+      "title": "1. オープンエーアイの年間売上、実は報道より2兆円以上低かった。エーアイ関連株が急落",
+      "duration": 130,
+      "link": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-09/ai-03.mp3",
+      "title": "2. オープンエーアイ、数学論文3本を取り下げ。「頼んでいない」と数学者コミュニティが猛反発、フィールズ賞受賞者も賛同",
+      "duration": 163,
+      "link": "https://github.com/openai/math/blob/main/history.md",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-09/ai-04.mp3",
+      "title": "3. アンソロピック、利用規約を大改定。クロードへの虐待行為を禁止、11月12日から適用",
+      "duration": 118,
+      "link": "https://www.anthropic.com/news/2026-usage-policy-update",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-09/ai-05.mp3",
+      "title": "4. 韓国の大手銀行を、たった一人のハッカーがエーアイの組み合わせで攻撃",
+      "duration": 51,
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x0n4pt/last_week_some_of_south_koreas_biggest_banks_were/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-09/ai-06.mp3",
+      "title": "5. アンソロピック、ナサや国立衛生研究所にクロードを提供。サイバーセキュリティにも本腰",
+      "duration": 53,
+      "link": "https://www.anthropic.com/news/genesis-mission-commitment",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-09/ai-07.mp3",
+      "title": "6. 「なぜ業界はディープシーク4.1フラッシュについてもっと騒がないのか」",
+      "duration": 65,
+      "link": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-09/ai-08.mp3",
+      "title": "今日のAIレッスン",
+      "duration": 104,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-09/ai-09.mp3",
+      "title": "締め",
+      "duration": 12,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-09/food-01.mp3",
+      "title": "導入",
+      "duration": 24,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-09/food-02.mp3",
+      "title": "1. 「外食産業をつぶしにきてるのかな」――消費税9ポイント格差とゴーストレストランという逆転の発想",
+      "duration": 132,
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQUFUTl8ycEU0akhiUnlWZ1luVmxzVnNWMGY4eTFiYURyOFAzN3pwMDVtYWJwYTVZcHZ2T1pWYW5JdWxpRVRIbFJNSVlXbnYyUm1QQ3lpZmIxb0dCampqSGRSM0prb1cyUEVCS25sM1Y5VjR0RzR6MGxaLVRSVjBGcmdwSTJHQ0p6?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-09/food-03.mp3",
+      "title": "2. 外国人材が地方から都市へ流れ、地方の飲食店の人手不足が加速",
+      "duration": 109,
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1JQUxJNml6eG9QQS1tRklHNEx2Q24zSUxpMjVmRzRQOHVyWDFyVWZ0TDhTdlQ0aHRoN2dXZjNnaC1mWmNqbVZaZlowa3l6RG42NGpwdWVMTjZBSGVldi1LY3NIMERsYWpSWThzSTl1ZmlISHg2SDE2aFp0T0vSAYIBQVVfeXFMTXFUOGpFX1VhYndEVFgyTGdvdFkxSHpVcEQtYjhHa0hMMG9zNzhDUEVRVW5RVkRJcDhHekZySFVMbFhjclpkZ1E1TUZvaGh0SVhYTERLa29NRWQxTEwzQ0J6N2Zvak5CUW9UNUJyLWN6LXIyUk9NRVB6S3NwMkN5YTA3Zw?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-09/food-04.mp3",
+      "title": "3. 8月の外食売上4.9%増――でも「天候」で店によって明暗",
+      "duration": 58,
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LLW16SGIzQVVNbDB0Vkc4S1l5OEFKekNmYlpfX0xnWWpLRzU0N29Yclp4QXltLVBxbThnOU85TDh4dGwxaHgzeXZCekp1ZjN4amx0Q3dZMllJUQ?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-09/food-05.mp3",
+      "title": "4. 「海苔弁いちのや」破産――低価格業態の利益率の難しさ",
+      "duration": 38,
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qR3Q3cDVkOXVzc1NxOHh0bkZmNzl3N1ZnY0Rla2hpdWcxbG94bHBWbi1VWE1UeHZ5SWZiVGhjdDNsWHVwZmhGTUJLSWE4Q0NwaVhWQWJoTjFYN2FnVFFBTlBjRHNXMlZrV3Zr?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-09/food-06.mp3",
+      "title": "5. 培養肉が市販の牛肉より安く――韓国企業が来年発売へ",
+      "duration": 59,
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNlJickk5RDM2MWhhS3BDUjkxMGFTX0hVcXdRdWdYclNMSjFiQmVQNzE1anI3c3R1NUFpZE1VU2o2b1c3U1pGWGtHcEdnM1BSaDc4RE83aGdOZjNYSXpqdDZZeDhsOV95TXRTeWtjY241TUFNeVJLMkhyUTdNcjl3TnZOdXNnckRpMk9td0ZBOFR2eVhI?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-09/food-07.mp3",
+      "title": "締め",
+      "duration": 14,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-09/money-01.mp3",
+      "title": "導入",
+      "duration": 20,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-09/money-02.mp3",
+      "title": "1. 大手が一斉に「エーアイエージェント専門家」を育て始めた",
+      "duration": 161,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NR2JLMExJZ1pKZ09UbDZrQXZyS3Q2Q0NONjNLZWlqbDBTUEFKU2pWM3VFOXFpVEZ3dHBfb2h3bTZpN2VvMW15T1JmNTlkQ213QlhJ?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-09/money-03.mp3",
+      "title": "2. 「定着支援」という地味で稼ぎやすいビジネスモデル",
+      "duration": 95,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PWU5Rb24xa19Db3JlT2V4eV91N1ppNGlGZ2djVkRKdks3eDdORmcwOHNiR3Z4MTBNaFFWMnIxdWVEOEZjWDZWb2hUYVNNVFhHTHVLcXlXc2pMMi1KRDZZY25nUUpzQWJxWlE?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-09/money-04.mp3",
+      "title": "3. ノキア110にエーアイエージェントを乗せた個人開発者",
+      "duration": 73,
+      "link": "https://github.com/anupray95/AI-Agent-on-a-NOKIA",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-09/money-05.mp3",
+      "title": "4. 無料・完全ローカルの「ライトルーム代替」を個人が作った",
+      "duration": 77,
+      "link": "https://github.com/thesnarkitecht/rembrandt",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-09/money-06.mp3",
+      "title": "5. 地形マップのエーアイ超解像、ゲーム開発者への一手",
+      "duration": 75,
+      "link": "https://huggingface.co/joe-gibbs/terrainsr",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-09/money-07.mp3",
+      "title": "締め",
+      "duration": 19,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-09/story-01.mp3",
+      "title": "導入",
+      "duration": 11,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-09/story-02.mp3",
+      "title": "1. 毎日「まずい！」と言い残すラーメン店の年配客 — その言葉に隠された本意",
+      "duration": 90,
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBINkhpa00ydVB6M2lQbi0zN3FIbnBVdEJPMlYwY3pmVE02UVV6dkUybVlyTEd2bVBDZFFRZ1ZTRklfVXJBOWZBR0J6TWtpUQ?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-09/story-03.mp3",
+      "title": "2. 1歳の息子を連れてサイゼリヤに行ったら、神対応の店員さんに出会って",
+      "duration": 95,
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5BLUNfZmFNR0lQaW9QVmVmRFpWYl9INzVRaVl4N3RrM1AzVlJ2NTdrdW5WUmlKQWg1ZzFSbmlKZHNSSUdJc21idTFuaktRS3QzLXJSMlVrX0pnMmxneEHSAWNBVV95cUxNbS1Gbm5CaUtQT3I5Z3YxSGdYTndUSmVxUVE1bC1hcDNmaHNFc2gyOHNvcVd3cFNYZzdPN2FncTlwWjAxSTZya3B2Z2J1ZDd2bkZ6TjVubmVROFdSRmZ2c2NiYm8?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-09/story-04.mp3",
+      "title": "3. スシローで渡されたレシート、なぜか手書きメッセージが",
+      "duration": 42,
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EUVZ2cWpiV0Q5ekpLbVJEZ2ZoeTVFZ2lXTm1Ic2kzaU1OTWRTeFpvOF9Id0F6QnQwXzRRRE5nSTRiYnJNQkdyRnd2WE5ETDhXQWVNQ1Bn?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-09/story-05.mp3",
+      "title": "締め",
+      "duration": 12,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
