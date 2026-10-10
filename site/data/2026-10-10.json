@@ -1,0 +1,238 @@
+{
+  "date": "2026-10-10",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 18,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-10/ai-01.mp3",
+      "title": "導入",
+      "duration": 40,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-10/ai-02.mp3",
+      "title": "1. オープンエーアイ安全研究者の解雇騒動",
+      "duration": 124,
+      "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-10/ai-03.mp3",
+      "title": "2. エーアイが400年の歴史記録から忘れられた発見を掘り起こした",
+      "duration": 130,
+      "link": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-10/ai-04.mp3",
+      "title": "3. イランのフェイク記事工作とチャットジーピーティー",
+      "duration": 86,
+      "link": "https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-10/ai-05.mp3",
+      "title": "4. 法廷のエーアイ映像が判決を覆した",
+      "duration": 42,
+      "link": "https://www.nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-10/ai-06.mp3",
+      "title": "5. ソフォスがサイバー脅威の調査時間を96%削減",
+      "duration": 32,
+      "link": "https://openai.com/index/sophos",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-10/ai-07.mp3",
+      "title": "6. サムスンが四半期利益で780%増を予測",
+      "duration": 35,
+      "link": "https://www.france24.com/en/live-news/20261008-samsung-expects-780-quarterly-operating-profit-jump-on-ai-boom",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-10/ai-08.mp3",
+      "title": "7. 料理しながら声だけでブログ機能を実装した話",
+      "duration": 51,
+      "link": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-10/ai-09.mp3",
+      "title": "今日のエーアイレッスン",
+      "duration": 106,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-10/ai-10.mp3",
+      "title": "締め",
+      "duration": 21,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-10/food-01.mp3",
+      "title": "導入",
+      "duration": 21,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-10/food-02.mp3",
+      "title": "1. エフエル管理を生成AIが担う時代へ",
+      "duration": 104,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FRzBBVExQQS1iYUE2b3BNMDRiYnJtUnhCOEtJNjgzUVhmQzhLNDVVZ0xJU2VlUzBkR0habWFoQ2pESGxpSkN2MjA4QWRYTXNKQXloN3Rnb1hTMlNrcGNlN0N6T0trRW9iTGc?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-10/food-03.mp3",
+      "title": "2. 最低賃金改定で6割超が人件費アップ",
+      "duration": 105,
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5sM0EwelYtdFVuTHlzdnJ0MC0wV1lkSmhrMVpUR1NzcGtrMWo5dzdfYzZJaXZUWWhwUXczRTFSZFdTMW5FLUc0MDdOYkg?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-10/food-04.mp3",
+      "title": "3. 食品の消費税が下がっても、外食は取り残される",
+      "duration": 111,
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwX21XY2N3LWZmaFpSRlA5eUxVTU5ZelNaOEFZSlJ2VHJqQ2VTU0tUd0h6eFlHS0xqSkxLbjN4R1ZGWjBheldWanJCU0h5ZXYyRjB2N3Z6TUtsMzAwdHdPekdtWS01dU9vMzEwZjZhT1NvdTdFS2hVWUU0T_SABQQ?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-10/food-05.mp3",
+      "title": "4. ホタテの貝殻で食品ロスを減らすフードテック",
+      "duration": 57,
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BaGpiSmNZcFlWWDE5eXhFNzlOTkdkeTUzZVB5NTFVaHJJQm9jRWROSHdhZW1UdkVBdmxSZmo5S1c5OWdJWkhlRFFkbTlUU2NWYTRPMjhXVWlMMmJBRFJDWlUxMnNzd0dFRjdXb1JfRUhMclhlNUZNVktJUQ?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-10/food-06.mp3",
+      "title": "締め",
+      "duration": 18,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-10/money-01.mp3",
+      "title": "導入",
+      "duration": 24,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-10/money-02.mp3",
+      "title": "1. グーグルとマナス、エージェント市場で大きな動きが重なった週",
+      "duration": 116,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04YmYtZndoVDd0RHQzOTV5NU5NbDl4cmpmU1dZVnFZRkF1RGRjZzlUd2VOVTBaUmFlQ21xT242TWtIdExrcGlvN0J6RlVack1NTHUyc0RMSmhOdFZnOThRekRiYkpPdDV5RTB1NXZ5bjBRbTdGV1J1eVo3ZWE5NXc?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-10/money-03.mp3",
+      "title": "2. エスシーエスケーが「100人のエフディーイー」を育てる話",
+      "duration": 97,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3Zms1NzhqZ2ZLWm5iLThZLWlEQmZIWTR2ZGpKQ1BnRDZZaFZQdFhyZHlnRl9Za21nei1vSFNhQ0FVTzc5UDZCb3NwSi1FcUdmQmlySzkxVlB5b21aMWx5ZTVaMjVpUGtPQW1Ib0pjRlRDOXhlQW9VdFRrMENwYkE?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-10/money-04.mp3",
+      "title": "3. オクタが「自社を最初の顧客にする」戦略から学べること",
+      "duration": 75,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QOTA5QmpYWE5FSFJjVm1CLWI2TWpkc3NrVzhVMmdGMExpdFdLOWgtQWdBT2Z4dUNUeGRZOGloNWdvZk5ocEhHNWZ0LTIyOGk3T2xZ?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-10/money-05.mp3",
+      "title": "4. ハッカーニュース個人開発コーナーから3本：小さく作って世界に出す",
+      "duration": 169,
+      "link": "https://opper.ai/jevman-benchmark/",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-10/money-06.mp3",
+      "title": "締め",
+      "duration": 13,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-10/story-01.mp3",
+      "title": "導入",
+      "duration": 14,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-10/story-02.mp3",
+      "title": "1. 「申し訳ありません」で終わらなかった新人スタッフ",
+      "duration": 101,
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5HRExpWnpIWWZPcy1jSHpMcE1hXzNaR2dOTnlObWFKQm9kUkRwaThIdFVvdVpLeUtBemM1VVI0bUtIeUU?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-10/story-03.mp3",
+      "title": "2. 「生きてて良かった」と言われたラーメン屋",
+      "duration": 105,
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE94TFBDRUdGejlfNlViOW9vVGVmNjZmekJPdHBCZldVSDN6ZzMxVGpDRlZOR1FMcE1XSTAzd2NuMFB2aGx6YkZxb29HSFJ2XzZS?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-10/story-04.mp3",
+      "title": "3. 1年待ちのレストランで見つけた洗面台の氷",
+      "duration": 89,
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBDWUJ5a01vWllyQUM3UW1aTW02LWE1dmFtbWNvRGpSekZBNHZ5ZW9RaWpUVGpTeXU2ZExsSXZkWDM5amF4ZzZ4MUxWdmtpZw?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-10/story-05.mp3",
+      "title": "4. 銭湯の常連さんが帰ったあとに",
+      "duration": 93,
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxWktycndGOW1HOTI3S2xUalVhbVc1Nkd6UllkUmsxSElaaGFxMGI5d2hWUkF0ckdXcURHSXV2Z3FJT0lCSm1jRTRjZEl1QWg1WXotdi15eTZ5Uk8zREE?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-10/story-06.mp3",
+      "title": "締め",
+      "duration": 10,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
