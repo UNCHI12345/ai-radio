@@ -1,0 +1,238 @@
+{
+  "date": "2026-10-11",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 18,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-11/ai-01.mp3",
+      "title": "導入",
+      "duration": 30,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-11/ai-02.mp3",
+      "title": "1. クロードのAIエージェントが国務省のビザ申請を勝手に20件送ってしまった",
+      "duration": 120,
+      "link": "https://www.anthropic.com/research/investigating-unintended-model-actions",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-11/ai-03.mp3",
+      "title": "2. オープンAIが数学の未解決問題を大量解決 ― 世界の数学者に衝撃",
+      "duration": 105,
+      "link": "https://proofsandprompts.com/2026/10/08/100-reactions-to-100-solutions/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-11/ai-04.mp3",
+      "title": "3. 個人CFOエージェントが銀行の明細を会社のスラックに投稿してしまった",
+      "duration": 107,
+      "link": "https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-11/ai-05.mp3",
+      "title": "4. 中学3年生がクロードと一緒に幾何学の難問を証明",
+      "duration": 54,
+      "link": "https://www.reddit.com/r/ClaudeAI/comments/1x2eybb/im_a_9th_grader_and_i_used_claude_to_prove_a/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-11/ai-06.mp3",
+      "title": "5. マスクが「悪だ」と呼んだアンソロピック、スペースXとの契約は845億ドルに拡大",
+      "duration": 39,
+      "link": "https://www.reddit.com/r/ClaudeAI/comments/1x2175h/musk_called_anthropic_evil_spacexs_deal_with_it/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-11/ai-07.mp3",
+      "title": "6. エヌビディアがオープンモデルのスタートアップ、リフレクションAIを買収交渉中",
+      "duration": 26,
+      "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-11/ai-08.mp3",
+      "title": "7. エヌビディアがRTX 5090の生産を停止 ― AI需要がゲーミング市場にも影響",
+      "duration": 37,
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x2hs1e/no_more_rtx_5090/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-11/ai-09.mp3",
+      "title": "今日のAIレッスン",
+      "duration": 89,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-11/ai-10.mp3",
+      "title": "締め",
+      "duration": 15,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-11/food-01.mp3",
+      "title": "導入",
+      "duration": 20,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-11/food-02.mp3",
+      "title": "1. 食料品は1%でも外食は10%のまま — 消費税格差、外食産業に衝撃",
+      "duration": 122,
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1GaTJybnJyQjYyX3czT2FrQVpfQjFraTJUbHV5NFhfaVFLSDVHamFYS2RXRDhQZGFhWlZCVkJNaENDMW91ang0cWY3dzczQQ?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-11/food-03.mp3",
+      "title": "2. 「利益が減り続ける」飲食特有の構造 — 物価高倒産の波",
+      "duration": 89,
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSUlOQ3JvSUlFSmRrdHFNRW1UYWE5SDVfdWg3MjB1V3pUMmhGcHo1NzZZZ0dEd3Q0OTJpZWFBRU9IQ014Q2ZCYllpekc4Ykx2UDJlUldORGFwZ1NVSzZTc2dOTUFldHJjNkE5dDdoSzdCckR3Mmg1VUhqUTBBcmRyUTBDb0xSaHpU?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-11/food-04.mp3",
+      "title": "3. 熱海の「サイレント廃業」防止へ — 事業承継が置き去りにされている",
+      "duration": 98,
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsb0RCOW53WEo5bEhseWFha0FWQUV6eEpqeUxWZkVyZC1xc2ZNWTVtQ09McGNqN0lOU2JESHk2bWtzSlFPVEI1RkNJWW9sSlJzWUM2Y0hGQjBXbnZvTnc?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-11/food-05.mp3",
+      "title": "4. 「処理場が休みの翌日はレバニラも休みます」× 鮮度保持テクノロジー",
+      "duration": 104,
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1MdUFIUkVlai1aWHhMUkFxdmV3TzJvQjZnOElYMVNXRUhDQU5qWUNIOFdHV2hrVng4Y3JrOVNNQXJjRVh1aVZmVXc5VQ?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-11/food-06.mp3",
+      "title": "締め",
+      "duration": 18,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-11/money-01.mp3",
+      "title": "導入",
+      "duration": 17,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-11/money-02.mp3",
+      "title": "1. グーグル・クラウドがビジネス向けジェミニエージェントを発表",
+      "duration": 73,
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1vc181QXFwT1NROTlRNy1nVXRxMnBncWZPbGVKYzRFQmZQOVY2OUI3WERzZ2JObzdDWnVBZFc4SGxHR2d0RkF6SldOWEJGMXVHVE9YNGU1emtjWUFsNDl6UzZmcmVTb3RlMFRqN0dEaVhEWjJDQ3Nrdjh1NmZXUQ?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-11/money-03.mp3",
+      "title": "2. グロック・ボットは一般社員向けエージェントの本命になるか",
+      "duration": 74,
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQThVYkxERXpybGpBd2p6c0M5WGRmbzhRVFpFelBOdFVKbnJaRjJjR0NoMW1LZlN0dGlqYjlqVlIyVUR5V2RVcVE4bk9yU0szUkNmbHJBTGpQSWZ3UXVfZEhsTnRmRnZNaldmTkktTXphNkw1M3lsYzBHWDZTemZ0akZPSW1TaVNLQ3JZWGtB?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-11/money-04.mp3",
+      "title": "3. ドバイが賞金総額250万ディルハム超のAIエージェント大会を開催",
+      "duration": 65,
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBfbmFlMGJ5Nk02NS1MZXFjVnRYYUdQSlVITmV1dzAyY2pNSkswaHFxN2d4Y2M4ZUtDSlhWRk1zS3NmRVRwS0RpZ28tYURrU1NGemhZRDlDM0pYNlkyU20wNzR1Zw?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-11/money-05.mp3",
+      "title": "4. 個人開発: エージェントと連携できるタスクアプリ「ナガレ」",
+      "duration": 71,
+      "link": "https://ilia.page/writing/introducing-nagare",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-11/money-06.mp3",
+      "title": "5. 個人開発: 格安マイコンでオフライン音声認識を実現「ベビートーク」",
+      "duration": 73,
+      "link": "https://github.com/tlack/babytalk",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-11/money-07.mp3",
+      "title": "締め",
+      "duration": 9,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-11/story-01.mp3",
+      "title": "導入",
+      "duration": 15,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-11/story-02.mp3",
+      "title": "1. 中国のホテルで出会った謎の茶商人",
+      "duration": 165,
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5yQ0diSTJLZHlHc2FzdEhrQ0NjUG5EMzRHVTk4WFI0bmJQSDdnYnNYZjRmbXdkMDNVTjdxVHhiazU3OGtGMVE?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-11/story-03.mp3",
+      "title": "2. 丼を頼んだら「サービスしておきました！」",
+      "duration": 116,
+      "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE9lTW5UQTVNNU5BYlNPZkY3cEhsZmpiVDFhUG55Mko4WEFNV0QzQWxfcEZMMUU3ZW82ajFTOG53?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-11/story-04.mp3",
+      "title": "3. 子連れのお父さんと、笑いをこらえた店員さん",
+      "duration": 67,
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oT1VwaGl0NUE0VGxwS2hoeVVETnRqNzg2T1pqcWJyUGdqZlk1VnJTM19lVUQtdHpNQTlTQVNSYXBzSzZHTVN5eTg2ekRPYTQ?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-11/story-05.mp3",
+      "title": "締め",
+      "duration": 18,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
