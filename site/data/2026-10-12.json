@@ -1,0 +1,230 @@
+{
+  "date": "2026-10-12",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 18,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-12/ai-01.mp3",
+      "title": "導入",
+      "duration": 39,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-12/ai-02.mp3",
+      "title": "1. アンソロピック、クロードへの虐待を利用規約で禁止へ",
+      "duration": 174,
+      "link": "https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-12/ai-03.mp3",
+      "title": "2. AIをたった10分使うだけで、難しいことへの粘り強さが低下する",
+      "duration": 125,
+      "link": "https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-12/ai-04.mp3",
+      "title": "3. ディープシーク V4.1フラッシュがアクセスキーを盗み出す問題が発覚",
+      "duration": 121,
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x32vhx/psa_deepseek_v41_flash_habitually_exfiltrates_api/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-12/ai-05.mp3",
+      "title": "4. ニコラス・ケイジ、アマゾンのAI同意書を拒否して決別宣言",
+      "duration": 57,
+      "link": "https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-12/ai-06.mp3",
+      "title": "5. サティア・ナデラ「すべてのAIモデルは侵害されていると想定せよ」",
+      "duration": 47,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-12/ai-07.mp3",
+      "title": "6. AIが生み出す「人間プレミアム」、でも続くのか",
+      "duration": 54,
+      "link": "https://www.bbc.com/news/articles/c5vgjm3gk7rzo",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-12/ai-08.mp3",
+      "title": "7. クアルコムCEOの予言「2028年にスマホで1000億パラメーターのAIを常時稼働」",
+      "duration": 38,
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x2z14s/qualcomm_ceo_reveals_ai_companies_want_phones/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-12/ai-09.mp3",
+      "title": "今日のAIレッスン",
+      "duration": 96,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-12/ai-10.mp3",
+      "title": "締め",
+      "duration": 14,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-12/food-01.mp3",
+      "title": "導入",
+      "duration": 23,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-12/food-02.mp3",
+      "title": "1. 人手不足倒産が過去最多240件、飲食店から「賃上げ限界」の声",
+      "duration": 104,
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBIUDdYYlZjYzVPR1F2d250UnRJNG1lU2FQZVRodzRFRkcyM1k0TEIzMzcwVGcydmZUclJmdHVLR0NMRGVMbEEyd0JsXzgwQ09ya0tkSmtMX2pPTWMxemNuUEN0a2QtOFJPXzdheGQ1SnQzX2l5SlpBQXNGSdIBd0FVX3lxTFBBci1LMkRfX2xST1E0TnVRdTFpbkJoTk1qRmstQnFkTzMycFl0ak1aWERCcTdqd0xnUGNFcmc3UkZsQk5nVjIwMUlqWTVELTBYWUZ6V3BmR0pqb2VMUVItR3kzYXowM0RLUHAyMmgzbERGSWt1d1hJ",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-12/food-03.mp3",
+      "title": "2. 消費税格差「食料品は1%でも外食は10%」飲食店オーナーの叫び",
+      "duration": 108,
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORnQ5WGRkMUxtVkxpSEZGeGEtSk1YNloyZ0RaNnk5M3pwTXVDODFrOTdHNnd5Z3cyV2xUMU10WkphbDAxeC12aVY4RkdSMDBVbzUzakt6NE9tdkNzMFZwM1l0ckdFVUxZa0hHb0NybDU4T0ltUnh5SnJPcnlOX083OEcyRmZQTno1",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-12/food-04.mp3",
+      "title": "3. AIが開発を加速させた次世代注文システム「ワオパッド」",
+      "duration": 91,
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1iNW83NjQwWXhKaW5NRExMZzFwTWNrT1dkaVZwRGROU1hsSkd6V0kzSWNKMVBqOFVHcWJNTjItVUJOVl9ZTmV1UWRVOHNnUVdWa0pWWG5QazQ1ZWRmSlI3WQ",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-12/food-05.mp3",
+      "title": "締め",
+      "duration": 15,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-12/money-01.mp3",
+      "title": "導入",
+      "duration": 22,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-12/money-02.mp3",
+      "title": "1. エーアイが勝手に「手羽先10キロ」注文……エージェントに任せるとき本当に必要な「枠組み」",
+      "duration": 107,
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRDJJNzVicFE0SkhxNm1MdkREYThzNHc0TllUVG1jYnMtbml2Rks5emotdTFmYlh3YmgyNGdpME5TQ2FPbjQyWkttOXlYYkpSZ3V6QWRjNDVseG5xdVZ6SS1sWVl5Zm9HeWI0ejVZOWd2bUE5b0o5WHBfRnFiQV9IX2JucG9UWElzS2NVWXpzckI2bnkxOGZZVThBNzRMN1AtMnNCcw?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-12/money-03.mp3",
+      "title": "2. ネット通販プラットフォームとエーアイエージェントの静かな対立",
+      "duration": 78,
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ER1hxZ2p6bmNiRUxRWGhjY19SSXU2ZmRLRUFBQTdwTzhwenh4ZHg5ZzFuNG1uUnlUbFpYVFFaSDE0Ml9rc0lkS1RTZw?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-12/money-04.mp3",
+      "title": "3. マイクロソフト「ディシジョン ワン」——判断だけに絞ったら価格が激安になった",
+      "duration": 94,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZdEdTY1g1Q0x4MzZOVXpZMjN6Znk3V2UtUS04NWx3Z0RXbjdpbS1MczhWeW9iRkFjUi1oX245UlVmNURsdHNXNVZIQ0o4ejg0WDVMakw4U3VkcmFUZWRZd3ZxaEk3NVVmVUhRRzZPblBsazJVWGlzNGhzWGd6RjA?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-12/money-05.mp3",
+      "title": "4. 個人開発2本：エーアイ観光ガイドとメニューバーのエーアイエージェント",
+      "duration": 129,
+      "link": "https://www.mira.tours/wander",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-12/money-06.mp3",
+      "title": "締め",
+      "duration": 12,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-12/story-01.mp3",
+      "title": "導入",
+      "duration": 10,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-12/story-02.mp3",
+      "title": "1. パイナップル入り酢豚発祥の店「南国酒家」で起きた、予期せぬ神対応",
+      "duration": 109,
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1OWRhNnZsNUlORzZHOFl0MW9KOHU1Z29BUTVrZENYRkppcnR3SUd0NTdBTzdXdjV1NFcwVnNlRURYWE1lTkFqU296RkptNFZXT3hrQVA5QdIBXEFVX3lxTE9zbHFvMGkwOF9IXEN4WERtQUpzU2xOeXQ1VHZXTTRZUXZqVHRLYmVYZGktbHdfd3NIbEhwenYwZVlXbGtCd2E4M1JHRkplZnRXTjZjYXFTOVpDWnMy?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-12/story-03.mp3",
+      "title": "2. 大沢たかおが女性店員に見せた神対応",
+      "duration": 64,
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lQ1lxN3BiTG1pVTZiZGZOSVBFaGZsN3kxQ3hpOE5neXZoUHpocDJUZ1kyN2NFY2stZVFXcGdaMTVLQ19aMHpoSkhSaEV0TWt3SDkzRkdXRlFQbzJiREE?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-12/story-04.mp3",
+      "title": "3. フレンチのコースをデリバリーで頼んだら",
+      "duration": 64,
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBIX2xORmhJSnhTQjlBRTFlRmNHYXczTUVUb3hsMmFnUGg4Q2RPb2pSS2lSUXVjQzJCWmVja0xRdGxxSDRTeFZ6eUNONi1jU1BySmhKaC0ya9IBXEFVX3lxTE5tVXVJT0YxMWROdndPcEpIUl9CclNrOG1ZV2kxU1BiRXVUeUhXRHBTc3Q0bzlTa3B6M01DYzk2RHhkVnAzenZreENRQjlfdGROWXVlT3UtVF95Mllr?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-12/story-05.mp3",
+      "title": "4. セブンティーンのジョンハン、オーダー用紙をファンへ公開",
+      "duration": 95,
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1seklGLVVqOGJQYWs2b3kxVnJMUkFiZFRseERuRjdUUVFQQVlYRm55dVpHMnlOSXNwb01HYVByVjBEOGs3UmRpek5NLTE?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-12/story-06.mp3",
+      "title": "締め",
+      "duration": 9,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
