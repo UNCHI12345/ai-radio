@@ -1,0 +1,222 @@
+{
+  "date": "2026-10-13",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 18,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-13/ai-01.mp3",
+      "title": "導入",
+      "duration": 32,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-13/ai-02.mp3",
+      "title": "1. メタ、フロンティアに到達か——新AIモデル「ミューズ・ワンダー」発表",
+      "duration": 179,
+      "link": "https://research.meta.ai/blog/muse-wonder",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-13/ai-03.mp3",
+      "title": "2. コードは増えた、でもソフトウェアは増えなかった——ハーバードの大規模調査",
+      "duration": 113,
+      "link": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-13/ai-04.mp3",
+      "title": "3. 小さなAIが家電で自己増殖する——アンソロピックが公開した衝撃の安全性研究",
+      "duration": 124,
+      "link": "https://www.anthropic.com/research/self-replicating-ai",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-13/ai-05.mp3",
+      "title": "4. アンソロピック上場「史上最もバカげたIPO」——調査会社が2兆ドル評価額を痛烈批判",
+      "duration": 69,
+      "link": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-13/ai-06.mp3",
+      "title": "5. 「手書きコードはもうない」——エピックゲームズがディズニーゲームを「AIファースト」に転換",
+      "duration": 58,
+      "link": "https://www.avclub.com/epic-games-disney-ai-delay",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-13/ai-07.mp3",
+      "title": "6. 「私の研究分野を壊滅させた」——オープンエーアイ、数学論文を719本一気に公開",
+      "duration": 61,
+      "link": "https://www.lemonde.fr/en/science/article/2026/10/12/openai-s-latest-blow-to-mathematicians-they-have-annihilated-my-field-of-research_6758515_10.html",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-13/ai-08.mp3",
+      "title": "7. 地図ソフト「キュージーアイエス」、AIコード貢献を全面禁止へ",
+      "duration": 55,
+      "link": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-13/ai-09.mp3",
+      "title": "今日のAIレッスン",
+      "duration": 106,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-13/ai-10.mp3",
+      "title": "締め",
+      "duration": 12,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-13/food-01.mp3",
+      "title": "導入",
+      "duration": 20,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-13/food-02.mp3",
+      "title": "1. さわやか、全35店舗に順番待ちシステム導入。スマホ発券が約7割に",
+      "duration": 79,
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWaDV1ZXFrMkRUeS1zbEVJampIRXFZRF9aWHRPVGlWck01TmR5X0hLTHdudTdISWlOcTdwam5JUXhWdy1vTkQ5bVdPNHppck1xVDFxSXg1emc5NnU0T0NnZw?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-13/food-03.mp3",
+      "title": "2. 本日グランドオープン「焼肉やっぱ。新百合ヶ丘店」。最先端のオーエスとロボットが叶える新しい食事体験",
+      "duration": 87,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRX3FOb3ZQTzRkMDZEUS1rRGZVaXJGeDZ4RmJad0ZsVWJoUlMzMFlfSGNMdVhVeHJsLTJDRmMzY3Y0VFZtM1pHN253bmo5cG5wX0NlaXBMSmVvekpjVW4tT1ZqaTUxZ0NYOGc?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-13/food-04.mp3",
+      "title": "3. 日高屋、値上げの秋に「節約外食」で攻勢。690円ラーメン投入、主力商品も刷新",
+      "duration": 78,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oTTlHMWpzdGRZR1J1RU04eDhWLWZGbUphSjdxdWNHRlJOREcxNm1RNVBOekJwWkZiOURkNGF1b3BzR0FNVnZDcUJjbnZmUWEwdllOenViS24tVHh6U3dCVUR3RFZnZ2pUNkhzMDlqVjRQMG1qT1E3bGIteFdDWFU?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-13/food-05.mp3",
+      "title": "4. ワタミの宅食、岩手・盛岡で計画比200パーセント達成。奥州市に2拠点目を開設",
+      "duration": 81,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ieGZJVkU3UFhHb1Nvd1Byc2dlX2p5MUVwekNOQjhzT3JSNXZxWDhONnlkcXNUdWc5MnlDVXllbmcta2U4dUtvZ0R4dG8wc1VWVWk2c2c1dkdHbFF0ZUxNbm1ueUt5M0c1M1E?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-13/food-06.mp3",
+      "title": "締め",
+      "duration": 16,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-13/money-01.mp3",
+      "title": "導入",
+      "duration": 23,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-13/money-02.mp3",
+      "title": "1. 「AIで稼ぐ」を覗いたら中身が違った——架空フォロワー20万人と年売上1515万円の実態",
+      "duration": 142,
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE4yMFp5cTRRb2FDSC1RSnpfdkhsRUlReUVJdzVrWVpLN0FpZ3lmUlp1MUR2YmRha1ZNamdrTWZSb3RtNmc?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-13/money-03.mp3",
+      "title": "2. 4社に1社が「シャドーAIエージェント」を検知できず——ここにビジネスチャンスがある",
+      "duration": 125,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XaXhwV0VaVWdab2VUR25XT2ZWRU1feXpaT1VVb1dnX0ViU085WGdGZXRSa1NCSG8zRm5Kc21IdlFlbjFPYnRnZlg3OE11RnhZd0RJ?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-13/money-04.mp3",
+      "title": "3. 個人開発ピックアップ：声で操作するマック用クロードアシスタント＋AIコードの隔離実行環境",
+      "duration": 105,
+      "link": "https://github.com/SaarthurR/atticus-mac",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-13/money-05.mp3",
+      "title": "締め",
+      "duration": 16,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-13/story-01.mp3",
+      "title": "導入",
+      "duration": 19,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-13/story-02.mp3",
+      "title": "1. 迷惑客を断れるように ─ 歓迎と不安、それぞれの思い",
+      "duration": 108,
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBIT1UwTEdOV0toYXkwcWFCYm94NzJKR0x3RWFDbnFJN0JMTi1kR1ZBZVBtT2kyUVRJc0Y1bmwwTngyOE9nSnVpZGd0dWhyeXc2NHZDLVN4OG81RlZlZ3FV?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-13/story-03.mp3",
+      "title": "2. 大谷夫妻と、韓国のホテルが見せた心遣い",
+      "duration": 60,
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oY0hGRWxTdVZ2TTlGZ2lFYldNZEItbXlMZTRSNjNBcERNRHVwaVdhaF9NQ1g2LUZUcFZwX19tck8yaDFOX2xqRjQ5V0ZPNkhyQ0E?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-13/story-04.mp3",
+      "title": "3. 「あったかいね」 ─ 銚子丸と、本物の涙",
+      "duration": 65,
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBZMXRUbVBibkoyM3RlVmMyWDdYSks2M3FNVHBTeFV6UVFITXNscXN3WnhLR0cxZlZ4dFBjc1FYdk5sZmhrLURR?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-13/story-05.mp3",
+      "title": "締め",
+      "duration": 9,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
