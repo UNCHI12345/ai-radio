@@ -1,0 +1,238 @@
+{
+  "date": "2026-10-14",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 18,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-14/ai-01.mp3",
+      "title": "導入",
+      "duration": 33,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-14/ai-02.mp3",
+      "title": "1. ジェミニ4アルゴン登場 ― グーグルの新フロンティアモデルが全世界公開",
+      "duration": 174,
+      "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-14/ai-03.mp3",
+      "title": "2. アンソロピック、バージョン管理システムを自作 ― クロードが速すぎて既存インフラが限界に",
+      "duration": 148,
+      "link": "https://www.anthropic.com/engineering/redesigning-source-control",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-14/ai-04.mp3",
+      "title": "3. オープンエーアイのオフィスに盗聴器 ― エンジニアが逮捕",
+      "duration": 116,
+      "link": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-14/ai-05.mp3",
+      "title": "キャラクター・エーアイが破産申請 ― ディズニーへの売却へ",
+      "duration": 69,
+      "link": "https://blog.character.ai/an-update-on-character-ai/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-14/ai-06.mp3",
+      "title": "AIモデルは危険な能力を「証明可能な形で」隠せる ― 安全性研究に衝撃",
+      "duration": 68,
+      "link": "https://arxiv.org/abs/2610.13928",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-14/ai-07.mp3",
+      "title": "国際通貨基金が警告 ― AIバブル崩壊が世界経済を揺るがすリスクに",
+      "duration": 46,
+      "link": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-14/ai-08.mp3",
+      "title": "メタが「ミューズ・ワンダー」を発表 ― 月1ペースのモデル更新が続く",
+      "duration": 41,
+      "link": "https://research.meta.ai/blog/muse-wonder",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-14/ai-09.mp3",
+      "title": "今日のAIレッスン",
+      "duration": 121,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-14/ai-10.mp3",
+      "title": "締め",
+      "duration": 10,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-14/food-01.mp3",
+      "title": "導入",
+      "duration": 22,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-14/food-02.mp3",
+      "title": "1. 外食業界への大規模支援、見送りへ。消費税10パーセント維持で客離れ懸念",
+      "duration": 114,
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWFNqWnZPTjd5Y2tBUDV2QU14Ym5sdWtYVEI3X2pjMnk4WGZHTU1TdmNWTko4aGN5VWNXb3Vlc244bDc0TWRvM3BjSW1kNE5vNlExdGhZTDBjLV90RUZEbGpQSWRkNnlhTTE2bGc2MlUzRU5OSFE3bFhtTmdhakRhVzBMOC12MWtxei1ueFhB0gGTAUFVX3lxTE03MHBFWVdJTHo5elpiZG9tTEdjN20xY01qYjBCOGx0dHFhUDNaanFlc2hRVk5WQ19HNm41ZW91aGFQTkwyTnhOYTFQaWRINmxrdmdQNVRyN2VrTFNCOTdUQmFkSjVJRGxNX3o2d1lkRnZNMXNuVlBnUUZuWGdFZXFfN3VhLXh1ZFpvMGhJRFJzVzhOaw?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-14/food-03.mp3",
+      "title": "2. 消えるニューヨーク市の飲食店。コスト高で生き残り必死、冷房停止・日曜休業も",
+      "duration": 87,
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvdDZYcHJWdWR4eHdpNEt4VmRGenE1cGRMeUhMeGxRZUMtMmJuM1ZmSjh1OHBNWkJxdzRWVFlUM2VnVGhjbzJNbC1nZUstQ2Rkb3ZsRjZUNFc4OUZfSlliX0t5UdIBaEFVX3lxTFAtRkFVdnlybzNPUUxMeXZsa0RqcHlyY1d5TVhQN1U0ejNIRDhoQkRlcDltOXdvUzZhc2pTZHRCYWlSOUgzWkpmRlM3bTRhRVdnQTBPY1JjSG5odEV6MVoyX25rRW9vV2lR?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-14/food-04.mp3",
+      "title": "3. ゼンショー、「すし」で米国シェア首位。テイクアウト大手買収で外食の難所攻略",
+      "duration": 78,
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50NUhGZEYzQkF4Y1NFcVIwS3h4c3dVd3FtN1BRWVlFSVF2eDNmVEtJSEFJUFpEM0pQY0hQVURpakZ2THY2RV95bE1zRHM2am1RTmR6VHFjdDNaNl9rRzREZmpPVDhQUTQ?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-14/food-05.mp3",
+      "title": "4. アブダビが細胞性食品の試食ガイドライン策定。フランスでもスピルリナ由来タンパク質の大規模工場計画",
+      "duration": 91,
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1paGxOcUxiTE5NXzMwTGRLelZtd2pvczhrNWxPM0E0cXl3U0hZbE9ZSkpvR1VSci0zZFByS1VLbHBGMkoyYTRTakI3RkFqRVFuai1TaktQUXJMRzBSRFdr?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-14/food-06.mp3",
+      "title": "5. 京都中心部で長年愛されたラーメン店、閉店へ",
+      "duration": 45,
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4eE9nRmRHbGtzbERPT1ZNRDFhZm1FOXFiSFRFLUZDZ1RKWFgwbU85andPcHRidm5XSk85Z3Y5S3RGeEJpNEs1ZEtUMHRMRUlvOTR1bjJmVUc?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-14/food-07.mp3",
+      "title": "締め",
+      "duration": 12,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-14/money-01.mp3",
+      "title": "導入",
+      "duration": 20,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-14/money-02.mp3",
+      "title": "1. ワークデイがアンソロピックと組み、権限管理基盤の会社まで買収した",
+      "duration": 115,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qQk1BUUE5SHNxUElrbFYwNWhKSDJodlRqbkJRa0ZPQTZsSGgwN2ZzR1ZGY3E0bHFhVUExdXJtRnpBblltYnFJWV82bmJvWndPYVBz?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-14/money-03.mp3",
+      "title": "2. 旅行・ホテル業界にエーアイエージェントが入ってきている",
+      "duration": 93,
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE51LWZaVmNETS1IODlhMDBPTkJ0aHJWSU94OGRSYWFnUWdGT0k3V2tCQUxaeEc4ZndBeTh3cFdYa3dpZERLckxVRDVZeXY?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-14/money-04.mp3",
+      "title": "3. 個人開発者がエーアイのコード品質問題に三本同時に切り込んだ",
+      "duration": 145,
+      "link": "https://parsimony.lasu.dev/",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-14/money-05.mp3",
+      "title": "締め",
+      "duration": 13,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-14/story-01.mp3",
+      "title": "導入",
+      "duration": 17,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-14/story-02.mp3",
+      "title": "1. ケンタッキーのレジで高齢男性が店員に？ やりとりに「潔くて素敵」「いい話」",
+      "duration": 72,
+      "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE93a3g5Tmc2U3pqY2pSMnNZaDEzQXMxQ0FzX1VjNmVPVV9Ma1Z6cG1lRkJDT2M4WXdYTHUxU1hB?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-14/story-03.mp3",
+      "title": "2. エイチケーティー48メンバーが焼きカレー店を取材、完食する「神対応」に店主感激",
+      "duration": 72,
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kYTVrbXV3SVByM3RqZzc3NHVSeXhBNE5ncFJWbElUaGxKdzB2RWhwLU9YM0k5ejNqVi1OVFFDVkx1QjlOSkdON0UwaGZTM1U1WGpyZFczRXFiMXdDYnc?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-14/story-04.mp3",
+      "title": "3. おじいちゃん店員から執事のような接客を受けお嬢様気分になれた話",
+      "duration": 107,
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80MkhFa0RnVkxEcnQ2N0cyNFJnRFpEUm5lQTNvV290WXVFUXgxVk1LVkpaRmQ1NzR0N3NyclFSMV9WS2o0aHlTQzU0UWpHOW9JSXFmR0UyRktyeS1ROXfSAWNBVV95cUxPM2tEa0U3bEtLMDNLYWhTa2hTUUpOYUdBbUljZ3pEbkdxRzIzdUl5OU5CN3hiU3pDcnJWQTdZbFhUbko4YkY4WXFPUHIxeGlLTl9uMXZsQ0lXRm9LNW1PaGZ1Tk0?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-14/story-05.mp3",
+      "title": "4. 「非の打ち所がない」山形県のすべてが高評価なホテルが大人気",
+      "duration": 91,
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kaTRyX01MM2dIclVTN05rTnhuamdXY1NQWkNJcW9UTVM3NjJXT3U2d0FUSlp0NmRBOTg3OWU5a0d2ZG1TRDFFR3VuOVRSVWQtSGQ0eUZ3MG5pUGh1Q0pnVk4zNA?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-14/story-06.mp3",
+      "title": "締め",
+      "duration": 8,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
