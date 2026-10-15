@@ -1,0 +1,214 @@
+{
+  "date": "2026-10-16",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 18,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-16/ai-01.mp3",
+      "title": "導入",
+      "duration": 41,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-16/ai-02.mp3",
+      "title": "1. メタの超大型エーアイ「ミューズ・スパーク・オープン」登場——アメリカ最強クラスのオープンモデルが公開",
+      "duration": 139,
+      "link": "https://research.meta.ai/blog/muse-spark-open",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-16/ai-03.mp3",
+      "title": "2. アンソロピック、四半期売上168億ドルを達成——新規上場に向け業績を発表",
+      "duration": 111,
+      "link": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-16/ai-04.mp3",
+      "title": "3. 8州がオープンエーアイを提訴——「チャットサービスは子供に危険だ」",
+      "duration": 111,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-16/ai-05.mp3",
+      "title": "4. アンソロピック、外部の安全評価チームに社員同等のアクセスを付与",
+      "duration": 60,
+      "link": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-16/ai-06.mp3",
+      "title": "5. グーグルの「シンスアイディー」、タイム誌の2026年ベスト発明に選出",
+      "duration": 36,
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-time-best-inventions/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-16/ai-07.mp3",
+      "title": "6. ニューラルネットワークは実は「読める」——エーアイの解釈可能性研究に希望の光",
+      "duration": 62,
+      "link": "https://already-clean.goodfire.com/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-16/ai-08.mp3",
+      "title": "7. 「うちの雑誌はエーアイを禁止します」——カレント・アフェアーズ誌の宣言",
+      "duration": 69,
+      "link": "https://www.currentaffairs.org/news/why-were-banning-ai",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-16/ai-09.mp3",
+      "title": "今日のエーアイレッスン",
+      "duration": 119,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-16/ai-10.mp3",
+      "title": "締め",
+      "duration": 17,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-16/food-01.mp3",
+      "title": "導入",
+      "duration": 22,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-16/food-02.mp3",
+      "title": "1. 外食産業への大規模支援が見送りに。淘汰加速、中小は投資に二の足",
+      "duration": 120,
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84WjlYWS14UzV5bnljbGVIcnFqSmNmVWl4VFdxdGhrUDI3dVBfelNEc3FhLUlFVE9WUjVWVHB1YU1XcFBCNEVMZFY2aGlieEk5R2E3ZFlLUTlreElISlE?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-16/food-03.mp3",
+      "title": "2. 「並んでまで食べたくない」8割が行列を敬遠。タイパ重視で変わる集客の常識",
+      "duration": 131,
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUEZfQk9TT0pra2owQkUtcnRlUl9Pd0xOMDUzQUZXLWRRdXBDTV9uQlBzMkJtVjZ6bUpkZVNZbXlwMVo2eFpyb2xzSWVudXNScmRkYkhCVk1RVUx5OXdQVVdqTEcxYnhmUENuRE82bENsSG9wNm52LVA5bjkzbjdvQlR3bFFna1Va?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-16/food-04.mp3",
+      "title": "3. くら寿司が一次産業へ参入。「仕入れる」から「共に育てる」へ、安定調達の新潮流",
+      "duration": 109,
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16WFNtUVNxZlJsQ2U5R3owQmhWNFF6YU9NMVBDUngwRWZON3EwMXQzWnVhcU9Va21xQ3R4bXdWWnRZaEc3Y2RLemw4Zno1OV9PYUV4Y0RlSndfUQ?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-16/food-05.mp3",
+      "title": "4. 油そば・まぜそばの開業が急増。2025年は前年比75パーセント増の背景と活かし方",
+      "duration": 113,
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9aQWJZNUp3NW5xR3J1aDhobXVIM09lNGE3WUZLS3Qxd3VjM29MZkRFTVRsckUyQW5PM0swVEVYTkt2amFLYjg3djdtbUVudU8xNTVTZWdwVUJMUmtwX3dkUUtTZXpNY2N5UUthWVB2OXF0aFlMREROYktn?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-16/food-06.mp3",
+      "title": "締め",
+      "duration": 14,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-16/money-01.mp3",
+      "title": "導入",
+      "duration": 20,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-16/money-02.mp3",
+      "title": "1. ガートナー予測：企業が作ったAIエージェント、7割は捨てられる",
+      "duration": 147,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xNTdqeXF4Q0JScDRTNjRoS2lZNHRCSWVqVFpPZnc2eE04U216VEJncGgtUnlTTURwNzlFcVBEYk5ZRzMwcjljZnNwRHpOS1IwajlUZWtTczBqYXU4VnlTMTdDWFhEaVZyeXdKRHBnVlEycThqNC1IZjYzbkJmcHc?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-16/money-03.mp3",
+      "title": "2. エーアイが自分の財布を持つ日——アンドリーセン・ホロウィッツの考察",
+      "duration": 156,
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zX3BZOExGVFRidDVCcHR0Smo3WVRyQ0VMLUI2bTNQLVhRUUVXV3J6bVp4ZExVUWV5S3RZajRQWXJOYlpwY09ZRkJPUkR1V1NRV3V1OFZZcEZ4YUVRcFE?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-16/money-04.mp3",
+      "title": "3. 個人開発者が今週作ったもの 3選",
+      "duration": 175,
+      "link": "https://github.com/RayenMlayeh/jevcrawl",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-16/money-05.mp3",
+      "title": "締め",
+      "duration": 9,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-16/story-01.mp3",
+      "title": "導入",
+      "duration": 12,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-16/story-02.mp3",
+      "title": "1. ずっと憧れだった「山の上ホテル」のプリンアラモード",
+      "duration": 166,
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hQ09xNUN1Tml3RlRXTDVORC10MU16ZXB6U0dBN3NjYy1QNzNiU2s0VXRPUG1FWWR4amlEMWw5T0FyYzRfSF9weEQ2UG0yUWJaWFFVU1k5SHV5cVYxd0HSAWNBVV95cUxPY2JBZEp2ZWVKWGtsM1d0b0w2VXJqZEVMZHhaM0o5ZUtfb0ZvMmdGbGpvTjZWWGtMS2MtZ29qdXFHaHJjbkdZMS12Rjl4QjBpUk5sUy05RG5hVG9SZ1ozVlJGTlk",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-16/story-03.mp3",
+      "title": "2. 結婚式で一番楽しみなのは「料理」——ホテルウエディングの接客と高級感",
+      "duration": 130,
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1cnYweTFUaExIcUpqb2xxTjgxa3ZUanpoYXZ1YkpUdnlCT0xkTGZoaHZzTGVmX3lycXlWMU94VEpLblZRQlMtYVpxWlVqbUhuVUliaw",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-16/story-04.mp3",
+      "title": "締め",
+      "duration": 6,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
