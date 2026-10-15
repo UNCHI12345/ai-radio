@@ -1,0 +1,246 @@
+{
+  "date": "2026-10-15",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 18,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-15/ai-01.mp3",
+      "title": "導入",
+      "duration": 27,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-15/ai-02.mp3",
+      "title": "1. オープンエーアイのオフィスで盗聴器事件──犯人を暴いたのもエーアイだった",
+      "duration": 130,
+      "link": "https://www.bbc.com/news/articles/cwg5jq4vlddzo",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-15/ai-03.mp3",
+      "title": "2. キャラクター・エーアイ経営破産──エーアイバブル最初のドミノが倒れた",
+      "duration": 138,
+      "link": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-15/ai-04.mp3",
+      "title": "3. エーアイが古いゲームを次々「解読」──保存の夢か、著作権の悪夢か",
+      "duration": 150,
+      "link": "https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-15/ai-05.mp3",
+      "title": "その他1. アンソロピックがシンガポール政府と協定締結、現地オフィス開設",
+      "duration": 39,
+      "link": "https://www.anthropic.com/news/singapore-office-opening",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-15/ai-06.mp3",
+      "title": "その他2. エーアイエージェントは「暴走」していない──ラボがセキュリティの基本をさぼっているだけ",
+      "duration": 45,
+      "link": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-15/ai-07.mp3",
+      "title": "その他3. 「エーアイを本当に使いこなしているのは世界で5000人だけ」──元オープンエーアイ研究者の警告",
+      "duration": 46,
+      "link": "https://tech.yahoo.com/ai/articles/former-openai-researcher-issues-grim-220006838.html",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-15/ai-08.mp3",
+      "title": "その他4. あのリーナス・トーバルズが初のエーアイ補助パッチを投稿",
+      "duration": 38,
+      "link": "https://lwn.net/Articles/1100449/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-15/ai-09.mp3",
+      "title": "その他5. スウェーデンのテレビ番組、エーアイエージェントに素材を消去されて放送延期",
+      "duration": 35,
+      "link": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-15/ai-10.mp3",
+      "title": "今日のAIレッスン",
+      "duration": 110,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-15/ai-11.mp3",
+      "title": "締め",
+      "duration": 22,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-15/food-01.mp3",
+      "title": "導入",
+      "duration": 19,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-15/food-02.mp3",
+      "title": "1. 外食支援見送り・破産も続く——厳しい秋に今すぐできること",
+      "duration": 196,
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QekdJUTBvTXNIM1FwZFNUWmMyUG1wQWozdkhHT3VyN1Z3UThiSDdMRElUN1BnZERiMm9sRUlSbm9zVDJxeE9ueW1uZVB4UkVZZjBqdHJUMHV5dw?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-15/food-03.mp3",
+      "title": "3. くら寿司「仕入れる」から「共に育てる」へ——原価安定の新発想",
+      "duration": 85,
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE10YnNWZmZNN1BmV3lFTG1ReHdSb1JmS3I1RU80VmhiRWlGc2J2WFlTc2Z6c0Nac2dkTkNCc1Npek1wSkk?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-15/food-04.mp3",
+      "title": "4. キノコの菌糸体から作るステーキ——フードテックの波が食材コストを変える",
+      "duration": 98,
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fck1XZzNabFI1dU9ULWRBZF9Ya1h2LUFqSE1DTUR3azhIVlhEMkpaM3FDMS1KaDl4MnFsXzlQN095VGFqdWZDbTJVNF9QaHhZTWlWV3I1U01qNDc0YWdMdmRXSHk5UQ?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-15/food-05.mp3",
+      "title": "締め",
+      "duration": 13,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-15/money-01.mp3",
+      "title": "導入",
+      "duration": 14,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-15/money-02.mp3",
+      "title": "1. ソフトバンク全社員でAIエージェント250万個、「量から質へ」",
+      "duration": 86,
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5YQ1NuNm5YbEhjNS1GY2t5QmhNSllSNmZUZWpBSnp5NG8zU0poLTZiQi02NHNrUzNRY2dISGlMTGNfVkhkUG5rR3JTdW5ad1E?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-15/money-03.mp3",
+      "title": "2. 「ひとりビジネスのためのAIエージェント活用術」明日発売",
+      "duration": 64,
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51X09SX2RMTlRrZVNzZVhSMUYxUHNuVVVxRXJRUndUcC1IMlQ3RkNFZ1JHM29sc3NIZGNCdXZfX2J4SkVnRXAtZXBDMExaODU5ZTN4T2xHQzVxck1UU3BkY1ZCT1ZUS1ctS3F0TnRrVQ?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-15/money-04.mp3",
+      "title": "3. ワークデイが「オートパイロット エージェント」を発表",
+      "duration": 55,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16RWl1OVdxVmZ0NnNZOGZkUV9YNWhQSlVPTnR0cm96eVBpaDB6U0FHcjh0bk92ODJnQ3BuMFpUOHlhTzA2NnhBWGxfU1o3dlk0dmNmT0k1c1JDOVV4dllDVkZNbm5kQWpuTko3d3VfVDFUWXh6WjFsWTZKYnBCSjQ?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-15/money-05.mp3",
+      "title": "4. 個人開発：ローカルAIで動く家計管理アプリ「パルス ローカル」",
+      "duration": 106,
+      "link": "https://pulseos.finance",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-15/money-06.mp3",
+      "title": "5. 個人開発：コーディングエージェントにメモリーを持たせる「グラフィクル」",
+      "duration": 80,
+      "link": "https://github.com/graphicle-ai/graphicle",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-15/money-07.mp3",
+      "title": "6. 学習リソース：タイプスクリプトでエルエルエムをゼロから作る",
+      "duration": 57,
+      "link": "https://book.humanexperiences.io/",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-15/money-08.mp3",
+      "title": "締め",
+      "duration": 18,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-15/story-01.mp3",
+      "title": "導入",
+      "duration": 25,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-15/story-02.mp3",
+      "title": "1. 180回続く言葉——「迎える想いと手間をかける」",
+      "duration": 108,
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBZSTVBSG53OTZhVmdtbnJZZFB3WU0zWFI5ems1eDlEYTcyOUdibGxkME1SWHBDWEpaWmxWWW1xelV4ZnNvWk5SUFRraFNjZw?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-15/story-03.mp3",
+      "title": "2. 常連さんが「日本一」「世界一」と言い切る、山形のとんかつ屋",
+      "duration": 171,
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iNDlvU0FQMFlXQ0Z3VDJCVmptR1ZqSGFfekt6aDRjRy1uQjdrc1JzdGViU2daVjZ3RFc0T0o1dDYxVnFrcVJDQzc0UXN4NmY1Q05qcUdxTV81Zw?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-15/story-04.mp3",
+      "title": "3. 身長58ミリのシェフが、大阪の夜に登場する",
+      "duration": 155,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpMFlFd2FJOS1uUWwxZmRqaERnM3phTmVRaF9Ydks1MklBN0kxU3JhQ2Vkakg3aVA3NkN2MDZEODNfTUJfNWdZZWJRSDU2RGlxTXd6eDQ4N1hENktXREI4RGNMUURDZ2pTSmc?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-15/story-05.mp3",
+      "title": "締め",
+      "duration": 16,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
