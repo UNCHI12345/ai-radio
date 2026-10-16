@@ -1,0 +1,198 @@
+{
+  "date": "2026-10-17",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 18,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-17/ai-01.mp3",
+      "title": "導入",
+      "duration": 30,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-17/ai-02.mp3",
+      "title": "1. クロードが20年来の暗号ミステリーを30分で解いた",
+      "duration": 184,
+      "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-17/ai-03.mp3",
+      "title": "2. AIがバグを見つけすぎて、リリースが遅れた",
+      "duration": 134,
+      "link": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-17/ai-04.mp3",
+      "title": "3. クロードが自分自身のコードを、クロードがレビューする",
+      "duration": 125,
+      "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-17/ai-05.mp3",
+      "title": "その他のニュース",
+      "duration": 172,
+      "link": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-17/ai-06.mp3",
+      "title": "今日のAIレッスン",
+      "duration": 120,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-17/ai-07.mp3",
+      "title": "締め",
+      "duration": 12,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-17/food-01.mp3",
+      "title": "導入",
+      "duration": 23,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-17/food-02.mp3",
+      "title": "1. 飲食店の半数が消費税格差で売上減を懸念・政府の支援策はどうなる",
+      "duration": 137,
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGVlYzUU5GcHVVb0g4WHFqWEVreWcza3FtUXZqM1V5Z1ZsdjhmcXhoak5SSjNlalVBOE9nUm4wVXZlUWZnQnEyRXVxY2NCQnAzNlhWVGNmaw?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-17/food-03.mp3",
+      "title": "2. 外食で外国人材5万人争奪戦・求人が半年で3倍に",
+      "duration": 117,
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MYmVXcWUyU2hGZ3JodHNjYUljQVFoR3c5VktmdHFFZWJwUjQyWG53c2RqcndlQ1Z1TWdSNEhSWFkyS3BhdXJHNTMyTjl0dmhQVTk0dDY1ZXdfNDRsMERGM0lJS2syYTZIUUI1aA?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-17/food-04.mp3",
+      "title": "3. 予約台帳で最大4回転・月間3,500人の配席を実現",
+      "duration": 106,
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9RQWUzQlM0aEMzLTBBX3ZmaF9CSkI0QWw1bjgyeWZHS3gtV2V4aUhCM0hZQnJxZERYcjlNUDRMWE1SQ2tQQ1JXa2tSOFpDTldiVHJaWl9uVHoyTUxsTW1UbGpvX2tDNDM5RkR1TDF6dlQ3Zw?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-17/food-05.mp3",
+      "title": "4. ラーメン店倒産最多・数字を握れば防げた",
+      "duration": 126,
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkUWp0Q0FydFpkcXdva0o1WmhfbmxjTXF3dkJzR2t5dDd2czlYYV9XdHZUT0JkYTBwVWdqWWMwQ1k0LUxKOGVIWWYydmMzcG5WbWNwS3F3RkJuZl83V3h5bndfMDJQVUF5cll2QUlDd1hFUQ?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-17/food-06.mp3",
+      "title": "締め",
+      "duration": 15,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-17/money-01.mp3",
+      "title": "導入",
+      "duration": 11,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-17/money-02.mp3",
+      "title": "1. AIエージェント導入で半年後に成果——キズキレンタルの事例",
+      "duration": 95,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5uRk50UUNVS09CN0dpTDQ4WW43SDVQeEl2UHdBeGh1dzdFMkkxYWN4bkhUS2QtX3pkei0xTlZlV3p0azNjOUN0TTJtWGZac1Aydk9n?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-17/money-03.mp3",
+      "title": "2. メタが中小企業向けAI「ミューズ・フォー・スモール・ビジネス」を発表",
+      "duration": 104,
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lQmVzTGRoYTVDWXpZSS1JVV9PekRlQWZJVjdzMzh4c0VkNUNSZG1mX1NKN3JOMWdPRE1hYURmQWJOdGI3dkxpRW1BaTBQSlBIODBoQVE3cVppNG1XYXlDLW4yQllYams?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-17/money-04.mp3",
+      "title": "3. AIエージェント戦略の本質は「オーケストレーション」にある",
+      "duration": 96,
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NMnNZaUFpNmdoejNfbVgtNVRPRnZhQXk0MWpLUmpkemo0RDhOLVJSejE2RGtHcFVMTW5VQ0Z5OHVaTXlvNWs1OWFnTmFaVVJidlVxNnZYbTVqdw?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-17/money-05.mp3",
+      "title": "4. 個人開発から：「ブラストループ」とクロードコードへの全権委任実験",
+      "duration": 90,
+      "link": "https://github.com/rlshaw-ml/BlastLoop",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-17/money-06.mp3",
+      "title": "締め",
+      "duration": 10,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-17/story-01.mp3",
+      "title": "導入",
+      "duration": 13,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-17/story-02.mp3",
+      "title": "1. 磯村勇斗、地元・沼津での\"神対応\"",
+      "duration": 131,
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa3ZFMVpMc2xKQnZmUkJ3aldVRzdoUk5vX09Ya3JVZ0JDMHJDYXAxMGpOQWJKRExZa3BIVWxkV3NCclY1WWRKVlBUZnRyS09KUFJOX1dQWGQ0Zk1FODJUMFczdWpySUFZVEkwdkk0SC1FN3pXd0FjSWVqU3J0QWMzSmloSEtCTjI5S1cwMXRSUDVUT1o0NVNvOEFEOEHSAZwBQVVfeXFMTWt2RTFaTHNsSkJ2ZlJCd2pXVUc3aFJOb19PWGtyVWdCQzByQ2FwMTBqTkFiSkRMWWtwSFVsZFdzQnJWNVlkSlZQVGZ0cktPSlBSTl9XUFhkNGZNRTgyVDBXM3VqcklBWVRJMHZJNEgtRTd6V3dBY0llalNydEFjM0ppaEhLQk4yOUtXMDF0UlA1VE9aNDVTbzhBRDhB?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-17/story-03.mp3",
+      "title": "2. ゲートボックス「エーアイバイト」登場 接客の未来を考える",
+      "duration": 124,
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zMG14WGVqZWItTGUxWFNvdjdfVDJEQWNobm5yTmFNTW5rNVR4X19zT2k1NXdOWWJBZjM5WnI3bWk0ejZaaWFkWDFvT0NCTHU4aUFickgzWjBsTy1MQzZXb0dPQnU?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-17/story-04.mp3",
+      "title": "締め",
+      "duration": 14,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
