@@ -1,0 +1,230 @@
+{
+  "date": "2026-10-18",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 18,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-18/ai-01.mp3",
+      "title": "導入",
+      "duration": 20,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-18/ai-02.mp3",
+      "title": "1. オープンエーアイ、AIエージェント暴走インシデントをさらに4件公開。病院データの無断ダウンロードから暗号資産ウォレット盗用まで",
+      "duration": 193,
+      "link": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-18/ai-03.mp3",
+      "title": "2. ディープシーク、フラッシュモデルを大幅アップデート。コーディングとエージェント能力が急伸",
+      "duration": 112,
+      "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-18/ai-04.mp3",
+      "title": "3. アマゾン、AIで倉庫労働者の「組合リスク」を予測・監視していた",
+      "duration": 126,
+      "link": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-18/ai-05.mp3",
+      "title": "4. AIが1967年の核融合予想に反例を発見。2週間で2本の論文",
+      "duration": 79,
+      "link": "https://maccus.fr/en/ai-physics-fusion-conjecture/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-18/ai-06.mp3",
+      "title": "5. レプリット、アンソロピックとの提携を終了と表明",
+      "duration": 34,
+      "link": "https://runtimewire.com/article/replit-anthropic-partnership-masad-claims",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-18/ai-07.mp3",
+      "title": "6. ローカルAIを買う前に速度を試せるツール「エルエルエムスピード」",
+      "duration": 39,
+      "link": "https://llmspeed.dev/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-18/ai-08.mp3",
+      "title": "7. オープンコードが不正アクセス被害。エーピーアイキーの更新を",
+      "duration": 16,
+      "link": "https://x.com/opencode/status/2111516673953935833",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-18/ai-09.mp3",
+      "title": "今日のAIレッスン",
+      "duration": 119,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-18/ai-10.mp3",
+      "title": "締め",
+      "duration": 12,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-18/food-01.mp3",
+      "title": "導入",
+      "duration": 25,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-18/food-02.mp3",
+      "title": "1. コスパランキング1位はサイゼリヤ 「断固として値上げナシ」の経営哲学",
+      "duration": 132,
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBORTU1bjZyMVlVM2ZlaTBzS2ZjLVk3RGJ5YjR4OUdSWlpfbmFMdFNKZXZPM0tkSVZpd09ESF9adTlZTzd5enVZLS00WmExSUU?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-18/food-03.mp3",
+      "title": "2. 政府が外食支援でプレミアム商品券を検討 消費税は外食に不利な展開に",
+      "duration": 117,
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5NV0F4UjBsLTEtdEg4bHJrMnhwUEdESVNOd051ZHlDZk5zem9IdGVoMk0xWk1mZG9LdDduTFpCRzFxaFVyZ0lWUkdCWlVZb01RY09KXzlrcE5LYVNKUV94VzlDdXVIa0dTTG43ZFZ1WFNFWENSajlQVEowVXM?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-18/food-04.mp3",
+      "title": "3. ラーメン店の倒産が過去最多 元木大介さんも「4年でゲームセット」",
+      "duration": 122,
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM2NzNW9FU1ZES1prNHJqZjZqaWh0b0VLR1k0a2pGZHBsQlJyWUpqU1RobjF1cHlyN0N4OVlLQ2J4c0liQi1VUEw2M1lYVndkOW9iNVJ1el9JR0tjTDlaNDFhRVVVSnlDRWdxU1ZFMXZjU18wcU9sM25Na0hBb3ZobDZZOEljVmROOWNnbHpB?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-18/food-05.mp3",
+      "title": "4. 新農水大臣にフードテック業界が期待と要望",
+      "duration": 66,
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU0lfT3V3Z1hXS19yYmZJejlxUU51RnhMUmJRTW9SNVlUckpUVzV4d19xVGhxSWg2M3A4MEtxOTI5UTZMZGc3NVZGT2o3VnFpVUJvbG12ZVJ0a3pIOUl5TTFHZ0ZaMGQyZDY0QW5Zd0JLYkk5ZGVwQ3N6NTJ2RlFETU1ndlpEODhS?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-18/food-06.mp3",
+      "title": "締め",
+      "duration": 23,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-18/money-01.mp3",
+      "title": "導入",
+      "duration": 24,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-18/money-02.mp3",
+      "title": "1. エーアイエージェントの「権限管理」が新しいビジネスになってきた",
+      "duration": 142,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqOTJKN2kzaEJlV1JXVnFRZE9qeGFVRG1DNEI0dHBoZ3N2MGR0Z0xsWHBUbmpqZVc2d04ySWY0ZnliM0JNNi1Kc0RBT2tVZWxaRlpRdXhJbUY5ck0tLWtJN19NU1FQMXQyVjJPUjN5V083R2dIbGd5RnMtcy16djA?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-18/money-03.mp3",
+      "title": "2. レンタル会社が半年でエージェントの効果を実感——「勘所」という言葉が気になる",
+      "duration": 79,
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb2EwdWs5WFIyd090TGd3OV9SbVZWNXpCOU1SSVFOdG5xanFyMHhvcFROREhEeVVoNS13RGFRenM0akRpcWw3b0J6M2hzYlRQdXl2R3YtQzRGczFTQzdqY01uSi1ZWTlGN3R6X09vb21POW5TaHhKMTVBazMweUYxSGdUaXREbEVtaEpVRHRn?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-18/money-04.mp3",
+      "title": "3. 金融の現場で「3日が数分に」——ただし盛っている可能性は割り引いて聞いてください",
+      "duration": 96,
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMTmgxVUZUajZrazFPcDlHNFBjajFXU1FvZng3RmhIYlg5S05nT2lmV3Z2QUdiaDIxZG9wT1BlZnJLNE5nYXEzVUt2OHNBcjZVVmtOeFoxMmZYakl0aEE?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-18/money-05.mp3",
+      "title": "4. エーアイ動画のカメラワークをプロンプトで指定できるツール",
+      "duration": 94,
+      "link": "https://www.kapwing.com/ai/prompt-generator/camera",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-18/money-06.mp3",
+      "title": "締め",
+      "duration": 18,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-18/story-01.mp3",
+      "title": "導入",
+      "duration": 8,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-18/story-02.mp3",
+      "title": "1. お家で寿司屋をしてくれたパパ",
+      "duration": 126,
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxTFdCazN0NEw0VTRLUHByWElyTHlGLVlFZXZQemplc1lmWHRsSDl5YXhYdWRXN1ZWWVNzaEhrdnpLa2gtdERPSFhjLTM3NFJGazNQdQ?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-18/story-03.mp3",
+      "title": "2. 磯村勇斗、地元・沼津での神対応",
+      "duration": 78,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fNHpGRHk2d3paUEtqRDNqVFZ3U1JueW1QdGJuZjhvSFl0YzZmMktqUS1ZaUVPTWZ4R2o3Qkk3MG1KeENSQ1pVNGNYV0hwc3M2cGh0bTdWQkM4cldKQVo0ajFxOW5Rdk9TNFRrckoxMTBmcXVhZVBZVTVEU2tERWM?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-18/story-04.mp3",
+      "title": "3. 「御所まち」のおもてなしが台湾の国際学会へ",
+      "duration": 75,
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PSXE0NUlSdS1peXpHdkxfSjNwNXRoVkxiY2ZTTmxIdkRLdmlvMzN5dTlLZURaZ2tHNkpwdmd0emdYaXlOQW1LYXBjLWhTeGRyYkVMZnFobkhMd05sWk9B?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-18/story-05.mp3",
+      "title": "締め",
+      "duration": 10,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
