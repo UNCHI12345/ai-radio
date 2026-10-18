@@ -1,0 +1,238 @@
+{
+  "date": "2026-10-19",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 18,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-19/ai-01.mp3",
+      "title": "導入",
+      "duration": 35,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-19/ai-02.mp3",
+      "title": "1. アンソロピック社内レポート：AIエージェントが人間の6倍働いている",
+      "duration": 157,
+      "link": "https://www.anthropic.com/research/employment-at-anthropic",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-19/ai-03.mp3",
+      "title": "2. AIエージェントに「なんとかして返金して」と頼んだら、何をしでかしたか",
+      "duration": 153,
+      "link": "https://www.vals.ai/blogs/impossible-refund",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-19/ai-04.mp3",
+      "title": "3. ウェブサイトがAIエージェントをブロックし始めた",
+      "duration": 116,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-19/ai-05.mp3",
+      "title": "4. アンソロピック、株式の一部を社会貢献ファンドへ拠出",
+      "duration": 44,
+      "link": "https://www.anthropic.com/news/public-benefit-fund",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-19/ai-06.mp3",
+      "title": "5. ディープシーク、独自の検索・取得APIを公開",
+      "duration": 36,
+      "link": "https://api-docs.deepseek.com/guides/search/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-19/ai-07.mp3",
+      "title": "6. アンソロピックが提案するAI安全法案、発動条件は「死者50人または損害10億ドル以上」",
+      "duration": 41,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-19/ai-08.mp3",
+      "title": "7. ブレイン・サンドイッチ：AIと上手に働くための3ステップフレームワーク",
+      "duration": 56,
+      "link": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-19/ai-09.mp3",
+      "title": "今日のAIレッスン",
+      "duration": 87,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-19/ai-10.mp3",
+      "title": "締め",
+      "duration": 15,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-19/food-01.mp3",
+      "title": "導入",
+      "duration": 23,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-19/food-02.mp3",
+      "title": "1. 売上1割増でも純利益2割減——ここいち・鳥貴族の決算が示す「加算型の罠」",
+      "duration": 112,
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UUzZzTjdBdEtzd1R4cUs4d05ISzRTdzJsaXd1RzVUeGpIZFpJeTFjNzJWek1BTnhiN3BMX1UyYVd2MXNNNndEeDFBODlGLTdvVTRNdVBwSVJpYlE?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-19/food-03.mp3",
+      "title": "2. サイゼリヤ300円ドリア値上げの衝撃——「原価耐性」で明暗が分かれる時代",
+      "duration": 108,
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9OaWhFOFA3YUpIaHRhVkZ0ZkFPNWtUcFdJaDhFS1l0azZMd3pHMlA3MzBZY1RKSUZhclUyTE4wY1lUeUwzQzhmZWpQRTRlNXQ2?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-19/food-04.mp3",
+      "title": "3. なぜ今、値下げ？逆行する外食チェーンの戦略と、AIで見極める自分のお店の価格感度",
+      "duration": 102,
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBDUWthckZBamJ6TkNHcWpwd3ZTZnFkM29KZURUWnhpOTI2RkRJRTZlMFF2bkZPVFVTdVQ1bG1fWWJ0akN6?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-19/food-05.mp3",
+      "title": "4. 創業60年、1杯500円の豚骨ラーメン店が今も行列を作る理由——常連維持という最強の戦略",
+      "duration": 85,
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaXdQaXVpVUx3UzdyUWpVYmJReGNHQlhWMWlIcDNJLVlEd2dBYTBDbHJud1J6ajF2RHBtNGsxeHBJOC15N2xoNExRLTlEY19WYzJWcVF1alNsSnFodnlTYy1hU3VuX1hxbi1Lajh6ZHJYNl9KQkRxVzN5TGlKSml1MEZLNVBlN3F0?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-19/food-06.mp3",
+      "title": "5. 食品消費税ゼロ構想、外食への影響を今からシミュレートせよ",
+      "duration": 75,
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nUkRIeEY0MUxsbVdRZk1CcWFtWGY5Y24yRWI0b0NzVVF1WmdZYnNXSkxrdW9JT00tSXhOUnF6VFgtMG5fZTF3emJiQXpqV1BkZUl2V3NweS13Qm81R0Rj?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-19/food-07.mp3",
+      "title": "締め",
+      "duration": 22,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-19/money-01.mp3",
+      "title": "導入",
+      "duration": 19,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-19/money-02.mp3",
+      "title": "1. ソラ2でショートドラマを毎日投稿——プロンプト設計が収益の分かれ目",
+      "duration": 126,
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MYllWUGQ5cUZzS3pVTVFjYXlPSXl0V3dmTDVMVnBXdnk2MXJGaHNtZm1Xb0pGMjM5enV4aU5yanpzdnI3SWtCNXlMeGNJX25ZdnlHSzRVanptWno0bFBN?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-19/money-03.mp3",
+      "title": "2. エーアイエージェントがウェブを変える——コンテンツビジネスへの影響",
+      "duration": 90,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xY1NXZkZXcGZ1amVvNWJGT1piUUgyLVB1VTRlNUE5YURldUFhRDNTcjIxcklDeklfWWktcnBrbU41dXJidEVHaHdldzc4c1VuTzdR?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-19/money-04.mp3",
+      "title": "3. チャットジーピーティー ドッツ——指示なしで間違いを指摘する機能",
+      "duration": 74,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ydndyakc3TEYtVE1HNGptZFB0RDlDY20zU0duWDU1NGcxZFdDNFlXVFpkVllwZTZ4WXNOSWhkWU0xQkNaS2RhNk9NdVZsRzJNOXZ3?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-19/money-05.mp3",
+      "title": "4. エーアイの越権アクセス——インドが最高レベルの警告を出した",
+      "duration": 86,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hdUZfV1QyaE1tOXZPQmtRRDY0RGoxZWxDVmVSWlBBT1cxc2NtU0N5dl9pZVh2SzVvNUoxSFBmRklXa1hXMVlBakNOWlRIUTVyUUVuendvc1lCTnA4QlFCd0NPZUtZV3Y3OHdOWm9NaVdHMlpROUIzOG13YmwxM0k?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-19/money-06.mp3",
+      "title": "締め",
+      "duration": 13,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-19/story-01.mp3",
+      "title": "導入",
+      "duration": 10,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-19/story-02.mp3",
+      "title": "1. 泊まったホテルに看板猫がいて最高だった",
+      "duration": 119,
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9pNEpPNmdJN3VUSFNwMlJFMjNBTEVMQ25nc2tkSGJFRGk0UmtLcEN1aUlYc1NHcy1mcloySjlVOWZ0UjBGQ2c?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-19/story-03.mp3",
+      "title": "2. バスに乗りながら春のフレンチ、淡路島へ",
+      "duration": 88,
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1TMl9ibF9UTjJ1bHdOQ0dFRjdwUFAwWThqQjVIRUo2SzZKVlE4Y2tacFlnZ0Q2c3BqcnEzY0RmNkswa2dzWHFUd2VLckVqWl93Y1FsTFQwSjdwZ3otbG9r?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-19/story-04.mp3",
+      "title": "3. 実店舗の接客をオンラインでも、ヤマダヤの挑戦",
+      "duration": 50,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lbXpNWDlFZFU0M2wxMzZpVDNIWWdMbE02VWt2bkdFdTRGYzhSWjV3LWxZOXRET1BUNVYwbkRvUzVnR0pQaXJXOFdqdzl4TDcwWTYwMnEzQzJiMnFKcDhBUjVEUTM2V1BDRlE?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-19/story-05.mp3",
+      "title": "締め",
+      "duration": 18,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
