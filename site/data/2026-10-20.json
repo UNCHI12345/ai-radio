@@ -1,0 +1,222 @@
+{
+  "date": "2026-10-20",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 18,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-20/ai-01.mp3",
+      "title": "導入",
+      "duration": 27,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-20/ai-02.mp3",
+      "title": "1. AIエージェントの\"軍\"が100社以上を攻撃 — ジョン・ディアーやシャークニンジャも被害",
+      "duration": 133,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-20/ai-03.mp3",
+      "title": "2. 米政府、全省庁に「ディープシークを即刻削除せよ」 — サードパーティ製品も対象",
+      "duration": 133,
+      "link": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-20/ai-04.mp3",
+      "title": "3. アンソロピック、株式の5%を「公益ファンド」へ — 株式上場も視野に",
+      "duration": 118,
+      "link": "https://cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-20/ai-05.mp3",
+      "title": "4. マーキュリー3 — 拡散型LLMがついに大型モデルと肩を並べた",
+      "duration": 59,
+      "link": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-20/ai-06.mp3",
+      "title": "5. ミストラルの時系列予測モデル「タイムストラル」",
+      "duration": 42,
+      "link": "https://mistral.ai/news/timestral/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-20/ai-07.mp3",
+      "title": "6. セルンとミストラルが素粒子物理学のAIで提携",
+      "duration": 42,
+      "link": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-20/ai-08.mp3",
+      "title": "7. AIラボのベンチマーク、自己申告は独立評価より平均6.4%高い傾向",
+      "duration": 31,
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x9skrx/ai_labs_report_benchmark_scores_64_higher_than/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-20/ai-09.mp3",
+      "title": "8. 「AIが書いたコードを自分が理解できない」エンジニアの本音が話題に",
+      "duration": 62,
+      "link": "https://news.ycombinator.com/item?id=50151036",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-20/ai-10.mp3",
+      "title": "今日のAIレッスン",
+      "duration": 100,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-20/ai-11.mp3",
+      "title": "締め",
+      "duration": 12,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-20/food-01.mp3",
+      "title": "導入",
+      "duration": 21,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-20/food-02.mp3",
+      "title": "1. 外食だけ10%のまま？消費税減税論争が飲食店を直撃",
+      "duration": 132,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxcHFZQS1yN2NMbWNJSUtnVkFTbGU3ZTM3ZndIMUZfNUVrOTJjeTZVdmpsek5oNnpDM25USG9wc3JnZEZxTmdDWC13UjdOU0tCTUZmSW1FOXgyWmVNbVk3Mm1HTUlZNTd5OVVZcEZaZ2ZHWTJRZWJES0FXalpDbDQ?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-20/food-03.mp3",
+      "title": "2. 外国人スタッフの受け入れ、「給食」区分で再開へ",
+      "duration": 102,
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPelFmb3VUcThHNERkdGl5RFloZ1h0Wng2d0N2NjF2bTNiNl9MbXg3UGxGVUtjdWJrYlppTFVRaXVmT1dQQU1XUURSZ0dwQnFNQ3lGUW9fYTFPZzY4cDdLWEJmUTRVWFVjb0JiVFNRTDBkTzN4bF9fTjVXT1lqTkZ3WVFVeDZ2eHPSAYwBQVVfeXFMTWRTbTBJZGY5ZmVXSWVuNU1HRmJtdWdhQjFabmFNc2V2MHJYdkFkOFhtY0xtTUFQanR2VDlkV1RwRllOSkw0QVlhMDVwVVpORk5IcmlCVWdaNVhYanFRT2hMS2t4N1RrSnpSOUV2SzFHUGNKZ2dnUlhCNURvQ3Z2OTc5SmFQZUhRVlFEM1k?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-20/food-04.mp3",
+      "title": "3. 外食チェーン24ブランド・272メニューに中国産食材　産地の見える化が武器になる",
+      "duration": 107,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5td2FZekV4Q25xSVV3UHVNVjFWRFJEcFRYUkI1V1E0OFFlZU4zYUJpbERfWFNfellsWmN0Q1dud0U2dFo0bVhFbGhvdnRuNHpzWmVhNG81NTdQVWt3bWNJZ2J6eWJDVmxVN1I4Vk5nMF9lb19wMlNHbkhJZFB4RlU?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-20/food-05.mp3",
+      "title": "締め",
+      "duration": 19,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-20/money-01.mp3",
+      "title": "導入",
+      "duration": 27,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-20/money-02.mp3",
+      "title": "1. みずほフィナンシャルグループが融資審査をエーアイエージェントで大幅短縮へ",
+      "duration": 96,
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Hd3JXOXN1WWlfMlgwWE1xQlR2bjZsdTRPckRsNmZMdWFTLWV1bkRtbEZUQm91YVR0VVNSMWJEOHR6VlVqaHNCSEh3bXBUZjZ4SGZjSFJR?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-20/money-03.mp3",
+      "title": "2. エーアイエージェントはサイバー攻撃の新しい標的になっている",
+      "duration": 112,
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYlE2RGMwZHJQalVIaV93c1FDeVV3ZW1QT2xHc1lWY01KSVRiTVdraDVadm04U1hrZ1Bzc2FTRVljSWkwOE5BY3RrX21jSl8wMnNQTVZFWUd3bktGaWVGejlrbDZRY0h1NW1ncHlDcDFQa3lDWTRtSzI0TEFXalU2aHhQZUdWOWVDU0pCXw?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-20/money-04.mp3",
+      "title": "3. クロード実践本の発売とエーアイビジネス最前線",
+      "duration": 103,
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PeGt0ODdaaUp3dmM4MzhISEYxN01aTkNkallaRXRZVmtvMC0tSm5ETDhFZ2RNbVkxTllqbldNT29tdVhoWUllZU80bHVpc2FwOENZNEQweTFtNWM?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-20/money-05.mp3",
+      "title": "4. 個人開発の視点：ストロットとフォーム不要の時代",
+      "duration": 158,
+      "link": "https://github.com/strot-ai/Project-STROT",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-20/money-06.mp3",
+      "title": "締め",
+      "duration": 17,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-20/story-01.mp3",
+      "title": "導入",
+      "duration": 17,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-20/story-02.mp3",
+      "title": "1. 定食屋で「ダメ元でお願いしたら」——店主の予想外の神対応",
+      "duration": 159,
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1DODB1bjI4bm5kOVNORmlKdmZOU2YwVGhwclo2aEp5NjhIQmtLX0lWS2tXTk81QTM2Yk94R3IxTnlXanp4NjNxVmpyUnJXb25iN1BXa1ozNlpTbURQcUHSAWNBVV95cUxOX3gyODhWeUlpdFgzaXBtSENxRDA4NWs5Skx1QUJWQmRGZVlUMU14eUlWXzBBZHFKa0RwT0FCN1RNb3ZGS2NuaUhMWFdKV0lYX3ZodmtZR2kyTEVMa2w5dVdGemc?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-20/story-03.mp3",
+      "title": "2. 世界一のサービスマンが、日本にいる",
+      "duration": 91,
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1QRGFhOURoNUp2d3pRTXVIelBYMHM5eWN6Ti1vcXMxUFNIeVp2cEhNTFBrTUg2OVMzQ2g3Zk1GMUFqN245NUY2QlNVMUNmc1FOaEFSYkZMSTByZ0NYVkZnM2JtSEQxQQ?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-20/story-04.mp3",
+      "title": "締め",
+      "duration": 14,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
