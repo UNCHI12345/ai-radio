@@ -1,0 +1,230 @@
+{
+  "date": "2026-10-21",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 18,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-21/ai-01.mp3",
+      "title": "導入",
+      "duration": 34,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-21/ai-02.mp3",
+      "title": "1. ワッツアップが自社AIに「監督機関を勧めるな」と秘密の指示を仕込んでいた",
+      "duration": 180,
+      "link": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-21/ai-03.mp3",
+      "title": "2. AIが「準リーマン予想」を証明。数学者たちが「衝撃的」と騒然",
+      "duration": 118,
+      "link": "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-21/ai-04.mp3",
+      "title": "3. クロードが64時間で31万種以上のタンパク質を設計。サソリの毒への対抗候補を実験確認",
+      "duration": 117,
+      "link": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-21/ai-05.mp3",
+      "title": "4. オープンエーアイ、創薬支援のバイオテック「オーケストラ・バイオ」を買収",
+      "duration": 30,
+      "link": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-21/ai-06.mp3",
+      "title": "5. でたらめな統計を5万個つくったら、チャットジーピーティーが引用し続けた",
+      "duration": 55,
+      "link": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-21/ai-07.mp3",
+      "title": "6. ミストラルが50言語以上対応の音声エージェント「ボックストラル3」を発表",
+      "duration": 47,
+      "link": "https://mistral.ai/news/voxtral-3/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-21/ai-08.mp3",
+      "title": "7. 「クロードの軍団が全員、私の確認待ちをしている」——アンソロピックの社内レポートが示す意外な現実",
+      "duration": 66,
+      "link": "https://www.reddit.com/r/ClaudeAI/comments/1xag7e5/anthropics_internal_report_80_of_claude_session/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-21/ai-09.mp3",
+      "title": "今日のAIレッスン",
+      "duration": 96,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-21/ai-10.mp3",
+      "title": "締め",
+      "duration": 12,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-21/food-01.mp3",
+      "title": "導入",
+      "duration": 19,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-21/food-02.mp3",
+      "title": "1. 消費税減税で「外食は損」の空気が漂い始めた",
+      "duration": 125,
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3b1VjV1RGME9mWUw2c3gzdlJhaGZQVHZKMER3M0FkQWd0ZTNIeFl4NkZRQjhOb0hJUXVwQ1RvUXluTVl0Q1RSaFh5d0R3T2ZRY0g1aUNLZmN1ZmIzbUgtYmpVd0w?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-21/food-03.mp3",
+      "title": "2. サイゼリヤ、上場来初の値上げの深層",
+      "duration": 110,
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4zUG5VSkIwV3JfSmlIcS0yVnl4VjdQaDBmYWlILWhHTHVJZkE2SVFrOTdZZzRySDJiSnJPbTI5cXNlMUNJZHdhMjJUNHjSAU9BVV95cUxQQlF4Nkl4NnlZVWRDY3ZNY2ZaSm9UQTNMN2VZOVBORUk5eDV4NW1waXFhTGQ2VTNxZlA3QlQ0VWpqVFhjMVhRT2FhRW5sSGNr?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-21/food-04.mp3",
+      "title": "3. 東京の飲食店平均募集給与が31万円を超えた",
+      "duration": 91,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJWDlFVHJNNGRNb0tXSWptS0RsU1NSWG1yQ0ZJSnd1dFdRa3prWVBFdU0wd2FrNU8yYXpjWU9sUi1WVzVoQmNFSjZtZzM2eUVCYXQyamlndHlFZTJBNDFiVjNib3NvYUZDM2c?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-21/food-05.mp3",
+      "title": "4. うなぎ産地偽装で逮捕、食の信頼をAIで守る",
+      "duration": 94,
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kb2k3UXBTNnJHMXc2MDZKSDlkb3RwYjRuZUtTaFhkeVJMbWF6MjI2X0VVLXh6NmdUZnFiaXE3OHJMejR1U3JwMXpMNHNrNW5PVGFaSkxxWFNHNWV5VEk4?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-21/food-06.mp3",
+      "title": "締め",
+      "duration": 15,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-21/money-01.mp3",
+      "title": "導入",
+      "duration": 18,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-21/money-02.mp3",
+      "title": "1. 副業詐欺の5類型——「AIで稼げる」に潜む罠",
+      "duration": 105,
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04VW9kZ3VSTUMwY0o0RkZKemRjSXhZOEpxZUFwaEhkVWZsZzRsU0k1ZU15T0RVWXFBRHk1SXhYQVlYTkRjQlNGek9IQWdvblI0alRWZA?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-21/money-03.mp3",
+      "title": "2. AIエージェントが失敗する理由は「エージェントじゃない部分」にある",
+      "duration": 93,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tNnFBLXpSTzlSSkZtcWtvWk9DMGZ2OUNEX25wT0cwUlM4aWt4OXhIaTdtTkNicnBUVjk1djIxcm00R25LMm1MVWdlQXZJYVZoM09z?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-21/money-04.mp3",
+      "title": "3. クロードコードで「無人のソフトウェア工場」を作る雛形",
+      "duration": 96,
+      "link": "https://github.com/gojko/lights-on-software-factory",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-21/money-05.mp3",
+      "title": "4. AIコーディングエージェントに「自分の仕事を自分でチェックさせる」ツール",
+      "duration": 70,
+      "link": "https://github.com/reticlehq/reticle",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-21/money-06.mp3",
+      "title": "5. ユーチューブの曲からギターコードを自動認識——自分でモデルを訓練したサービス",
+      "duration": 108,
+      "link": "https://www.flexchords.com/",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-21/money-07.mp3",
+      "title": "締め",
+      "duration": 12,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-21/story-01.mp3",
+      "title": "導入",
+      "duration": 11,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-21/story-02.mp3",
+      "title": "1. ガスト到着直前で子どもが寝てしまい……店員さんの神対応",
+      "duration": 139,
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01dWM3WFlxT081dENVVW4yWkpKRGVuaEY3MmZZSFRzcTFCbU15Z2FTcE03V2c0eFFWMDZFSnhoODkwOGFuRDBSa241LUVoaUJCZjlfQmxMUDNuVEVFQ0HSAWNBVV95cUxQR0VTZFhRVjkwTTlmVGx6ckJVcUctcTQ4X1pKUHBnWUdSU3NHU0V0TkswbEtGZnduVzBHVDJ6UHZ4TzN0Snp3MU5OLVo4ckNPZkdIYXVKY3B1NGdsTjd3NjdHUzg?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-21/story-03.mp3",
+      "title": "2. 魔法のレストラン・名物料理人が娘婿に送った3文字",
+      "duration": 125,
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53NnFRN05jcTYzLXFqcXBDUVU5S3RmX1VjdHJrcFlyX29PdktwYUxuckE3R2RBVnNZS09pdFNrRzBEQTVkNE9kYUMza3hJZjJSVF93YzBRd0FWV3RsbXBXNTMyZ1Z0eGpXUzVEUE53?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-21/story-04.mp3",
+      "title": "締め",
+      "duration": 6,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
