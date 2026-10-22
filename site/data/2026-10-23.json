@@ -1,0 +1,190 @@
+{
+  "date": "2026-10-23",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 18,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-23/ai-01.mp3",
+      "title": "導入",
+      "duration": 34,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-23/ai-02.mp3",
+      "title": "1. アンソロピック、AIエージェントの「共通スキル規格」を業界団体に寄贈",
+      "duration": 155,
+      "link": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-23/ai-03.mp3",
+      "title": "2. クロードがグーグルドキュメント・スプレッドシート・スライドで直接使えるように",
+      "duration": 103,
+      "link": "https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-23/ai-04.mp3",
+      "title": "3. 世界中のAIモデルに「人間の本質」を聞いたら、全員が同じ答えを返した",
+      "duration": 92,
+      "link": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-23/food-01.mp3",
+      "title": "導入",
+      "duration": 24,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-23/food-02.mp3",
+      "title": "1. 「外食産業をつぶしにきてるのかな」消費税の格差が飲食店を直撃する",
+      "duration": 106,
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBHZkFyNHFrOVA3S2lvd2Y2TzNocGpjQlhmRnpIZUVXVlpzRDAtVTFSSTdwZXI3WlNkTWNmanJuYUVaQjl1UnZPUERYQQ?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-23/food-03.mp3",
+      "title": "2. マクドナルド「390ペア」が語る、全時間帯集客という考え方",
+      "duration": 84,
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ2NuVDZFQi0xNXQwdVRWUnRZN3U1a0piSXM4cTRQYmFpaFNtMjFBdkxTVGh3Nml4OWEtdVp2a1RnbFNoTUNwR2Q5Y1RkNVdSdWZFUnBGU0dEcmdaVF9FbEpCM3NkTUltblduMEpsaXhDQjdWWk5mbVk2S1BoQWNkQzRNT1QtTmY5?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-23/food-04.mp3",
+      "title": "3. 喜多方ラーメン老舗閉店ラッシュ。「うちは大丈夫」と思っている間が危ない",
+      "duration": 91,
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVklIUC1XRFVNblhTTzM0dTYtVmVlSmdESVFOc09fX2VCUGEyN3k3VUtja0dPWkczRjJ4Q2lCdkpWRjhXblpVdm5VRmZUbXhMeTMzWEVHWURocXludUcxR1VQOWhhNGVaV2xBckpFcElDT1IyWXBsSEVib0JZdG14c3dueDVlZ1F6?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-23/food-05.mp3",
+      "title": "4. 新潟「フードテックタウン」構想始動。飲食店がいち早く押さえるべきトレンドはこれ",
+      "duration": 88,
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9rdV9FMHAyRndJME1UdzU3MkxJS3dDRF9QcVNwbG9BSjlmTzVuRkU0TGZIUEJBaXFUV2VLMndHQ1RXVnVXaGpRSWNDQk1MUnJHZlZDd0xmUWZ6OEsyc1E?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-23/food-06.mp3",
+      "title": "締め",
+      "duration": 14,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-23/money-01.mp3",
+      "title": "導入",
+      "duration": 23,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-23/money-02.mp3",
+      "title": "1. アンソロピックが「クロード デュエット」発表——離席中も動き続けるエーアイ",
+      "duration": 96,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kOW12QUJKT3Y3Q0RMZEdTeEZvMHhtN0Q3V0FUZDBST1M4elBkZjNzM1BVUHBVTlVCeGNVWEJuTklFUjlObFQ0cFV5NEZ3SWx4RW5n?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-23/money-03.mp3",
+      "title": "2. 「アールピーエーを捨てる」は大間違い——エージェント導入の落とし穴",
+      "duration": 80,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16eUlMclZndUc0WDZRZzhyTjNjTXRWcE81MmpkYUtHR3dwWS1HeHVPU3puMGRfNFBvS2FtQmlnbWNXSzdHazRfUzBpWEM5MXdpTllHa1QtcW54OUZSdnJFdWNQd0VBZ1lRaWRsUi15TEpFZlRyTUdGSHVsVkQyMVk?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-23/money-04.mp3",
+      "title": "3. ウォルマートが動いた——エーアイが「買い物客」になる世界",
+      "duration": 71,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZQ2w2SVJQMllSSmhsVXBkTXg4UUtqZjFybmpScUhMSE5FVFNodTB2SUFmZEpTazZCQVdLNjJzVXJNSm84YUFFT1R5QWFEVU1zRy1YeEdwNTU4WEg0YlNxQWpWaHFtTXhKRmNQWnZnTmlkSjFSMGVwZTl6bHl6SDg?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-23/money-05.mp3",
+      "title": "4. これは危ない——エーアイ美女が選挙を動かす、ブラジルの現実",
+      "duration": 82,
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Sc0pQaVo3OWxZSVVQRkxXUjdFTjl2T3FMVE1aRTl5Zk9rUlBQbGIxWVJ4cnpDenJ1RkV4YXc2Nm13VkNDa29HcVJPend2VFczT0diN0JYUnE5bFdsTGd1Q3JHTXNxUQ?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-23/money-06.mp3",
+      "title": "5. 個人開発の最前線——エージェント時代の「周辺ツール」を先に作る",
+      "duration": 96,
+      "link": "https://github.com/omnara-ai/omnara",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-23/money-07.mp3",
+      "title": "締め",
+      "duration": 12,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-23/story-01.mp3",
+      "title": "導入",
+      "duration": 18,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-23/story-02.mp3",
+      "title": "1. 吉野家とドラゴンクエスト ——気づいてくれた、その一手間",
+      "duration": 73,
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8xT3lSREVTaWdGTmtwTTFNNkdVck5jLWdnVjludkZTaXZkc1pyVnFhZHZMeElDTU1LUXEzZVFUZGJPSnBmT3h2YW5oU2g?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-23/story-03.mp3",
+      "title": "2. 高崎「デルムンド」——お客さんが絵本を作ったお店",
+      "duration": 156,
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOaVdON01iVHg2eDZnbjZ3YVNVTFJwajdtcnJ1RlF2ZGhhdGVFQzE1VjNBLUEyWEc5TnB2emxwUGM0MFJYalRhSnNwdGRmWFI3ZnRYU05aM09xUnd4bkhPUl9jbThCa1VoSU9SVWxxYUNNR0XSAXhBVV95cUxQc0NlMFptUnhva19GODBuUXhxZDFuTXdPdTB0eTlLaExnYW9iNnVzdUZWUDAxNWFsYmN3Y3FiaTBSVllSWWdxSm9waDRPdU9YelFJZC1IMUpfWVZJZTZHOGdGWHNobFR5c3NXQVk3aFZJcXZLa2pJWno?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-23/story-04.mp3",
+      "title": "3. 高級中華から町中華へ ——常連客の一声が生んだもの",
+      "duration": 114,
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBrMFJIT0cwc29sSmZ5SVBMb2ZXMmRpZVM5MkFONTZCbzJlTnpROHZLeHBCN1d1UnB0ZFZDYmdZVVFobERwOG0xRG9LQ2owTXRwUDFzem9pRjE?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-23/story-05.mp3",
+      "title": "締め",
+      "duration": 14,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}

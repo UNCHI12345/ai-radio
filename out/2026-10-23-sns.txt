@@ -1,0 +1,7 @@
+Uber Eatsに年間数百万円を払い続けている飲食店の話。先日Redditで「AIだけで自前注文アプリを作って手数料を断ち切った」実例が話題に。プログラマー不要、今日から動けるプロンプト付きで解説します。
+
+全文はこちら(無料)
+https://unchi12345.github.io/ai-radio/articles/2026-10-23.html
+
+毎朝5時、音声でも配信中
+https://unchi12345.github.io/ai-radio/
