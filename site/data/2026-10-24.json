@@ -1,0 +1,230 @@
+{
+  "date": "2026-10-24",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 18,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-24/ai-01.mp3",
+      "title": "導入",
+      "duration": 31,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-24/ai-02.mp3",
+      "title": "1. キミ ケースリーポイントワン プロ登場——オープンウェイトが最前線に並んだ日",
+      "duration": 143,
+      "link": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-24/ai-03.mp3",
+      "title": "2. ブラックオクトーバー——記録的なサイバー攻撃と、エーアイによる形式検証",
+      "duration": 121,
+      "link": "https://www.anthropic.com/research/formal-verification",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-24/ai-04.mp3",
+      "title": "3. スウェーデン政府がチャットジーピーティーとクロードをブロック",
+      "duration": 113,
+      "link": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-24/ai-05.mp3",
+      "title": "4. デミス・ハサビスがエージーアイの実現時期を「2〜3年」に短縮",
+      "duration": 49,
+      "link": "https://the-decoder.com/deepmind-founder-hassabis-shortens-agi-timeline-from-five-to-two-to-three-years",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-24/ai-06.mp3",
+      "title": "5. グーグルがジーメールとフォトのデータを広告に使う可能性",
+      "duration": 52,
+      "link": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-24/ai-07.mp3",
+      "title": "6. 音声だけで学習したエーアイ「デッサ」——テキスト変換なしで感情まで理解",
+      "duration": 55,
+      "link": "https://block.xyz/dessa",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-24/ai-08.mp3",
+      "title": "7. エーアイ1リクエストの二酸化炭素、テキサスはスウェーデンの8.5倍",
+      "duration": 55,
+      "link": "https://berget.ai/en/blog/per-request-co2-press-release",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-24/ai-09.mp3",
+      "title": "今日のAIレッスン",
+      "duration": 116,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-24/ai-10.mp3",
+      "title": "締め",
+      "duration": 16,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-24/food-01.mp3",
+      "title": "導入",
+      "duration": 19,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-24/food-02.mp3",
+      "title": "1. すき家・なか卯・はま寿司のネットサービス一時停止 ——「ピーエイチピーショック」が外食産業を揺さぶる",
+      "duration": 152,
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb0V6aUgtX05rWU9yaldCMHpUYm9NbnJHX3EtTVc3RE1XTngwSWljOUlRejB1NWE1M2J1WTU2MVVKd1NSODZobEpQaHpYamVXYWhmNGlQVG4zR1ZHVW9YQ1AxOF82UUVkZGdTUlJrdUdMcWV6cnQxNWJwcHlPemFQY0Rzb2h3cGdE?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-24/food-03.mp3",
+      "title": "2. 39億円足りない——アメリカ精密発酵工場の苦境が語る「フードテックの現実」",
+      "duration": 103,
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vTEVCWWhnempkN0YydXJHVnI5eGdBenV0TGhWLUhyeVZGcWVSdHRnQkwwUk9TSnZ5WTI4SU42ZEJtYnBlRlJqRE5FaFlVSEpOLVRZeTI3WjlfV1pQVzdickpHbHpZb0lqUUFzUU1pcEk?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-24/food-04.mp3",
+      "title": "3. 赤提灯「山ちゃん」が虎ノ門ヒルズへ——チーム経営とエーアイの相性",
+      "duration": 84,
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9MdV9aRFhxWUZmQ2JoR2FOOGJVOUhmUXF1eWJTeGM4ZjNtcVBXQmlrcms5MDNYRExiS1l3aUVUc0p3THJhTXpRTFRvNDhnQldI?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-24/food-05.mp3",
+      "title": "4. 新潟がフードテックで国の戦略に採択——補助金情報はエーアイで拾う",
+      "duration": 53,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14WXc1UzEzTGJTbzFUaUJhWXc1eUlMWFNnM3pFTW5zb042YUZEbXhtemZEcWRUYzRuUHc5VmswbV93QWVIMno3ZXdyU1RhRXdOYXZKUlc0VmJRT3ZBMkhPQXRjak9lVHBGalE?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-24/food-06.mp3",
+      "title": "締め",
+      "duration": 10,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-24/money-01.mp3",
+      "title": "導入",
+      "duration": 19,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-24/money-02.mp3",
+      "title": "1. メタ、パーソナルAIエージェント「ミューズ」を日本に投入",
+      "duration": 91,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wSkZsdWw4ZjRRTVMyXzJpbjRjM1RWZm9FR2ZIcWc5NTBMLWV6T3Z3TFQ1MHQ2czVsQU9EU3lZcWdLT2dWaE9ZQjJFanhzb0dwVzhZT3RhM05wc044OG13NHNHZWtfWGF4ZmxDdlRfZGRrbnhzQi1DVmR5Z3RCbGs?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-24/money-03.mp3",
+      "title": "2. 米大手行、AIエージェントの口座アクセスを遮断",
+      "duration": 120,
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1rbW1lYXJmYWZKZUJFVGVMMXZZSUZYNS1zUDhTMzNCSjhDeFpFWGh3LWdkZ19hQ0FicHI3RUFqN0gwcTdXc0F5VHJQVVpvb2x1U2Fsd1hPVFdvLWpIYWZrdjNnWW1PZFpiY3FkSzQ4bUdMejFKZXNFemh1ZWVNZw?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-24/money-04.mp3",
+      "title": "3. パーソルが中小企業向けAIエージェント受託開発に参入",
+      "duration": 105,
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jMkVwcmdZVDQ1R25sMGFRMTB5aXR3d3FyT0hYZVZ0eWwwWXNaRmRVX0JoNTJVY0RJYzRxLU8ta1ZCTlRyOXowbXNMUDdsWnVKbzhieWtJZWpLS2xxaGFEbmp3SGdaS2c?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-24/money-05.mp3",
+      "title": "4. デジタル庁「源内」とグーグル「エース」———国と大手の動きが示すもの",
+      "duration": 73,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NMGtYZFlYeGtUNklVZHlpcHZXNjBZRzlWM3RVM3AySl9qc25yU2dDQzZUNG9nOFZ1WUxTMXRoSHZ1RThyR1NVT3lETHpmWGZSbGgwb0VyMk5ZODRuMlF6N2RnRUYyWHVkVkxzQlNlTnBReExxMldkTzBqblZQeFk?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-24/money-06.mp3",
+      "title": "締め",
+      "duration": 14,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-24/story-01.mp3",
+      "title": "導入",
+      "duration": 22,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-24/story-02.mp3",
+      "title": "1. そりゃ人気になるわ——サーティワンとウーバー配達員",
+      "duration": 131,
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1kUlo2anB0WWtLRWFPM1ZSX01sUVhIVUg0c2tYdEZLRkt4Sy1YU2xYVkZKNmpMYldSTVJSOVBCeVhQTmV3VF95WHFRZGzSAU9BVV95cUxPdndfSVc5RU13Q3FUMk1uS0tHbjFydWQ3cjJQYjRLVWRmWnNIWktKWlRoS2NmN1J1VFNkVm9iVXdCMVEzWEZ5MDQ4cGV5Vmxz?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-24/story-03.mp3",
+      "title": "2. 「ガストは一流レストラン」——母の感動が店員さんに届いた日",
+      "duration": 153,
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5qeV83bW1STGdKLXcyUWtxS25GemxXelhCd0FVbXF1TzlybDdBQkstSGRra0lFM0VGMHptUHhCVDVQTU53R0RvMGNJa2xNeXAydWZVbE9ibjhtdUdXS1dkOERtZXMyZw?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-24/story-04.mp3",
+      "title": "3. 佐々木希と秋田の居酒屋——「帰れる場所」",
+      "duration": 71,
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYTBYM09wQmZBVGFXc2UtUlcyOWtyOHZXTHU3MGg0SzhhWDdKVldzSE1ZS21tQzdvbTVWYW9fTXZaSlE4c0k0RlYwTDRlSHN0RW5HMmwtUFBOSEpyNUVCa0hmX2xEVXBwQW51SUVwcmVuQXJBdGNlQWZzX1FOSVdtYnVJR2phT1BsT1RhWlMwQWVxd1U0V2c?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-24/story-05.mp3",
+      "title": "締め",
+      "duration": 12,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
