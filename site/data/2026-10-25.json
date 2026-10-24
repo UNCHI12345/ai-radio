@@ -1,0 +1,230 @@
+{
+  "date": "2026-10-25",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 18,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-25/ai-01.mp3",
+      "title": "導入",
+      "duration": 30,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-25/ai-02.mp3",
+      "title": "1. テレンス・タオ：「AIは美しい数学を有害廃棄物に変えている」",
+      "duration": 167,
+      "link": "https://observer.co.uk/news/science-technology/article/terence-tao-ai-turns-beautiful-mathematics-into-toxic-waste",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-25/ai-03.mp3",
+      "title": "2. AIの恩恵、テック業界以外にはまだゼロ",
+      "duration": 118,
+      "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-25/ai-04.mp3",
+      "title": "3. なぜAIの文章はわかりにくいのか",
+      "duration": 129,
+      "link": "https://arxiv.org/abs/2610.29162",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-25/ai-05.mp3",
+      "title": "4. ゼロから動くロボットAI、ドリーム・ラボが公開",
+      "duration": 60,
+      "link": "https://dreamlabs.ai/research/dream-1/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-25/ai-06.mp3",
+      "title": "5. AI論文に、存在しない記事が10件以上引用されていた",
+      "duration": 53,
+      "link": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-25/ai-07.mp3",
+      "title": "6. キミK3.1 Pro、サイバー攻撃データを外してオープン公開",
+      "duration": 45,
+      "link": "https://www.reuters.com/technology/moonshot-curbs-hacking-ability-new-kimi-model-fears-grow-over-ai-powered-2026-10-24/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-25/ai-08.mp3",
+      "title": "今日のAIレッスン",
+      "duration": 85,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-25/ai-09.mp3",
+      "title": "締め",
+      "duration": 11,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-25/food-01.mp3",
+      "title": "導入",
+      "duration": 18,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-25/food-02.mp3",
+      "title": "1. 客数は減っていないのに閉店…人気ラーメン店28年の幕引きが教えてくれること",
+      "duration": 122,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xWDJDaHhsU1E3R1hfQ1JXWUgtMDduN0tqNmplaDJQSkxGSlBvMEloS3JJRFpndFVhalhPTFZUQlFIdmRWTFhEWlhnV3c0VEZjckpN?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-25/food-03.mp3",
+      "title": "2. 外食産業の減税法案が迷走中 — 政策を待たず、自分でできることをやる",
+      "duration": 97,
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBmMkZiWVROdGNqY2FUQURVc0NjZy1LM1RSOFl3MHNoek1ad21EWmFVX1ZRdlI4aUpyaEFWdzN3LTZVTmVscHRSVFhnSVU5TkU5NGMzdlBHTjZGa0ZtS0xFeGFmeTJJZw?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-25/food-04.mp3",
+      "title": "3. 九州・沖縄の飲食業界でもディーエックス展示会が加速",
+      "duration": 79,
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNM0hKTFZIVU5IbW1yOVNTMGIxY3NxX1FOWUdueWt3d3V6cDBFSHFtWFB2Z3Jhd1lyM2FvM0hkbWE5QlJFd1c3THdYclR5YWV5VUVRSzFKRTJTaEI0c0xyTG1Oa1BoYmtSenVuMHI0OHVQTjJVOEpVOUd5SQ?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-25/food-05.mp3",
+      "title": "4. 新潟がフードテックの国家戦略拠点に — 地方発のうねりが業界を変える",
+      "duration": 84,
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5dEplXzBKWEE4Q2tLMmtVSTZURmNLTTM2eVdjdnNZYzUtZWFScXJBTFhTVm90Tk5aRXB3ekZoWllkUHEzcHJSdWw3T3ZDSkczbjJJdXRpVFNvMGZrcjFGZFd3?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-25/food-06.mp3",
+      "title": "締め",
+      "duration": 21,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-25/money-01.mp3",
+      "title": "導入",
+      "duration": 17,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-25/money-02.mp3",
+      "title": "1. メタがエーアイエージェントで日本上陸、その意味を読む",
+      "duration": 76,
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUE01MFctSkVhVE03MTU3RDNzNTBDLVV4eWNxdGRnbTRiMC1EdjIza2xLem1PS3o1cUtOV0RvOFlNQ1BqSUpJdDQxcjVfeWlQWGJCU1QzWHJjSTNnNEhSaFZqa3R6eG9FMFFaQ0daN0FEZjZqRGY3OHhDVFBoWUd2OWx3cXd3LXM1T2NTMTVR?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-25/money-03.mp3",
+      "title": "2. 「エージェントを操れる人がビジネスを操れる」という一言を考える",
+      "duration": 77,
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wNE1Kb2FlS2JXaEVGeDktTThZNGFJMldfMHZEUVNIbm42OXpYVlRLUloyanVYSkVSbDVFRnFfZ3djSk1YdFlwQmZIOGl0QUFzNGIzTGgyY09rdw?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-25/money-04.mp3",
+      "title": "3. 問い合わせ81パーセント無人化、チャネルトークの事例から学べること",
+      "duration": 124,
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1R2NHZzlMelk1YlRQUm1Wb183d0wzV0R1bmt5RHlzdTNFa2t5bXoycm9JbnJVNWxCX2U3RGJHdEdGUWh4YVpQNTB0WS1zT0FMdmZMb3EtNA?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-25/money-05.mp3",
+      "title": "4. 個人開発ツール「コーギー」、複数エージェントを束ねる発想",
+      "duration": 89,
+      "link": "https://corgi.computer/",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-25/money-06.mp3",
+      "title": "5. エージェントへの攻撃を防ぐ「アルガス」、セキュリティという視点",
+      "duration": 107,
+      "link": "https://github.com/thomasunise/argus",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-25/money-07.mp3",
+      "title": "締め",
+      "duration": 9,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-25/story-01.mp3",
+      "title": "導入",
+      "duration": 115,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zMVlDTGpfUDZSTWphMEQ5QlRHYjEteDhLbk1iQmlwTy1ZVjJWbE42REp3MVV2SldHcDZuQjNkZTYtakkxOXBSQlpXSlMwS3ZMekxmUk9Kc1VRUkc1YUdnUW9fRUhIUEJuVnc",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-25/story-02.mp3",
+      "title": "2. ファミレスの「感動ハンバーグコース」——ガストが起こした小さな革命",
+      "duration": 83,
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE52NTBxVjFHX1B3VDZzYV81Nmc1d2Ewekc4dmVsWm1xSTZkUUtkMTRwU254YmlHUmhBa1JEUVBBQlU5MzdZVjA4X1hJY3BsUXBFSU41eEd0MNIBXEFVX3lxTFBTc2VmTnVTZ0ppNGs0bzZTNFM0MVktd3VhbmpVckg2QUd2SnI4eGtMcFU5eVpvSUkyTXg5ZS1jMVpyeVlqWDY0SC04Sko5b3NGcTZHV08yTFJEdUpX",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-25/story-03.mp3",
+      "title": "3. 淡路島へ走るレストラン——バスの上のフレンチコース",
+      "duration": 72,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YeEVmQVJSU2dfUFpfTWVWLXR6QVpIcXFSYmhfZmUyY2U5OW02c2gyYTFBSk5RV3I2VXFMNkQzbFF0aE11OXctSEEwMHM4NDVqQ3JNQzNpZGI3a0VHMWc5TnlJNWw2WGxva3c",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-25/story-04.mp3",
+      "title": "4. イタリアンの焼きたてフォカッチャ——チーズに添えた、もう一手間",
+      "duration": 83,
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ERFBrcU5GOUZqaXI1dFc3Y2UwbGE4QlgtRWxDR1NGdVQ1MnFodXhCcnEzN01TV240aUJiN1Y2MjJ4WXN4cGxQREhLY0g5cjJ1VEhCM1M2d9IBXEFVX3lxTE1lTjRmNFVGWUhKQ0RFZ1QwenhON0o4NEVNR3g2SHh3UF9JTUtlaXgtUWc2MU1UOHYzXzR2UW1NdVJyYnViamhBdG5HXzRBUG9MVVlyd1RTaWR4Slg0",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-25/story-05.mp3",
+      "title": "締め",
+      "duration": 18,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
