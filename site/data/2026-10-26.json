@@ -1,0 +1,206 @@
+{
+  "date": "2026-10-26",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 18,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-26/ai-01.mp3",
+      "title": "導入",
+      "duration": 30,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-26/ai-02.mp3",
+      "title": "1. アメリカのクリエイティブ産業で20万人が職を失った、どこまでがAIのせいか",
+      "duration": 136,
+      "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-26/ai-03.mp3",
+      "title": "2. 10年前のAIが最新の大規模言語モデルを皮膚がん診断で上回った",
+      "duration": 145,
+      "link": "https://lynchlab.net/llm-skin-cancer",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-26/ai-04.mp3",
+      "title": "3. チャットジーピーティーが知らない間に心理プロファイルを作っていた",
+      "duration": 134,
+      "link": "https://futurism.com/artificial-intelligence/chatgpt-building-profiles-users",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-26/ai-05.mp3",
+      "title": "4. フィールズ賞受賞の数学者「学生の宿題を採点する意味がなくなった」",
+      "duration": 67,
+      "link": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-26/ai-06.mp3",
+      "title": "5. ニコンの顕微鏡動画コンテスト優勝者、AI使用が発覚しタイトル剥奪",
+      "duration": 63,
+      "link": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-26/ai-07.mp3",
+      "title": "6. クロードが敗血症ショックから救ってくれた",
+      "duration": 56,
+      "link": "https://www.reddit.com/r/ClaudeAI/comments/1xenvvi/claude_saved_me_from_septic_shock/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-26/ai-08.mp3",
+      "title": "7. 10年前のサムスンの洗濯機が、クロードで復活した",
+      "duration": 68,
+      "link": "https://www.reddit.com/r/ClaudeAI/comments/1xemw8i/samsung_decided_to_cut_my_washing_machine_from/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-26/ai-09.mp3",
+      "title": "今日のAIレッスン",
+      "duration": 110,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-26/ai-10.mp3",
+      "title": "締め",
+      "duration": 10,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-26/food-01.mp3",
+      "title": "導入",
+      "duration": 20,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-26/food-02.mp3",
+      "title": "1. トレタ予約台帳がラインエーアイ予約と連携、電話受付から登録まで全自動に",
+      "duration": 93,
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyVGpjYzR0VlFxbXR3dVBBNDBrNjEzb3FRUEs0RVFOUEE1N2NvREwyVTdKU1hOSzRUY1Rac3U0dFlIcmsxblpTM01BLVlGTnJaYjY1bjgyU3JMeV9MLVRqaw?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-26/food-03.mp3",
+      "title": "2. 麺屋ごとう閉店、「客数は減っていないのに」家賃高騰と長時間労働が引き金に",
+      "duration": 118,
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE52YWJ4SjFtcE9mb1VZcXlhMmhMcmtnc254ZS1xS2xyZ0o1TkhEX24tdlpKTUEzLVlsN3BfS2VIX3dPZThEUkJXSEJVSVdodFlzTE90SXZvRmhUcjBrY2FqVFF3?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-26/food-04.mp3",
+      "title": "3. 焼肉ビジネスフェア大阪に1万7000人、輸入肉の提案に熱気。中国産アワビも外食市場で存在感",
+      "duration": 92,
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52OFlCSjZVTnhyMW5RaFFuNm1jYS00bHotckFWSzRFb0d1SXhvNHF1V20yajM0Z3dCZ0x4T05aSlZMdUZmckU1QVA5UGt0TTk3a2xreGdUcXFvODNQQzdjNnVsbE4?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-26/food-05.mp3",
+      "title": "締め",
+      "duration": 12,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-26/money-01.mp3",
+      "title": "導入",
+      "duration": 20,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-26/money-02.mp3",
+      "title": "1. アンソロピック、エーアイエージェントの標準「エージェント・スキルズ」をリナックス・ファウンデーション傘下に寄贈",
+      "duration": 111,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPZGdtZXVaNUpzLVUxTEJlYkhWX2xVV1RxR2dCYlNhNU9ZaExMaHBzeU9HcWtxeGR0dnZZd0ZlT2N2Y29Rb0RfRUNlNms5MjBvTFJXSmYxU0hpSjRPTWp2V3VZUk1zVllLTF8zXzRlMEhhaHJna1NiSUJmOHc5SDA?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-26/money-03.mp3",
+      "title": "2. アマゾンやウーバーのビジネスをエーアイが破壊？ 米投資大手が警告",
+      "duration": 113,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uamlUMjhaVnJfMTl6TFJsVUttSm55N0t6SkQ0aXNqNDh4OEJEV2NiNHhLUnppMWZaaWJWSWFPa3VZcm0tckNIakJ1RWdxYkdqMG90Yy1JRUNadE5LWkVoN0ViWHdtcGF4akE?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-26/money-04.mp3",
+      "title": "3. 今週の個人開発から──方言対応の音声合成、セキュリティ自動化、弁護士向けラグツール",
+      "duration": 156,
+      "link": "https://huggingface.co/destined/hurston-1",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-26/money-05.mp3",
+      "title": "締め",
+      "duration": 15,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-26/story-01.mp3",
+      "title": "導入",
+      "duration": 6,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-26/story-02.mp3",
+      "title": "1. ディズニーランドのレストラン、ペースト食と「食の好み」",
+      "duration": 164,
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1WTkZYUjdpQWhlczR4b200MXVwUzNXZXliWkNUM09iQ0VMd1IxeWNHTm9GYVFsZ3NvTFF4V2l5UXpRTEYwdnc?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-26/story-03.mp3",
+      "title": "2. 素通り観光列車に「ドア開けて」、地元学生の奮闘",
+      "duration": 69,
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HRHpEZ0wzYkFsNnlxZnVRZERmSlN6dXVTMV9YWGtLd2l1dDlIbENKTC01aHhlLUdzWm9kUXdLdFBNaW0zTDZBc01wRXRkeFB0WVVqUnY3aG40MmtYQzZJ?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-26/story-04.mp3",
+      "title": "締め",
+      "duration": 8,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
