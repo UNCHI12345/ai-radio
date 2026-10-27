@@ -1,0 +1,230 @@
+{
+  "date": "2026-10-28",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 18,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-28/ai-01.mp3",
+      "title": "導入",
+      "duration": 27,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-28/ai-02.mp3",
+      "title": "1. オープンエーアイのエーアイが数学・計算機科学の難問を「解いた」かもしれない",
+      "duration": 96,
+      "link": "https://www.reddit.com/r/OpenAI/comments/1xgju7f/openai_says_its_models_refuted_the_exponential/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-28/ai-03.mp3",
+      "title": "2. アンソロピック、株式上場を申請へ — 1400%成長の驚異的な数字",
+      "duration": 69,
+      "link": "https://latent.space/p/ainews-anthropic-s1/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-28/ai-04.mp3",
+      "title": "3. グーグル・ディープマインドの「ジーニー4」— 言葉や絵からリアルな世界をリアルタイムで生成",
+      "duration": 79,
+      "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-28/ai-05.mp3",
+      "title": "4. アマゾン、自社エーアイモデル「ノバ」をほぼ凍結",
+      "duration": 53,
+      "link": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-28/ai-06.mp3",
+      "title": "5. スタンフォード教授の著書を無断学習 — アンソロピックが15億ドルで和解",
+      "duration": 55,
+      "link": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-28/ai-07.mp3",
+      "title": "6. 新モデル「ジーピーティー6.1 テラ」登場 — ラインナップがどんどん複雑に",
+      "duration": 49,
+      "link": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-28/ai-08.mp3",
+      "title": "7. エーアイが約束した「楽な未来」— あるエンジニアの正直な告白",
+      "duration": 60,
+      "link": "https://oioannou.com/blog/ai-promised-less-work/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-28/ai-09.mp3",
+      "title": "今日のAIレッスン",
+      "duration": 91,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-28/ai-10.mp3",
+      "title": "締め",
+      "duration": 15,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-28/food-01.mp3",
+      "title": "導入",
+      "duration": 20,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-28/food-02.mp3",
+      "title": "1. 飲食業の倒産が過去最多に。それでも経営者の4割超が「省人化」に踏み出す",
+      "duration": 128,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10N3ZaXzhTS2pCb1UwZDVwbTZfblZEc3RuZlY5MnRqNDNoeF9wdmV0Qm1Oc2lObWhTQ1hrTm14Ykw4bmJmTTE3bjVqVEZUN005Y0NmQUZwWnJVZlpqcEkzOXJjeXV3dzRyZDdlckpPLUJZR0pWUlo3eGF0MkhXOEU?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-28/food-03.mp3",
+      "title": "2. 長雨・台風でも外食売上7.3%増　9月を救った「月見」と「連休」",
+      "duration": 100,
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xcDQxczljalU3NmdLcTVmZXZLUm1Dbl9ZQjZsX1A3VkFaWWZ5ZlF0a2VoT3h0eUwwS252NVZadEE0ZVpYOElwTENISWlSSWhXcVYxUQ?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-28/food-04.mp3",
+      "title": "3. すかいらーく系で生ビール176円　大手が仕掛ける「お得感」の価格戦略",
+      "duration": 86,
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iRUQwWERfX2NDTk5CLTNLQnRiS3ItcVp6QlRuTjVGQmdidklXR2RZaXo4Uzlic2N2RXI0UW0zVW5lN1Zfd2VQY0ZZVzFobzJ4ZTZ1eEZCeHB6bE9zWGpXWlMxdVJfUzJQ?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-28/food-05.mp3",
+      "title": "4. 外食業の特定技能「総量は変えない」　人手不足の壁はまだまだ高い",
+      "duration": 111,
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqZzhQcTRTQzQ4MHJMZUVWTTdkd2dTMC1pamJ3MXRzaGc1VVlPT09wSUhnQTQ0bnJDR3lqN0c1MU5PVXNJQUFHcWNma0w4NG1WSVpNM2V3aGc1aXpuQXkzSkpnWTFoSldxNHNVNQ?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-28/food-06.mp3",
+      "title": "締め",
+      "duration": 17,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-28/money-01.mp3",
+      "title": "導入",
+      "duration": 24,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-28/money-02.mp3",
+      "title": "1. ラインヤフーが法人向けAIエージェント「エージェントアイビズ」を開始",
+      "duration": 111,
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HUkxueFNEdG5CejhPc3A0blljdGF0QmtWSm5oU2lIRTRfUURVN1JqMk85NDczeXdWU0dBcXo5dW9XUV9iQWR0aURLaFBKek1EYnVGMy1nRXFNcWVkcUNQVlhxWW1MZFE?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-28/money-03.mp3",
+      "title": "2. AIエージェント時代の新職種「ジーティーエムエンジニア」",
+      "duration": 97,
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43ZzBodkc5Z3VIWkZld3FmU1kwb1pidWpfdE9FaWE2VndXVjN5STc3cTVHTWxaSnlhNEtYQXdlOFFuT05CY201b3I1bTE0dDl0cUNRUzlB?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-28/money-04.mp3",
+      "title": "3. AIエージェント導入、実証実験の先にある壁",
+      "duration": 98,
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5fQVdsUk5hLTd1UXpEWjJ5WmloUXhDam9Hc0R5a0NaeWNBWm82bjg1N1NoY2FTUkdpNEc5ZlQtR3l6MXQ5d1hueVU4emM2T2F0dHlTcXBLODdFU2hp?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-28/money-05.mp3",
+      "title": "4. 個人開発ピックアップ：仕様書ファースト開発とドラマで語学学習",
+      "duration": 89,
+      "link": "https://spec-first.dev/",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-28/money-06.mp3",
+      "title": "締め",
+      "duration": 14,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-28/story-01.mp3",
+      "title": "導入",
+      "duration": 18,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-28/story-02.mp3",
+      "title": "1. スターバックスの店員が泣き出した赤ちゃんのために手作りした即席おもちゃが話題",
+      "duration": 104,
+      "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE03T0w3bzJQNDRSdVN6MWU1eG9IVlI5M1pzNW1TNkQ5dy1hN083bW03VzdhZXdXbndqZ3RnMA?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-28/story-03.mp3",
+      "title": "2. バリ島のレストランで赤ちゃんを子守する店員たちの動画が世界で話題沸騰",
+      "duration": 87,
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41YzdqQVlRNzNzdFBqLWlxM2M1QjJQODJBQ3N3ZnQxSU1tR3BpOUFFbEFTc0puYkdySWg0ODRZSFA4d2ZMUnVsYWkzaHN3YTVITzg4ejRUNUo?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-28/story-04.mp3",
+      "title": "3. ベトナム料理店のオーナーが深夜に渡した贈り物に、ロシア人観光客が涙を流した",
+      "duration": 90,
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMW5LYlFHdDJCVThRNUh0dVJTLUFTZmN0SzhqVHphQndfcjhrbF9TVExmZ1RCalJDRHBNM05YaUZGWVh3QjczOHRwZFhuSW5nbzlFQUJCU09vdkpqcTVLSnlqRXpBWDZjN1lNandERG1XQXluY2VBRFhkU2t3clBVejl4RkM5VUthTFJHYzVfZllqNGxqT3lpRHg5dERWajB1?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-28/story-05.mp3",
+      "title": "締め",
+      "duration": 14,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
