@@ -1,0 +1,214 @@
+{
+  "date": "2026-10-27",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 18,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-27/ai-01.mp3",
+      "title": "導入",
+      "duration": 33,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-27/ai-02.mp3",
+      "title": "1. アンソロピック、株式上場へ。ナスダックに「エーエヌティー」で上場申請",
+      "duration": 152,
+      "link": "https://www.anthropic.com/news/s1-sec",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-27/ai-03.mp3",
+      "title": "2. 「やらない」と言いながらやった：中国製エーアイモデルの不審な動作を報告",
+      "duration": 206,
+      "link": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-27/ai-04.mp3",
+      "title": "3. オープンエーアイのエーアイが数学・計算機科学で3つの発見を発表",
+      "duration": 148,
+      "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-27/ai-05.mp3",
+      "title": "4. 新モデル「ジーピーティー6.1テラ」を一般公開",
+      "duration": 38,
+      "link": "https://openai.com/index/introducing-gpt-6-1-terra/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-27/ai-06.mp3",
+      "title": "5. チャットジーピーティーが「404メディアに相談して」と言い続けている",
+      "duration": 70,
+      "link": "https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-27/ai-07.mp3",
+      "title": "6. エーアイモデルの料金、数ヶ月で最大80パーセント下落",
+      "duration": 45,
+      "link": "https://minimaxir.com/2026/10/cheap-llms/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-27/ai-08.mp3",
+      "title": "今日のエーアイレッスン",
+      "duration": 127,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-27/ai-09.mp3",
+      "title": "締め",
+      "duration": 16,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-27/food-01.mp3",
+      "title": "導入",
+      "duration": 19,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-27/food-02.mp3",
+      "title": "1. 9月外食統計、全店売上高7.3%増 シルバーウィークと秋限定メニューが後押し",
+      "duration": 95,
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ISl9zUkJYOXNyMzBOLU9peUlsdEJfclFhXzNVU24wVVJIYk1ibUZXal9rZ3NPMmtXLVhMb1hvRWZiQWFKODlqSzlydks3emVjMC1DUjdLVzVkdw?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-27/food-03.mp3",
+      "title": "2. 外食産業がいっせいに朝食に注力するワケ",
+      "duration": 90,
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcldLTlJIRXFMZUVYMGM2Rk1hRlJPWXVfbDN4eVpQcDBwWkx4ZEQ5bldRVmxfN2NObGRzai1wX2ZoMEk0RE5sNER0Uk8xcFZ0Y2tXSnhaU3ZvbHZ4VkxMTTM0VGtjaUJlZjhjck9aZXhQRTM4ZkxWT0N6SzZYRmRLTTBUZFZEQVl1?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-27/food-04.mp3",
+      "title": "3. 外食チェーンの中国産食材を徹底調査 「カット野菜は要注意」",
+      "duration": 86,
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPamh4WW14ekJLTVJnWTVvN042Qmc5YWktLTNja0hiVUpuVHFTOUNLeDRXWjhQNTFBM2FUTmQ3N3FlQ2RweXYxdzMxYzdNR3UxLVdDLXE5OVZxbU5JZGxoVHVxVHVmdllBOGJtNms3UnFYOWU1ZHJuN1hqdl9WeDVzcU1TZTZPdXUy?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-27/food-05.mp3",
+      "title": "4. 政府の地域産業クラスター計画にフードテックが盛り込まれた",
+      "duration": 92,
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LbUdSenlxVlZuTjNMc3hSMENsS0dYU01ySFFRcTRfSkY0cjZkbVV6RGRGUDg5X0lUUG5EMmtuWnFrRXFaeDl0Y1BMc2c1M19qZVlrWWIweXhDN2Q3ekVr?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-27/food-06.mp3",
+      "title": "締め",
+      "duration": 12,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-27/money-01.mp3",
+      "title": "導入",
+      "duration": 20,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-27/money-02.mp3",
+      "title": "1. バイトダンスのエーアイエージェントスマホ、150以上のアプリから接続拒否される",
+      "duration": 120,
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OOFNfUFRvYmgzaFpBWHRYQnBEVDQ0SlRWam5KVmhOUUU3LUpad21oV3JoZXh1b2JyRURYSkZSbV85bTlseUI1aklDVmhMVzg3Y3c?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-27/money-03.mp3",
+      "title": "2. コンテキストは経営資産——エーアイに自分のノウハウを引き継がせる発想",
+      "duration": 132,
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9USEQ4MnJIRmxVV3ZZRFhRSndLenJ2Mjd4LTBQaTBtWXp3RElxOWM4bW52RWlXc2RyRTA4WF9jX1dfbW9JaGhoRWhseTZLeHl2QXRXUjV5cDdQbVN0M0lPc094RGFoamVpVS1SSWoyN3QydWF6R0xBVE13?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-27/money-04.mp3",
+      "title": "3. 海外エンジニア掲示板の個人開発4本まとめ",
+      "duration": 185,
+      "link": "https://adrs.systems",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-27/money-05.mp3",
+      "title": "締め",
+      "duration": 10,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-27/story-01.mp3",
+      "title": "導入",
+      "duration": 15,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-27/story-02.mp3",
+      "title": "1. 70カ所を渡り歩いた男が選んだ「神現場」",
+      "duration": 96,
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0zbmJBcTgwTkdKZW9XNUhVWUE4TnRQMVBGN3VLNHM1RDNHR3JIVUVEZlZFcTRDZFZER3RzbDRLMHdjU0tBVFR1OFRiMGfSAU9BVV95cUxORTNVV3JUTllaZ282Ujg3UmdENmYzWnBzZEdKZWs2OEpWQ0VUSC1NSi1nYWRqaGItYjllNEJfak53TV9UREZtclhYR0ZIMW1V?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-27/story-03.mp3",
+      "title": "2. ラストコンサートの夜の後から届いた、銀色の気遣い",
+      "duration": 111,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vVndMQWlTTVYxVktFNGdEeXlZdXRNcXcwcFdZOERRWEJVNHlZd2FFTmt6eE01Y0FMY04tUHhNaklaQnl1RDJpM0VNNUhxXzNaMHNFdlFmc2hmUzBUbXZYVk9TYjBGS05kN1E?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-27/story-04.mp3",
+      "title": "3. 完食した先に何がある？ニンテンドーミュージアムの新レストラン",
+      "duration": 94,
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xVVNOQWMzMUZUMzNKWDMwUGx2WjlVUGM2OTN2TlFkeEFkM0lqMkxERm9COVZSbG9qNC1VVkN5aml5N3A4eUl3VWZpSnJKdVhJaWZLUS1R?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-27/story-05.mp3",
+      "title": "締め",
+      "duration": 18,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
