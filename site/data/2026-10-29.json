@@ -1,0 +1,174 @@
+{
+  "date": "2026-10-29",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 18,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-29/ai-01.mp3",
+      "title": "導入",
+      "duration": 23,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-29/ai-02.mp3",
+      "title": "1. グーグル「ジェミニ4カーボン」発表 — 最強の称号を更新",
+      "duration": 128,
+      "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-29/ai-03.mp3",
+      "title": "2. ギットハブ・オクトバース2026 — コードが爆発した年",
+      "duration": 122,
+      "link": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-29/ai-04.mp3",
+      "title": "3. アマゾンが「ルネッサンス・デベロッパー」を宣言",
+      "duration": 56,
+      "link": "https://www.aboutamazon.com/news/company-news/amazon-software-engineer-role-guideline-ai",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-29/food-01.mp3",
+      "title": "導入",
+      "duration": 21,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-29/food-02.mp3",
+      "title": "1. 食料品の消費税1%減税で外食に逆風、サイゼリヤも値上げへ",
+      "duration": 142,
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xUEZoNml5MDFmd1liSDI4bFpjT0FPYThLdkxHMmItU1pPM0V0bmZQY0lfT0FQYUpPXy1zZ2YzOXczS2lMT1JTaXJfZG1TX1dscEdoVkZhc0U1ckpER0hRdzZkaTk5TWc",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-29/food-03.mp3",
+      "title": "2. AI面談を活用した飲食業界専門の外国人採用サービス開始",
+      "duration": 119,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hRi1LazFFVlFWQ3lsM3RjQXBlMHE2N3ZkWHhuTENxMEQwOWlRNUxfOENUNWx3TGVhU3VtZHdnek51cUhhb0IwRzUzNVVaWGxLMFg3TDJBWUJ1ZGZJa05OMnpoZmZTamt5d1E",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-29/food-04.mp3",
+      "title": "3. 行列ラーメン店で手作り食材・器まで盗難被害",
+      "duration": 73,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SaFVaQi1UaVRWMFRXVDZFT19uNDhjcHJNOUxXa0dUdmlTQ0VYWDlmdXZKWVBYaTFUUDEzRmdUcC0yTVpUTUtJWlk1X3RKaC1kdFZ3V0pkMURsWG9jOHkzQzVpUG1Wc0pGdDk2Qm9Ja3lBcG1iMVUxRHhyVW1FZVE",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-29/food-05.mp3",
+      "title": "締め",
+      "duration": 13,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-29/money-01.mp3",
+      "title": "導入",
+      "duration": 21,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-29/money-02.mp3",
+      "title": "1. ホーム・デポが示す「AIエージェントの権限設計」という新しい仕事",
+      "duration": 118,
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNHNWbkR4NndQMWtlOHB1b1A1NlRmMWlyTDl6RGlJY2xPTV85M3JlZkhoaVlKcEV6bFBfZG9zdUg0clBFZWlKeVlfQ19PdmhYRy1tMTdkRHJDdDNCcVBIYTM3QmJWaTl2dEpyRk45WVEyYmFyM3RuQmZMYzg1bVJ1WWEtcGlyUmdHLUJZVWtDNzhpd2Fl?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-29/money-03.mp3",
+      "title": "2. アイビーエムとJBプレスが伝える「AIエージェントのID管理・業界標準化」",
+      "duration": 99,
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPaXpwWHlxc3lJdGpPclM1N0w2SmNwbFBtNDgxTFN1Y1p5eVljb2dXeHBQc3I2dkNKUVhBQUZOVWFQNHNSS21ZUzVjbkgxSGtmTWl6cTFn?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-29/money-04.mp3",
+      "title": "3. NTTドコモビジネスの「電話×AIエージェント」から読む国内市場",
+      "duration": 70,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4eng1ZktuTnBZZlhleTRBRjFSSGdvcU9RNmFoN280ak5fT2Fla05ocHAzb0Rtc2xCZEQya1dXMUxlR3plbnlXbk1YMlV5QnN6ZDFF?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-29/money-05.mp3",
+      "title": "4. 「AIを入れても使わない」問題──副業に使える、二つの教訓",
+      "duration": 132,
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAwUk9tTFFqamw4aFByVnBxdFZhRkZTR0FROW5CeDBpVE1kT0U4TnlVenl2bWFkZzN5Y2VCcGExME1TOVJ3TFp0Ung0ZDZfY2VTeG5hNllNNWwzQU12aWpJdElBNmNvd05oSlYtZm1GUE9tWXJzVkE?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-29/money-06.mp3",
+      "title": "締め",
+      "duration": 14,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-29/story-01.mp3",
+      "title": "導入",
+      "duration": 18,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-29/story-02.mp3",
+      "title": "1. 理不尽なクレームに「完全論破」で応じた店員の話",
+      "duration": 93,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1peFRZOG1aMVlxRXVVbXhqbXZodzhXUGQ5Z21pXzNQTGgwVl8tSjJKTFJ0bjZRUjRNSVBiUWRwem1aVnJNcThKQ2FhSnVLYXF4WFZDRjJPWUlIZzlVeE1OUzdnVnFLNkZDX3pLdmMyal9QaHJ5ZXZ0N3hFOW0teEE?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-29/story-03.mp3",
+      "title": "2. 70カ所スキマバイトして「神現場」と断言した飲食店",
+      "duration": 80,
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0zbmJBcTgwTkdKZW9XNUhVWUE4TnRQMVBGN3VLNHM1RDNHR3JIVUVEZlZFcTRDZFZER3RzbDRLMHdjU0tBVFR1OFRiMGc?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-29/story-04.mp3",
+      "title": "3. 高級中華から町中華へ——常連の一言がバズメニューを生んだ",
+      "duration": 82,
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fRHI5OVJUdFF3UUlEZTVpOHRrc2w3OURVcndZRm8tSndoZjc0ZFp1OV9ORkVwYjFoNlJCcGk5aGs1ZFpxc0dZZUxlTmNfV3VMYnBrd044UnE?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-29/story-05.mp3",
+      "title": "締め",
+      "duration": 10,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
