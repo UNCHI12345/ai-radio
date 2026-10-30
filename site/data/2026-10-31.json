@@ -1,0 +1,230 @@
+{
+  "date": "2026-10-31",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 18,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-31/ai-01.mp3",
+      "title": "導入",
+      "duration": 41,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-31/ai-02.mp3",
+      "title": "1. クロード・コードの公式拡張機能にバックドアが仕掛けられていた",
+      "duration": 142,
+      "link": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-31/ai-03.mp3",
+      "title": "2. AIバブルへの警戒感が高まる——テック株が大幅下落、米議会でも決議",
+      "duration": 138,
+      "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-31/ai-04.mp3",
+      "title": "3. AIの意見に、あなたは引っ張られていませんか？——アンソロピックの実験",
+      "duration": 124,
+      "link": "https://www.anthropic.com/research/agents-judgment-calls",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-31/ai-05.mp3",
+      "title": "4. AIモデルの「重み」の中でスーパーマリオが動く",
+      "duration": 68,
+      "link": "https://simonwillison.net/2026/Oct/30/nesformer/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-31/ai-06.mp3",
+      "title": "5. プロトンのCEO、全社「AI面接」を撤回",
+      "duration": 60,
+      "link": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-31/ai-07.mp3",
+      "title": "6. 「あなたのパソコンのメモリは無駄遣い」——サム・アルトマン発言が物議",
+      "duration": 62,
+      "link": "https://frvr.com/blog/news/openai-ceo-sam-altman-says-its-terrible-to-have-everybody-have-a-bunch-of-the-worlds-limited-supply-of-dram-instead-of-shoving-it-all-in-datacentres/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-31/ai-08.mp3",
+      "title": "今日のAIレッスン",
+      "duration": 101,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-31/ai-09.mp3",
+      "title": "締め",
+      "duration": 14,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-31/food-01.mp3",
+      "title": "導入",
+      "duration": 23,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-31/food-02.mp3",
+      "title": "1. 値上げラッシュの外食で「値下げ」が続出——マクドナルド・ロイヤルホスト・松屋の狙い",
+      "duration": 100,
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSl9VS3BWUHkzdkdDMFk1YzgwVU9wMDluUWh1Zjc5MnpyN0lPQ2xqcjZPVjY5V21id2Nna2haZUF0UEtBYUdMWnpsMHRoVnZ4QmhGdFIxQUk0T3I1aVZwUXNmTEoycF80eWVsVl82SF9oYnczU1JNb29hbEtmYWRSRU1NeVZfNF9r?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-31/food-03.mp3",
+      "title": "2. テイクアウト「注文が来ない」問題——悩みの1位が語る本当の課題",
+      "duration": 94,
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tejh1dkQxblFCRlJrSWJnWFh4NjJtT2syMXR0YWZjdGp4bENINmpDLVFxd1N1N2syYUF4c2hjVHB2cUdHcjJLQmZRU2QtT0VZX2JrTjY5OTMwR3BhcmZkVmRMenIyOEZM?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-31/food-04.mp3",
+      "title": "3. 消費税1パーセント減税が飲食店に「実質増税」になるワケ",
+      "duration": 76,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yVjZYeENUVlYtSTIwcjZLT1luRFJBQlphVTQwQkhSMzFHamxjNGYtc04yQzFNT29pX1MxZ2VBR0VRLUVaaHMzSjF2WEx0Uk1JN29aclVXd3R5cC1XWHluSVpvNmZSMHdPQUZvNHk3WHBOWHUtcGU5MmpzY2YzaGM?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-31/food-05.mp3",
+      "title": "4. 閉店ラッシュから読む「生き残りのヒント」——天下一品・老舗食堂が相次いで幕",
+      "duration": 83,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYWjhPbWlKMVpyN1M3X3Roc0JfLW5FWDM0VWNaazdyUjYtZ1RQOWdCMTJiQlc0aFE5Y0w4TFVKOXFZNnBnUlQ2cEhTV3hHZlR6M2JXSGFWTVNPN1B4ZTFlVzRFdkZOU1FKSWdKbUlSelVZdk1ZNWR6UEdwYWRHVWs?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-31/food-06.mp3",
+      "title": "締め",
+      "duration": 18,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-31/money-01.mp3",
+      "title": "導入",
+      "duration": 20,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-31/money-02.mp3",
+      "title": "1. ギットハブがエーアイエージェント前提の新機能群を発表",
+      "duration": 119,
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1a3lhQVJzXzI3WUo5SFA2TkdLdUZWZm5ZZHJhbEl5bVUzNDkzUENWT01YQmdCVTRpcWVPNFFiS0hjRF9VTXUzbWcyVVpHSC1PR3pxTTcwc3B1bXBoMG5XajdtWGM5MzA?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-31/money-03.mp3",
+      "title": "2. シスコの「1人1エージェント」戦略と、導入を検討する3割のビジネスパーソン",
+      "duration": 99,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Bd0ZZcnZCSHJyMEgxRjBGS1p6YTBFY24zMzYzNXdTM00wSHlVQ2NyUlpnVVRsOGdLcVA3N0VOUmNEemVITnNmOEtDRHFBUGZsSGRr?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-31/money-04.mp3",
+      "title": "3. 米大手銀行がエーアイエージェントを警戒、パスワード共有を遮断",
+      "duration": 100,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2RWV2eUtUbmd3MEd5SlI1RVVzQTNvekpFWU9uOWxLYVg5SEE1ZkxPUm9ZYUV2UUN4VmRCV2s5aFN0MGZQR0Z5d2x1VV9kZ0FBbE1z?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-31/money-05.mp3",
+      "title": "4. 個人開発：エーアイがピクショナリーで絵を描くゲーム",
+      "duration": 68,
+      "link": "https://sketch.wakeshift.ai/games/q5ucru",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-31/money-06.mp3",
+      "title": "締め",
+      "duration": 14,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-31/story-01.mp3",
+      "title": "導入",
+      "duration": 20,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-31/story-02.mp3",
+      "title": "1. 「神話」は神話のまま尊ぶ",
+      "duration": 70,
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE11dlozVktHOUVQRkVWbFl1TGRrZ1BNd3JFMkRFWUtWcGNsUEpDSzRDSXRZTUNONHpBZTFTTlp3dG1rWWNHVG9GRTJtMmJTT24yUTh0Y24wNVlTNGRv?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-31/story-03.mp3",
+      "title": "2. 「ごめんなさい」が逆効果になるとき",
+      "duration": 96,
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5seURhLU9HdzlvenNmbTk1Wk5zdG8xbGVzM1JqRVc3Vkd6czVGVlFtZDlwTDIwSktoZml2TUtZYk5xU0Q5MDlSWG1KYw?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-31/story-04.mp3",
+      "title": "3. 山の上の隠れ家フレンチが教えてくれること",
+      "duration": 83,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Kbm1BS2ZOQjBaZUNYamZEaUI4LTEycDM3TDYyMVJzRFUtOFZvM0g2V0RvRFpDQVlPaHBTaGlQNlRweHdXMTdNUlpNdjJud3N6eENJ?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-31/story-05.mp3",
+      "title": "4. 移動中がおもてなしになる",
+      "duration": 58,
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9COUdvdjRMR2lITzVLRlJZcHF4QXlCcmJqVTJMMlA1ZGZfQW9scURDN2RYMll3X1U3ODRZbmhNUjlkT0dqU1N3MndsRW5vSDNSN3BQZUpMbw?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-31/story-06.mp3",
+      "title": "締め",
+      "duration": 13,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
