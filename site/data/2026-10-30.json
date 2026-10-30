@@ -1,0 +1,246 @@
+{
+  "date": "2026-10-30",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 18,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-30/ai-01.mp3",
+      "title": "導入",
+      "duration": 44,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-30/ai-02.mp3",
+      "title": "1. ミストラル・ラージ4「ル・ションク」ウェイト公開 ── 1兆パラメータを誰でも無料で",
+      "duration": 155,
+      "link": "https://mistral.ai/news/mistral-large-4-oss/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-30/ai-03.mp3",
+      "title": "2. 月4億円のトークン代でゲームを毎時間リリースするエーアイエージェント群",
+      "duration": 144,
+      "link": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-30/ai-04.mp3",
+      "title": "3. エーアイが引用する統計、6割は元の研究まで辿れなかった",
+      "duration": 134,
+      "link": "https://trakkr.ai/trakkr-research/zombie-stats",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-30/ai-05.mp3",
+      "title": "その他のニュース",
+      "duration": 4,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-30/ai-06.mp3",
+      "title": "4. ジェミニ4カーボンがインテリジェンスランキング1位に",
+      "duration": 39,
+      "link": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-30/ai-07.mp3",
+      "title": "5. オープンエーアイもサブスク有料ユーザーにエーピーアイクレジットを付与へ",
+      "duration": 39,
+      "link": "https://simonwillison.net/2026/Oct/29/api-credits/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-30/ai-08.mp3",
+      "title": "6. クロードコードがトークンの15〜20%を「3語のステータス表示」だけに消費していた",
+      "duration": 54,
+      "link": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-30/ai-09.mp3",
+      "title": "7. 「ゆっくりやるのは負け思考だ」── プライバシー企業プロトン社内のエーアイ推進対立",
+      "duration": 59,
+      "link": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-30/ai-10.mp3",
+      "title": "今日のAIレッスン",
+      "duration": 114,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-30/ai-11.mp3",
+      "title": "締め",
+      "duration": 16,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-10-30/food-01.mp3",
+      "title": "導入",
+      "duration": 22,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-30/food-02.mp3",
+      "title": "1. AIエージェントで、外食予約の「ムダ」がなくなる",
+      "duration": 95,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1nZkplbGt0cmVaYVVFRF9sNzk3Vy04OHJKTlZXRVhQVkhWSTA0V3EtalBLSzA2MVVkTlJKWVIwVzBJQThsQkgwbXdkUTBEVnJfSm5r",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-30/food-03.mp3",
+      "title": "2. 価格維持を貫いてきたサイゼリヤまで…値上げ続く外食産業の限界",
+      "duration": 94,
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LQS10cFBuTjlIRURBQ05qTHJQYlg0TGMzdmtJVHR4cHdpOVpBX2lVeXBqVWFCS2o1T2twZmpmbllSLTQySC1hOHc4SEpCWnBiUktZa2JuYnhVYWlSSVBZ",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-30/food-04.mp3",
+      "title": "3. ゴートゥーイート、再び？消費減税に伴う外食支援の行方",
+      "duration": 87,
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9RU2pTRDJwRXdjZDJ2ZUo1d3hYUl9MTW1lMDFPUDZiWk1FdDZEZlNHZUlPTzFQTWJva2lUbjZiWXd4VS1hZDh0TWJZSWF0RWRBLWRYZGJBSjdwcW42MDBlLXV5V3ZaMjlHQnJfRzR2dG9UZ9IBd0FVX3lxTFBXQjFKZFF3NEhJNmtWZlJNa0swLVBBS3hkeDkzeGIzYTJOWUpVM1dpbGlaX0gtSWNzUTlydFc2VG5DQ1hGcEg5VlY0Q18zUk5ieGNkTVg3YTJObXpBNFRvU2o0QXZqdjZZS01mdzFKQjNnZUtCdy1j",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-30/food-05.mp3",
+      "title": "4. スガキヤ490円ラーメン、初日に200人超・2時間待ちの大行列",
+      "duration": 94,
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE13cktLRHg2cGlKUlRqc3Q1Qlo2MlpkTzAzVDZBLWNBVXNnQUtHajN5c3VkZ0JrOXZ2cUQ1ZXZ6cXFjcV83VDd3OFRWeFlWQ3pMdHlvVXhuUGV2SlNhLWdIN0J0S2JyeWlEbFdSUnZyaVlUZw",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-30/food-06.mp3",
+      "title": "締め",
+      "duration": 10,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-10-30/money-01.mp3",
+      "title": "導入",
+      "duration": 24,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-30/money-02.mp3",
+      "title": "1. ガートナー予測：2030年にエーアイエージェント利用は5割へ",
+      "duration": 89,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TTlo3eGhkd2g3TVFydTJBQXE2cFB3ZVhCa3A1Rk9qbEZLNENwLWJRZFJuNmF2YTdPV0ZHZXZ1NmNEckxWZVVpOEkzbU1VbUZNVXZN?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-30/money-03.mp3",
+      "title": "2. 15000ページの巨大定理をエーアイエージェントが24日間で形式証明化",
+      "duration": 95,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBTNHBMUDNfNXBJTHNGQ2s5YlN3M1M3R2ZyZVdtM2h6QWNucWNCS2Ixck9DdkdWVzdYOTFiQXZmS1U4Nm1OYTVGY2JuSHd6RnZyU19B?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-30/money-04.mp3",
+      "title": "3. エーアイが障害対応を丸ごと担うヒネモス：復旧時間80パーセント短縮",
+      "duration": 102,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0waU9NdGJKcDh2TndDSWJtOUdEN0dqVWdBVXFFajN3Uy1XR0lXbV85by1NMFlRNjYyZy1YY3poWEpOWndhbEdLeE9IR2xUcGFhaGNPRGZwbU14eVZick9XNVBsMmVvbENjbkV6QmF2VmFoTDNqZEFHMTdfMU1qUlk?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-30/money-05.mp3",
+      "title": "4. オープンエーアイとサービスナウが提携深化、企業ワークフローにエーアイエージェントを組み込む",
+      "duration": 79,
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KX25DZkw4Q2lwMU42bzVkZk1TRkZUZGJDTU1FSVdnTjU5RlpWOHk3bjI3QlVaWEljQ3gwNWE2Tk5nWEhJM1E1alR5UGU2TWRVcjNzZWhMQ2YzOWhhYkxLMWkxS1p5dU95MS1JSXBsNDQyTXQ5?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-30/money-06.mp3",
+      "title": "5. 個人開発者がエーアイエージェントのランタイムを作る時代：ピーエイチピークローとウジ",
+      "duration": 116,
+      "link": "https://github.com/phpclaw-php/phpclaw-monorepo",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-30/money-07.mp3",
+      "title": "締め",
+      "duration": 17,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-10-30/story-01.mp3",
+      "title": "導入",
+      "duration": 11,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-30/story-02.mp3",
+      "title": "1. セブンイレブンは五つ星レストランだよ",
+      "duration": 139,
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vVVFERDVXaUJtN0xsVkg2S1JQNzlWMFJuM1RFQ2pzc1RLN21VLUxxSUwweG10aWV2LV9mTWdpZWhuMDM5N1NMNGVpV2poam16aTJ1QV9R?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-30/story-03.mp3",
+      "title": "2. 家族が感動した、高校生の一皿",
+      "duration": 84,
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kc1J6UXJHTG9zOXo2NGpVSlBCa2twLVJrWmtGcXVwOE1aQ1Vmelk2SVMyVTB0UjFNX3dSa1FmZDBTc0QwODZCOTUxNC11TkNFSHZMTQ?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-30/story-04.mp3",
+      "title": "3. 愛南の郷土料理と、外国のお客さんの感動",
+      "duration": 89,
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GaDhLWDl3TGItMDFBWWwzLWM5akNfTE9QeXVrRTk2aS11S2Q5SlhEd0VPN0tGcWJhaWtnNWNROFRlemtwSVNqVEJVb1k2Q3dYOUJLOUlxMXhlaWtCTmMzYw?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-10-30/story-05.mp3",
+      "title": "締め",
+      "duration": 7,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
