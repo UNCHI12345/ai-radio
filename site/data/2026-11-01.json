@@ -1,0 +1,238 @@
+{
+  "date": "2026-11-01",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 18,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-01/ai-01.mp3",
+      "title": "導入",
+      "duration": 32,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-01/ai-02.mp3",
+      "title": "1. マルウェアがエーアイで被害者を「値踏み」する時代が来た",
+      "duration": 191,
+      "link": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-01/ai-03.mp3",
+      "title": "2. チャットジーピーティーの共有リンクを開いただけでアカウントが乗っ取られる脆弱性が発覚・修正済み",
+      "duration": 174,
+      "link": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-01/ai-04.mp3",
+      "title": "3. 「ユーチューブが嫌になったから自分で作った」　エーアイで2時間でユーチューブクローンが完成",
+      "duration": 122,
+      "link": "https://karpathy.bearblog.dev/hacker-tube/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-01/ai-05.mp3",
+      "title": "4. グーグルが認めた：エーアイモードが広告収益を食っている",
+      "duration": 45,
+      "link": "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-01/ai-06.mp3",
+      "title": "5. ジーピーティー5.6が工場建設ゲーム「ファクトリオ」を13時間半でクリア",
+      "duration": 53,
+      "link": "https://ryanmadden.net/gpt-56-beats-factorio/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-01/ai-07.mp3",
+      "title": "6. アンソロピックがゲームのコピー・逆解析を制限　その波紋",
+      "duration": 46,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-01/ai-08.mp3",
+      "title": "7. アンソロピックの上場後はジャンク格付け見通し、オープンエーアイの資金調達も半分以下に",
+      "duration": 42,
+      "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-01/ai-09.mp3",
+      "title": "8. 78歳の元教授、デリバリーロボットを体で止めて逮捕 「またやる」",
+      "duration": 51,
+      "link": "https://www.cnn.com/2026/10/31/us/philadelphia-woman-delivery-robots-cec",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-01/ai-10.mp3",
+      "title": "今日のエーアイレッスン",
+      "duration": 112,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-01/ai-11.mp3",
+      "title": "締め",
+      "duration": 10,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-01/food-01.mp3",
+      "title": "導入",
+      "duration": 36,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-01/food-02.mp3",
+      "title": "1. コストプッシュ型インフレで外食産業が苦境、値上げと客離れの悪循環",
+      "duration": 103,
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQLUxSQnJDTFFodjd6M0RORXpCQ1JnUFQ0cWJrXzV3dVpZazd3VUxwcmlwanZzSDV0STdUbENtMEY0NTBUMmcyWG9hZlRuMVktYVlheXNuRUhXRUl1NnhXYWsxSFAycWZJV1VJTmhpQ0o1OE1VdGZUbGhnUzFRQzdpd3gwdkRoVHlMYlpUckFB",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-01/food-03.mp3",
+      "title": "2. おにぎり専門店、5年で市場規模1.8倍、外食大手も続々参入",
+      "duration": 82,
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdVh5dkZOeXB0X0tRWTRBZk1ndl9vd0hzUEdCR1hSY1RnZ3kzemRTeXFYMnM3T2JtM2F4QnlNaDBSZTFKYTZqMzc1X2lnUmJJRVBiUmg0cnRTQ1N1V05rZm9MSTBLNFZaT3loYlVOTWlua2czNHdVSEc3VklXaWdoNklqVEVETFY3",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-01/food-04.mp3",
+      "title": "3. 人と時間がつくった時価総額2兆円、ゼンショーが外食産業に残したもの",
+      "duration": 75,
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBKZUJ0c0twTkV5OGFyYkJRY2FHMEVBdVRJRExlTTRjUnRJZlAxd2RoT3owakcxZFlKSGZoVjJ0SXhXQ1hZQjR4YW1ueHM1LUtC",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-01/food-05.mp3",
+      "title": "4. ラーメン店「天下一品池尻店」が閉店、都内最古の41年に幕",
+      "duration": 87,
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUnpIMEdnQ0dPeG9XRkdXUmdfNXNVV1dhMFZPcnJoQ2I0OUUwdF9ucm5tV3B5aHhWN3pTVUt5ZmpKNHdERWdWMFk4VUVacmU1QVdtNGpUOHdZNTREaTNEOXZuNTdFSDM1WU9ael9RbkJabGV5bVItUHFBTjBYQndtT3lfSUlYZTJwMWIwbnN3",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-01/food-06.mp3",
+      "title": "5. アップサイクルフード協会が設立、2027年に認証制度の試験運用へ",
+      "duration": 93,
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA2ZVEyMHVWWDFuM1VWSGp1ZzhOb2NmbTFHeVVNYnVrWEE1Q1hlTERMSmtoODdSSTlNaFBUX3llWUE5ZEtTN3NTczlIWTN2c0VsSmVpbmRtSTFZRWJyTEdDU2gzbnBuWU0xdWd6Rm9rRGhMMjBCWDVoeUdR",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-01/food-07.mp3",
+      "title": "締め",
+      "duration": 18,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-01/money-01.mp3",
+      "title": "導入",
+      "duration": 16,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-01/money-02.mp3",
+      "title": "1. 「もうプロンプトは書かない」クロードコード生みの親が語るループエンジニアリングとは",
+      "duration": 109,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5UXpfeWN3YXpTWXY4YXhWQi1xZUNGYmRoRWdpbHVtUkluci02RG5EWTRWVEhjVkMtR1g2WXNDU3hOUzJobnJzalU1Sm1NVHpSM05MclVwa3VwTWZDRzF4M3RueU9pY2Zpc1pPUXVDaUt2TThadWZLZloya2EzT0E",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-01/money-03.mp3",
+      "title": "2. ショッピファイがAIエージェント連携と決済を大幅強化",
+      "duration": 92,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lTFNlQ3k5Y0lxSFh0XzFrOXQ1S0VtWHUyMjVIcV9TMXdJZi10ZHI4Z2tfMGo0aGlVUVNsZ0hibXJTYmU5Mmt2ZTV4ejZoaXVuTmJyWmgyYzVEV2xIRklza2Y5aFZxRkFXSEhRVUZZSzM1RjljWnNwY1JveGNKdEU",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-01/money-04.mp3",
+      "title": "3. エスビーペイメントサービスがAIコマースシミュレータを開発",
+      "duration": 56,
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xenc5QzBhTUpLc0lNbG9qLTVwWF9JYll0ZmFSLTNwTVNLQ0JMekI4Z0x5QWF6WGs0UTdWeU12SWhrN0pNQmFodjRNY2x3YkppN0RIdndmZ194cTdX",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-01/money-05.mp3",
+      "title": "4. グーグルのバーテックスAIがジェミニ エンタープライズ エージェント プラットフォームに進化",
+      "duration": 55,
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wX0QtdUxMc01uRjQ5LWpvMzh4N2RYeXllTGhGSXZzdXZIcTVHNXNMOHFuc3RDM29iMk1yVjhuMlp5LW1mejU2eGpxOXJNU1U",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-01/money-06.mp3",
+      "title": "5. 「追う側」チェイナリシスがAIエージェント攻撃で情報漏洩",
+      "duration": 70,
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb0FVS25kanRTX052UlhtTkh2RzNqaEYwa1lVM3dUdWRhVFJLejE5OUZtTW0zODRHN0NLYlpLZ1VkZ3JTMDJDM2xnVHFubFJocnVVM0hsVjVfckppUmlPdkVaRmUtVllESkRtN1pacjJuYVBjYTlBTDhkTkcybW5IVTUwQ3pJUXRJb2RieVRn",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-01/money-07.mp3",
+      "title": "締め",
+      "duration": 13,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-01/story-01.mp3",
+      "title": "導入",
+      "duration": 14,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-01/story-02.mp3",
+      "title": "1. 有吉弘行が語る「感動を超えるレストラン」、そのまさかのオチ",
+      "duration": 229,
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVGV6elhDaVAwVGJNaVg1Z1h4ZlFUaC1MWDhpMEFKVHNGSGFaTmp3WTZTM3gzWGlDYk41UndjNmJDQ2tRRm1hVDNaYklGRk9ZOG9qY1d1YzZrc1d3SUNZdUQ4Qmt4N1A4bktfYm42UW43NUZWV1pzU2lGN2o1bkVJN0p5bHRLWDRURlE5OC1pNkNhaWVPelE?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-01/story-03.mp3",
+      "title": "締め",
+      "duration": 8,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
