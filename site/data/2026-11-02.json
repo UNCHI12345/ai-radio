@@ -1,0 +1,246 @@
+{
+  "date": "2026-11-02",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 18,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-02/ai-01.mp3",
+      "title": "導入",
+      "duration": 44,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-02/ai-02.mp3",
+      "title": "1. チャットジーピーティーの共有リンクを開くだけでアカウントが乗っ取られる脆弱性が発覚・修正済み",
+      "duration": 168,
+      "link": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-02/ai-03.mp3",
+      "title": "2. プロトンCEO「セキュリティテストは負け犬の考え方」―AIと職場文化の問題",
+      "duration": 139,
+      "link": "https://blog.raed.dev/posts/proton-loser-thinking/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-02/ai-04.mp3",
+      "title": "3. 50体のAIエージェントがマインクラフトで文明を作ろうとしたら、官僚制の壁に沈んだ",
+      "duration": 82,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-02/ai-05.mp3",
+      "title": "4. クロードが世界中の遠隔望遠鏡を操って星を撮り、小惑星データを国際機関に報告",
+      "duration": 54,
+      "link": "https://www.reddit.com/r/ClaudeAI/comments/1xkxsca/i_gave_claude_access_to_remote_telescopes_now_she/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-02/ai-06.mp3",
+      "title": "5. 土木技師「クロードは仕事に革命をもたらすが、業界ではAI使用がタブー視されている」",
+      "duration": 47,
+      "link": "https://www.reddit.com/r/ClaudeAI/comments/1xlc0v6/civil_engineer_here_claude_is_incredibly_powerful/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-02/ai-07.mp3",
+      "title": "6. オープンエーアイ、300億ドルの調達目標の半分以下にとどまる",
+      "duration": 26,
+      "link": "https://www.ft.com/content/7a3ad950-1b3b-4d9e-8c15-65a61ae6180f",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-02/ai-08.mp3",
+      "title": "7. アンソロピックの新モデルがハギングフェイスに流出？コミュニティはほぼ偽物と判断",
+      "duration": 43,
+      "link": "https://news.ycombinator.com/item?id=50326727",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-02/ai-09.mp3",
+      "title": "8. AIに「自信満々な間違い」を言い続けるベンチマーク「ディープダム」が登場",
+      "duration": 88,
+      "link": "https://publish.slate-app.online/s/75d96d48-7234-4d2b-aabb-08ec43ae2280/posts/b8f6934635/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-02/ai-10.mp3",
+      "title": "今日のAIレッスン",
+      "duration": 65,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-02/food-01.mp3",
+      "title": "導入",
+      "duration": 26,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-02/food-02.mp3",
+      "title": "1. エーアイ面談で外国人採用、飲食業界ならではの条件を事前確認——シンクロ・フードが新サービス",
+      "duration": 99,
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92UDF5X3FTdVEtSHdmZnhIZkhHUFQ0b0lZSHMwTkZrcjg5SFNaaU1vVVFDb25NdmZHMkRld3pxdGktWnY3MXR4S1FrNWljcExnZGRuTnRzUW1PRXNqN2xJUQ?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-02/food-03.mp3",
+      "title": "2. 外食チェーンを支える中国産食材——アワビまで日本市場に浸透",
+      "duration": 86,
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wazVSckxpZ3dVRGhVNlVja3JWSzJRXzlfWHMxZDJpX3VLR1p2OHhCQ1lZdDNuWnhUZVhLbnI2QllPRjY2aUdtTUpHZk53MkNf?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-02/food-04.mp3",
+      "title": "3. 「買収で味は変わらない」——資さんうどん論争と、吉野家が刻んだ苦い教訓",
+      "duration": 101,
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlSUxiTkxXbl9Ha05tWHQtc1ZBc2RWQjMxQkZKVjJZejZOUWZVRTVGQVFTb29EaTdXRXVEN2djNXNNbWllNVZTZERFN0dQMmJid2JpOUU1Q0QxNVRMN2U0?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-02/food-05.mp3",
+      "title": "4. ろう者が経営する行列のできるラーメン店——「聴こえる人に負けてはいけない」",
+      "duration": 81,
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObnB0UUlGRHZMVmlEbmhGSkVxMUsyTkVEUUc5d2o2Y3dZUVhPdHBXSkc4MW5UQ0hEUzZ0NlZwbV9QbURkenB2N29OUjdiT0JTem1BR095UGpHRmxVNEJMcGt3dXQtR0x6RWoyZ1NGT3FnXzFNanJZV2otdkJXUFpBZEd3?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-02/food-06.mp3",
+      "title": "締め",
+      "duration": 15,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-02/money-01.mp3",
+      "title": "導入",
+      "duration": 21,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-02/money-02.mp3",
+      "title": "1. 口コミ返信をエーアイに任せるビジネスの構造",
+      "duration": 147,
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1OdkZyVkF3aXJJSXFnRU90STB2ZFFGMUlOcWsxMVZXSFdQRFJ2NVNGdVMtenlqVHJHcHliMWxhX0hNc3JTQjhCNEEtWVBORTlrQkIxZHA0NkgycjkxOWZ3RG5PY0F5N1B3QmZSalFVSGxFN011V3hqc2ROVQ?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-02/money-03.mp3",
+      "title": "2. セキュリティ企業がエーアイエージェント攻撃を受けた件",
+      "duration": 140,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lXzFoeTJudHViNktlX0FYRjdHRUtMRFJPei1KX2NaX196MXhrSFVPalNTWFpINi1MazVMRHhRY0xOQzNRZERZTmFhR3paakcyMkpZ?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-02/money-04.mp3",
+      "title": "3. 税金で動かす政府エーアイ「源内」のコスト設計",
+      "duration": 97,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NSHBIMHA0Q1JpZVdqWFNybUI0RFliTHFib1RtV0hKRjlZRk1tdFdUeXBrazZNNzdINTc2aE9SU1hSM3Q4d2doLWpvMkdpQTl4LWVvWVd6R3FmNWpiUkZtR3I5TzJRdi1yYVBOUTFsczJqLWxNOU1USjZVOXdhSUU?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-02/money-05.mp3",
+      "title": "4. 個人開発でパズルゲームを作って世に出した話",
+      "duration": 69,
+      "link": "https://www.jointter.com/",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-02/money-06.mp3",
+      "title": "5. エヌティーティードコモビジネスの大型エーアイ投資",
+      "duration": 29,
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4WHZkUnA0RmxsWFFQZWdIdkMwa1V4Wk83Z2E4WUVlb2RYTF9lXzF5SGE5clMxWUs3Y3oxclcxM0w1bDI0dk9kbXJNTFp0bmlBQnc?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-02/money-07.mp3",
+      "title": "締め",
+      "duration": 10,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-02/story-01.mp3",
+      "title": "導入",
+      "duration": 18,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-02/story-02.mp3",
+      "title": "1. 水明館、3年連続日本一",
+      "duration": 83,
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5CNWFDb2gtMlkzSEU4WjBhWlN4ZHoyQ2RSX0hTZC1lalNmRmhBTkZCQ0JGX2FXc09wbzhvQjFZTW5zVzkxakxWQ3lJX3VoUQ?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-02/story-03.mp3",
+      "title": "2. 市川海老蔵さん、飲食店で隣のお客さんへ「勇気の声かけ」",
+      "duration": 131,
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04NUhINlg4ZWZwMkQzSkxvVExXeWQzSUEzVk5VMHBseFB2clMyd2xUc21mWlBEN2NKSjV3NE5jeGw3VTB0eXNDcTJ5S1JWQy1NaWNmWnB5XzNaVkxheHY0?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-02/story-04.mp3",
+      "title": "3. 丸源ラーメン、「味以上に心に染みた」接客",
+      "duration": 93,
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1uNk0yRkU2ZkswQkZJTm9pTzM4Ml8teDQ5cE8wS292MlRuaUliOFl3anhfMDBvR3lYbUtTZEtLYWVJS1dUWFBWZnV6eWxoSF9LUGxvVkUwONIBXEFVX3lxTE5lSDc2NVhBSXNjbjRvX1l0Mmp0azJ3eFMtQXNVazg5eEw3VjhlWFI4UEJiQkxyYjV6THRJS3pVTkI3c0xFVDBGNEN6MVd0WUMwMzBsVTloSHhFWmFn?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-02/story-05.mp3",
+      "title": "4. 富山空港に「AIおもてなし車両」、全国2事例目",
+      "duration": 106,
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kYXVIQzFvUkpZT2NHa2g1UkNvck1GMmZGX2lPZTBYM2NrTGZIRjRFbDlNaVhxSFNJd2lkZ0ZPNXp5clBTb2NuU212R0MtZHBCbTd0NUp2RmZKUQ?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-02/story-06.mp3",
+      "title": "締め",
+      "duration": 12,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
