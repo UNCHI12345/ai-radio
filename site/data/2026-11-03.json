@@ -1,0 +1,230 @@
+{
+  "date": "2026-11-03",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 18,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-03/ai-01.mp3",
+      "title": "導入",
+      "duration": 26,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-03/ai-02.mp3",
+      "title": "1. アンソロピックIPO申請書から見えてきた衝撃の数字",
+      "duration": 156,
+      "link": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-03/ai-03.mp3",
+      "title": "2. AIがAIモデルの内側を直接書き換えた",
+      "duration": 140,
+      "link": "https://rikiyat.github.io/blog/weight-space-programming/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-03/ai-04.mp3",
+      "title": "3. アメリカ政府が「AI」を「スーパーインテリジェンス」に改名した",
+      "duration": 111,
+      "link": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-03/ai-05.mp3",
+      "title": "4. 中国が初めてフロンティアAIの輸出規制を発動",
+      "duration": 56,
+      "link": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-03/ai-06.mp3",
+      "title": "5. クロード・コードがゲームのコピーを断るようになった",
+      "duration": 39,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-confirms-new-claude-code-limits-to-prevent-game-cloning-users-report-opus-5-5-is-also-actively-blocking-reverse-engineering-tasks",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-03/ai-07.mp3",
+      "title": "6. AIエージェントがマウスの脳手術を実施",
+      "duration": 30,
+      "link": "https://twitter.com/OcanaSantero/status/2115442964574908902",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-03/ai-08.mp3",
+      "title": "7. オラクルが約3兆円を調達してAIインフラ投資を加速",
+      "duration": 41,
+      "link": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-03/ai-09.mp3",
+      "title": "今日のAIレッスン",
+      "duration": 88,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-03/ai-10.mp3",
+      "title": "締め",
+      "duration": 8,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-03/food-01.mp3",
+      "title": "導入",
+      "duration": 23,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-03/food-02.mp3",
+      "title": "1. 飲食店経営者の4割超が「採用より省人化」を優先する時代に",
+      "duration": 118,
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tVUdSajk4OERsbkk3VG1LVTRHVkE4RndqczVZeEZ1anhfZnQ3Z3NiQ2N5RkhIOUx0c3h5WmU2bDh1YmhQVVl0T3dCTm82ai1PUmgzOUVEV0V1SmZ4MTNOYg?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-03/food-03.mp3",
+      "title": "2. 那覇の飲食店が負債2億6900万円で倒産、10月だけで県内7件",
+      "duration": 84,
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hd2JXRXdCM2VMVnlfUWNKZm0wQ3AxRVd2VzI4aW9ZQVdLaGp5bXM3VThWRG5DX2NoM1ExVEFwSnZrVmY3MGhfbUtycjlWUVg5SnNBbnFsVDN4VElJWFE?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-03/food-04.mp3",
+      "title": "3. 外食チェーンが「あえて値下げ」に踏み切る本当の理由",
+      "duration": 99,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoR3g3MURZTGlnQmd3V1RxZ0NXTXRsUmJjTjJWdkNFVHFIamxUUTktOE1YcXlHVUNKNWdWcUtLNnNNOGJSRmY0TC1NR0lfOGJMd2dFREVENXU2OHk5R2hjSDdmVkFmUXZlNjhIWU1KMzB4TUd0eU5mZjBlT0J3RWs?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-03/food-05.mp3",
+      "title": "4. 来年度のフードテック予算が502億円、国が本気を出してきた",
+      "duration": 92,
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoY1paTnlCTlAtZUpNVFFDc3BJV3lmSjRHSXpNZV9jUENHV1JqN1diM1F0eWRPdWNfa3REMF9ZaFFNTDhTYThtMWVaNjZWQ1RoTVJ3Ry16LWE?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-03/food-06.mp3",
+      "title": "締め",
+      "duration": 19,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-03/money-01.mp3",
+      "title": "導入",
+      "duration": 17,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-03/money-02.mp3",
+      "title": "1. エーアイエージェント、いよいよ「お金の計算」フェーズへ",
+      "duration": 113,
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE92cTkwSndYWXpUaHJCZWh3bHlESHZhTktieHhoaWFVR3l1VndVcUNjalFieFVHVHZsUnVNYThWVjF0OGJrLURpYTlXWFpuQ3RtUmx5aXA2M2syTVFSMDFuVFIxLW1peDc5dkZxSlNUMFVkTGRX?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-03/money-03.mp3",
+      "title": "2. 「何をどこまで任せるか」が次のスキルになる",
+      "duration": 132,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Kemh5WHk0S1hicTFKYXoxd3Rkc0tfU0ZHbEQ5SExxVm9NcUpRNkY1MGsyUFZsUlU1eEFleXpESDhUeV9oMW9yMDZiMWdZQzZGR1JDUm50eVJ0NVY1T05hc2xSSUlsTlFuMXNYRFJmcm1FOVZCZE9kVWtIWEIyQzg?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-03/money-04.mp3",
+      "title": "3. マイクロソフトが示す「内側から来るリスク」",
+      "duration": 100,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KSjZkRk9FTU1ILXVsdVVBRTJneHAzN0RlN3dwczNXSTBNRXI2aldwcU9wdWFPQWVyZ1lJaHlXTG5QTGZuSVBIcmdNaldpYW5MdUZz?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-03/money-05.mp3",
+      "title": "4. 「奉行」まで参入、市場はもう中小企業の話になった",
+      "duration": 106,
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfb3piRm83c05wYlhScWJtX29aZGV2M1N2QWpSTUJkNFMtd1NhbHE1RldjbEdLSG8tNkVuQkRSUWdzSFF0eXdTaUZOTDJ5Z050U1JqbURSX1JtUElKVFF6SnRrWEl5NFR5WmFxVGJqLU56OE9s?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-03/money-06.mp3",
+      "title": "締め",
+      "duration": 17,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-03/story-01.mp3",
+      "title": "導入",
+      "duration": 10,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-03/story-02.mp3",
+      "title": "1.「さんまさんベースにしたらあかん」──伝説の対応と、普通の人間の話",
+      "duration": 95,
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jY3N6SS1DWk9QVC15S1dhdWFfQXFyZE1hREJWalJIcWM4NGhaWWdGaGZXOWpNQS1LWHZLbnlRM3d0cHdqUXRLdzdWZ2tRckl6dWtoXw?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-03/story-03.mp3",
+      "title": "2. 祖父の背中と、夢にまで見た瞬間",
+      "duration": 103,
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE16eVlNcHY1bTJRelM5U2NGOHdHZkxMbGZuOFp1RENhMjRPd3hDTjlkeGI4Q01YeE1yRlQ4bHhJRUt4STIxSDRSOTgzc2RhUngyMlBMNDlPV1RIb1ZqWGfSAWNBVV95cUxPTEpvc1lsRnZSci1QVkV0SzRDRjZId2IyU3lxVW9YQ0FBQi1KSXRlWnNiUDlhT04yOWZXX0xPUEQ4NnRXRE5IS25mUWZtNFNEdXhLcVJsNWkxMnpHbklWakNIOU0?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-03/story-04.mp3",
+      "title": "3. 札幌の老舗洋食店「レストランユっぴー」のデミグラス",
+      "duration": 57,
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5heEoyc1RmV3NPYXhBY0I3dVRnRlFobmJ3OXJFZEtBb3JUNTdEMnZSb3o0S3g4TS1EMFg1TV9BOVJqMlFlVGNPcU5GZlJSbThJTlM4bS02X00wQ3NGYU1zZm43SHM0WG9OLV9kckt3?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-03/story-05.mp3",
+      "title": "締め",
+      "duration": 9,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
