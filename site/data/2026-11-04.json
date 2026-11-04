@@ -1,0 +1,222 @@
+{
+  "date": "2026-11-04",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 18,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-04/ai-01.mp3",
+      "title": "導入",
+      "duration": 37,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-04/ai-02.mp3",
+      "title": "1. AIがAIの脳を書き換える「ウェイト・スペース・プログラミング」——本当にそんなにすごいの？",
+      "duration": 202,
+      "link": "https://rikiyat.github.io/blog/weight-space-programming/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-04/ai-03.mp3",
+      "title": "2. 知らぬ間に設定が変わっていた——ポストマンとオープンエーアイの問題",
+      "duration": 123,
+      "link": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-04/ai-04.mp3",
+      "title": "3. コストを10分の1に——レボリュートが自社AIホスティングで実現したこと",
+      "duration": 127,
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-04/ai-05.mp3",
+      "title": "4. グーグルが「AIを拒む学校の検索サービスを切る」と通告",
+      "duration": 36,
+      "link": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-04/ai-06.mp3",
+      "title": "5. グーグル・ディープマインドの研究者たちが「口封じ契約」に抗議",
+      "duration": 32,
+      "link": "https://www.washingtonpost.com/technology/2026/11/03/google-deepmind-staff-protest-lifetime-ban-criticizing-company/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-04/ai-07.mp3",
+      "title": "6. チリの町が一日だけAIになった——水資源をめぐるユニークな訴え",
+      "duration": 66,
+      "link": "https://www.quili.ai/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-04/ai-08.mp3",
+      "title": "7. ディープシークブイ5、ファーウェイのアセンドチップで学習か",
+      "duration": 40,
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xmmadn/deepseek_v5_is_planned_to_be_pretrained_on_huawei/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-04/ai-09.mp3",
+      "title": "今日のAIレッスン",
+      "duration": 95,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-04/ai-10.mp3",
+      "title": "締め",
+      "duration": 15,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-04/food-01.mp3",
+      "title": "導入",
+      "duration": 16,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-04/food-02.mp3",
+      "title": "1. 「外食産業をつぶしにきてるのかな」消費税格差に飲食店オーナーが悲鳴",
+      "duration": 141,
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmcmxuTS1OMDNkcnh2UHd1emhIM2tubTgyS3NSLWJSYVFYY05ZQzZBUE9QSFZZcC02WWE1cllmWUlKd1Fnczdza282eUZMVUNMaGJ1QWxzbnpGOUpRRUUza2c2dk9NN2xCd09PeVNETW4",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-04/food-03.mp3",
+      "title": "2. 那覇の飲食店経営会社が倒産、負債2億6900万円。沖縄で10月だけで7件",
+      "duration": 81,
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8ycjd1UHdsM1VURlF6U2VERzhvT0Rwb2Jjd0lWVnJpbnZqOFVLQkJXdFBMVHlXUXczUHh0ZWZjLVBNSzhUZWthZDNqQ1JwcERCRGt5QjdoXzI2ejhNSkgybE9kY3o2QQ",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-04/food-04.mp3",
+      "title": "3. 農水省が食文化の海外展開・インバウンド拡大への支援対象を決定",
+      "duration": 82,
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52bFhPRXlRcWlSMWp2c2txbC1oZEVrNklKWkIxMWFkbUwyYy1uQWV1OHlrVkMwV0ZvbUUwTWVlSVZiN1dqREYxTi1HRFFFdjZFeXhJVFBZR1FhMDl0enlHTGwwMHc",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-04/food-05.mp3",
+      "title": "4. アップサイクルフードを新産業へ。アストラ フード プランが協会に参画",
+      "duration": 101,
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kWnpXclR5NmZEczJyQ1ZGMUNPUGVvZzZOY000YVFJMWp0T2hTMUtpd25ta2NBcWNRUUVaMnR1eUpTMGNXdEQzN0EtQ0lpU1lTVV9HQnRvY3AxMFUxTlB5ZGtFNA",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-04/food-06.mp3",
+      "title": "締め",
+      "duration": 18,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-04/money-01.mp3",
+      "title": "導入",
+      "duration": 18,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-04/money-02.mp3",
+      "title": "1. 小説未経験者がチャットジーピーティーで1万文字の第1章を書いた",
+      "duration": 117,
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iZjNvdl90NWNmbEhrMjdIS3RLNWltWThpa3AwcVVON3NEdjlqV0JEcnhNQVJZWTBMUGNLYjdXZ1BfeGlIdUs0eDJ6MmxQakZDQXNtTHNjWE8wWXliRDNr?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-04/money-03.mp3",
+      "title": "2. 「AIだろうが人間だろうが変わらない」──画像生成の著作権リスクをどう考えるか",
+      "duration": 93,
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5iVldvSzFsRF9LVXEzZ192bTgxdVdxNURFajl5Z0kxb1hBalJfcWpuWnFrRUMwQVdmYmxyR0VHRlBMUjA2QnhwN3h1RERadWs2QmNFWERjRkYtRWFtVmFn?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-04/money-04.mp3",
+      "title": "3. AIエージェントの「暴走」と「費用爆発」──企業の失敗から個人が学ぶこと",
+      "duration": 137,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HN3RGMU5fbTh0eW1RZmtXaEg1MDM5VHI3VTFrSWdDc0dPeE53QkZyQ3FpV2lWNDBTZWt5aDlsOFNZemNnUEt1YXc1QWhVQ3VTRkNn?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-04/money-05.mp3",
+      "title": "4. 個人開発ピックアップ：詐欺検知プラットフォームと LLM 学習ノート",
+      "duration": 81,
+      "link": "https://github.com/finic-ai/kairos",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-04/money-06.mp3",
+      "title": "締め",
+      "duration": 12,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-04/story-01.mp3",
+      "title": "導入",
+      "duration": 22,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-04/story-02.mp3",
+      "title": "1. 盛岡に暮らす人が語る「なんかいい」話",
+      "duration": 62,
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ESl96S3dfWTljR0NCbjBHSkYxZ1lQR2lwZ1pXNkJjc1djWGduNHU4VC1pWWkycFdfTUdmSnZlcEtPVjl3WnZzc21BajM?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-04/story-03.mp3",
+      "title": "2. 盛岡を考える人が語る「なんかいい」話",
+      "duration": 56,
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBXRTdzclIwd3JuMnRSZC11ZmhuZTB0Q0JvVkNnUkNXMkZEU3NSNWdaWmxHTVY2UTVhajdqNzVrWk1LcWM3OWJhMWhScTY?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-04/story-04.mp3",
+      "title": "締め",
+      "duration": 10,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
