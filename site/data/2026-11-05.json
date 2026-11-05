@@ -1,0 +1,174 @@
+{
+  "date": "2026-11-05",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 18,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-05/ai-01.mp3",
+      "title": "導入",
+      "duration": 36,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-05/ai-02.mp3",
+      "title": "1. オープンエーアイ、エーアイが自律的にリナックスの脆弱性948件を発見・修正",
+      "duration": 119,
+      "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-05/food-01.mp3",
+      "title": "導入",
+      "duration": 19,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-05/food-02.mp3",
+      "title": "1. 飲食業界の「2030年問題」、人手不足に強い店のつくり方",
+      "duration": 104,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aZE0zdlBnY2dxR0lRR0FpR2gzaTJ2VjloTUU2WkpLZkI2bnpYSUgwSi04NkFMZkVYeEE1ZXJobVdpejVlbWRHcGh2M2ZwbVpibUFjWWRoZllqX0tpc0lFQ0ZwdkNsRU5oekE?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-05/food-03.mp3",
+      "title": "2. 2026年最低賃金改定、経営者の半数以上が「影響を懸念」",
+      "duration": 90,
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE85cUsyS0sxRm9SUHhad25WNW83RjRoYnhCMkd6S1A0dmNseEl6b2xTMWFSU1VBT1d0Z0Q5bU9nU1JuVmtf?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-05/food-04.mp3",
+      "title": "3. 大阪王将・イートアンドHD、650億円計画を発表。課題は「利益率の壁」",
+      "duration": 91,
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1OcVo1bUk1dG5MNzF5cGYtbG85S2owQVc5RU9LNTRCRzJxUVZhYVlZcXlKemVWVmpCcVNqZE1KZXBNd1g5Q2dfY3NGWWxpNmdp?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-05/food-05.mp3",
+      "title": "4. らーめん楓、24年間値上げを選ばず、12月に閉店",
+      "duration": 94,
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zZlpMYXJFUVJGWmtCQ25JX00zc0VOall4VVBQQlIxRTkybjJ5Q1lMVEJaLUdRQXZ0RFp2QnppM19vSndmRElKY1loTFFScWNpRVAwUmVfMl9IekNGUWItLWQtalNaUE1NcDVZ?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-05/food-06.mp3",
+      "title": "締め",
+      "duration": 14,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-05/money-01.mp3",
+      "title": "導入",
+      "duration": 22,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-05/money-02.mp3",
+      "title": "1. 議事録も資料もAIが作るなら、人間は何をするか",
+      "duration": 75,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wb0hOckR1WjlyY0Q1b3MwYUdObFk5Mm1XMHpTeFd0ZjdtaGVPaGlQLUdHeldLRGxyUlBMWDFkRVJ6ZnZRMll4dzVaSTVmZXdVdHJ4VXMwM0FLSDJ0RHh5S0ZKVFMyYzBwSWc?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-05/money-03.mp3",
+      "title": "2. AIエージェントに金融の認証情報を渡すのは「正気の沙汰ではない」",
+      "duration": 92,
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS2UwU0RacjZUMC1tc0dISHlPVEZ4T2RDdlVpaFEtcGh5eFJ4dEdRaWktZ2lIYy13by00OGR3RDY1bmUwcThTTDlqNnFndnZvLVhDaGVoSzQ4NUJTUEFjVkNLcEpialRQVG4xZlRoWFUwYnI0dHhXTnlhLUZ5UnRPSUU3TGx4ZnItbTN0X2swQUd1MnpWSUJucGlocnlqRnhSWWxLVw?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-05/money-04.mp3",
+      "title": "3. グーグルが見据える「買い物の自動化」と検索広告の未来",
+      "duration": 82,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Rb05sck1CSUppZElxMFlXNEV3bUlDSk90VFpSOEpzc08yRGgtZ2tXOXBTaHM2aXYyeWlxbDh3WGt1d09RTGUzRjFldFFwVmljdU96c1Q1SS1fYnFtQk9NX0VRRTRPaHpHM3M0ZU1pUTdWa2RlR3pRNUxFNU5NZkk?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-05/money-05.mp3",
+      "title": "4. 銀行の不正対応をAIで自動化するカサップ、約85億円を調達",
+      "duration": 90,
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTlFSNEVJY3ZVczlEM2xjTkVMZWdXNHlYNTNyanhVTkthLTZTdkNNTWdsc2NRaEVpUGlUei1GTlpHOU1PbFNNYnBQRUxUczZVdV9NTGJvcHJpR1RRRFp5NzZsRnpaZ2xCWU1BWnpvVkQ3TmRDblRJeWxVTWVvYmxTOElvNGQ?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-05/money-06.mp3",
+      "title": "5. 大規模言語モデルが嘘をつく容疑者を演じる推理ゲーム「アンクラックドシティ」",
+      "duration": 79,
+      "link": "https://uncracked.city",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-05/money-07.mp3",
+      "title": "締め",
+      "duration": 17,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-05/story-01.mp3",
+      "title": "導入",
+      "duration": 15,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-05/story-02.mp3",
+      "title": "1. ラーメン店で「これ不味いわ」と言い放った客——その後の展開",
+      "duration": 132,
+      "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE9VbFZrc0dzYTZTX3VvTnl0d0twMmJsSno1eDFQYk1PekE2SzV3U2NsaFZZN3p0YmhMaFlnNWpn?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-05/story-03.mp3",
+      "title": "2. 「美食レストランのNG行動」が教えてくれること",
+      "duration": 71,
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YOHNNM3dQZ3ZRb0Vua2YzS0F4SXBoVHM0bVFPdF9LNFR5dnIyZzZNOW5pWnYyZ3Y4TG9ueU0zb0F2MGJGbzh1RUlpZ29NdExrOHVvUmdB?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-05/story-04.mp3",
+      "title": "3. 岡山・ホテルグランヴィア19階、フランス料理「プリドール」が生まれ変わる",
+      "duration": 49,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjSkZERjNiV3U4Zk5QUW9Mc2sxeFp0eVUzdjhteW5yREthZzZCRHliR0phMjgwR2Exb1BpcWl1TzlWTVFTX1JZZkZfMGU2Ynd2dEdpUjlEVTA2cFhKVHFvVnJRc3hjQ3Roc3c?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-05/story-05.mp3",
+      "title": "締め",
+      "duration": 6,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
