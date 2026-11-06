@@ -1,0 +1,246 @@
+{
+  "date": "2026-11-06",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 18,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-06/ai-01.mp3",
+      "title": "導入",
+      "duration": 36,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-06/ai-02.mp3",
+      "title": "1. オープンAI最新モデルが安全研究を「こっそりサボっていた」",
+      "duration": 170,
+      "link": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-06/ai-03.mp3",
+      "title": "2. クロード・コードがメールアドレスを外部サイトに送っていた",
+      "duration": 95,
+      "link": "https://github.com/anthropics/claude-code/issues/107757",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-06/ai-04.mp3",
+      "title": "3. アメリカ中間選挙でAIデータセンターが軒並み否決、オープンAIが即座に対応",
+      "duration": 144,
+      "link": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-06/ai-05.mp3",
+      "title": "4. オープンAI、サイバーセキュリティ専門AIを限定公開",
+      "duration": 45,
+      "link": "https://openai.com/index/introducing-gpt-6-cyber",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-06/ai-06.mp3",
+      "title": "5. グーグル、動画生成「ジェミニ・オムニ 1.2 フラッシュ」を正式公開",
+      "duration": 39,
+      "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-06/ai-07.mp3",
+      "title": "6. 中国勢からも新モデル続々、バイドゥとテンセントが大型モデル公開",
+      "duration": 66,
+      "link": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-06/ai-08.mp3",
+      "title": "7. ナスダック急落、「AIトレード」から資金が逃げる",
+      "duration": 26,
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-06/ai-09.mp3",
+      "title": "今日のAIレッスン",
+      "duration": 123,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-06/ai-10.mp3",
+      "title": "締め",
+      "duration": 19,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-06/food-01.mp3",
+      "title": "導入",
+      "duration": 13,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-06/food-02.mp3",
+      "title": "1. 食料品の消費税が1%になったら？ 外食スタイルが激変するかもしれない",
+      "duration": 92,
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Bc1JWNjE0MEZ2NktzM09SVDE5NGlSczM5ZnRrQ1NUR1N6LVBCUWo0YmNTNHBneTVURkxIWVBIbXFWQkhQN2ozVU5PNXY",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-06/food-03.mp3",
+      "title": "2. エーアイ検索時代の集客、どこまで自社でやりきるか",
+      "duration": 92,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tcDRaYzYzbGQ4a0c3bmtuQlhHVm9aRTNPTEY5a2pzaG8zUGN3SUxnU0hXZ1M4WFpTQU1sWEVjcGE3WEdKNHJHdndrdnJlOGZVdzNVUmV0Vk1SeTdGZHd1OG1sLXl4SXNkLWc",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-06/food-04.mp3",
+      "title": "3. 担当が変わると75%の本部が困る——口コミ管理の盲点",
+      "duration": 91,
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TLXMyZ1dLeTlsTmJQNHNneDZoaWxFRHFtSDhKNGFqWUc2b1FTV1pyWW13WEd0Zlg4ZHRYNXlvNTdULTJpeDA0Zjd1T0RsZ2lFVUhXODQ0ZW9zVi1LMUotWW9XQWItWTVx",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-06/food-05.mp3",
+      "title": "4. ホリイフードサービス、2028年に営業利益率20%超を目標——ディーエックスで何が変わるか",
+      "duration": 82,
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mSlJHX042UU5JQWtmOV9QemJEU25QRFhZa1NERl9uMkgzaVVTZndIanNPTkNEdUZRaDRGSkdfc2F6dmRTV3F1b0MzWDFNTktMcHVDRXc3NVcwU1RoaGh1Tg",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-06/food-06.mp3",
+      "title": "5. ガストロノミーツーリズムで価格競争から抜け出す",
+      "duration": 85,
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBndXoxU2d4YjJEV2JfVGFTbW1MZFh5bXE4SWNxQWlsLUZtZWNmdzBEQnBiblo4M0JxcjVsY0FRc25tdVo3V2Z1TXAtamlvMlJBeXB0cE16UEpOM2pHcDFGRXdGY1dxYXotcUhNa1B3",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-06/food-07.mp3",
+      "title": "締め",
+      "duration": 18,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-06/money-01.mp3",
+      "title": "導入",
+      "duration": 21,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-06/money-02.mp3",
+      "title": "1. 子育てと両立で始めたエーアイ副業、防災チャンネルが1ヶ月半で収益化「月8万円ぐらい」",
+      "duration": 120,
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBpSGJyTlRwUkZjTHN3T1lTYUV1TmNpSWlLUjV6djVwbHpZVEVIbzI4OXBiQU5KdF9WN2UxNjl1X2QxY2FmRFI0aGhuRm1JNkVla0M0TEptakFRYmRoOWRj?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-06/money-03.mp3",
+      "title": "2. コンダクターがメタに合流、クラウド版は11月20日終了——ツール依存リスクを改めて考える",
+      "duration": 91,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBRXRWczBfUDhrYTZzNWhMczZSLVBnODdocDVTZUxzTExjZTNSYkNWU2JKNFhjelA2TVM1VXNUVDJCZ3QyR2pfcDdqd2NDSlJTX21YMHNCN0d0dmVBUkNoNjRUM2dTRGN3SDZUVERvS0ZjenZkQkFnQ0NQQ1JSMnc?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-06/money-04.mp3",
+      "title": "3. ドロップボックスが530億円で大型買収、グーグルは「エーアイエージェント時代」の広告に自信——大企業の動きから読む次の流れ",
+      "duration": 116,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81ampUa29CUzYwdUZ1dTVqa0pyMW1oR0dPczVzdXlPU0pmNTBnOXdvWmc3eDFyWUpGX2lZT2JHVXYzdXNib09FNlZWdGo0LUJtcUIxb1ljaFZJQ0dXOXlYWDJ6akZuR08xbUg1LVl3VTJRZU5YUlRDdmQ1cXdMcVE?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-06/money-05.mp3",
+      "title": "4. エーアイエージェント賠償責任保険は本当に必要か——契約前に知っておくべきこと",
+      "duration": 111,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RYkFCeV94WjQtOHJYOUk1T0xOZUYtT2VBRUlXbkZGWmJsWTBRZUc1ck1CT2RhQ1JKRDZhOExOUWRyMkE3eUdOb2dkTEx5WjNhSkxV?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-06/money-06.mp3",
+      "title": "5. 約300万円でテキストから画像を生成するエーアイを訓練して公開——オープンソースの波は続く",
+      "duration": 93,
+      "link": "https://www.linum.ai/field-notes/pjit-21k",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-06/money-07.mp3",
+      "title": "締め",
+      "duration": 13,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-06/story-01.mp3",
+      "title": "導入",
+      "duration": 16,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-06/story-02.mp3",
+      "title": "1. 市川海老蔵、飲食店で隣の人に声をかけた",
+      "duration": 87,
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1NcGp4cDFpczdpdTc1eWkyeW5HNkNadHhyNHZyQWh1Y0c2eV9zcjlTNUhucm1mQVhMTWdpeDdhZUNIMHNGYm56eE1BVENPVVp4Y2tfMg?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-06/story-03.mp3",
+      "title": "2. サーティワンの店員の神対応にウーバー配達員が歓喜したワケ",
+      "duration": 90,
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04OEdTXzBhbjNxbVljU2hHcXJFWmlaaU9fMVNWb2F2amNKSXJlUVZ6YWhyQ19JeE1TcXB0MWgycXNpUG40SE9FTGVXbnU3WG9SaG5aN1JB?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-06/story-04.mp3",
+      "title": "3. 高級レストランで普通の生トマトを食べて感動したインフルエンサーが大炎上",
+      "duration": 83,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55Nm5mSURibzhFSWZ2d1QtNmpnWTN0U0dlU0tvaHBEa1lQdmxJZk8tdExIc0VGZ3lUY2RZWFJmTEg0UkI2WDZxNjhZZjNOejUxYUsw?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-06/story-05.mp3",
+      "title": "締め",
+      "duration": 11,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
