@@ -1,0 +1,230 @@
+{
+  "date": "2026-11-08",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 18,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-08/ai-01.mp3",
+      "title": "導入",
+      "duration": 22,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-08/ai-02.mp3",
+      "title": "1. 「20倍使えます」は本当？クロードマックス、集団訴訟へ",
+      "duration": 206,
+      "link": "https://madrobot.blog/2026/11/07/claude-max-lawsuit-20x-usage-judge-ruling/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-08/ai-03.mp3",
+      "title": "2. あなたのマックが4年間、あなたを「地図」にしていた",
+      "duration": 171,
+      "link": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-08/ai-04.mp3",
+      "title": "3. マイクロソフトリサーチの研究部隊が解散、見えてきた「研究かスケールか」の対立",
+      "duration": 165,
+      "link": "https://hunch.net/?p=13764006",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-08/ai-05.mp3",
+      "title": "4. ハリウッドがジェネレーティブエーアイに「手のひらを返した」",
+      "duration": 57,
+      "link": "https://variety.com/2026/film/markets-festivals/hollywood-flipped-genai-avatar-vfx-house-weta-fx-1236941070",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-08/ai-06.mp3",
+      "title": "5. 半導体株はコロナショックと同じレベルの下落",
+      "duration": 43,
+      "link": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-08/ai-07.mp3",
+      "title": "6. チャットジーピーティープラスの「無制限チャット」が終了へ",
+      "duration": 43,
+      "link": "https://www.reddit.com/r/OpenAI/comments/1xq1qtj/unlimited_chat_is_going_away_what_are_you_doing/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-08/ai-08.mp3",
+      "title": "7. クロードコードの機能が、1100件超のギットハブファイルにパスワードを漏洩",
+      "duration": 37,
+      "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-08/ai-09.mp3",
+      "title": "今日のエーアイレッスン",
+      "duration": 120,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-08/ai-10.mp3",
+      "title": "締め",
+      "duration": 17,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-08/food-01.mp3",
+      "title": "導入",
+      "duration": 28,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-08/food-02.mp3",
+      "title": "1. 値上げしても追いつかない──ラーメン店の破産が突きつけるもの",
+      "duration": 132,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91QmZadjNWSy1yR0F3RkdCS3pXc1JxamhkSm5vSnpOZmxZTmxDY1BpQnJjaHlpRFRhS3J4ZVE0elR5UTZ0SmZiZjJVd3FnWGc3WHd0bk1mNUpXb2haMkFwSTNfTHo3WXBwMW4xX242ejJYTjRWd1htYk9qZXN6S0E",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-08/food-03.mp3",
+      "title": "2. 消費税減税法案が衆院通過──外食業界、どう動く？",
+      "duration": 106,
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdnpWRkVkbTJ1TU5weE5mSHhCRGRILTdISG5mdDdEUUNXaWxvb0dQeHpndFNaa3BxMzBhMzk0M0w4QUhLbTFEcWd0OUVKZUVwYjFyZENTOXc1SnNTS2xVeFBHd25YYXZnM2pRQmp0ZXo5cmRWdzZ1U3c1cmcxZ0plcmRWaVdoaFE",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-08/food-04.mp3",
+      "title": "3. 無料で使える！「売れ時」が丸わかりのダッシュボードが登場",
+      "duration": 106,
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1veDRPU2NDVWRGRlpBSF9jc1l0UXlRbjF2ZmJiZ0NCVW0zR0g1WnZaS1ZheElXOGdhRGxqRkdJN3RmUi12c2owX001NXV2T05uX3VxMVZaaVEwS3VGTU5pdWl4NjRVTlpBTGdvMGNKaVd3Y00",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-08/food-05.mp3",
+      "title": "締め",
+      "duration": 17,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-08/money-01.mp3",
+      "title": "導入",
+      "duration": 34,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-08/money-02.mp3",
+      "title": "1. 「エージェントって何?」今さら聞けない基本と、なぜ今週これほど騒がれているのか",
+      "duration": 130,
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9OUVBJUlhrVlRwblpUdEJFWDhwUmU4ZkhpYXd6YmdlYkhrQ2dIbm9HbnJ2aEhVU0NHaENyV1cxTU9IVFZlZVFCbWQxODZYQzR0WHJHRENheHdmM3JadXZtM3hXa9IBaEFVX3lxTE9ta3ZyMFhRV2ZUOHZmQ2FvM1BnMGdvNmdQVFlOWXM5OXVfSXRkUWdiU3c2S3JETXk3YmI3ZHJsOFBxbjQzclQ1V2w3aFl0R3dZdzZjVktwWkg4bUJIRzdvckJkd25pbzdC?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-08/money-03.mp3",
+      "title": "2. パープレキシティが「AI同僚」を発表。スラックで自走、でも「マックス限定」というところが肝",
+      "duration": 126,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkWlRSTU9yUXR2MUhxUWM4V2FhMlE3QkpZTW1EbC1sdWhZOGZvRHNTczRyNzgzZDJHZ01YZmJYaDAyMmtEdTl2N2hkV19STEZRZU5J?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-08/money-04.mp3",
+      "title": "3. 「構築」か「購入」か「活用」か。フォーブスが整理した判断軸を副業目線で読み解く",
+      "duration": 129,
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0aHJ0QjlQblZXNTVqOXFSS3NRdHVySkJ2M1JjM1ZXVF9zUFh5X2RldDVuYlhHcXBuYVdHdlhMZXBDTzhMZFBFbFg1dWRiNHNla0FoYlpzaDdEZw?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-08/money-05.mp3",
+      "title": "4. グーグルクラウドがエージェント向けセキュリティを強化。これは「副業でエージェントを作る人」への警告でもある",
+      "duration": 120,
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtM3YzaUZqNk43bkVzaHltQ3pjSDhJUU5DWTZCQVRQWEZ3dGRCN2UzLVR1UXFETDl1aUgxbUlsa0xBVDRnTVZCS0NvSlRPRnhmamUwZEJNOC1tZ1IxaXNuT2xoRHpVMm8?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-08/money-06.mp3",
+      "title": "5. 個人開発3本。「小さく尖ったものを作る」がやっぱり正解だと思わせてくれる作品たち",
+      "duration": 137,
+      "link": "https://backwords.greg.technology/",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-08/money-07.mp3",
+      "title": "締め",
+      "duration": 21,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-08/story-01.mp3",
+      "title": "導入",
+      "duration": 18,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-08/story-02.mp3",
+      "title": "1. ラーメンショップ8分完食無料チャレンジ — 女将と大食いの仕掛け",
+      "duration": 67,
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQlpfdUtjZnhGM1o2VEtYQW9KOHd1N05PeDhlTXl1cXlSbXM4TXVHRmtBOEVMYVpCZllFbWZPSV9TV1ZESDFudDNkaGhnSDM3SjFPam9lS2VPSWlzc01HbVZzYTVBS0FXMFFmYkRJU2xRM2pPUjdCR0tsb0ZHRWh3ZmM2ZkJ0RjdC?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-08/story-03.mp3",
+      "title": "2. サーティワンの店員さんの神対応、ウーバー配達員が歓喜したワケ",
+      "duration": 79,
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1kUlo2anB0WWtLRWFPM1ZSX01sUVhIVUg0c2tYdEZLRkt4Sy1YU2xYVkZKNmpMYldSTVJSOVBCeVhQTmV3VF95WHFRZGw?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-08/story-04.mp3",
+      "title": "3. ラーメン1杯300円、70歳からの一念発起",
+      "duration": 132,
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50dmJtUXZsa2czNFlaWkJfMG9aMC1NTEZ5Yi1uOG5qM3ZBX1VlZkpXaGJEOHp3RS11eUVzWXpCWF9NLTJSejc4VnNEckhKVUVZclZScjJSS2o1Zw?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-08/story-05.mp3",
+      "title": "締め",
+      "duration": 7,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
