@@ -1,0 +1,198 @@
+{
+  "date": "2026-11-09",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 18,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-09/ai-01.mp3",
+      "title": "導入",
+      "duration": 30,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-09/ai-02.mp3",
+      "title": "1. エヌビディアのCEOが全社員に不倫を告白→取締役会が「スパイ工作の疑い」で調査へ",
+      "duration": 127,
+      "link": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-09/ai-03.mp3",
+      "title": "2. ゴールドマン・サックスがクロードコードをトレーダーから取り上げた",
+      "duration": 137,
+      "link": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-09/ai-04.mp3",
+      "title": "3. スマッシュバーガーの店主が、開発者なしでお店の基幹システムを全部作った",
+      "duration": 110,
+      "link": "https://www.reddit.com/r/ClaudeAI/comments/1xqquzu/i_built_my_restaurants_whole_ops_platform_with/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-09/ai-05.mp3",
+      "title": "その他のニュース",
+      "duration": 147,
+      "link": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-09/ai-06.mp3",
+      "title": "今日のAIレッスン",
+      "duration": 123,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-09/ai-07.mp3",
+      "title": "締め",
+      "duration": 15,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-09/food-01.mp3",
+      "title": "導入",
+      "duration": 22,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-09/food-02.mp3",
+      "title": "1. すかいらーくが「しんぱち食堂」を買収——飲食エムアンドエー活発化の裏側",
+      "duration": 139,
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9YQTZxUWp0cm5xeEZrMElNd2U1UHAyWTRSeEZENnZ1VHFycEc4ZU00ZDl6RmgwUXFvZW1Sb1lNTnZnOVY2?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-09/food-03.mp3",
+      "title": "2. 2026年の外食トレンド——「朝サイゼ」「100円ハイボール」「ダブル看板」が示すもの",
+      "duration": 124,
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX2VPRTdoVk1XYUIzWjFodFEteVBidi1wZDJjUjdUNm9iZkRiNkJkemJhUHhLWDAxWjBVQ2pxX2pMcXF1WEpSOXVFYjVkYzRDQWFFOWMzTDJ6WS1Na0lyeHFQeUhUWEIyOHlJaFpkQ1ZsYk5ZQU53V2gxNFVwS0pDM3BDUjczVUVW?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-09/food-04.mp3",
+      "title": "3. 食料品の消費税1パーセント法案が衆院通過——今すぐシミュレーションを走らせる理由",
+      "duration": 124,
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRS1ocnhmVjZJVXNDanBNZ1VrWVZHYWVFUWNPSFJFdDV3Z0V5bnVHcmRJeFp5cFR0V2Vya0ZnVWlsOVhpTUdGQlRCd3NBZ2JuaGhnTW5aQXVuT1Y4N21heUNhdnFzYTBrRkVacENGbVYtWXNpME5iMi03aXhoVlpUbEdsM1phcFpt?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-09/food-05.mp3",
+      "title": "4. 来年の外食業界はウェルネス・価値消費が鍵——韓国政府の予測から日本を読む",
+      "duration": 98,
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBDR08xUEtxSVZESmpmUkNRcEJtSmM5b0xWSWdHNFJRclItNUROY0l6cUp1NEhOdW1hU29scHQxTURKN0pjTGVibnMxY0pKZEY0c1k2MnN3Si1uVklHcExnZ0NOZw?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-09/food-06.mp3",
+      "title": "締め",
+      "duration": 18,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-09/money-01.mp3",
+      "title": "導入",
+      "duration": 29,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-09/money-02.mp3",
+      "title": "1. AIがコードを書くほど障害は増える？原因分析AIのトラバーサルが評価額10億ドルに",
+      "duration": 155,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TQmFkcXVYQ3drN28yV3lLY1dFUUJSb0EtNm5LNTNYMmtWSl9tVWlRTTZQSDh4WDNNaUU1c0Mtc284MVptcm9wN28zSFloQWpQYldTc0RhUHgzUTdkZVotTE9rZzlVeTlUbWVnNV85X0d0OWl2UndiZnY3X0pkUTA",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-09/money-03.mp3",
+      "title": "2. クロードコードは正しく見えたが80万ドルを見逃した",
+      "duration": 153,
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80Y0R1VXBDQW9uWVFadmdac2JMOWdPRklxOUtmZExGYXhPLVpubkh2WUFTa1FrTWVrQ0x4akJpdEtLdGNqZ01MM3NUYTlYVmVfdWg4LUNnNVpTNTRTTkE",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-09/money-04.mp3",
+      "title": "3. 15歳が作ったLLMウェイト編集ツール",
+      "duration": 96,
+      "link": "https://github.com/Miyamoto-Renya/LaplacesScissors",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-09/money-05.mp3",
+      "title": "締め",
+      "duration": 17,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-09/story-01.mp3",
+      "title": "導入",
+      "duration": 9,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-09/story-02.mp3",
+      "title": "1. モヤシ1皿で白飯7杯のお母さんに、女性店主が神対応",
+      "duration": 108,
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9xU3F1THVVdDViUGljdXFyMm5jS3BjYjdsM1cwUVNZTWZHeUtJZmNXeW4yZzM2Z1BIY2l2b0VRTTlucnpGQ2JGYkF2WUdLSUE4NWhCdFlvNmRzeTI5bVROQlp3VThGdm5BVmJXODNR?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-09/story-03.mp3",
+      "title": "2. 市川海老蔵、飲食店で「勇気の声かけ」",
+      "duration": 109,
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wUnBOZ1pqTG9JQUtHelA0SHgyRFpwVWNWa2NPNWh5TVM4REh1SUE1bF9IWWo3aXI0dDg1eTA3bW1aQm5ENkwxdVI5YjhETjFINS1LVm1rWQ?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-09/story-04.mp3",
+      "title": "3. 「自分が納得したことを自分の責任でやる」石田ゆり子の誠実さ",
+      "duration": 104,
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fb25ELXNRX3VmZTlocVRFa1JsUVdSOGlZclR3a1o5NWJncXpsNVhNTUt0MDNyRXlkMEdTd21hVjJzajNtZ1N0QmVUV3gyZTFEX09WNE5TeHY1UQ?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-09/story-05.mp3",
+      "title": "締め",
+      "duration": 14,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
