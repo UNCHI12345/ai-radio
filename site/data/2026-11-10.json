@@ -1,0 +1,230 @@
+{
+  "date": "2026-11-10",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 18,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-10/ai-01.mp3",
+      "title": "導入",
+      "duration": 28,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-10/ai-02.mp3",
+      "title": "1. アンソロピック、最強クラスの新モデル「クロード フェーブル 5.2」と「マイソス 5.2」を公開",
+      "duration": 161,
+      "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-10/ai-03.mp3",
+      "title": "2. グーグル ジェミナイ、あなたのドライブとメールの内容を人間のレビュアーに転送していた",
+      "duration": 115,
+      "link": "https://github.com/thisisme6598/gemini_files/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-10/ai-04.mp3",
+      "title": "3. 謎のビープ音の場所を、スマートフォン複数台とエーアイで突き止めた話",
+      "duration": 103,
+      "link": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-10/ai-05.mp3",
+      "title": "メタの新モデル「ミューズ エンバー」、小さくて賢くて安い",
+      "duration": 43,
+      "link": "https://research.meta.ai/blog/muse-ember",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-10/ai-06.mp3",
+      "title": "アサヒ リナックス、エーアイを使ったコード盗用を受けてライセンスを強化",
+      "duration": 49,
+      "link": "https://itsfoss.com/news/asahi-linux-drops-mit-for-gpl/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-10/ai-07.mp3",
+      "title": "アップル、エンジニアのエーアイ利用予算を1日200ドルに上限設定",
+      "duration": 32,
+      "link": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-10/ai-08.mp3",
+      "title": "エーアイ全面導入から1年、誰もコードを理解できなくなった",
+      "duration": 35,
+      "link": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-10/ai-09.mp3",
+      "title": "今日のAIレッスン",
+      "duration": 116,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-10/ai-10.mp3",
+      "title": "締め",
+      "duration": 12,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-10/food-01.mp3",
+      "title": "導入",
+      "duration": 24,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-10/food-02.mp3",
+      "title": "1. 食料品に消費税1%、飲食店の4割超が「売上にマイナス」と予想",
+      "duration": 86,
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5LVGFVT0J2czIzMFltb1dGbXdFSjI1YnY1YWZ5cXNWMXcySUdOOG9MOVY3TEdfY1ZRS215cmQxX1BnSjF1?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-10/food-03.mp3",
+      "title": "2. タップカクテルで「省人化」──ドリンク提供の常識を変える動き",
+      "duration": 70,
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUeTQ2YjVzUWJydnBIZEtNdWJ6bHN6TlpLWFBWQnZvT0hRN0NaaElOY3luSkJQNFF1MmJicGdpall4UXl2ZWxGMnBkX3ZQZDdGZGdVZVhFNHBMRDFsaDZzSw?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-10/food-04.mp3",
+      "title": "3. ラーメン店が倒産ラッシュ、一方で日高屋・幸楽苑は好調。「価格の壁」という現実",
+      "duration": 75,
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50VzhRd0NGU2lCRWcwYWYtN0piSWxYYXA4ZWdWZWdGLXdMRE00NExlaUs3Y29DSHhpUVhJSV9DOUdndm5SSGxDSDRhRmtEaFdaLW1DY1owZmVSeEJTb3NsMUw3RWxKb3RVaGdYb1NEcw?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-10/food-05.mp3",
+      "title": "4. 朝7時から夜10時まで。20年続いた人気ラーメン店が閉じた理由",
+      "duration": 73,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yRzlBcnpiS3dsdllOdzhIc1p1ZktlZDVwLUFSVU12aU82R3JYejh3d2FIYTE0UHlnS3Jubi11aFRvSFJpX1BXem55TnJKM1NxX25HZTFMODRwRFB5NmJfaHp0SnRlcTM2TGJIODZDNjFocDRYaXUtXzNlYUtha28?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-10/food-06.mp3",
+      "title": "5. チャットジーピーティーが勧める「焼き魚定食」に外国人客が行列",
+      "duration": 78,
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByUGpVeVJxOURaQy00YVB2YUN0T3hMZTZWTFZ4QXh3Z2hNcXY0cDhqa3hVbWtaWkoxTkdYYjlHdkFpVk9telVPSVVlQjVEYnZYSFdCd04yWlV2UQ?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-10/food-07.mp3",
+      "title": "締め",
+      "duration": 14,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-10/money-01.mp3",
+      "title": "導入",
+      "duration": 17,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-10/money-02.mp3",
+      "title": "1. エーアイエージェントからのアクセスはまだ1%、でも先手を打つ理由",
+      "duration": 119,
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYl9MMUJXdFFyTjgyd3JveFF5RThPbTNYakJPTTBrdnNqRi10UkZKdDNxQ1oteTNZbFlHd0dMaGVJbkdOVjAxZEl3b3F1VTlzMl9KWnNkdmJ0c3Vsa3VsMXN2akdtUW9mcHQ2bEt4VGpfbWUzV205VFJQM1RBWldMM1NJeHItNGV3M3FtdFZiTmF2aEZISXpYOE1maWs5d3BaeW1tbXFOcVp0Zw?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-10/money-03.mp3",
+      "title": "2. 銀行がエーアイエージェントの口座操作を禁止、これは危ない",
+      "duration": 89,
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOFE2UmJQTC00M1JqbFI4c25wNmtWek85YW1ELUg3QlF3WTdCUWNocG1Qa0U4QklIVGhlSXF2dmhRZVRKaEltU2pxcGhROGpsdXFTRkxTQjBTdE5vMUw5WG0yU3VzVnNsMFYtc3ZEbjhacEVLYUh3enNHenc5NkZCZlZYY0E?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-10/money-04.mp3",
+      "title": "3. ガリバーを運営するアイドムがエーアイエージェントを導入、個人が学べる構造",
+      "duration": 108,
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1yaXVHRmc4TkxmRFpWSVhlNkJlTEZtZDJ3NXA3STI5OFBNd3cwZExabFZJbnJhaWxqdmpPc1B4UjExODVNQ0FjbXlmZjlETjFyN1haTGsyaWE0Q2ZIYUxR?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-10/money-05.mp3",
+      "title": "4. 個人開発: スプレッドシートのセルがエーアイターミナルになるツール「リカルク」",
+      "duration": 102,
+      "link": "https://github.com/sshah03/recalc",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-10/money-06.mp3",
+      "title": "締め",
+      "duration": 14,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-10/story-01.mp3",
+      "title": "導入",
+      "duration": 17,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-10/story-02.mp3",
+      "title": "1. モヤシ１皿で白飯７杯の母親に女性店主が神対応",
+      "duration": 157,
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pam9HdG9OMTFMN2JhUzBPdXhSYXBYN0xtbzVNVzRrMVBDUGVUWVZjTGhUd2R0dU01d18xbnJYRmNzeXVfQVQ0ckd6aGxZY2h2RmpHUnlZLUhlME5USi0w?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-10/story-03.mp3",
+      "title": "2. まったく同じフライトはない",
+      "duration": 68,
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9OcENySlIySURzMk1WRWVqODRYaTBNWmlaMkJfTFQzbGNEbERsRHZieDRTN0hFb3JubUFuR1BJVlktZ3VHS1dkbmxLd042RHFRU0FYYzNMRjhFWXhuOGlsTTBzOWVXeHF6dkI1bUwtWF9hajlvUjU4bA?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-10/story-04.mp3",
+      "title": "締め",
+      "duration": 7,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
