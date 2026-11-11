@@ -1,0 +1,238 @@
+{
+  "date": "2026-11-11",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 18,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-11/ai-01.mp3",
+      "title": "導入",
+      "duration": 26,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-11/ai-02.mp3",
+      "title": "1. ジェミニ4カーボン、ついに全員に開放",
+      "duration": 152,
+      "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-11/ai-03.mp3",
+      "title": "2. アンソロピック、1.3兆ドル規模の株式上場へ",
+      "duration": 88,
+      "link": "https://www.anthropic.com/news/roadshow-launch",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-11/ai-04.mp3",
+      "title": "3. クロードにホワイトボード・シーツ・データ機能が登場",
+      "duration": 127,
+      "link": "https://claude.com/resources/articles/sheets-whiteboards-data",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-11/ai-05.mp3",
+      "title": "4. メタの小型・高効率モデル「ミューズ エンバー」登場",
+      "duration": 46,
+      "link": "https://research.meta.ai/blog/muse-ember",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-11/ai-06.mp3",
+      "title": "5. アップルがマックをAIサーバーにする「ハーバー」アプリを開発中",
+      "duration": 55,
+      "link": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-11/ai-07.mp3",
+      "title": "6. ノーション、取引先のセキュリティ事故でAIチャット履歴が一部流出",
+      "duration": 58,
+      "link": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-11/ai-08.mp3",
+      "title": "7. アマゾン、AIモデル切り替えでコストを98%削減",
+      "duration": 69,
+      "link": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-11/ai-09.mp3",
+      "title": "今日のAIレッスン",
+      "duration": 127,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-11/ai-10.mp3",
+      "title": "締め",
+      "duration": 13,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-11/food-01.mp3",
+      "title": "導入",
+      "duration": 20,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-11/food-02.mp3",
+      "title": "1. 「電気料金が安くなる」と飲食店に持ちかけ——電力メーター不正工事詐欺で指示役の男を再逮捕",
+      "duration": 88,
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpeTFvTWxwSV8yLWFXVDRBbVdXM19Cc25TOEY0U1pCN3NUMjI4Z2ZmUjc1WnJySkZHS0U2MGlWZlNaZHNYWXVJR3hocUtreUw0TU1HN0VwbDFGNHpZa3poSmtvLVA4amc?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-11/food-03.mp3",
+      "title": "2. 物価高で飲食店に深刻な影響——人気店も一部メニューを休止、外食離れの懸念も",
+      "duration": 84,
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxV18ydmllUjhidm1Lc0pQZHkwdnVnM0VfWXJwR2ZrWFdLSFBnb1lPUFI4WkxXVlRBVWc0dThONDhtT1E3Mm9HVVpuTFFwUHhNdzBhelVqcUxNYWlNWWxNdE83ODd2MUVJ0gFuQVVfeXFMTllyeWJrUFVQNklFc2lvakk3YkJoQVd5RGtTYXllYzEzS1hGdVdhTTZOSThlU2t4UHIyYkctOEgzUXJES3hwQUZRNmhPak5NcUp6bVE4SlJVSHd2QlVIcUJUTjZLTVJUZlFDZk5abVE?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-11/food-04.mp3",
+      "title": "3. 10月の街角景気で飲食関連だけが上昇——忘年会の予約が始まり期待感",
+      "duration": 82,
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1SRXlVTHBsNUN1bGdaaFJRdUpJcjFnZnZiTU9CTFJZaDlqY0I4NGgzUDlSZDlzVzdvSVh5NXpwNUlJUlJ1QXRjSmw3WEpWRjQtRVpjQjFzckdGWS1tTHZ6TTd3?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-11/food-05.mp3",
+      "title": "4. 「朝7時に来て、帰るのは夜10時」——20年続いた人気ラーメン店が閉店した切実な理由",
+      "duration": 89,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA5UjFhQmM0LVU0YUhsUWZDNGwyY0ZFLTNZRTZpc1ZlZ3FreXBGelhqWG05b0tmbGZhaEhPWXBPNUVBb1QxTlFXTUcyOExpSG0ydHBB?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-11/food-06.mp3",
+      "title": "5. 農水省がインバウンド拡大へ本腰——外食15社の海外展開も支援",
+      "duration": 91,
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxNE4yMzdoOWo1aUxsSU9EOE53SGtPalR1RGZVSFlfTWZuRDFsaFRUSmNLczRUMlNGSk9GWTktU2N6ZjJyLVYwbnNOWC1yOFdkWnJ5eA?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-11/food-07.mp3",
+      "title": "締め",
+      "duration": 17,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-11/money-01.mp3",
+      "title": "導入",
+      "duration": 23,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-11/money-02.mp3",
+      "title": "1. オープンAIがチャットジーピーティーをブランドに開放、個人開発者にとっての意味",
+      "duration": 92,
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zSkRnVkg2V3M4MjRST1NxeFp0WDhPaHN5U1J5NmZRYURMWDVTZ0UwUjV6cHBkQmhoMXI3cUlMOGViVGZRSVljY2pKMlpsTXJPTVM0cHF1SEpjVS1YRkUxTk5aeWxfa3lqc1hxWXdvcHZMQmVB?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-11/money-03.mp3",
+      "title": "2. AIエージェントが「顧客との関係」を壊す？ 買い物代行時代の裏側",
+      "duration": 103,
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE81YWJNZnQ2MUs1M05fdHdqQlJseHFiVUQtSl9GdWdUZUUyMFRtWGNrcXQycGNCT3RJT1NQY3pGTUJ0X0hzTkZMOU1LNzhzQ254WnJwYW5lZ0ozUkl0bTV0TDhXRdIBaEFVX3lxTE5sOXhIWjVNTU5FLW1lbVFqdGRoREhIMWNfeWxYTzVDa3Y0bW50WnN4RWpVWjA5dXhKRUtoNjYzQWtZY0p6UzdjMUl2WWl3bXlKVmx0UjBPOUxXWHB0N2VNOWltWmZOSjll?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-11/money-04.mp3",
+      "title": "3. 「AI導入で終わらせない」実装専門家の需要、副業コンサルのヒント",
+      "duration": 117,
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11NDJnV2NFSVVQbTJuWVZZWUFSNmprbTdyTFYyeExUeXFFYUR1SGdnckFGa1dXem4yd0hJQWpFRnp6bXNYTlNDeDZkTHJKN0h0b2c?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-11/money-05.mp3",
+      "title": "4. 自分のデータで15本のAIモデルを作った個人開発者",
+      "duration": 68,
+      "link": "https://github.com/0xdeadf1sh/T1DMAI",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-11/money-06.mp3",
+      "title": "5. エアギャップチェック：あなたのAIアプリが裏で何かダウンロードしていないか確認するツール",
+      "duration": 93,
+      "link": "https://github.com/humanethq/airgap-check",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-11/money-07.mp3",
+      "title": "締め",
+      "duration": 17,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-11/story-01.mp3",
+      "title": "導入",
+      "duration": 28,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-11/story-02.mp3",
+      "title": "1. トラブル続出の会場で、声優がやってのけたこと",
+      "duration": 173,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jM2llVTctdzh6SUg4YlpNTjNOc1phajV5MGlwdGJOX3p5NTdoRFc1NlBaMFBIRUdXdUdYZFZucHVFTTM0NW5QdG1ub29FUHk5bFFrVDBDMnhIQVJrUlczbEJlLV9BWVgtVW44V0ktUTQ4V01lWGJfdzczSkhzUDQ?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-11/story-03.mp3",
+      "title": "2. リッツ・カールトンが教えてくれた、ファンを作るシンプルすぎる方法",
+      "duration": 153,
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9WRFZQdnJrNXVyQjhDNXhUZGU1M0pGWUtxc2NmN1lwWHNRZ0N4bF8yRDhMZ2k5NWpNck1YM0JLRnFjSi0wX1lXVWNmRVQ?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-11/story-04.mp3",
+      "title": "締め",
+      "duration": 13,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
