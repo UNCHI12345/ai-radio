@@ -1,0 +1,254 @@
+{
+  "date": "2026-11-12",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 18,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-12/ai-01.mp3",
+      "title": "導入",
+      "duration": 37,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-12/ai-02.mp3",
+      "title": "1. アンソロピック、株式公開へ——ロードショーで明かされた衝撃の内幕",
+      "duration": 217,
+      "link": "https://ipo.anthropic.com/us/#roadshow-video",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-12/ai-03.mp3",
+      "title": "2. 72時間でマヤ文明の遺跡を「再発見」——エーアイエージェント、ジャングルに潜る",
+      "duration": 182,
+      "link": "https://pietromiotti.com/latest/maya-site",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-12/ai-04.mp3",
+      "title": "3. ユナイテッド航空、エーアイエージェントによる予約を禁止——「セキュリティ」と「法律」を理由に",
+      "duration": 145,
+      "link": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-12/ai-05.mp3",
+      "title": "4. エヌビディアのジェンスン・フアン最高経営責任者、解任準備か",
+      "duration": 39,
+      "link": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-12/ai-06.mp3",
+      "title": "5. グーグル・ディープマインド、アルファゲノム2を公開——ディーエヌエーを読み解くエーアイ",
+      "duration": 47,
+      "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-12/ai-07.mp3",
+      "title": "6. グーグル、ジェミニ・デシジョンズエーピーアイを公開——1000個の質問を一括で判定",
+      "duration": 51,
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-12/ai-08.mp3",
+      "title": "7. オープンソースコミュニティが続々とエーアイ生成コードを禁止",
+      "duration": 47,
+      "link": "https://osssaysno.com",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-12/ai-09.mp3",
+      "title": "今日のエーアイレッスン",
+      "duration": 162,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-12/ai-10.mp3",
+      "title": "締め",
+      "duration": 17,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-12/food-01.mp3",
+      "title": "導入",
+      "duration": 24,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-12/food-02.mp3",
+      "title": "1. 丸亀製麺が1割値下げ、消費減税対策で大手初 外食各社が客離れ防ぐ",
+      "duration": 93,
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDY0tIdWNJQV9wdGVSV2hicWJxTEJzVFZQM0U0dUcyODlqVThtMUVrUWJvMFRqa2hTUDdXVExhUjFocF9saDN4c2diZjdIamRpM3hsMk5uY3JrbjRkbDV6aWt4LUthalNFVTFhVQ?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-12/food-03.mp3",
+      "title": "2. 「てんや」の客離れが止まらない…鳥貴族やサイゼと明暗分けた決定的な差とは",
+      "duration": 91,
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlUXIwdGN5TFRqLXcyMWpYTzFPU0lLY0F6WlFSSTE2T2JtMnVhU0FsdDJ0a3hIVDlTbDFOQ3k5eXhXOVhWWEFERVByNU5sQmVJTGJrWEZ4R0VfTElERE5DcDh6NFp3bU9LVWFVcEtmeW8?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-12/food-04.mp3",
+      "title": "3. 「朝7時に店に来て、帰るのは夜10時」20年続いた人気ラーメン店が閉店した切実な理由",
+      "duration": 98,
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUENtQWVWMXMwVlRvTlgtVjZvVUF5YXV2MzUxMkZuZ3pxNC1HUl9NSGdzbTV4bTRyTWlwaHlSZVNyX1hhaWdWakViYzM4NFpKbnBBcnBCNzRLNGV1QjNyN1BGdk5sMVJISW0wR2Rmb0tyVGFrLXp4ZkFBQi1OaS0tTmlKQXFVZXA2bnFBanVR?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-12/food-05.mp3",
+      "title": "4. 国は約9.7兆円投資を想定…フードテックで食の未来は変わるのか",
+      "duration": 88,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GRlViTzlvLW9wc1h3ZDlLaUU3V1hzb000U3BaUmtBbjlmYjZYR0dHZzJ0dXNiSVktOUNDazA5Q0ZzV0xzazBrUzhXdWEwMDhkc1o1S0lpQl9UNU8zdkJiejl6c2Mtb2JtQmlDNE5mQlhLNDVpZ293TmxHTXFHUk0?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-12/food-06.mp3",
+      "title": "締め",
+      "duration": 17,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-12/money-01.mp3",
+      "title": "導入",
+      "duration": 21,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-12/money-02.mp3",
+      "title": "1. アドビがフォトショップを他社エーアイに開放――月間10億人のプラットフォームが動いた",
+      "duration": 86,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xNzRBZDNVb3JUcG50N2JpQkc1bVFfUS1XazU4QnZhV0F4Um1CSXE3Zm1IeW1hOEhxTWF4Y3JHX1I0RkpJMEtvZnRBTXlBZk5LOUJ0a2RFVmdicUROS2h5aldIWEgzQ1dnRV8zUzBjWHgxc1RuUTFmdXpsVkdoYnc?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-12/money-03.mp3",
+      "title": "2. 「止められる」と9割が過信――エーアイエージェントの権限管理、本当に大丈夫？",
+      "duration": 107,
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5FbUc3aDhFZ01NQS1PdHpWRU9SRFRUblZaWnRLQkJZV1lDRlN2d3VjZFB6RVc2dS1KazNEYnBOMF9LZzk2WEd5ZVlIX2JBU28?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-12/money-04.mp3",
+      "title": "3. エヌビディアがメタに30億ドル出資、エーアイエージェント「ミューズ」強化へ",
+      "duration": 61,
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBqaXgtV09LWk5CYnR3cVF0dmZXRVYtLUFmQ3k1NjR4OFhBTDloNGpBblpHODk3b2gxUTRCWV96bkVhQQ?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-12/money-05.mp3",
+      "title": "4. エーアイエージェントに追いつけない従業員たち――「人的コスト」という見落とされがちな現実",
+      "duration": 83,
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQVGhYUmN5T3lHSHhkUzU0NGNfekJ3dXNNeFdGQnk4WjFVTVVnYXhMcWVVQUswU0pWaVpkSmRrUGQtRWJtV1VJMWFNb2dsQV9BXzZ4OFBmTXktZw?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-12/money-06.mp3",
+      "title": "5. 個人開発: ブラウザで動くプロ向けキャドツール「エアキャド」",
+      "duration": 81,
+      "link": "https://aircad.com",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-12/money-07.mp3",
+      "title": "6. 個人開発: クロード・コードの「注意キュー」ツール「エーキュー」",
+      "duration": 83,
+      "link": "https://github.com/nodo-labs-uk/attention-queue",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-12/money-08.mp3",
+      "title": "7. 個人開発: ジーピーユーレンタル料金の毎日比較サイト",
+      "duration": 73,
+      "link": "https://taipeiledger.com/gpu/",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-12/money-09.mp3",
+      "title": "締め",
+      "duration": 17,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-12/story-01.mp3",
+      "title": "導入",
+      "duration": 17,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-12/story-02.mp3",
+      "title": "1. 感動接客で逆張り──ノジマという戦い方",
+      "duration": 64,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XYllBRFpiMWRiQ0VITWdya3ZiaEY3LV9FS1UxbjBwWHFZRHBTc2pTcXBPOWp6Tk1fcXloLW5yWFRXQlFzcjE5YjRQQlI2TmpsamxN?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-12/story-03.mp3",
+      "title": "2. リッツ・カールトンの「違和感」",
+      "duration": 146,
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9lQ3k5VDNjdDZNVjFCUjFhbGd2NHNpMmtIYkhUaEF2YmpVajJGdzc5RjE5NWVFeEJkeUxjVzVhV291TFYtNFFrblgtMEM?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-12/story-04.mp3",
+      "title": "3. ニンテンドーミュージアムのレストランで起きること",
+      "duration": 74,
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1uWS0wUGhuTG5XeXkxcHl2ekQyR0ZOR3ptVzFWQk9QM0lWNmpkYTdOZXlkTGtWWGtCbmEwUUJrampTV0NhYi1rT1JpNTc3OVk?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-12/story-05.mp3",
+      "title": "締め",
+      "duration": 3,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
