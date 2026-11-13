@@ -1,0 +1,222 @@
+{
+  "date": "2026-11-13",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 18,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-13/ai-01.mp3",
+      "title": "導入",
+      "duration": 29,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-13/ai-02.mp3",
+      "title": "1. エヌビディアのジェンセン・ファン氏がCEOを辞任——スキャンダルの全貌",
+      "duration": 156,
+      "link": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-13/ai-03.mp3",
+      "title": "2. アンソロピックが株式上場を申請——エーアイ企業初の大型上場へ",
+      "duration": 102,
+      "link": "https://ipo.anthropic.com/us/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-13/ai-04.mp3",
+      "title": "3. グーグルが「ジェミニ4 ハイドロジェン」を発表——誰でも使えるジェミニ4の登場",
+      "duration": 125,
+      "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-13/ai-05.mp3",
+      "title": "4. アップルがエーアイ開発フレームワークを大幅アップデート",
+      "duration": 56,
+      "link": "https://developer.apple.com/foundation-models-framework/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-13/ai-06.mp3",
+      "title": "5. 「エーアイを使ったゲームを正直に開示したら批判の嵐だった」——ソロ開発者の体験談",
+      "duration": 68,
+      "link": "https://www.reddit.com/r/ClaudeAI/comments/1xus0wz/i_disclosed_every_aimade_part_of_my_solo_game_on/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-13/ai-07.mp3",
+      "title": "6. オープンエーアイが子どもの安全研究に約3億円を拠出",
+      "duration": 29,
+      "link": "https://openai.com/index/children-first-declaration",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-13/ai-08.mp3",
+      "title": "7. 2500ドルのマイニング用カードを2万ドル相当のエーアイカードに改造——ハードウェアハックの話",
+      "duration": 55,
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xu1dkz/someone_voltageglitched_a_cmp_170hx_mining_card/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-13/ai-09.mp3",
+      "title": "今日のエーアイレッスン",
+      "duration": 105,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-13/ai-10.mp3",
+      "title": "締め",
+      "duration": 14,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-13/food-01.mp3",
+      "title": "導入",
+      "duration": 21,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-13/food-02.mp3",
+      "title": "1. 消費減税前に「攻めの値下げ」相次ぐ——丸亀製麺が創業初の値下げ",
+      "duration": 149,
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBXN3d0Mk1FOUVFWXkxZmRFM0VEZXpqNk9NMC0xVUl3RFRKTnVqUUNVUUFVUW5VMXhQenZENFltRE5IanFRaVFocXZScDQxVWtCNUcyVjF2NFpiWlJrcTJrTTB1RVVzRGk0WmUtTk1NQnA3V1I3?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-13/food-03.mp3",
+      "title": "2. 飲食店本部の81.3%で口コミ・店舗情報トラブル、担当交代時の引き継ぎにも課題",
+      "duration": 158,
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lVXVPSDlKNUJMeU5uM1pHcDVTZk41NUhBcFdNaXR3NVk0WmZGT3o3OU90Tlh0N0hfaVRJWDlMX000b3F1d2kwYmVvWE5LMlhsTEoxZEVXYmtxd29kY3dxNw?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-13/food-04.mp3",
+      "title": "3. 最低賃金1095円に引き上げ、飲食店で人件費増に悲鳴",
+      "duration": 116,
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCbF9kVmp6cmxQTFl6SXZVcUNOc05KMkdMNmRuVVg1ZHRmLTBsdUtTMGRRRkZYekZuTXpfUnliV01wUHRtRndXOGRudFhGSHpDVHlWLUs1RzZGVVB4bWVidDRqR3lNNFVxaVdHMzNR?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-13/food-05.mp3",
+      "title": "締め",
+      "duration": 17,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-13/money-01.mp3",
+      "title": "導入",
+      "duration": 25,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-13/money-02.mp3",
+      "title": "1. スクエアとコンスタント・コンタクト、小規模事業者向けエーアイエージェントを相次ぎ発表",
+      "duration": 108,
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MZWx4SEtJbENqSncwYTRVbTFYeklhai00VEFDemhBQ2dhQmtFRkVfOExsdmVzbXBMc0QtTFVmSUNnbm13b09GTXlEY2trYnJYMUt2QVpxWEJ4d3NpUVI2QUlvTElwSGtoSFRLbzFrZFE?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-13/money-03.mp3",
+      "title": "2. アスタミューゼ、エーアイエージェントサービスに企業デューデリジェンス機能を追加",
+      "duration": 88,
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9JLThBNHM1bTFhTFZxRDBiUWhvN1lrTzM2dVRzcE5xWFJndFRlMTY4SW9nYllLa3JiNlVQcVliZmNJVUpaU1NPR1dfSktNXzlx?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-13/money-04.mp3",
+      "title": "3. グーグル・クラウド、エーアイエージェント向けセキュリティを強化——「コード・メンダー」の拡張など",
+      "duration": 94,
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0S0IwUFdYZjJQM3hiUUwtRkZZbjY0RGFuOEcwMWktUkNPMlZkN1hXTHVTSm1KMW54WE03T0hwUW1wMkhwZHBEblNOMUV0Q0hxb2kwYkxiQkNIRWJMVXRqSTZQMTRRQnpKLUtCTExnam5nUHNwU0E?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-13/money-05.mp3",
+      "title": "4. 中国、エーアイとの「親密さ」を規制へ",
+      "duration": 97,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Sb29QWjZxaHRMaTItY08yTjhuXzNCaW16LWd0ZElScXVlSWZPVkRyamRHVFFHTDZDUmJHcEZiRFlLbTJyRDZNS1ZIdGZFSmQxZjBR?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-13/money-06.mp3",
+      "title": "締め",
+      "duration": 21,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-13/story-01.mp3",
+      "title": "導入",
+      "duration": 20,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-13/story-02.mp3",
+      "title": "1. 元エミレーツ航空CA芸人クレイジーココ、ジャルの接客に感動「私はこんな清々しい接客をした事があるのか」",
+      "duration": 159,
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xM2V5N1ZlY2t6ZmNUR3AtX0Z0NFhNaGtjZm00elhpZGwxQ252Q0p4VDNlbXp4S0dkZC0tckpYUEFwT21UMXNLcDhEcUxDN00wOEE?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-13/story-03.mp3",
+      "title": "2. 松本梨香の神対応もむなしく…鳥取グルメイベント「5万人集客」のはずが「500〜1000人」運営は「目標だった」",
+      "duration": 166,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfMkVmZG1Ea0wxSTFkcGRUVlZEa3ExdW5ibFBxV05jTVZPVzRYeDVuLWZMMUhNQ0tFTjRzdUJXcF9OUlpKdFdNMGhDZ0I3U1hWeVY3cWxOTXp1NXlWQmQybS1nVl9rUm1jVVZnZUZUYTdkQmYyVHk1ZkxhdHRybk0?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-13/story-04.mp3",
+      "title": "3. 感動接客でリピーター続出の家電チェーン（カンブリア宮殿より）",
+      "duration": 50,
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBvRW5ZQ3kydGExVk5nVEVwcEQ4aWNRa1hDMl8xWmNYQXlCQXpYVzRwWjlxZjd0RFlGRm5rRXUwQjhFanotdnN0WjRwRE56SjdyNlhXdGRnMzVzb3BBLUluOTR1ei1pd0hwcUw4ZmFvS1NzS1FqUHBEWg?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-13/story-05.mp3",
+      "title": "締め",
+      "duration": 6,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
