@@ -1,0 +1,174 @@
+{
+  "date": "2026-11-14",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 18,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-14/ai-01.mp3",
+      "title": "導入",
+      "duration": 31,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-14/ai-02.mp3",
+      "title": "1. エヌビディア創業者ジェンスン・ファン辞任——エーアイ業界最大の激震",
+      "duration": 175,
+      "link": "https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-14/ai-03.mp3",
+      "title": "2. チャットジーピーティー ウォレット——エーアイエージェントがお買い物する時代",
+      "duration": 111,
+      "link": "https://openai.com/index/introducing-chatgpt-wallet",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-14/food-01.mp3",
+      "title": "導入",
+      "duration": 18,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-14/food-02.mp3",
+      "title": "1. 消費税減税前夜の価格戦争 丸亀製麺は「値下げ」で攻勢に",
+      "duration": 122,
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTVV0WDB3RDIyRFZnZlpsdkUzR2FRemU5VVVfby1uQlkzVlMxaDJsWVI1RXh3SEpibVRKVjlBX01TbEVTOEc1UlZ5MzF4ZFpfR2RTVS1mMXY5cVQxMW1lR09DUmMtUm5WVjBaNFRFcWRmR3BtR294bTVpOEMtWV9uTEIzbGN4VWc2R3RCVFJB",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-14/food-03.mp3",
+      "title": "2. 外国人材の活用ルール、外食業で見直しへ",
+      "duration": 98,
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZVkR6RmhwTXY1Q2J5Z2k3NFZIVHZPODQ5MUpZdVpOSUVsZWluU0loTE9xV3p4S0NkSFlfbmtSX0JFYV9NazZ3RFFSRFZ1bVFsTk9JRUhNejBXTjhXejlF",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-14/food-04.mp3",
+      "title": "3. 「飲食店経営の未来をエーアイで語る」 業界のエーアイ活用が本格フェーズへ",
+      "duration": 84,
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYOEJBbUlKZGVNUnN2T0VlV2Fub0pJTnBEQ0lzZGdEV29wSEx6azBjQ0cxMEFtV3R3OEdPcVVOR3ZxTU4zTnJJUFRxWW1UYUo0WnluWnhkRUpXbGJKSnZETnlkd1FERWdR",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-14/food-05.mp3",
+      "title": "4. 寿司ネタをスリーディープリンターで再現 フードテックが介護食市場を開く",
+      "duration": 85,
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYRGhLSVBOOUItNlNCWGJ6bnZWY01zaGgtRDZZQ3hMdmZvYlZnZ3RuLWl3amo5clpJYkF1ZTRzMXlZMHBzQXhxV3oydndVSWFIUUpnMFpWUGREdnJhY3lv",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-14/food-06.mp3",
+      "title": "締め",
+      "duration": 17,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-14/money-01.mp3",
+      "title": "導入",
+      "duration": 17,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-14/money-02.mp3",
+      "title": "1. チャットジーピーティーが「財布」を持った——オープンエーアイが決済に参入",
+      "duration": 91,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pWmpCaFJRT3hlMWQxZjMxWHl1Mm9vQ3ZfVnZ0WXhWVXU5UGpEZDcyUVF5ZUtuUHU1WlFNakx6N1pkaXhxUlNvVE9jVHNDUXF2NHBheDFkS3lNSFJCaW9hUGs5Y0NNdjdOOXFfU0hGS3k5c2JDVHpid0Nja3FjX0E?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-14/money-03.mp3",
+      "title": "2. エーアイエージェントが「客」として来る——新標準「ポッピー」に100社超",
+      "duration": 83,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84SEtZbVBBaEdJU3MzMnlXX19xNzhqa25wd0ZQeVNhR1Radm9wM0gybzg0b1ljcVQ5YWdwbGF5dThsYnZVQ1RYQkU2clpyLUZEb252NWNVbTIyOXM4VDRyUE5uTkFqN19HaDNyX2xvc0NySzNCeUVKZ180Nlo0VGM?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-14/money-04.mp3",
+      "title": "3. 社員20万人にエーアイエージェント2000万——マイクロソフトが見せる縮小版の作り方",
+      "duration": 84,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jYVNqWDcxSjhsNzZXV0lZeUxtaDd6bEttOGdPN1R0cTdvdXB1RVVNRDJLQXpaS3FUdk5iazlHY0dKTVNhQ1ZVUk9EQ3d0ZW42MmZUS3hELUN2cnFHck1IamJ1VVEwVjczaGhNSDFvb3FpaE5BSjVrYXowaDBpcDg?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-14/money-05.mp3",
+      "title": "4. 「10倍の生産性」は本当か——コード自動レビューに学ぶ自動化の狙い目",
+      "duration": 98,
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84LWZOTVVLU0lnNXdPeEl6VW5XV0lVaWFHbGpRZWdFbkowUmZ6UmZLU3RMQ0VNX2YwSnZVLU16SDBXX1JRLVBvZ0YzQ2pwQTIzQy04T3ExUmVoUQ?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-14/money-06.mp3",
+      "title": "5. 個人開発ピックアップ——動画ジェネレーターと音声検出ツール",
+      "duration": 86,
+      "link": "https://usediorama.com/rick-and-morty",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-14/money-07.mp3",
+      "title": "締め",
+      "duration": 12,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-14/story-01.mp3",
+      "title": "導入",
+      "duration": 12,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-14/story-02.mp3",
+      "title": "1. 鳥取グルメフェス炎上、それでも向き合い続けた出演者たち",
+      "duration": 142,
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DYWtaSGFjN0hRTktvaVkwWFRzd1JlMF9YTkVxQ21aWS1ZQTctZjVBVjZEQ2l3aTY5OGcwaFhtR2JGb1lvTE82bV93WDZlOGV0WXc?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-14/story-03.mp3",
+      "title": "2. 好みのカフェなのに、行きつけにできない",
+      "duration": 106,
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ZbGlvb2ZjYlQ3cGhXdGhoX05QWTdCWFhQMF9ucXVab2hLamVWR2V6Y1ZVOEVZWEVON1RrSVEyWEF5VnQ0SlE?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-14/story-04.mp3",
+      "title": "締め",
+      "duration": 11,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
