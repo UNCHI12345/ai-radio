@@ -1,0 +1,238 @@
+{
+  "date": "2026-11-16",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 18,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-16/ai-01.mp3",
+      "title": "導入",
+      "duration": 39,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-16/ai-02.mp3",
+      "title": "1. ジェンセン・ファン前最高経営責任者、ジーピーユー不足を「演出していた」疑惑",
+      "duration": 189,
+      "link": "https://wccftech.com/jensen-huang-financed-ai-startups-absorb-excess-silicon/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-16/ai-03.mp3",
+      "title": "2. 年間75000ドルのエーアイ学校、生徒の半数が数学の目標に届かず",
+      "duration": 138,
+      "link": "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-16/ai-04.mp3",
+      "title": "3. 欧州連合のオープンエーアイモデル「エウロパ」、1兆パラメータ規模で開発中",
+      "duration": 134,
+      "link": "https://maccus.fr/en/eu-open-ai-model-europa/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-16/ai-05.mp3",
+      "title": "4. オープンエーアイ、科学研究専門のブログを開設",
+      "duration": 50,
+      "link": "https://openai.com/index/our-new-blog-for-science",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-16/ai-06.mp3",
+      "title": "5. クロードを使ってゲームのバグを修正、ゲームメディアに掲載",
+      "duration": 66,
+      "link": "https://www.reddit.com/r/ClaudeAI/comments/1xwla0c/i_used_claude_to_fix_dead_space_2023_and_got/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-16/ai-07.mp3",
+      "title": "6. ワールドモデルを使ったマルチプレイヤーゲームが登場",
+      "duration": 49,
+      "link": "https://vor.tech/x/reddit-ml",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-16/ai-08.mp3",
+      "title": "7. エーアイが生成したコードはオープンソースにすべきか？",
+      "duration": 57,
+      "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-16/ai-09.mp3",
+      "title": "今日のAIレッスン",
+      "duration": 115,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-16/ai-10.mp3",
+      "title": "締め",
+      "duration": 12,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-16/food-01.mp3",
+      "title": "導入",
+      "duration": 26,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-16/food-02.mp3",
+      "title": "1. 丸亀製麺が人気5品を異例の値下げ発表、賛否が分かれる",
+      "duration": 89,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Mck9WWXlfSVM3M0xuZjFFcEdmN3JUUXA2V1pvajJCT0VVQUtjS2dMc2lYMl9YQTFDcmdjQWthamNXSmlDa2FKemFOckJESzZWTWp0YWhCaGpKUGw2ZVlNUmhhVkx2a2d2WlN1SVhnQm1ybU5wOEFibU5ybnh4QkU?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-16/food-03.mp3",
+      "title": "2. 客数減の外食チェーンが相次ぐ中、庶民の外食支出は増加という意外な実態",
+      "duration": 112,
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JS2g2clFzdV96eEtBZ0VFRnpBV20yVDI0NjE1WndJNGNpd0NYSnVjRFJpcVh3WU9EcmVBbGQ3V3lqdW54YVQ4T2FGY2FWUDY4bW1UNXNpazdCNlNZYWRRcWdtak80bXd0aGxwT0YxRjU?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-16/food-04.mp3",
+      "title": "3. 「日本一」が全300店舗にシフト管理ツールを導入、月800時間を削減",
+      "duration": 114,
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtdldLamg3RnhkWUxEMnYwTFRhRkZzUmZtMnNTaTA0X0FzYWhSUFE0U1VMNHM2UmxiVWRoOTE4V1RDU3FrNmVKaXNwUkRncWdRTDhabl9HRjg4ZUZZbFFDdA?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-16/food-05.mp3",
+      "title": "4. 食品の盛り付け・提供機器の市場、2035年に向けて自動化が加速",
+      "duration": 82,
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcGdoRGxPcmFPMnMtNEhJTHZYQ3lXVlB1UFBMSUJlbHJ3c1dPUlZ1TXpZOXE1allOUFVad2I1QXVGSDJNUGtmblV1bV9YVGhzd21rRHdWNlJfLVJfcndWTGktc0xzNFBhY3F4V3R3VXBoNjJJTDEwVmJGZDhuUEdUOHA4QnBVdHdwa2hmZ1ROMXd1QzF6S3BVUm00YllWQldpU2VhUkpfbGQzTEtqNHJRQjA2cWFhZGhBNXZudUVYR3FnODVYaUxOQW8wTVV1c1d2TVFaSHh3UjRUaWg5Z2NmejZQNjZXa3dObFE?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-16/food-06.mp3",
+      "title": "締め",
+      "duration": 26,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-16/money-01.mp3",
+      "title": "導入",
+      "duration": 21,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-16/money-02.mp3",
+      "title": "1. オープンエーアイが企業向け新機能「ビジネシズ・イン・チャットジーピーティー」を発表",
+      "duration": 102,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZUUZRT1B2RUxOSzlSeS1NbjBxTU5YZVg0ZEI4VUw0dGxNd3ZwRmVsUVFCWnBpaGFQdEVCWGYxekIwMHFaZWxYM0Vxb0ZaYXotc005LUVpcmpjR25HM0ZyWWFCdlpRWFNzOEdsc1loWlNKMDluRTFmblZhYjU5NFE?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-16/money-03.mp3",
+      "title": "2. AIエージェントの「権限問題」、今日だけで記事が三本",
+      "duration": 126,
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBxWjM0QWdQOGIzM0ZwU1M2Z2pVOEp2bTJoWDJtbEVINUV4Y1hfWXdVaGJ5TnhSRnItNlA2RnRQZXpWSjNBUGwxVTlOcmprLU0?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-16/money-04.mp3",
+      "title": "3. 「3日でシステム刷新」は本当か？",
+      "duration": 75,
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Fd2FfYUpNWmV3Y3Bwd1lWWF9jTl9Wa1JVNnZpdHlzVF9aRjFmaUZRSTE5MEpDTGlPdkJLTzlBeWZON1B1QkhsX0JUSXF1ek0?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-16/money-05.mp3",
+      "title": "4. 個人開発ピックアップ：エージェントに「予算の天井」を設ける「ショトク」",
+      "duration": 111,
+      "link": "https://www.shotoku.dev/",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-16/money-06.mp3",
+      "title": "5. 超軽量テキスト読み上げモデル「ナノ・エッジ・ティーティーエス」と、データベースのブランチ管理ツール「ディービー・ブランチ」",
+      "duration": 122,
+      "link": "https://huggingface.co/drmhse/nano-edge-tts",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-16/money-07.mp3",
+      "title": "締め",
+      "duration": 14,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-16/story-01.mp3",
+      "title": "導入",
+      "duration": 13,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-16/story-02.mp3",
+      "title": "1. 鳥取グルメフェス、炎上のなかの神対応",
+      "duration": 98,
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xNmZNV0pfX1VTbVVySW9VOVU3N2ZCLTl6YTFoWjE4YmdtNmpxZ2RNT0l1Y1dNWDFVaWZMZUJYV3czVzRRWjF1RjVxbUl6LUVTeFJsc2RIVGx6NUk?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-16/story-03.mp3",
+      "title": "2. 日本に染まったフランス人が、フランスで戸惑った",
+      "duration": 141,
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBwekh5X1JReVE3ZEsxaWFJSVBxMFpEcnl2RWx4WkFzWnV6c1lFTnBDR3lVb1BHQ2phVVVKUUxGSjRqTk5NN1NEMUNjWlRNZ3Z3N3hzVHFyemowMFUyOFVxSHZnMzNrU1J5QU9Hanpn?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-16/story-04.mp3",
+      "title": "3. 町田瑠唯さん、旭川でのポップアップ",
+      "duration": 56,
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9ZMGtFQVFFTms2cHNyU1hVM3RPV2c3VVFkM3R1cWJ2clF3azhoWTkwZ3JYTHJ2OGN5ZDB0azBXMmcyUG1OOVlR?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-16/story-05.mp3",
+      "title": "締め",
+      "duration": 8,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
