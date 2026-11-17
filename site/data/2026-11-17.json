@@ -1,0 +1,230 @@
+{
+  "date": "2026-11-17",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 18,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-17/ai-01.mp3",
+      "title": "導入",
+      "duration": 28,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-17/ai-02.mp3",
+      "title": "1. エフビーアイが緊急警告 — エーアイハッキングツール「アーテックス」が3時間でネットワークを陥落させる",
+      "duration": 190,
+      "link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-17/ai-03.mp3",
+      "title": "2. 世界の研究者20万人にエーアイを無料開放 — 科学はどう変わる？",
+      "duration": 118,
+      "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-17/ai-04.mp3",
+      "title": "3. 生命保険会社がエーアイ投資に約13兆円 — アナリストが懸念を表明",
+      "duration": 150,
+      "link": "https://www.nytimes.com/2026/11/16/business/insurance-ai-debt.html",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-17/ai-05.mp3",
+      "title": "4. ルイ・ヴィトンを擁するエルブイエムエイチのメディア部門とオープンエーアイが提携",
+      "duration": 35,
+      "link": "https://openai.com/index/lvmh-media-division-partnership",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-17/ai-06.mp3",
+      "title": "5. ウィンドウズ11があなたの使うエーアイコーディングツールを密かに記録していた",
+      "duration": 61,
+      "link": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-17/ai-07.mp3",
+      "title": "6. カルテックの数学教授が宿題の採点をやめた日",
+      "duration": 59,
+      "link": "https://www.businessinsider.com/ai-math-class-university-homework-caltech-careers-2026-11",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-17/ai-08.mp3",
+      "title": "今日のエーアイレッスン",
+      "duration": 106,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-17/ai-09.mp3",
+      "title": "締め",
+      "duration": 15,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-17/food-01.mp3",
+      "title": "導入",
+      "duration": 21,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-17/food-02.mp3",
+      "title": "1. すき焼き・しゃぶしゃぶ提供の飲食店経営会社が破産 負債1700万円 宮城",
+      "duration": 93,
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkZUY1enBsXzBXeTg2ZzZZUmc1dW1KQ1M3LWt4c2gzeGpudkp1VVRpaXVKdy1XTFV4Vl9lVXc4cG04QjU2VXh2bm1mSTRTRXVjN3k5RUo0bHJPUU55Vm9qM3hzdjc",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-17/food-03.mp3",
+      "title": "2. 国策9.7兆円がフードテックに流れる",
+      "duration": 79,
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VbzFseGZRcTIwZkxwN080cnRoSDNtTnVSTjRMR2ViYU01bGh0MXhNUjFTUXZyMjhGWXdoRzBUZUxhQlVlYnExWjR0TElzazNhYkx3QUlUc2FKMUE",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-17/food-04.mp3",
+      "title": "3. 韓国の細胞性牛肉、2027年に年産400トンへ",
+      "duration": 84,
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE40czBEaHJQRF81cGQ4ci1UV2E3TVVFYndzalg1S2ZpR25CTGo4dEYwUFFNUFUwUGt5ZWp2UW5fcElGdDVPdnNHMUJveVFXSmRId3kzb3MyYm1yUlFG",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-17/food-05.mp3",
+      "title": "4. 蒙古タンメン中本・フランチャイズ店主逮捕で女池店が休業",
+      "duration": 80,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGeFlDaU1GSHFNazlhUU0taVhWYTRlTWFWMHBCN09kYlp2d0czeWRTY3dfOFpsVUw5V0xHOWtqd3lYUkdRZDVnX2haZ0tJQ2tzemFJTjVCemZHbHMtM1lIREx2U3lnOFNLaktsZFBvcjZHNno3ZERuRmluSVl3b1U",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-17/food-06.mp3",
+      "title": "締め",
+      "duration": 15,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-17/money-01.mp3",
+      "title": "導入",
+      "duration": 22,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-17/money-02.mp3",
+      "title": "1. 検索から「エーアイ相談」へ——ラインヤフーの発表が副業に刺さる理由",
+      "duration": 101,
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NcndtRjNxSjhEZFdpZzB3NVpuSUxobUNjTTlMT2otOGVXdUEwa2dYRXdEeHEyenBDaVFBbk5EcnVTX3VsRjc5azVFMHlaTUpCenNFTmJCR0ZZNm8?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-17/money-03.mp3",
+      "title": "2. 「3人に1人しか商談が増えなかった」——1000人調査が示す現実",
+      "duration": 96,
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBKZlM0Skg2WDRYRmwwZDVGenpXSk43UWxZTzVIWjhndzFIRHBaNWtIRGE1RjZ0RThBdXpFZUROdUJOZlVjLVg3RU1TNWpNanUzeHRGNThVT245TGhqaVlUTDlLTS1faTg?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-17/money-04.mp3",
+      "title": "3. フォーブスが警告——エーアイエージェントは「羊の皮をかぶった狼」",
+      "duration": 83,
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VSVg3b1BOUVNfY0ZPaGFyRW1QSENPR2xJR2ZmR2l2VU1wQndrNzlPRFN3VG03TzI2enNmalEtY3FCcFhtVlU0QlV6emVvbmJueWVMUHViUHhyZw?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-17/money-05.mp3",
+      "title": "4. 使うほど賢くなる「ハーミーズエージェント」——自己進化型が来たら何が変わるか",
+      "duration": 81,
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ3BuWTd6ZTRZRWdtenFqaG5QN29JMHhTbFVIZjdJcHRNcUtlVXY3UnFSang4bEM1Qzc3RGs3X1l0cXdiSEIwRFFYbUFfTkhnUWUwVXFHTVNyNEdiRFNFRWU3a01GTF9CQjQ2M2R3TzBwLWdhc1ZjWmpIUUhYbHdyUHZaSWZ1MERY?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-17/money-06.mp3",
+      "title": "5. ショートニュース——博報堂とショッピファイの連携、コマンドラインのカンバン",
+      "duration": 76,
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4xZmdUcmlqR0xGME8zbXhkZEJfX3VZVmpaY1BBRHBPdG8tTUxvQjEwcWRlNHcwcjJNNFZBQVZ6VG45eHZMTV9mYlhydURjSzhRci1HZG5Maw?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-17/money-07.mp3",
+      "title": "締め",
+      "duration": 19,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-17/story-01.mp3",
+      "title": "導入",
+      "duration": 11,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-17/story-02.mp3",
+      "title": "1. 「プロの常連さん」が呼んだお客さん",
+      "duration": 188,
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9QOUtCYkd0S2VmTVpSdkExU2swOTdiOGNBVFYxSjQ5MGcyTXlTNEdiSWdwbGE1MENNellaT0l5U05saVBhRUxUUmY1ajdpcHVa?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-17/story-03.mp3",
+      "title": "2. オーストラリア人カップルが感動した日本料理",
+      "duration": 61,
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ob1lRbTZHWFBPSzRNcW1XbzN5bDdpdXFvbEVZeXEzTFRtRjRBNGFIYjFXQTh3Q0Z2M0t4TlpyUE9VZGVqNlkzVDgyaS13SDM4MXVZMnlwbHc?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-17/story-04.mp3",
+      "title": "3. 吉田類の酒場放浪記が教えてくれること",
+      "duration": 54,
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB2U0NrYlJ0UkYzWFpxRWdGUHRPNDBaRllHX0daNU51ZnhxQVprOEhfZE5OSVpIT2JjNEh2YmlEQ1RfZUc4UzVOeEEyYUpoOTdoaXNEWng1bHBVWTk1UDBwWmlQVzN3SFgwSENNVEVEbVpIWW8?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-17/story-05.mp3",
+      "title": "締め",
+      "duration": 13,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
