@@ -1,0 +1,230 @@
+{
+  "date": "2026-11-18",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 18,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-18/ai-01.mp3",
+      "title": "導入",
+      "duration": 38,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-18/ai-02.mp3",
+      "title": "1. オープンAI、新モデル「ジーピーティー6.2 アストラ」と「ジーピーティー6.2 ソル」を発表",
+      "duration": 123,
+      "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-18/ai-03.mp3",
+      "title": "2. グーグルのAI検索回答、ウェブサイトへのクリックを40%削減",
+      "duration": 124,
+      "link": "https://revscope.co/blog/search-seo-geo-2026/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-18/ai-04.mp3",
+      "title": "3. ジェンセン・ファン前エヌビディアシーイーオー、復帰への意欲を表明",
+      "duration": 109,
+      "link": "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-18/ai-05.mp3",
+      "title": "4. マイクロソフト、企業向けコーディングモデル「マイコード2」を発表",
+      "duration": 47,
+      "link": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-18/ai-06.mp3",
+      "title": "5. ハーバード研究：AIでコードは30%増えたが、完成した機能は増えなかった",
+      "duration": 54,
+      "link": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-18/ai-07.mp3",
+      "title": "6. オープンAIの昨日の発表まとめ：ナトー連携・営業用チャットGPT・法律特化アストラ",
+      "duration": 58,
+      "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-18/ai-08.mp3",
+      "title": "7. アンソロピックを巡る「規制影響力」論争",
+      "duration": 63,
+      "link": "https://latent.space/p/ainews-perplexity-hits-a-1b-revenue-run-rate-up-4x-in-2026/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-18/ai-09.mp3",
+      "title": "今日のAIレッスン",
+      "duration": 109,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-18/ai-10.mp3",
+      "title": "締め",
+      "duration": 13,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-18/food-01.mp3",
+      "title": "導入",
+      "duration": 23,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-18/food-02.mp3",
+      "title": "1. GDPが1年ぶりにマイナス成長・外食産業に逆風",
+      "duration": 80,
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBzTVBXRTk4TEpuX01FSkdWM051SkdVZGZFYUJZS2hHbXM5eEtqWkNRMmwzaGF5LVZodlFwRWtHVjR3SkhpUVhTM2thNDA3Sjc3WUtoSUZHMA",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-18/food-03.mp3",
+      "title": "2. 値上げ後も83.7%が通い続ける・決め手は「料理の味・品質」",
+      "duration": 96,
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lLVJPZDhyZUFjZFF0YW51WTRweXFnTGRiZXdYdE9ZMEJmbndhd0tFMjZMaEljbXBndG5LLUNLbFMxOWl4T2NxdUh3NlFUYUJoVl9LMUJfcV81OE5LRl96dw",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-18/food-04.mp3",
+      "title": "3. 温かいお弁当の自動販売・AIを活用したプラットフォームで累計150万食突破",
+      "duration": 90,
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WdzAwZGxDM0M4dEZpQ3RkRlAwNnBtQ2x5M1BQYXlVUWtqdTJHXzZIYlJub1c4YkJsc1M2Tmh6alhmZnlBbHVxUmpBMDBXWlVvanJTMVd1cVEyanp1eVdjLVdzcWFLb2c0",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-18/food-05.mp3",
+      "title": "4. 北海道の10保健所が飲食店経営者544人分の個人情報を誤公開",
+      "duration": 82,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PQnNFR0NsZjFJVWNVR2NIdTRNUDdoYUh0bTZVSWg0aERoR1d2d0phcXBhYlcyRGNFTDM3elBMTHBfWmVOalhrRVZQR2pfeldONmJlYzgwWWwzODVrYW1aZDk3Si05WEdka1VaejgxbzlWcWdTU2Y3UmdGaWtmeFE",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-18/food-06.mp3",
+      "title": "締め",
+      "duration": 12,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-18/money-01.mp3",
+      "title": "導入",
+      "duration": 23,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-18/money-02.mp3",
+      "title": "1. 使うほど賢くなるエーアイエージェント「ヘルメス・エージェント」──記憶とスキルで自己進化？",
+      "duration": 130,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yOFlLZGpoSnh4b2JpUG5ZWktyd2tWS3dTcXQzMW5Pck5SUTVqVVQ4bF83dllWR05SX1dHQndENHlLMVljX0VOM2dSc05LRElZb3JMVFFBcEhacWtaTV8tcWdUZVlUUWhtdVVpNXIybzMwc1h2TzJUaDVSQlFJRTQ?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-18/money-03.mp3",
+      "title": "2. マイクロソフトがエーアイの成果を「お金で測る」──その計算、信じていいの？",
+      "duration": 126,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkdF9BdXpVNi04alJXSzFMT1NicFZJemNpZWhqX1dOVmw3eElFelJuSGhlUE1ISDdId0luWlFyWTAwZ3VGUFRzTFhHdE9hTl9Qc2pn?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-18/money-04.mp3",
+      "title": "3. マイクロソフトとアイビーエムが組む──規制業界向けエーアイエージェント基盤の登場",
+      "duration": 112,
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBSZnBrOHFWOFF5a2tqbDVhZ3ZRNWk4Rm5qNVlaM1lNUERfNjdDS09iN2ZKMDIzWW5KbVBJVFcyekxGLWpNZVFOT0NJSktBZm1wNnQwdTJwZXRtSjNYcnliMHFWMi04YlU0SkNaN20tTDJMSFI2?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-18/money-05.mp3",
+      "title": "4. 個人開発の現場から──トークン節約ツール、エージェント間通信、無料ガバナンス講座",
+      "duration": 138,
+      "link": "https://github.com/prapaa-ai/agav",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-18/money-06.mp3",
+      "title": "締め",
+      "duration": 7,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-18/story-01.mp3",
+      "title": "導入",
+      "duration": 22,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-18/story-02.mp3",
+      "title": "1. 常連客の「神対応」が食堂を救った話",
+      "duration": 180,
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOEFrOHcwc1RPbmJVNk5vUzJUT0dsblVrOGdtOURwRlNBWDFUZHlHWjYtWnltTTM5ajVqaVpOeGFjNE1naF9jLVlDZjJxaWdzTTVOMXB4ZXVmVlRKeFBhU20tb2FUMnQzRW9CLVdVSDRVeVVJcmZZSnNMRWQ3cEtuVXROcTlnbV9KLTllOGd3?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-18/story-03.mp3",
+      "title": "2. ワカコ酒が教えてくれる「いいお客さん」の姿",
+      "duration": 68,
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82UkdNQ3diLXdSbzk2eU40ZU9QbTlGNDJxQXVRWXk1VW1GZXlwanZ5clUyN2FfeVQ1VDl2SjVvR3NlRjRaLVFKdV9VcHpzdXdNSWhOX3FlbnZfalBRTEpEMXlfRk1IZDlOMFJMOFIzd2E4azItS1E?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-18/story-04.mp3",
+      "title": "3. 言葉の壁を越える、一歩踏み込んだおもてなし",
+      "duration": 59,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Bd09PWTNaS0VHNXlqWjc5aHloZnp4WEJKRzJUbk96dFlqT2x5WHB4eFMxaWlfYkFCdm5qcklncDM0WlFlYVhYSXMxOFVwM19INmk1LUxsRC01VHh2U0JyWmNIdFhIMURuUFE?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-18/story-05.mp3",
+      "title": "締め",
+      "duration": 8,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
