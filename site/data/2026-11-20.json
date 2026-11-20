@@ -1,0 +1,246 @@
+{
+  "date": "2026-11-20",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 18,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-20/ai-01.mp3",
+      "title": "導入",
+      "duration": 32,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-20/ai-02.mp3",
+      "title": "1. アンソロピック、ナスダックに歴史的デビュー",
+      "duration": 111,
+      "link": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-20/ai-03.mp3",
+      "title": "2. クロードがブラックホール物理学の未解決問題を2つ解いた",
+      "duration": 133,
+      "link": "https://www.anthropic.com/research/claude-black-hole-physics",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-20/ai-04.mp3",
+      "title": "3. ジェミニ4ネオン登場、エンジニアリング指標でトップに",
+      "duration": 100,
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-20/ai-05.mp3",
+      "title": "4. 「エーアイのセーフガードに怒り心頭」エストニアのエンジニアが訴え",
+      "duration": 78,
+      "link": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-20/ai-06.mp3",
+      "title": "5. ルビー言語に深刻な脆弱性、エーアイも発見に貢献",
+      "duration": 64,
+      "link": "https://verialabs.com/ruby2shell/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-20/ai-07.mp3",
+      "title": "6. クロームのエーアイ機能が通信量を大量消費していた",
+      "duration": 51,
+      "link": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-20/ai-08.mp3",
+      "title": "7. エーアイが高スキルの仕事をギグワーク化している",
+      "duration": 66,
+      "link": "https://restofworld.org/2026/ai-jobs-skills-gig-work/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-20/ai-09.mp3",
+      "title": "今日のエーアイレッスン",
+      "duration": 100,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-20/ai-10.mp3",
+      "title": "締め",
+      "duration": 16,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-20/food-01.mp3",
+      "title": "導入",
+      "duration": 25,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-20/food-02.mp3",
+      "title": "1. 最低賃金引き上げで飲食店経営が圧迫、値上げと客離れのジレンマ",
+      "duration": 98,
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQmkyZEhyZU9kTnJhU051eEhQMmdrVDV3ZnNEZTNBV1NpZHE0Vm5GeUVJTC0zd0N4YXVJOXJvTFZtYXJSMXpNeVpLMlhrUDU5eGdycUFDMmprVVRmQUVvNnNJM2JxdFZUMC1yc3g5azM0Um9GakF4YmNJVTJOSUc0eUozeU9abms2UWU1Z1Zn",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-20/food-03.mp3",
+      "title": "2. 飲食業界の人手不足53.6パーセントの衝撃、値上げだけでは解決できない",
+      "duration": 100,
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTeloyRFNJMWhqMl9kQmQtUGpzUjliRXlsWWptNjlpbE5ZVW91Q3JOR2JyemZBSjJtdjgzR25HM3U1ZHNiSTVrcTFfSVE0ZHV5VTlyRQ",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-20/food-04.mp3",
+      "title": "3. ラーメン名店の買収ラッシュ、2年半で19件、業界地図が書き換わっている",
+      "duration": 115,
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE15Q2V3clBTYXRRNHRDeFJUQ0pWWFBCaWJXelMxNlVtWUpUcGdVZTA5OTRIX09vU25oak1rQVN5WG1oZnFFVzZzYjc5aW5hU1Rm",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-20/food-05.mp3",
+      "title": "4. フードテックサミット、過去最高の1600名超が参加、日本発の技術が世界へ",
+      "duration": 84,
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE16RHM5ZlpneUd4cDFzRzRRSC1KSnpNVmJROHhWbFdRZVFoTlllbnhjeXZTbmRHMV8wTzFxSXA2Q01EelBRNUdDckRMSGhWcEZOeUgzNEMtelZNZHV4S1lNOG4wbzNQZlc3SlY0LURxSFhhdw",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-20/food-06.mp3",
+      "title": "締め",
+      "duration": 15,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-20/money-01.mp3",
+      "title": "導入",
+      "duration": 14,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-20/money-02.mp3",
+      "title": "1. 参天製薬「1年でAIエージェント4000個を自作」、1人1日61分を浮かせた現場任せの手法",
+      "duration": 138,
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JMk5jRVZrX0twOVhtWEVwaHRzaW9ZeGY5RWxzSzU0LTF1ZjJTdl9kaTFjV2RKOExkY2kxd2J1SWpEQUpvakxNS0tSWFpRai1jbHc?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-20/money-03.mp3",
+      "title": "2. マイクロソフト、AIエージェント5000万超に固有の「ID」を付与",
+      "duration": 92,
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYjFDbUoyNXR3emxEUWUxQV9fNXdycXA1bWpaNjR0NHp6Q2YtUnBtMElXZWF5V1R5QThRc29yYkhhNDJUUnVtNDZ1YUdOa3E4emNLQ0lhWkJLRG1fLTFxSU1LSG5yeE14WmRHVThNSjlmbmxVT2s4ZGoxbDhTTDZ6eFNMRGxzNm95ZTM3TDJB?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-20/money-04.mp3",
+      "title": "3. ミティガ、AIエージェントのセキュリティ監視サービスを開始",
+      "duration": 70,
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRjNLcXhpY1RRNnl2V2pEMGg1Qm51Qi1mUkhLcmZObkpReGo1SW9WRXhWWEFSTUhMQnNHUE5fRXQwajV1SkV5YmJrTDl6UVhiZlQ0OEJRbFo4R1FqX0JmWDdiTTB2a28yNWg0NllVWDZpc3A5UU1pZ0FpNDlFbXM0QXNySEo1Y3lGTmVNaw?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-20/money-05.mp3",
+      "title": "4. 975個のエージェント系コーディングツールをまとめたインデックスサイト",
+      "duration": 79,
+      "link": "https://adeindex.com",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-20/money-06.mp3",
+      "title": "5. エージェントが食料品の買い物をする「エージェントモール」",
+      "duration": 68,
+      "link": "https://getagentmall.com",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-20/money-07.mp3",
+      "title": "締め",
+      "duration": 16,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-20/story-01.mp3",
+      "title": "導入",
+      "duration": 16,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-20/story-02.mp3",
+      "title": "1. 「2名です」の一言が生んだ瞬間",
+      "duration": 126,
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBpRmVMcno2aXQydXVqV2szWndjcDVNMUdlUHlqOS1SSGEtVkowOXZsV0tRREJiVzh3QlR6dmVGUkhYcWdjQ1B1RWhKa0gtSG0taHlZN0puMEl6a1JlSVhr?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-20/story-03.mp3",
+      "title": "2. 名湯が見せる謙虚さ",
+      "duration": 77,
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBKZGFraHRnSUV1NEFlN05mQnotcE5ZX0ltWTlQMkhTVWc4b2NJY19FWFQwOWtZNWJqcGR2R2FhQUtTSTFsRVI4OUNMakV1MEdTR05sUQ?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-20/story-04.mp3",
+      "title": "3. 夫婦が作り出す空気感",
+      "duration": 84,
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1zdzdzU3dObHpVWlFfeXR3RTBnY1RicjdfWHNWYllMZFBXcTNCc3QtT2NUUkhmQjRIajJneWkxaUEtNVdvXzE5bmNpMlQtZVhpZHdjUjZnZE92cUhkaDVBUzZyTQ?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-20/story-05.mp3",
+      "title": "4. 外から見てはじめてわかるもの",
+      "duration": 118,
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB3QjlXVkp1c2lRSlpxLTFyc1QzNHNSSlJjR2ZmUGI4dVNjQUlXZlhnd1llQlI1cTROR25JTXVySlQ0SkFWbWxIeERDRVZzdw?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-20/story-06.mp3",
+      "title": "締め",
+      "duration": 18,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
