@@ -1,0 +1,190 @@
+{
+  "date": "2026-11-21",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 18,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-21/ai-01.mp3",
+      "title": "導入",
+      "duration": 30,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-21/ai-02.mp3",
+      "title": "1. アンソロピック上場、史上最大IPO——でも翌日は世界株安",
+      "duration": 168,
+      "link": "https://www.anthropic.com/news/ipo-close",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-21/ai-03.mp3",
+      "title": "2. 167年の難問「リーマン予想」に、同じ日に2つの「証明した」",
+      "duration": 132,
+      "link": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-21/ai-04.mp3",
+      "title": "3. AIがゼロからCPUを設計——性能・電力比が4.59倍",
+      "duration": 119,
+      "link": "https://architectlabs.com/blog/frostbite",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-21/ai-05.mp3",
+      "title": "その他のニュース",
+      "duration": 187,
+      "link": "https://thinkingmachines.ai/news/inkling-2-mini/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-21/ai-06.mp3",
+      "title": "今日のAIレッスン",
+      "duration": 126,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-21/ai-07.mp3",
+      "title": "締め",
+      "duration": 16,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-21/food-01.mp3",
+      "title": "導入",
+      "duration": 22,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-21/food-02.mp3",
+      "title": "1. 調理ロボットと運営ノウハウをセットで受託、飲食オペレーション丸投げサービスが本格始動",
+      "duration": 126,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yY2R5cTFEeUlVS215M2dlb2Y5TzU0NU5pSlMwci1BaDJSdjY1UDhnUWNDVk1lWXNRMzJCU1JJUWx5UzNGQUctNkstbVpMNlVqcUYtVmgySXdYNXRFRkV2OHE2MXhSU29Qa1E?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-21/food-03.mp3",
+      "title": "2. 大阪市がプレミアム付食事券を発行へ、外食産業が消費税減税の狭間で揺れている",
+      "duration": 144,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yNk9SOHlhcjE0bzczV0c3VFA5azNzM0NQdk9rcTZiTUthVWFRN2JSMklJTDgwWmZGUm5fS1NmeTVUQ0JfS0I2cTNCTm9nRngxYUZoT0Ffc3hpU3Qtc2RYMUpvQ011WXUtYnR2Q2lPeVlyS3JRN3o4N0ZMdHZDeHM?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-21/food-04.mp3",
+      "title": "3. 韓国メディアが伝えた「日本の飲食店、涙の値下げ」",
+      "duration": 113,
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc2lMU3Z2emtTVGNCeGZ0ckxzYVpydlNycWU2RnY2ZnlmSnFSMXQySTN0QlAydXltR0NjMHBJNmpjT2lhSi1fQjV3NDg1T25DQk5Pamw2ZlM5d2FFQWs3czFYSVM0TDJZNzNVY3ZxRnY2TnVleFl3QVpwQVA3dzh4eUwxVFpudzFP?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-21/food-05.mp3",
+      "title": "締め",
+      "duration": 22,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-21/money-01.mp3",
+      "title": "導入",
+      "duration": 29,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-21/money-02.mp3",
+      "title": "1. デーエヌエーが「AI社員30人」を外部企業に売り出す",
+      "duration": 103,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wSmE5TkJENF9nOFduUTBVVVJGUGhVSjlXRGI4QlJjelhqeHo5bGZpLWs2RVR6ZXVJSVVZYUc2RURrNm55UDAzTmZ3b0FDNmxvX3Vn?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-21/money-03.mp3",
+      "title": "2. オープンエーアイが「常時稼働エージェント」ドッツをテスト中",
+      "duration": 108,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1raWY3LTBFMVdOTzBPVXpTanRWeEtxRGlxVGNST1hOS2NGalF2alBXMHlyYzJ0aGRCbGltdmdzUFZ1S0U4Z3dZVlFfWVdLSGNEWmJPVEVtX0cwWHhmRGpiYnl4RU95Y3BFekE?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-21/money-04.mp3",
+      "title": "3. マイクロソフトがAIエージェント5000万超に「社員証」を発行中",
+      "duration": 129,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PV3BvN1luT0o5YkVWbEhOcVo2WnlwOVEwNXZtTU9YeXNBb0tVaFF4eWlJeTBzcEJzemZsOGZHQ2lub2w4UUd1MUhvdUJzb1gwWjhGSTUwLUY2T1FyUVBMVWx4VEZmdDkweFM2UWVRSk9nczgtVC1GeDZkWkIwQ2c?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-21/money-05.mp3",
+      "title": "締め",
+      "duration": 18,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-21/story-01.mp3",
+      "title": "導入",
+      "duration": 18,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-21/story-02.mp3",
+      "title": "1. 鳥取グルメフェス炎上の中に光った「神対応」",
+      "duration": 84,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40YnVIcFpDTm9MWVdWSWc4YUN2VF9sR3VnLWdYSmxCcFAwMlBsSy03OHZ4UExSc2s4VFVCQ0Z2YjJyNXVqbl9zUFRmY09XWlM2U1podDcwRlJmYWlWWm5zb1Z2dndlN3Jfa0w4LTFGaGs2VlRUOXZsR1Nob0tlalk?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-21/story-03.mp3",
+      "title": "2. 「こういうレストランは初めて！」アメリカ人一家が大興奮",
+      "duration": 89,
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ1RNZGFwYVdyeUptUGZYRTJKeGxsSl9LSmhfMHRKb25oMTA0dGFmYThVZ1MwM3BSbmtqR1FkMHlfdHY2SkhNSnZyUGpVS2l4cW9aU09JMXRCQU12XzdlVDl0aEN5Zlc5aEp2MHJ1anpsNjVsWTNhWm44a1RyVnBUbGdLeVdIRmJ2aEpGS0pB?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-21/story-04.mp3",
+      "title": "3. 板チョコ一枚で受験した日 ホテルの朝",
+      "duration": 78,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uQ3QxeFJsWkhWREx6Z2h3SG5aZ0cyNjZyUEtTSUlNeGVOWTdlVTBWNHo0dWxwYTU3Um5mMGQxc0tmdWMzTUVHbzBpUHd1M3RVZXNB?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-21/story-05.mp3",
+      "title": "締め",
+      "duration": 8,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
