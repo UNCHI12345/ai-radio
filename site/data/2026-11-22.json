@@ -1,0 +1,158 @@
+{
+  "date": "2026-11-22",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 18,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-22/ai-01.mp3",
+      "title": "導入",
+      "duration": 35,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-22/ai-02.mp3",
+      "title": "1. リーマン予想、AIが独立に2度証明したとの報告",
+      "duration": 106,
+      "link": "https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-22/ai-03.mp3",
+      "title": "2. 1981年製パソコンで動くAIコーディングエージェント「クロウドス」",
+      "duration": 140,
+      "link": "http://ricapar.net/ClawDOS/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-22/ai-04.mp3",
+      "title": "3. 画像アップロードからサーバー乗っ取りも、ゴーストスクリプトの広範な脆弱性",
+      "duration": 104,
+      "link": "https://pwn.ai/upload2shell",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-22/ai-05.mp3",
+      "title": "4. ジーピージーエムイーに重大な脆弱性、即時アップデートを",
+      "duration": 60,
+      "link": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-22/ai-06.mp3",
+      "title": "今日のAIレッスン",
+      "duration": 97,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-22/ai-07.mp3",
+      "title": "締め",
+      "duration": 9,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-22/food-01.mp3",
+      "title": "導入",
+      "duration": 18,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-22/food-02.mp3",
+      "title": "1. 大阪市がプレミアム付食事券を発行へ 外食産業を直接支援",
+      "duration": 129,
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zZ1BYVzE0dU5fSUhKT0xwcTJNN2dfeU54OHhfcFdyT05BVi1ZVGlfaERSelYtc3NWb3NnVm9ybkxMNUdPeUNjMnhVbFp3bGF5SDJpWTRFcXp3VVVaQkN5WjJBc2RCNzFqVW4xTA?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-22/food-03.mp3",
+      "title": "2. 「和食さと」が京樽を買収 テイクアウトのすし事業を本格強化",
+      "duration": 125,
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5lYW5rN3lYcFRqcWl1Nzg5NDZLZUkxcGlVRGJHaVExWDROaHQ3NHp6dXZhRTF1Ym5BZkRHRFllMVNEOTRVbjJHV2ItcDJTQUxnaDItaGpHUzBZRkFyRWZsZERyMWlfVXhLaEhvRg?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-22/food-04.mp3",
+      "title": "3. 開業1年半のラーメン店が一時休業 「想像以上に大変で、勉強の連続」",
+      "duration": 130,
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR2tKS3czN3o3ZVJhU2hGVmMxNmc2V0U2UWtRZkQ0SnlRV0tHVkE4akI3VDNOMGt2N3lpM0FNQXZDQ1lVdTdaNWxUbjhyaGtySE9LSWROaG9mRXdhLVNPRzF3YkZUTkNLVE5SaDJBdlJreHpqNUdTb1Q1ZExzYWFuVjAxQkllRVBOcGpSTmg3MHNhUE53WlE?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-22/food-05.mp3",
+      "title": "締め",
+      "duration": 15,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-22/money-01.mp3",
+      "title": "導入",
+      "duration": 27,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-22/money-02.mp3",
+      "title": "1. オープンエーアイの「ドッツ」——常時稼働エージェントがプラスユーザーへ",
+      "duration": 98,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hQXFNQzhOMVdCNEZoaG91RVNoQWx6d1d1eld5SkR1TWlzNEZPRzJneG55WkhrU0dlWlJLTVhPUG5kMEVoX0gxbW9wMS1KRVMtcHBj?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-22/money-03.mp3",
+      "title": "2. ひとりビジネスのエーアイチームという発想",
+      "duration": 87,
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBraE50a280OWVqdkhNTG1QSFVRRFJrRGhiY1ROeGdqUkV5YzJTakdqZ3pURzZfWVhtYTlnVGlQYjdSc1Q2X0hyNU1GVUtXNE1vMTZLdVRGOA?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-22/money-04.mp3",
+      "title": "3. 企業へのエージェント導入が加速——個人に何が起きるか",
+      "duration": 139,
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LSW9vcm1pVEZvRzluWWpka1hHZEVQclBIX0dsUDBzN0ZGWHFmSGx3YlFmV0d4dGFSU093cXVmb2FQTWNBVk9Rc0trRmNEYm1oRXQ0YURUZEhTVHhCVEYzZ1JOZjczQlc2dTZ1Rk1vOTI?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-22/money-05.mp3",
+      "title": "4. 個人開発——クロードコードにモンテカルロ木探索を乗せた実験",
+      "duration": 126,
+      "link": "https://github.com/natsu0529/agent-mcts",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-22/money-06.mp3",
+      "title": "締め",
+      "duration": 14,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    }
+  ]
+}
