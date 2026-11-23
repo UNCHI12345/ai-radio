@@ -1,0 +1,198 @@
+{
+  "date": "2026-11-23",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 18,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-23/ai-01.mp3",
+      "title": "導入",
+      "duration": 36,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-23/ai-02.mp3",
+      "title": "1. 「AIは制御できている」は本当か",
+      "duration": 154,
+      "link": "https://donotaccept.ai/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-23/ai-03.mp3",
+      "title": "2. あなたのプロンプト、誰かに読まれていた可能性",
+      "duration": 151,
+      "link": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-23/ai-04.mp3",
+      "title": "3. アンソロピックの電力、2028年には98%が化石燃料",
+      "duration": 127,
+      "link": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-23/ai-05.mp3",
+      "title": "4. オープンエーアイが「知性の測り方」を公開",
+      "duration": 68,
+      "link": "https://openai.com/index/perplexity-and-intelligence/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-23/ai-06.mp3",
+      "title": "5. AIマネージャーに管理される側になるゲーム",
+      "duration": 45,
+      "link": "https://github.com/gulivan/worker755",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-23/ai-07.mp3",
+      "title": "6. 大規模言語モデルは男性に厳しく、女性に優しい",
+      "duration": 60,
+      "link": "https://arxiv.org/abs/2606.14068",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-23/ai-08.mp3",
+      "title": "今日のAIレッスン",
+      "duration": 97,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-23/ai-09.mp3",
+      "title": "締め",
+      "duration": 13,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-23/food-01.mp3",
+      "title": "導入",
+      "duration": 23,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-23/food-02.mp3",
+      "title": "1. 外食産業の「二極化」が数字に出た",
+      "duration": 112,
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5RRTRBbDdVcjVtaGY2SHVaT3haTWxUTHVuaWhWbkJVWVZHVHlWTUJtUV9ycWNlZ3dwMFVaWDBya2JlRnd2UGl4WUR1aGVYSy1yN2ZfdQ?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-23/food-03.mp3",
+      "title": "2. 大阪市が「プレミアム付食事券」を発行へ",
+      "duration": 89,
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YanAzbjktSXRVaE9sZVdBRXZXTTYxRGpMTXZtZm8zeFVwNDczRDdxVVpaSXZRa0Npd2IwakhRa0xkU01DemZ0MXpfeUV5Tk1CNUNLbVNn?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-23/food-04.mp3",
+      "title": "3. 「日本初のラーメン店」が80年ぶりに復活",
+      "duration": 87,
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5pWjBhek0wNGs5dUNjclNpSUdYeDBuUGk3NHBFSU5pSi15QzQ4Z0liYXBORGx4YjlvZTVWT1NVc19Ianc4V3lwM2VIeFlSUi1McFBvaXRKb0JVcHV0aGQwLTZlaEJZZw?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-23/food-05.mp3",
+      "title": "4. ロックスター手がけるラーメン店が一時休業「想像以上に大変」",
+      "duration": 82,
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5aMV9uRUUwdmRpMXFOeWVrNm14LW5iSmpDNlV2ZnBxTlk2UVF5Q2ItNVJNRnRXN2xDYjctUkxLMnIyWTgtMmtFQ09Ed3d1UTAyTTN4SXlzUGlMWWtHWFgxcy1qcFoxdFdOSU4xYXlkWGdNTi02NGNv0gF_QVVfeXFMUE5CYVBWZ3hMTWtEYk5TU2huRnpma2dpRFJpajZrMEROS1JOM1JfNV83em01TWtXbzhsTHhqbVhhQmtCRFBRR2lDMlFsWVdick45bkxIWVgyeDZLRzZRMWtBQ3c5VXNCcHRuOWhLam1wSWJ3Wi02eE11T3dCdnp6cw?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-23/food-06.mp3",
+      "title": "締め",
+      "duration": 13,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-23/money-01.mp3",
+      "title": "導入",
+      "duration": 26,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-23/money-02.mp3",
+      "title": "1. エーアイが自力でゼロデイを発見、大学サーバの管理者権限を奪取",
+      "duration": 112,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10NU8tX3RFRkxJcURLMklTSzlBZXYzMzNGcHN3ZVJqNmR3WUtwc3RkZXlVcVNjeFlic2c0TlByclhvVFFJdHlVSGhOSE14Tll6M3dfYWljYjdBRENVY0RaaGhXNVhKTWtWcGhZczBJc1UtTVE1d3ZXTjNHWWxWcmc?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-23/money-03.mp3",
+      "title": "2. フラッシュレブのエーアイエージェント「ヘルメス エージェント」大幅アップデート",
+      "duration": 98,
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BRlpuZHBVVjNoZEc1SXVFU042Zzg5UXZtdE9WM2s1NUFPVjJWZDI4U0tuUGdqdXBlT0lmT05fSlZwQjljNi15dDN0ZW0zZDV5OWs1R0laWlF0RDFCYkpJdGdCMFZNM25TY2ZwR3Z6R2FVdw?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-23/money-04.mp3",
+      "title": "3. ゴムマリが業務エーアイエージェントを三本同時展開",
+      "duration": 144,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBoTkVlZlpleHFvSVZDRjdVSmZPRTVRTThsRnA2cEZJaWRCY240Vm9JYWVzektCQmRZd1FGanZaR0FmZWk4cG9OYjlYZWNkQVhWVWJta3FrNEJkSHNUNUpFWktIemY4U2djWXc?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-23/money-05.mp3",
+      "title": "締め",
+      "duration": 19,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-23/story-01.mp3",
+      "title": "導入",
+      "duration": 12,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-23/story-02.mp3",
+      "title": "1. ザ・リッツ・カールトン：従業員に任せる「おもてなし」が、感動を生んだホテル",
+      "duration": 197,
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fTlBVcmdwb1F3QmN2bWdZc19iRHdERl9ZT3otdExlR0lnRkVSUVYySnRJWElXLVNoWWlxbF8xMDc0bm4wZDl1SWJEQklJR0hKUjNDMW1HSTBIMlk?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-23/story-03.mp3",
+      "title": "締め",
+      "duration": 13,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
