@@ -1,0 +1,222 @@
+{
+  "date": "2026-11-24",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 18,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-24/ai-01.mp3",
+      "title": "導入",
+      "duration": 27,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-24/ai-02.mp3",
+      "title": "1. ジェンセン・ファン、エヌビディア最高経営責任者に電撃復帰",
+      "duration": 171,
+      "link": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-24/ai-03.mp3",
+      "title": "2. アンソロピックのAIが数学の重要定理を証明",
+      "duration": 149,
+      "link": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-24/ai-04.mp3",
+      "title": "3. 「ループトランスフォーマー」という新設計思想が業界に広がり始めた",
+      "duration": 88,
+      "link": "https://simonwillison.net/2026/Nov/23/glm-54/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-24/ai-05.mp3",
+      "title": "その他のニュース",
+      "duration": 3,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-24/ai-06.mp3",
+      "title": "4. オープンAIとシスコが「シルド」を発表、AIがセキュリティを守る",
+      "duration": 39,
+      "link": "https://openai.com/index/introducing-shirudo",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-24/ai-07.mp3",
+      "title": "5. 新ブラウザ「レディバード」アルファ版公開、AIが開発を激加速",
+      "duration": 46,
+      "link": "https://simonwillison.net/2026/Nov/23/ladybird/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-24/ai-08.mp3",
+      "title": "6. アンソロピック共同創業者の「失業者をゲームで慰める」発言が物議",
+      "duration": 48,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-24/ai-09.mp3",
+      "title": "今日のAIレッスン",
+      "duration": 113,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-24/ai-10.mp3",
+      "title": "締め",
+      "duration": 14,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-24/food-01.mp3",
+      "title": "導入",
+      "duration": 19,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-24/food-02.mp3",
+      "title": "1. 丸亀製麺が値下げ、でも中小には倒産ラッシュの足音",
+      "duration": 90,
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB5NkxPN1NJc1RQbjFWa3VOVlF3NTVVYjZhSjlXOVpxOTNGSUlsdzBFT2t3Q2ZEV2sxTVhhNHNlSTdwVmc3anpFRWdNYUFHUQ",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-24/food-03.mp3",
+      "title": "2. 社員ゼロの繁盛店、店長は大学生",
+      "duration": 94,
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5WYmFBTEFESnNIenN6VUhCb2lUQUExSEFZUzJCM0VLRVFfNUQ3UGdMd3MxTjQ4Y1p5alpOUDNfQThnUV9UdnQyTHRBcm1FcVVLOHlLa0VsenEzUGdKaUdlbmdkZU9PNHQ0SVlXMmR4Vlk5c3NNZ1dLQVdpb1I",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-24/food-04.mp3",
+      "title": "3. サンマルクカフェはなぜ増収でも減益なのか",
+      "duration": 80,
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOVdpTThWLTM1R19qcnY4V3NLZFdwMmlsajhpeDgzWHN5SWhJdVozSHdubFNmb05HbnR4SFM2ZW9JMGxyZURWSmJpaHdBclh2TG9GNm1sX2lRU0E1NnZCX1Yxd0pTVkFnbzNvWUpLeFhmRDlQZE9yV1ZmUlRwX3RvTm1JQ0I5a3dV",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-24/food-05.mp3",
+      "title": "締め",
+      "duration": 15,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-24/money-01.mp3",
+      "title": "導入",
+      "duration": 21,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-24/money-02.mp3",
+      "title": "1. コードレビューも自動化へ、アンソロピック「クロード・シップ」",
+      "duration": 113,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mV21HcThWX2lPTW9SM0wza0lkUjUwLUhnZFgwUkIyaGg1N0xXSEZOTkY3dXJSMGJ5QkVTblFpR0RtU2NjQTJ2NU1ScWo0MHRselNoUW56eHV3MjdyOXBpR3AzSTNJTUxqbmxQRFl6UUo2XzdwbEQ5cjdUQ0hRWEU?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-24/money-03.mp3",
+      "title": "2. アメリカの銀行がAIエージェントの「暴走」に備えて管理を厳格化",
+      "duration": 86,
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSzZfSzN2Zms2ZDFBWDlwTE03YndjNVU4Wkx1a01CVE51Q2tPQ3hkbnZXX3k2aEVQb2RocUdqSG5tcHItOHZmcmp4RDNMRk5tZHZlN0hUUGpEcGRRMDZHV2p0d2VFMFAyMTIwVS1IQV95cERzZHRHZGRIMUpRZkRVTVRfMnVDQlFoMU9DVzBQY0x0UQ?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-24/money-04.mp3",
+      "title": "3. AIメッセージング自動化のリンク、シリーズビーで約135億円を調達",
+      "duration": 88,
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE13bWFGSFR1UzAzVmZSNkM5U3dUeGd6MlpuRkVRamprTkVVQWhMUXNsRXd3ZEcxRXp0ZWJmVEpubHRIc2k2WDA5eVJLblhWNElFMlo4YXlsekp3YnJDaDJ1bFhOdw?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-24/money-05.mp3",
+      "title": "4. 日立がAIへの委任を証明する「ポーエイチディー」を開発",
+      "duration": 66,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kemxBTkdvUVlUelJCZHFidm1pRFNwVkprOGU1UWx6SEJLdkEtbUk4TFhGd0VKTVV0NDJJOW1BNFdqRGRMVHptUTZlN2xrMUFqcnVaUWhmRGJkQVhGdnpzMHZQdGY2UGlPQ0E?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-24/money-06.mp3",
+      "title": "5. アップルがAIエージェント競争で遅れ、成功の体制が逆に足かせに",
+      "duration": 48,
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE45OVZuRW51SEo0Sy1IYzdweTB4LW4wNEg2LVQ5YXpCdlF1WGlnMXVEbGpKMVhlaGRsQVo5TFVPMjVLVDVaekJod3RCRjlhM1daMENIaXEteVN2c2Q5cDBjZndoOGhjLW1YcGFkTzFVeG9iSjZWTnAtMkRwcw?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-24/money-07.mp3",
+      "title": "締め",
+      "duration": 16,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-24/story-01.mp3",
+      "title": "導入",
+      "duration": 15,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-24/story-02.mp3",
+      "title": "1. 「2名です」に指2本で答えた話",
+      "duration": 144,
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9oMThNbkVvMDNoWXZiVFA5WmpGZFhWa29CVDBBRGZoMFpwMmpxRWIwSUg2ekxLMWxPb3dOZ0loREdPbWEzbjJiSkMwMmlnRy1hb3B0Yw?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-24/story-03.mp3",
+      "title": "2. 「嫌な体験は一度もない」と言ったアメリカ人",
+      "duration": 91,
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE84WEFrZVhoang1Sm1OZkltNkRxSUNXbDJpRlFNcFh6LWNDRVVNWHE3QVhWTl9uRGRfSWZsZjF5UFAwY2VqUjNEcmh0QmF6Zw?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-24/story-04.mp3",
+      "title": "締め",
+      "duration": 14,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
