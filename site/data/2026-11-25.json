@@ -1,0 +1,230 @@
+{
+  "date": "2026-11-25",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 18,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-25/ai-01.mp3",
+      "title": "導入",
+      "duration": 27,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-25/ai-02.mp3",
+      "title": "1. ジーピーティー6がタンパク質を自力で設計できることが判明",
+      "duration": 124,
+      "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-25/ai-03.mp3",
+      "title": "2. タイダルがAI生成音楽を全面禁止へ",
+      "duration": 90,
+      "link": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-25/ai-04.mp3",
+      "title": "3. この12ヶ月でAIが越えた3つの壁——そして22分で解けた歴史ミステリー",
+      "duration": 168,
+      "link": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-25/ai-05.mp3",
+      "title": "4. アンソロピック株がIPO価格を割り込む、「世界征服発言」も話題に",
+      "duration": 70,
+      "link": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-25/ai-06.mp3",
+      "title": "5. AIエージェントはあなたではなく、作った会社のために働く",
+      "duration": 80,
+      "link": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-25/ai-07.mp3",
+      "title": "6. オープンエーアイが数学の難問2つを同時に証明",
+      "duration": 57,
+      "link": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-25/ai-08.mp3",
+      "title": "今日のAIレッスン",
+      "duration": 101,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-25/ai-09.mp3",
+      "title": "締め",
+      "duration": 13,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-25/food-01.mp3",
+      "title": "導入",
+      "duration": 22,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-25/food-02.mp3",
+      "title": "1. 消費減税で丸亀製麺が値下げ、中小飲食店に「倒産ラッシュ」の現実味",
+      "duration": 113,
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11ckx2WGZqLTZDYTZoY1A2dU1OMWlBQUVkay1SMzhHekI3VXpYY0hOclNVQ0RWRDRhQUxYNTlUMjFRMVFPV2tpcTBYaG9jMnVka3FRRUp3?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-25/food-03.mp3",
+      "title": "2. 特定技能の受け入れ停止が地方外食を直撃、4割が「非常に大きな影響」と回答",
+      "duration": 102,
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9sZ2IxVnVrc2wtUGRlNEJzQjlUa29IZXVLRkwtZkpzT1ZuamRMNWFNTjY0WGJDbm5JOFBndjk5R3lMZjVhR1RNMzIwa2xUQXkwYURDQURJNWNRMGppeWZlZUZSR3ltM2FQc1llMEFDTDhKWDlacjhfdXlMSVbSAYIBQVVfeXFMTU9lVDQ0eXhURkZmSHM2M3A3WjUxb2piaDhSTXR4NVNuZnJsWC1wdzJsZnA3WUhXbXRqemppWnFJUHZzR1diWTl4eldUbURZM2xOQUY4ck1tbVhmQUFKR3NPcmk2WjNhMXVTczJwaHNHSFE5WXMwcFY5NTZmdHBrbmtrUQ?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-25/food-04.mp3",
+      "title": "3. 「勘と経験だけで店は守れない」数字で管理する飲食店経営の講義が公開",
+      "duration": 99,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YUzJZR0V6aS14aTJqSEpCMnh2ZzFCaFQ0VmRPOXNYQnp4Z2k0UXZmM0d6dXFLSDZKOTBYVlpFMjVjZW9GTVBaZHBOc0lUWS1ULTZ3LUNqblN1MjN2azAzY0RPNVJMYW5tQmc?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-25/food-05.mp3",
+      "title": "4. すかいらーくが120億円でラーメン店を買収、大手による争奪戦が加速",
+      "duration": 90,
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnQngtdzE1X3YwUXpuNTFZSHhJeTBMVGpRX3NjVFlYbXRsam9WMzQxS2JuMkNQWWxNZWRXeTZoMWlUZXZxSmJ3NDdkNTY1WVRRcHVlOHY3VQ?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-25/food-06.mp3",
+      "title": "締め",
+      "duration": 20,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-25/money-01.mp3",
+      "title": "導入",
+      "duration": 19,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-25/money-02.mp3",
+      "title": "1. アンソロピックがエムシーピーを4機能拡張、エージェント自動化の「差し込み口」が広がる",
+      "duration": 107,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GaC1mdF9XYVhvdkxPOWc4TkZzQW5GeUpHSUFfUHdCdFd1XzRfMVU1OTdQaFRiSjlJVlc3Wjdxay0xckZCakNUTk93di1aaWtEUVV3?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-25/money-03.mp3",
+      "title": "2. ディーエヌエーが「エーアイ社員」サービスを発表、エージェントを組織の一員として配属するビジネスモデルの登場",
+      "duration": 97,
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1YbnlJMHVIRXNsMVBiQkk3VzVqMzc1Tzk3a0tPTGp4ekw1Ty12d2Ffc1FXem1FSzhJc0hibzNXbTFiUTdFZjJiZk90SDhjVWZjcWFOSmQwSHFsR21hcTZMMUlRSWV0X0hYMTYyRXJzbUdESkVD?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-25/money-04.mp3",
+      "title": "3. マイクロソフトとアイビーエム、規制業界向け共同プラットフォームとセキュリティエージェント「パーセプション」を展開",
+      "duration": 72,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yNXlUQjRNbnl5OHFLTDlQVWFSS3BMdWJyNkhoVlUwRExOUXlLWmJveEVCR2k2eWhCY09Wdm93aDJtTTI5SEN4c0ViWExSYXRPcVBqWm9wM1RwWnlOTEwzWGlWUmF5MEJfYmV4Rld2WVR6WWE1dGt5MGZ5MUpPY0U?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-25/money-05.mp3",
+      "title": "4. プライバシー重視のエーアイスタートアップ「メープル」が約8億円を調達、市場のシグナルとして読む",
+      "duration": 70,
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83cW84ZXpGbk5FY3dRRjR0NFA1d3ZzM2dacDFlRFpUVUp4OER3TXhrQ3UtMUF4VU5URkRRcVBNalFlRlpXTkwzSlplSlBRUUk?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-25/money-06.mp3",
+      "title": "5. 個人開発者界隈から3件、エーアイエージェントを評価・可視化するツールが登場",
+      "duration": 113,
+      "link": "https://www.kradle.ai?1",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-25/money-07.mp3",
+      "title": "締め",
+      "duration": 12,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-25/story-01.mp3",
+      "title": "導入",
+      "duration": 11,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-25/story-02.mp3",
+      "title": "1. 車椅子で「ラーメン二郎」亀戸店に来店、神対応にジロリアンも称賛「生きてて良かった！」",
+      "duration": 119,
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BMGU3SG1qeV9ZSV84dHJoeEI2MXRONmdZUDAwTGd2NGJvYkJxMlZzRTRVcDhKQjQ5ZWRWdjVmM3dVb3FHYTVJMWg1d0wybWZEYldfTlFTbmw5Zw?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-25/story-03.mp3",
+      "title": "2. 伸び悩む食堂→常連客の\"神対応\"でお客さんが続々入店",
+      "duration": 98,
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0yeWg2bG9FOXJidGJSRmNaeFRlS0hhTlFUbWNKS2Z4NHBZVVpTbWE3MjJzaE1Nd3l0dzRtZG1LUjFaRV9IelJxbEltZVRXbGZIdnBuMW1BVXcyeUlMM2dLLThVWjQtRWhHaDBCWng1WldrUHJMa1VteA?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-25/story-04.mp3",
+      "title": "3. おかやまマラソン「おもてなし給食」に「晴王」",
+      "duration": 44,
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPR193dU1ndEQtZmtoUTgzU2pWbkJXVVpFZ1BVa1ctVnBMczViUzRTbEROODNzT01ZN3pzLWJmZHp6TUs3OEZWN1kzMEtLSUh1U08yYktUM0U?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-25/story-05.mp3",
+      "title": "締め",
+      "duration": 11,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
