@@ -1,0 +1,230 @@
+{
+  "date": "2026-11-26",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 18,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-26/ai-01.mp3",
+      "title": "導入",
+      "duration": 29,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-26/ai-02.mp3",
+      "title": "1. エーアイが数学の難問を食べ続けている",
+      "duration": 193,
+      "link": "https://simonwillison.net/2026/Nov/25/scott-aaronson/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-26/ai-03.mp3",
+      "title": "2. 隔離されたエーアイでも、別のエーアイとこっそり通信できる",
+      "duration": 148,
+      "link": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-26/ai-04.mp3",
+      "title": "3. ニューヨーク州がエーアイおもちゃを5年間禁止",
+      "duration": 98,
+      "link": "https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-26/ai-05.mp3",
+      "title": "4. ニューヨーク・タイムズ、フォトショップ最新版の更新を禁止",
+      "duration": 53,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-26/ai-06.mp3",
+      "title": "5. グーグル・ディープマインドのジェミニ4 ネオンが登場",
+      "duration": 29,
+      "link": "https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-26/ai-07.mp3",
+      "title": "6. ジェミニが「キラキラ星」の歌詞を拒否した",
+      "duration": 48,
+      "link": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-26/ai-08.mp3",
+      "title": "7. クロードが35億トークンを使って交響曲を完成させた",
+      "duration": 40,
+      "link": "https://danprice.ai/blog/opus-symphony",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-26/ai-09.mp3",
+      "title": "今日のエーアイレッスン",
+      "duration": 89,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-26/ai-10.mp3",
+      "title": "締め",
+      "duration": 14,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-26/food-01.mp3",
+      "title": "導入",
+      "duration": 170,
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBmRDF6Y3BaamtYMVpBd2VLei1SYlhjckxMTnZlX19mc1UxZkE4dHJzVzM0NDZ1T3cyd1VFVGV4blRLTzJYdFplQzcwSQ?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-26/food-02.mp3",
+      "title": "2. 居抜き売却の相談件数が過去最多　半期で934件、営業年数の中央値は3.9年",
+      "duration": 197,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QbTZmbkRRc2E4NXVQcFNhOXhpeDFqUWtBZUI3NWZuOHg1ZzJvUFQ1Q3Y1eUFVYzRobV85QnlnM3UySEtzdUxJMmZsWkpOTjUwaVBfeFpTb3FpdkZnV1U1Z2ZQNzNYZVY2YUE?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-26/food-03.mp3",
+      "title": "4. 「逆境を商機に」そば屋がボロネーゼに転換、養鶏場が食堂を始めた",
+      "duration": 84,
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83Q1pxbk5KUFZaMUpTdGZmMkRDb0JGb0ZCMjJvTEZ3VmR4ZGx4U3ByYjllaHRMZS1faTRseDhzdGh4c19QZExOcFZYbDJadVlTYkNuUWEtdDdFZw?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-26/food-04.mp3",
+      "title": "5. ラーメン山岡家、奈良県内1号店に開店前から100人超が行列",
+      "duration": 66,
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zT2tDb0R6MnRxSFlBVTVXUm5WSGcyaVViMGtEYnVCMGJwMm1LUW84cUFVSk9oV2JnRC1xMUJPTG1yQTBPTzFWX0NSbWJXaE01RGlzTFI4MElaWW55UnM4?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-26/food-05.mp3",
+      "title": "締め",
+      "duration": 19,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-26/money-01.mp3",
+      "title": "導入",
+      "duration": 15,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-26/money-02.mp3",
+      "title": "1. 大企業のAIエージェント「困っている」フェーズ — 副業への読み方",
+      "duration": 194,
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tdTZZTlBCcV92V2pMNVNmTGJVVVhSbmlFUWxjQXBnel9COUU0aWRXTERyWURhdHAyTHFoR2pZU0RySjVJSGhRdUhsUjduV0F0UnNIVjd4U1k0UQ?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-26/money-03.mp3",
+      "title": "2. キャリー — AIとの会話を自分の資産にする",
+      "duration": 123,
+      "link": "https://carry.md/",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-26/money-04.mp3",
+      "title": "3. 24ページのAIコミックでキャラクターの顔を揃える",
+      "duration": 106,
+      "link": "https://joonoo.art/create-comic",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-26/money-05.mp3",
+      "title": "4. オープンファル — 自分のパソコンで動かす画像・動画生成エーピーアイ",
+      "duration": 112,
+      "link": "https://openfal.org",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-26/money-06.mp3",
+      "title": "締め",
+      "duration": 11,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-26/story-01.mp3",
+      "title": "導入",
+      "duration": 10,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-26/story-02.mp3",
+      "title": "1. 「こういうレストランは初めて！」アメリカ人一家が大興奮した理由",
+      "duration": 98,
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE10RXl4MFZVWmlqaW9qWVY4WDV2UV9MQ1ZvN2Q2aG5JbEllUkFkdmkyc2ZLbjd3UTVpLUdXb1JsNUJfc041OEFGclhVSQ?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-26/story-03.mp3",
+      "title": "2. 500人の前で、5万人分の仕事をした",
+      "duration": 109,
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE81RlVJeC15bVpEYWlReDhuaEJHVVJNSzlEclZYS1VtcndyRGtqbWF4ZnVKX290RVNzRVRoWUFKOXZJWHBadWJ3Tnh3eHpCZm5SWXdKNWpkZzZTZ200ZS1BN2N6NHM5WVhhM1R5MEozSk1FZ21BLUEyRg?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-26/story-04.mp3",
+      "title": "3. 「感動接客」を競い合って磨く、東急ホテルズの取り組み",
+      "duration": 63,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aWWRVdW9BU01KaFpKaDExTUlVcUNYWU9fVURjZi13em41LWZqVnAtT1VtelF2dENSc0VSX2VJLXNOcG9zNVlTWjZDbGQ2TFJQYkR2S0ZjbVdTd3FqcVdqVkE2Ym0tZWhtSkE?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-26/story-05.mp3",
+      "title": "4. 移動中もおもてなし、富山空港のAI車両という発想",
+      "duration": 54,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WaVBCWDdMNU5ocUREV1B3TEFSTFlrd0k2TjdKZVhBcklqOFktb2J2RldGQk5mcmVmTy14c01tYkZ1SEp3dWVJNkZDd1FkNXNPZG5XWXNmODladXJScWI1Z3A0TUNKeHB6Y0IwZGh5eV9PTGV3VkxhUFJ0Sk1CMWM?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-26/story-06.mp3",
+      "title": "締め",
+      "duration": 14,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
