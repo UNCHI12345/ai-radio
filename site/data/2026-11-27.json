@@ -1,0 +1,238 @@
+{
+  "date": "2026-11-27",
+  "voice": "ja-JP-Chirp3-HD-Kore",
+  "tracks": [
+    {
+      "file": "jingle.m4a",
+      "title": "オープニングごあいさつ(松村)",
+      "duration": 18,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-27/ai-01.mp3",
+      "title": "導入",
+      "duration": 35,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-27/ai-02.mp3",
+      "title": "1. 「全部クロードの声に聞こえる」——エーアイが奪う個性という問題",
+      "duration": 168,
+      "link": "https://www.tracingwoodgrains.com/p/spitting-in-the-face-of-glaude",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-27/ai-03.mp3",
+      "title": "2. エーアイが治した病気、2026年11月現在もゼロ件",
+      "duration": 163,
+      "link": "https://diseasescuredbyai.com/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-27/ai-04.mp3",
+      "title": "3. オープンエーアイ、コスト削減モードに入った疑惑",
+      "duration": 121,
+      "link": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-27/ai-05.mp3",
+      "title": "4. ニューヨーク・タイムズ、フォトショップのアップデートを禁止",
+      "duration": 66,
+      "link": "https://simonwillison.net/2026/Nov/26/hn-50651685/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-27/ai-06.mp3",
+      "title": "5. グーグル、エーアイエージェントのワークスペースアクセスをエムシーピー限定に——でもジーメールで「送信」はできない",
+      "duration": 92,
+      "link": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-27/ai-07.mp3",
+      "title": "6. ノーション公式のエムシーピーが、こっそり宣伝文句を挿入していた",
+      "duration": 50,
+      "link": "https://www.reddit.com/r/ClaudeCode/comments/1y4qm5o/heads_up_if_you_wire_notions_official_mcp_into/",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-27/ai-08.mp3",
+      "title": "7. 月5ドルのエーアイ卸売りサービス「ムート」が話題",
+      "duration": 45,
+      "link": "https://commandcode.ai/moat",
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-27/ai-09.mp3",
+      "title": "今日のエーアイレッスン",
+      "duration": 98,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-27/ai-10.mp3",
+      "title": "締め",
+      "duration": 11,
+      "link": null,
+      "channel": "ai",
+      "channelName": "AIニュース"
+    },
+    {
+      "file": "audio/2026-11-27/food-01.mp3",
+      "title": "導入",
+      "duration": 28,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-27/food-02.mp3",
+      "title": "1. 飲食店の「日本語ができる人に仕事が偏る」を変える",
+      "duration": 138,
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5LeXdMY093RFVxdE83T3hocGdCaHJxMnpkUVQ0UDBQOTdIcENRdDZqRnVqejczS2stYUpoRmhQWkw0SFVab2FCMUVjdnZmRDhlMS1WZmZpaTkxSVBKRHJndnZaYXJ6WTVjZ1hWSjFKYlFtbi1aaEJVWQ?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-27/food-03.mp3",
+      "title": "2. 「ラーメン屋の行列」とファストパスの広がり",
+      "duration": 131,
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DTUZoR2xRTWNybGNUZHZsVmpiaFQzaUlpeEZzT0hKY3ZJdzZvTXpzcDN1eHV5ZHpLV0tOVUZnbmU0ZTRURjNJNVhIcThZNjhSVlQ0SGVMaGZTZ3c?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-27/food-04.mp3",
+      "title": "3. 多店舗経営を「自走」させるオンラインプログラム",
+      "duration": 110,
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FYnprQ3VnZU5LbUJrMG1MRVZDOXQtVHd3QmZvYWQxUEU1RENmcm90aTVpOGgzbG02MUJVSUI0RHBUaXhmUUdWUzBHN2tOeU1mVlhKLXBoVm5jak9yTmg1TEVSWFBXaFNk?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-27/food-05.mp3",
+      "title": "4. フードテック関連株が再評価、業界のトレンドを読む",
+      "duration": 70,
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KNnRudXdyVldLRDlBLWRub19QeFVGNFRUZGtPN3d6UVdfUU5GTVEwN1U5TWkzVGZWa1dfWlNaWWtRaVpScUVORExZSnhlcFVCZ0NHbnR6bWdnQ2xuMFVaUg?oc=5",
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-27/food-06.mp3",
+      "title": "締め",
+      "duration": 16,
+      "link": null,
+      "channel": "food",
+      "channelName": "飲食×AI"
+    },
+    {
+      "file": "audio/2026-11-27/money-01.mp3",
+      "title": "導入",
+      "duration": 22,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-27/money-02.mp3",
+      "title": "1. ジーピーユー一強に異変？ AIエージェント時代にシーピーユーが復権",
+      "duration": 89,
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tNVAzWFEwaGdUQ0dqSjR1RXcxOWJ0TTRCRGx6X3ZmYzFEd3NOUXlKSENzVHR3SGhFMmp3TXZ5YjdGWWQ0dU90SlN3Zi01alN5WVFzblhQelo1dW1mTWVZQTJvU3diOW5PZ0RpcVZmUWt2QQ?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-27/money-03.mp3",
+      "title": "2. アマダと日立、AIエージェントで工場自動化の概念実証を完了",
+      "duration": 80,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iWEo5ZGFHZzhrTGozclBjejVHT0RlV3ZLcFQ2NlhfOVlRSVJMWWNlVXRpS20wQVRqbXEtczlCRWxJeFM3Rk00N3pSRkV1NFlnYkxPakNZUXV4ZUx2bHVSalJsajhPR3BISmVPU3I1cV9rN0dQSGlxV2RtM1RSdzQ?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-27/money-04.mp3",
+      "title": "3. AI自動化が進む中国で、人がAIに合わせていく",
+      "duration": 95,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zWGNjS0JhMTVQLTN4Tm1kcGtTTmRKbmRUcXpWa0pyOGwxOE9hVkNmbTFiU1ZFMTA1cEFwVEpRRVlJc3dXLVlGYXRGUmZqZUN0YXo0?oc=5",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-27/money-05.mp3",
+      "title": "4. 口を動かすだけでクロードコードに入力できる個人開発ツール",
+      "duration": 98,
+      "link": "https://github.com/batanus/lip-dictation",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-27/money-06.mp3",
+      "title": "5. ラスト言語でAIエージェントをアップルシリコンで動かす",
+      "duration": 67,
+      "link": "https://github.com/onatm/rustling",
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-27/money-07.mp3",
+      "title": "締め",
+      "duration": 14,
+      "link": null,
+      "channel": "money",
+      "channelName": "AIで稼ぐ"
+    },
+    {
+      "file": "audio/2026-11-27/story-01.mp3",
+      "title": "導入",
+      "duration": 10,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-27/story-02.mp3",
+      "title": "1. サイゼリヤの「もちろんです！」",
+      "duration": 99,
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SaXg1eTVHdDJvU04yTXpQNXIyNm9SWFJteEFwTzZqMWN4cG1ENWRwbWRZelFYN1RwQUtEVjdxUTIwM1NTQ1pHT183NEYwOGx1N05PYzRDZXVPQjdHa1E?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-27/story-03.mp3",
+      "title": "2. 「俺のことわかってないの？」パックンとホテルのプロフェッショナル",
+      "duration": 124,
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TRmxfU1YteF9hOUZfaTBUaHhKTVVqME9oTlV5UUNpbXdzYTVQWVZkUDk4SGpRR2R5M1JGMlJSVks5Vm5sRFVkUy02MWRncWNldERseUlpVGFoTllnQ1Fj?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-27/story-04.mp3",
+      "title": "3. 東急ホテルズが「接客で競う」大会を続けているということ",
+      "duration": 71,
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5SVzRwOFdnQzFCbWh2UE5pTU9KYlJYbFVudjN0WWd5RHVnUzdvYk1xQkJyR3NwMDF2RWY0NFhBSWxRX2haVjFzNnJYZG5sNjNQNXZFQUpKTUlqTmxvT09aTk9R?oc=5",
+      "channel": "story",
+      "channelName": "心に残る接客"
+    },
+    {
+      "file": "audio/2026-11-27/story-05.mp3",
+      "title": "締め",
+      "duration": 7,
+      "link": null,
+      "channel": "story",
+      "channelName": "心に残る接客"
+    }
+  ]
+}
